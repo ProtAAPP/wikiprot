@@ -1,0 +1,20 @@
+{
+  "name": "protaapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ProtAAPP",
+  "license": "MIT",
+  
+  "scripts": 
+  {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  
+  "dependencies": 
+  {
+    "vuepress": "^1.5.3"
+  }
+  
+  
+}
