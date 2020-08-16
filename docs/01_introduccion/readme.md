@@ -88,9 +88,14 @@ según modificas cualquier contenido, en el momento veas cómo va quedando. Para
 ```bash
 cd /proyectos/wiki-prot
 yarn dev
-
-# Ahora abre un navegador (firefox, chrome, edge...) y entra en http://localhost:8080  
 ```
+
+Ahora abre un navegador (firefox, chrome, edge...) y entra en [http://localhost:8080](http://localhost:8080), donde podrás 
+ver este repositorio. Cada vez que cambies una palabra de la documentación y guardes el fichero, el cambio se reflejará
+automáticmaente en el navegador.
+
+Si tienes dos monitores, lo suyo es tener en un monitor el programa en el que estés editando los ficheros, y en el otro
+monitor tener abierto el navegador para ver cómo van quedando los cambios en el momento.
 
 Por último, una vez finalizados los cambios, simplemente añade todo lo modificado a las "propuestas a incorporar", realiza
 un commit (paquete de modificaciones), y súbelo a github:
