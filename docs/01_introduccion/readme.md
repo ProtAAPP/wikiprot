@@ -51,12 +51,13 @@ El código fuente de este repositorio se encuentra en github: [ProtAAPP/wiki](ht
 
 Los requisitos para poder colaborar en el desarrollo de esta guía son:
 
-1. Tener conocimientos básicos de git ([guía básica](https://medium.com/@sthefany/primeros-pasos-con-github-7d5e0769158c))
-2. Tener conocimientos básicos de markdown (muy muy sencillo, [aprende lo básico en 3 minutos](./requisitos-colaborar.md#aprender-markdown-en-3-minutos))
-3. Instalar [git](https://git-scm.com/downloads) en tu PC
-4. Instalar Node en tu PC ([explicación más detallada](./requisitos-colaborar.md#instalar-node))
-5. Instalar yarn ([cómo hacerlo en 10 segundos](./requisitos-colaborar.md#instalar-yarn))
-6. ¡ya está! listo para insertar tu primera aportación 
+1. Pertenecer al colectivo de empleados públicos de las Administraciones Públicas españolas (funcionarios, laborales, etc)
+2. Tener conocimientos básicos de git ([guía básica](https://medium.com/@sthefany/primeros-pasos-con-github-7d5e0769158c))
+3. Tener conocimientos básicos de markdown (muy muy sencillo, [aprende lo básico en 3 minutos](./requisitos-colaborar.md#aprender-markdown-en-3-minutos))
+4. Instalar [git](https://git-scm.com/downloads) en tu PC
+5. Instalar Node en tu PC ([explicación más detallada](./requisitos-colaborar.md#instalar-node))
+6. Instalar yarn ([cómo hacerlo en 10 segundos](./requisitos-colaborar.md#instalar-yarn))
+7. ¡ya está! listo para insertar tu primera aportación 
 
 
 ### Pasos para aportar contenidos
