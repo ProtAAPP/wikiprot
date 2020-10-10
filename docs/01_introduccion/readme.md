@@ -31,7 +31,7 @@ Síguenos en:
 - [LinkedIn](https://www.linkedin.com/company/protaapp/)
 - [Github](https://github.com/ProtAAPP)
 - [Grupo de Google](https://groups.google.com/group/ProtAAPP)
-- Correo electrónico: [ProtAAPP@googlegroups.com](mailto:ProtAAPP@googlegroups.com)
+- Correo electrónico: [info@protaapp.com](mailto:info@protaapp.com)
 
 Difunde ProtAAPP con nuestras [infografías](https://www.protaapp.com/p/blog-page.html).
 
@@ -127,7 +127,7 @@ crecimiento exponencial de numerosas compañías y negocios, pero los riesgos a 
 Podría ocurrir que un profesionarl de la ciberseguridad rompa viole ciertas reglas e invada la privacidad de otros para lograr sus cometidos. 
 
 
-
+<!--
 ## Formación en ciberseguridad
 
 Cursos:
@@ -139,7 +139,7 @@ Libros:
 Entornos para practicar:
 
 - [Vulnhub](https://www.vulnhub.com/) - Colección de máquinas virtuales vulnerables para jugar con ellas para hackearlas.
-
+-->
 
 
 
