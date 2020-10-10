@@ -25,6 +25,7 @@ module.exports =
                { text: 'Introducción', link: '/01_introduccion/' },
                { text: 'Normativa', link: '/02_normativa/' },
                { text: 'Gestión de la seguridad', link: '/03_gestion/' },
+/*
                { text: 'Logs', link: '/04_logs/' },
                { text: 'Criptografía', link: '/05_criptografia/' },
                { text: 'Malware', link: '/06_malware/' },
@@ -36,6 +37,14 @@ module.exports =
                { text: 'Reputación', link: '/12_reputacion/' },
                { text: 'Internet of Things', link: '/13_iot/' },
                { text: 'Auditorías', link: '/14_auditorias/' }
+*/
+               { text: 'Tecnologías de seguridad', link: '/new_04_tecnologias/' },
+               { text: 'Desarrollo', link: '/new_05_desarrollo/' },
+               { text: 'Operaciones', link: '/new_06_operaciones/' },
+               { text: 'Formación y Concienciación', link: '/new_07_formacion/' },
+               { text: 'Amenazas y Vulnerabilidades', link: '/new_08_amenazas/' },
+               { text: 'Hacking Ético', link: '/new_09_hacking/' },
+               { text: 'Eventos', link: '/new_10_eventos/' }               
             ]
          }
       ],
@@ -50,17 +59,13 @@ module.exports =
          '01_introduccion/',
          '02_normativa/',
          '03_gestion/',
-         '04_logs/',
-         '05_criptografia/',
-         '06_malware/',
-         '07_seguridad_perimetral/',
-         '08_redes/',
-         '09_bastionado/',
-         '10_web/',
-         '11_osint/',
-         '12_reputacion/',
-         '13_iot/',
-         '14_auditorias/'
+         'new_04_tecnologias/',
+         'new_05_desarrollo/',
+         'new_06_operaciones/',
+         'new_07_formacion/',
+         'new_08_amenazas/',
+         'new_09_hacking/',
+         'new_10_eventos/'
       ]
    }
    
