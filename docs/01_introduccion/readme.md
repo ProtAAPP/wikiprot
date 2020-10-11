@@ -111,7 +111,7 @@ git push                      # Subir a Github
 Muchísimas gracias por aportar tu conocimiento y tiempo a este proyecto.
 
 
-
+<!--
 ## La ética en la ciberseguridad
 
 El mundo digital en el que nos encontramos, y que está sufriendo una fuerte aceleración, tiene como casi todas las cosas una 
@@ -125,7 +125,7 @@ La rapidez y la disponibilidad de los recursos generados por el desarrollo de in
 crecimiento exponencial de numerosas compañías y negocios, pero los riesgos a los que estas se exponen también se han multiplicado.
 
 Podría ocurrir que un profesionarl de la ciberseguridad rompa viole ciertas reglas e invada la privacidad de otros para lograr sus cometidos. 
-
+-->
 
 <!--
 ## Formación en ciberseguridad
