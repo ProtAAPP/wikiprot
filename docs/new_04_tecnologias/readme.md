@@ -5,6 +5,7 @@
 ## Estrategias de protección integral de una organización
 
 ### Frameworks para abordar una proteccion integral
+Pendiente de desarrollo
 
 ### Recursos interesantes
 Algunas charlas con un enfoque de protección integral:
@@ -27,7 +28,13 @@ El CCN publica este catálogo (CPSTIC) con el objetivo de ofrecer a los organism
 
 ## Protección Perimetral
 
-La guía CCN-STIC-812 Interconexión en el ENS 
+La guía [CCN-STIC-812 Interconexión en el ENS](https://www.ccn-cert.cni.es/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/521-ccn-stic-811-interconexion-en-el-ens/file.html) tienen como objetivo analizar los elementos disponibles para interconectar sistemas afectados por el Esquema Nacional de Seguridad a otros sistemas,
+adscritos o no al ENS. El objetivo de establecer un perímetro de seguridad es siempre proteger los flujos
+de información entre el sistema de información propio y el sistema al que
+queremos conectarnos. En base a unas reglas que determinen qué flujos son
+permisibles y cuáles deben ser bloqueados, se decide permitir el paso o detener
+dicho flujo
+
 
 El  término  seguridad  perimetral  es  muy  amplio  y  ha  tenido  diversas  atribuciones  a  lo  largo del tiempo. El perímetro está formado por
 las máquinas y los dispositivos que se sitúan en la frontera de nuestra red, donde ésta interactúa con el exterior, con otras redes. La seguridad
