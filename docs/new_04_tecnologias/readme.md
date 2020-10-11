@@ -11,9 +11,23 @@ Algunas charlas con un enfoque de protección integral:
 * [Zarancon City: ciudad bastionada. RootedCon 2019](https://www.youtube.com/watch?v=VJIzFuTTRb4&feature=youtu.be)
 
 
+## Productos revisados por organismos independientes
+
+### Catálogo de Productos de Seguridad de las Tecnologías de la Información y la Comunicación
+El CCN publica este catálogo (CPSTIC) con el objetivo de ofrecer a los organismos de la Administración un conjunto de productos STIC de referencia cuyas funcionalidades de seguridad relacionadas con el objeto de su adquisición han sido certificadas.
+
+- [CCN-STIC-105 Catálogo CPSTIC](https://www.ccn-cert.cni.es/pdf/guias/series-ccn-stic/guias-de-acceso-publico-ccn-stic/2536-ccn-stic-105-catalogo-de-productos-de-seguridad-de-las-tecnologias-de-la-informacion-y-la-comunicacion/file.html)
+- [CCN-STIC 140 Taxonomías de referencia para productos de seguridad TIC](https://www.ccn-cert.cni.es/pdf/guias/series-ccn-stic/guias-de-acceso-publico-ccn-stic/2518-ccn-stic-140-taxonomia-de-referencia-para-productos-de-seguridad-tic/file.html)
+
+### Common Criteria
+- [Lista de productos certificados CC](https://commoncriteriaportal.org/products/)
+
+
 ## Gestión de Identidades
 
 ## Protección Perimetral
+
+La guía CCN-STIC-812 Interconexión en el ENS 
 
 El  término  seguridad  perimetral  es  muy  amplio  y  ha  tenido  diversas  atribuciones  a  lo  largo del tiempo. El perímetro está formado por
 las máquinas y los dispositivos que se sitúan en la frontera de nuestra red, donde ésta interactúa con el exterior, con otras redes. La seguridad
