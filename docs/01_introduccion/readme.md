@@ -44,7 +44,7 @@ de documentación. Está construido a base de ficheros de texto plano en formato
 se controlan mediante el repositorio git, en [GitHub](https://github.com/).
 
 Este repositorio de documentación está construido con la librería [Vuepress](https://vuepress.vuejs.org/). 
-El código fuente de este repositorio se encuentra en github: [ProtAAPP/wiki](https://github.com/ProtAAPP/wiki).
+El código fuente de este repositorio se encuentra en github: [ProtAAPP/wikiprot](https://github.com/ProtAAPP/wikiprot).
 
 
 ### Requisitos 
@@ -69,7 +69,7 @@ Si fuera la primera vez que me descargo el respositorio:
 
 ```bash
 cd /proyectos
-git clone https://github.com/ProtAAPP/wiki-prot.git
+git clone https://github.com/ProtAAPP/wikiprot.git
 cd wiki-prot
 yarn install    # Instalar librerías, principalmente vuepress  
 ```
@@ -77,7 +77,7 @@ yarn install    # Instalar librerías, principalmente vuepress
 Si por el contrario ya lo tuviera descargado, sólo hay que actualizarlo con los últimos cambios:
 
 ```bash
-cd /proyectos/wiki-prot
+cd /proyectos/wikiprot
 git pull                     # Traer los últimos cambios
 yarn install                 # Instalar/actualizar librerías. Ejecutar siempre  
 ```
@@ -93,7 +93,7 @@ Aunque no es estrictamente necesario, sí es muy recomendable lanzar el servidor
 según modificas cualquier contenido, en el momento veas cómo va quedando. Para ello:
 
 ```bash
-cd /proyectos/wiki-prot
+cd /proyectos/wikiprot
 yarn dev
 ```
 
@@ -108,7 +108,7 @@ Por último, una vez finalizados los cambios, simplemente añade todo lo modific
 un commit (paquete de modificaciones), y súbelo a github:
 
 ```bash
-# Situado en la raíz del proyecto (por ejemplo /proyectos/wiki-prot):
+# Situado en la raíz del proyecto (por ejemplo /proyectos/wikiprot):
 git add .                     # Proponer todos ficheros modificados para próximo commit
 git commit -m "Aportación X"  # Hacer commit
 git push                      # Subir a Github 
