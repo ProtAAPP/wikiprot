@@ -10,6 +10,8 @@
 ### Cursos Online
 - [C1berWall Academy](https://www.ecteg.eu/c1b3rwall-academy-es/)
 - Cursos de ciberseguridad en Coursera, [English](https://www.coursera.org/courses?query=cybersecurity)
+- [Zero to Hero: A practical network penetration testing course](https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj)
+- [2020. Become an Azure Sentinel Ninja: The complete level 400 training](https://techcommunity.microsoft.com/t5/azure-sentinel/become-an-azure-sentinel-ninja-the-complete-level-400-training/ba-p/1246310)
 
 
 

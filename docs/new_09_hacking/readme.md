@@ -4,6 +4,10 @@
 
 ## Auditorías de Vulnerabilidades
 
+Recursos generales:
+- [Pentesting cheatsheet](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE/blob/master/7-part-100-article/Pentesting%20Cheatsheet22.pdf)
+- [Red Teaming Toolkit Collection](https://0xsp.com/offensive/red-teaming-toolkit-collection)
+
 ### Auditorías de aplicaciones web
 
 Herramientas:
@@ -11,13 +15,43 @@ Herramientas:
 - [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is an evolving list of strings which have a high probability of causing issues when used as user-input data. This is intended for use in
   helping both automated and manual QA testing.
 
-### Auditorías en una red interna
+### Auditorías de sistemas Cloud
+
+Recursos interesantes:
+- [2020. AZURE AD INTRODUCTION FOR RED TEAMERS](https://www.synacktiv.com/en/publications/azure-ad-introduction-for-red-teamers.html)
+- [Attacking Azure, Azure AD, and Introducing PowerZure](https://posts.specterops.io/attacking-azure-azure-ad-and-introducing-powerzure-ca70b330511a)
+- [Abusing Azure AD SSO with the Primary Refresh Token](https://dirkjanm.io/abusing-azure-ad-sso-with-the-primary-refresh-token/)
+
+### Auditorías Kubernetes
+
+- [Kubernetes Pentest Methodology](https://www.cyberark.com/resources/threat-research-blog/kubernetes-pentest-methodology-part-1)
+
+
+### Auditorías de Directorio Activo
+Recursos interesantes:
+- [Active Directory Exploitation Cheat Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet/blob/master/README.md)
+- [Active Directory Exploitation](https://twitter.com/CyberWarship/status/1309127376283013120?s=20)
+- [An Offensive Kerberos Overview](https://posts.specterops.io/kerberosity-killed-the-domain-an-offensive-kerberos-overview-eb04b1402c61)
+- [Mapa mental para explotar el directorio activo](https://i.ibb.co/TKYNCNP/Pentest-ad.png)
+- [12 charlas sobre cómo atacar el directorio activo en TroopersCON19](https://www.youtube.com/playlist?list=PL1eoQr97VfJnvOWo_Jxk2qUrFyB-BJh4Y)
+- [FIREEYE. 2020. Atacando el directorio activo](https://www.fireeye.com/blog/threat-research/2020/08/hands-on-introduction-to-mandiant-approach-to-ot-red-teaming.html)
+- [Active Directory Kill Chain Attack & Defense](https://github.com/infosecn1nja/AD-Attack-Defense/blob/master/README.md)
+- [2016. Atacando LAPS](https://secureidentity.se/recover-laps-passwords/)
+
+
+
 
 ### Auditorías de aplicaciones móviles
+
+Recursos interesantes:
+- [Mobile Application Security Testing Distributions](https://hackersonlineclub.com/mobile-security-penetration-testing/)
+
 
 #### Android
 
 #### IOS
+
+- ![IOS Vulnerability Assesment](https://pbs.twimg.com/media/EhZ5lwrXkAQ5EvD?format=jpg&name=large)
 
 ### Auditorías WIFI
 
@@ -28,8 +62,4 @@ Herramientas:
 
 
 ## OSINT 
-
-### Uso avanzado de buscadores
-
-### Metodología para la realización de investigación
-
+- [Enlaces a Herramientas OSINT por Ciberpatrulla](https://ciberpatrulla.com/links/)
