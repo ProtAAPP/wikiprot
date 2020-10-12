@@ -69,15 +69,19 @@ Si fuera la primera vez que me descargo el respositorio:
 
 ```bash
 cd /proyectos
-git clone https://github.com/ProtAAPP/wiki-prot.git  
+git clone https://github.com/ProtAAPP/wiki-prot.git
+cd wiki-prot
+yarn install    # Instalar librerías, principalmente vuepress  
 ```
 
 Si por el contrario ya lo tuviera descargado, sólo hay que actualizarlo con los últimos cambios:
 
 ```bash
 cd /proyectos/wiki-prot
-git pull  
+git pull                     # Traer los últimos cambios
+yarn install                 # Instalar/actualizar librerías. Ejecutar siempre  
 ```
+
 *(Si no tienes conocimientos suficientes de git o no puedes instalarlo, es posible utilizar Github para navegar a través de
 las carpetas del repositorio [para editar, previsualizar y enviar contenidos.](https://docs.github.com/es/free-pro-team@latest/github/managing-files-in-a-repository/editing-files-in-your-repository))*
 
