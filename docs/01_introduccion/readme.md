@@ -54,7 +54,7 @@ Los requisitos para poder colaborar en el desarrollo de esta guía son:
 1. Pertenecer al colectivo de empleados públicos de las Administraciones Públicas españolas (funcionarios, laborales, etc)
 2. Tener conocimientos básicos de git ([guía básica](https://medium.com/@sthefany/primeros-pasos-con-github-7d5e0769158c))
 3. Tener conocimientos básicos de markdown (muy muy sencillo, [aprende lo básico en 3 minutos](./requisitos-colaborar.md#aprender-markdown-en-3-minutos))
-4. Instalar [git](https://git-scm.com/downloads) en tu PC
+4. Instalar [git](https://git-scm.com/downloads) en tu PC *(ó editar directamente en Github)*
 5. Instalar Node en tu PC ([explicación más detallada](./requisitos-colaborar.md#instalar-node))
 6. Instalar yarn ([cómo hacerlo en 10 segundos](./requisitos-colaborar.md#instalar-yarn))
 7. ¡ya está! listo para insertar tu primera aportación 
@@ -69,15 +69,21 @@ Si fuera la primera vez que me descargo el respositorio:
 
 ```bash
 cd /proyectos
-git clone https://github.com/ProtAAPP/wiki-prot.git  
+git clone https://github.com/ProtAAPP/wiki-prot.git
+cd wiki-prot
+yarn install    # Instalar librerías, principalmente vuepress  
 ```
 
 Si por el contrario ya lo tuviera descargado, sólo hay que actualizarlo con los últimos cambios:
 
 ```bash
 cd /proyectos/wiki-prot
-git pull  
+git pull                     # Traer los últimos cambios
+yarn install                 # Instalar/actualizar librerías. Ejecutar siempre  
 ```
+
+*(Si no tienes conocimientos suficientes de git o no puedes instalarlo, es posible utilizar Github para navegar a través de
+las carpetas del repositorio [para editar, previsualizar y enviar contenidos.](https://docs.github.com/es/free-pro-team@latest/github/managing-files-in-a-repository/editing-files-in-your-repository))*
 
 Ahora toca **modificar los ficheros markdown** para introducir o modificar los contenidos de la guía. Gracias por aportar
 tus conocimientos a la causa. Se puede utilizar cualquier editor de texto 
