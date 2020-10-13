@@ -8,6 +8,11 @@ Recursos generales:
 - [Pentesting cheatsheet](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE/blob/master/7-part-100-article/Pentesting%20Cheatsheet22.pdf)
 - [Red Teaming Toolkit Collection](https://0xsp.com/offensive/red-teaming-toolkit-collection)
 
+Soluciones del CCN
+- [ANA](https://www.ccn-cert.cni.es/soluciones-seguridad/ana.html). Carga los resultados de auditorías realizadas con otras herramientas y permite "gestionar" el ciclo de vida de las vulnerabilidades.
+
+
+
 ### Auditorías de aplicaciones web
 
 Herramientas:
@@ -53,7 +58,7 @@ Recursos interesantes:
 
 #### IOS
 
-- ![IOS Vulnerability Assesment](https://pbs.twimg.com/media/EhZ5lwrXkAQ5EvD?format=jpg&name=large)
+![IOS Vulnerability Assesment](./img/ios-pentesting.jpg)
 
 ### Auditorías WIFI
 

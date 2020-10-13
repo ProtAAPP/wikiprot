@@ -23,7 +23,7 @@ Recursos interesantes:
 ## Centros de Operaciones de Seguridad (SOCs)
 - [2020. Expel. Performance metrics, part 1: Measuring SOC efficiency](https://expel.io/blog/performance-metrics-measuring-soc-efficiency/)
 - [2019. Introducing the Funnel of Fidelity](https://posts.specterops.io/introducing-the-funnel-of-fidelity-b1bb59b04036)
- ![IMG](https://miro.medium.com/max/1000/1*vS3SAuKsSAfFrTXjKSJDwg.png)
+ ![IMG](./img/funnel.png)
 - [2019. 7 habits of highly effective SOCs](https://expel.io/blog/7-habits-highly-effective-socs/)
 - [2020. Expel. Behind the scenes in the Expel SOC: Alert-to-fix in AWS](https://expel.io/blog/behind-the-scenes-expel-soc-alert-aws/)
 

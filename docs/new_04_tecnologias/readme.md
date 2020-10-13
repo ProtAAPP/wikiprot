@@ -38,17 +38,14 @@ permisibles y cuáles deben ser bloqueados, se decide permitir el paso o detener
 El  término  seguridad  perimetral  es  muy  amplio  y  ha  tenido  diversas  atribuciones  a  lo  largo del tiempo. El perímetro está formado por las máquinas y los dispositivos que se sitúan en la frontera de nuestra red, donde ésta interactúa con el exterior, con otras redes. La seguridad perimetral  ha  controlado  tradicionalmente  esta  frontera,  vigilando  las  comunicaciones  para evitar accesos no autorizados, salida dedatos desde el interior y ataques desde el exterior.
 -->
 
-- APP-1 Cortafuegos ![APP-1](https://www.ccn-cert.cni.es/images/Faq-INES/Arquitectura-de-proteccion-de-perimetro-tipo-1-APP-1.png)
-- APP-2 Proxy ![APP-2](https://www.ccn-cert.cni.es/images/Faq-INES/Arquitectura-de-proteccion-de-perimetro-tipo-2-APP-2.png)
-- APP-3 Cortafuegos + Proxy ![APP-3](https://www.ccn-cert.cni.es/images/Faq-INES/Arquitectura-de-proteccion-de-perimetro-tipo-3-APP-3.png)
-- APP-4 DMZ con 1 cortafuegos + proxy ![APP-4](https://www.ccn-cert.cni.es/images/Faq-INES/Arquitectura-de-proteccion-de-perimetro-tipo-4-APP-4.png)
-- APP-5 DMZ con 2 cortafuegos + proxy ![APP-5](https://www.ccn-cert.cni.es/images/Faq-INES/Arquitectura-de-proteccion-de-perimetro-tipo-5-APP-5.png)
 
-<!--
-- APP-6 ![APP-6](https://www.ccn-cert.cni.es/images/Faq-INES/Arquitectura-de-proteccion-de-perimetro-tipo-6-APP-6.png)
-- APP-7 ![APP-7](https://www.ccn-cert.cni.es/images/Faq-INES/Arquitectura-de-proteccion-de-perimetro-tipo-7-APP-7.png)
--->
-
+* APP-1 Cortafuegos ![APP-1](./img/app-1.png)
+* APP-2 Proxy ![APP-2](./img/app-2.png)
+* APP-3 Cortafuegos + Proxy ![APP-3](./img/app-3.png)
+* APP-4 DMZ con 1 cortafuegos + proxy ![APP-4](./img/app-4.png)
+* APP-5 DMZ con 2 cortafuegos + proxy ![APP-5](./img/app-5.png)
+* APP-6 DMZ con 2 cortafuegos + sin conexión física entre FW ![APP-6](./img/app-6.png)
+* APP-7 DMZ con 2 cortafuegos + pasarela sin conexión entre física entre FW ![APP-7](./img/app-7.png)
 
 ## Redes de Comunicaciones
 
@@ -256,7 +253,7 @@ Recursos interesantes:
 
 Herramientas para diagnosticar el nivel de seguridad del Directorio Activo:
 - [PingCastle](https://www.pingcastle.com/). "Get Active Directory Security At 80% In 20% Of The Time". [Usando PingCastle](https://www.pwndefend.com/2020/02/04/active-directory-security-securing-the-crown-jewels-with-pingcastle-2-8-0-0/)
- ![IMG](https://dfir.ch/wp-content/uploads/2019/12/AD-768x680.png)
+ ![IMG](./img/pingcastle.png)
 
 
 
@@ -269,7 +266,7 @@ Guías CCN-STIC:
 
 Recursos interesantes:
 - [2019- Microsoft. Introducing the security configuration framework: A prioritized guide to hardening Windows 10](https://www.microsoft.com/security/blog/2019/04/11/introducing-the-security-configuration-framework-a-prioritized-guide-to-hardening-windows-10/)
- ![IMG](https://www.microsoft.com/security/blog/wp-content/uploads/2019/04/seccon-framework.png)
+ ![IMG](./img/seccon-framework.png)
 
 
 
