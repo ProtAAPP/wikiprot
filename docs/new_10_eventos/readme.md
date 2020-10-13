@@ -41,7 +41,7 @@
 * [TotoConf](https://totoconf.tech/)
 
 ## Congresos de Ciberseguridad en Europa
-* [CCC](https://www.ccc.de/en/). [Vídeos ponencias](https://www.youtube.com/c/mediacccde/videos)
+* [CCC](https://www.ccc.de/en/). Alemania. [Vídeos ponencias](https://www.youtube.com/c/mediacccde/videos)
 * [BlackHat EU](https://blackhat.com/) Reino Unido. [Vídeos ponencias](https://www.youtube.com/c/BlackHatOfficialYT/videos)
 * [OffensiveCON](https://www.offensivecon.org/) Berlín. [Vídeos ponencias](https://www.youtube.com/c/OffensiveCon/videos)
 * [44CON](https://44con.com/) Reino Unido. [Vídeos ponencias](https://www.youtube.com/c/44contv/videos)

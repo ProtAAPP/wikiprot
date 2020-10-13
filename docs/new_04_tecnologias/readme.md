@@ -9,7 +9,7 @@ Pendiente de desarrollo
 
 ### Recursos interesantes
 Algunas charlas con un enfoque de protección integral:
-* [Zarancon City: ciudad bastionada. RootedCon 2019](https://www.youtube.com/watch?v=VJIzFuTTRb4&feature=youtu.be)
+* [Zarancon City: ciudad bastionada](https://www.youtube.com/watch?v=VJIzFuTTRb4&feature=youtu.be). RootedCon 2019, con [Miguel Angel Rodriguez](https://twitter.com/marodriguezz), [Guillermo Obispo](https://twitter.com/gobispo) y [Jose Angel Alvarez](https://twitter.com/joseangel_a76)
 
 
 ## Productos revisados por organismos independientes
@@ -154,6 +154,7 @@ Algunas referencias interesantes:
 Documentos CCN-STIC:
 -  [CCN-CERT BP/07 Recomendaciones implementación HTTPS](https://www.ccn-cert.cni.es/informes/informes-de-buenas-practicas-bp/2109-ccn-cert-bp-07-recomendaciones-implementacion-https-1/file.html)
 
+Si tienes que configurar un servidor SSL y no sabes qué TLS  poner o qué cipher suites habilitar, mira [esta página de Mozilla](https://wiki.mozilla.org/Security/Server_Side_TLS) que además te dice qué versiones de navegadores van a funcionar según la configuración elegida.
 
 Herramientas online para chequear mi web: 
 
@@ -162,6 +163,12 @@ Herramientas online para chequear mi web:
 - [HTTP Security report](https://httpsecurityreport.com/)
 - [SSLLab test](https://www.ssllabs.com/ssltest/) - SSL Server test para verificar la configuración.
 - cnd77 TLS Checker - This testing tool will quickly verify which SSL and TLS versions are enabled.
+
+Charlas específicas sobre seguridad HTTPS/SSL:
+- [2018. Habías Tenido Tiempo para Securizarlo… (Raúl Siles, Dinosec) (CCN)](https://www.youtube.com/watch?v=SiVuwY1AYVA)
+- [2017. Has Tenido Tiempo Para Securizarlo: Te Lo Suplico, no Sigas Solo Leyéndolo (Raúl Siles, DinoSec)](https://www.youtube.com/watch?v=87GNHBXKkfg) [PDF](https://www.dinosec.com/docs/HTTPS_TLS_SSL_X_Jornadas_STIC_CCN-CERT-RaulSiles_DinoSec_v1.0.pdf)
+
+
 
 ### Windows Application Firewall (WAF)
 
@@ -178,6 +185,10 @@ Productos:
 
 Guías CCN-STIC:
 - [CCN-STIC-663 Seguridad en DNS (BIND)](https://www.ccn-cert.cni.es/series-ccn-stic/600-guias-de-otros-entornos/459-ccn-stic-663-seguridad-en-dns-bind/file.html)
+
+Charlas interesantes sobre DNS:
+- [2019. To SEC or not to SEC: DNS question (Raúl Siles y Mónica Salas, Dinosec)](https://www.youtube.com/watch?v=HmiK51kA1QY)
+
 
 
 ## Sistemas operativos
