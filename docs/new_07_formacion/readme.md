@@ -43,7 +43,7 @@ Recursos interesantes:
 - [CCN-CERT](https://t.me/CCNCERT)
 - [Criptored](https://t.me/criptored). Dr. Alfonso Muñoz - Dr. Jorge Ramio [@criptored](https://twitter.com/criptored) [@mindcrypt](https://twitter.com/mindcrypt)
 - [Derecho de la Red](https://t.me/DerechodelaRed)
-- [CyberSecurtyPulse (ElevenPaths)](https://t.me/cybersecuritypulse)
+- [CyberSecurityPulse (ElevenPaths)](https://t.me/cybersecuritypulse)
 - [BugBounty ES](https://t.me/bugbountyes)
 - [C1b3rWallAcademy](https://t.me/C1b3rWallAcademy)
 
