@@ -31,11 +31,11 @@ de las infraestructuras críticas.
 
 - Reglamentos:
     - [Orden PRE/2740/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-16830) Reglamento de Evaluación y Certificación de la Seguridad TIC
-
+<!--
 - Organismos
     - [Orden PRA/33/2018](https://www.boe.es/buscar/act.php?id=BOE-A-2018-799) Consejo Nacional de Ciberseguridad
     - [Ley 11/2002](https://www.boe.es/buscar/act.php?id=BOE-A-2002-8628) Centro Nacional de Inteligencia (CNI)    
-
+-->
 
 ### Normativa sobre Protección de datos en España:
 
@@ -50,7 +50,7 @@ de las infraestructuras críticas.
 
 ## Organismos Públicos con competencias en Ciberseguridad
 
-![IMG](https://rt00.epimg.net/retina/imagenes/2018/09/21/tendencias/1537525182_749513_1537527535_sumario_normal_recorte1.jpg)
+![IMG](./img/organismoscompetentes.jpg)
 
 
 
