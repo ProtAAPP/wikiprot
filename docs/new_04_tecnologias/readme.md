@@ -53,18 +53,27 @@ El  término  seguridad  perimetral  es  muy  amplio  y  ha  tenido  diversas  a
 ## Redes de Comunicaciones
 
 ### Cortafuegos (firewall)
+[Taxonomía de referencia para productos de seguridad TIC - Anexo D.3: Cortafuegos](https://www.ccn-cert.cni.es/series-ccn-stic/guias-de-acceso-publico-ccn-stic/3932-guia-140-anexo-d-3-cortafuegos/file.html)
+
+*"Producto orientado a la protección de interconexiones, fundamentalmente para permitir, limitar, cifrar y/o descifrar el tráfico hacia o desde una red a la que protegen en base a un conjunto de normas y otros criterios establecidos por un usuario administrador."*
+
 
 Guías CCN-STIC:
 - [CCN-STIC-653 Seguridad en Check Point](https://www.ccn-cert.cni.es/pdf/guias/series-ccn-stic/guias-de-acceso-publico-ccn-stic/5404-ccn-stic-653-seguridad-en-check-point-1.html)
 - [CCN-STIC-652 Seguridad en Palo Alto](https://www.ccn-cert.cni.es/pdf/guias/series-ccn-stic/600-guias-de-otros-entornos/2467-ccn-stic-652-seguridad-en-palo-alto/file.html)
 
 
+### IDS / IPS
+[Taxonomía de productos STIC - Anexo C.1: Dispositivos de Prevención/Detección de Intrusiones](https://www.ccn-cert.cni.es/pdf/guias/series-ccn-stic/guias-de-acceso-publico-ccn-stic/3914-guia-140-anexo-c-1-dispositivos-de-prevencion-y-deteccion-de-intrusiones/file.html)
 
-### IPS
+*"Los dispositivos de prevención de intrusiones IPS son productos cuya funcionalidad principal es la de monitorizar a una o más  redes con objeto de detectar el tráfico potencialmente dañino y reaccionar ante estos ataques."*
 
-### IDS
 
 ### Proxies
+[Taxonomía de referencia para productos de seguridad TIC - Anexo D.4: Proxies](https://www.ccn-cert.cni.es/gl/series-ccn-stic/guias-de-acceso-publico-ccn-stic/3935-guia-140-anexo-d-4-proxies/file.html)
+
+*"Productos orientado a la protección de interconexiones, actuando de intermediarios en el intercambio de peticiones entre los usuarios de una red y recursos ubicados en otra red diferente."*
+
 
 Guías CCN-STIC:
 - [CCN-STIC-660 Seguridad en Proxies](https://www.ccn-cert.cni.es/series-ccn-stic/600-guias-de-otros-entornos/454-ccn-stic-660-seguridad-en-proxies/file.html)
@@ -100,15 +109,20 @@ Guías CCN-STIC:
 - [CCN-STIC-644 Seguridad en Equipos de comunicaciones. Switches Cisco](https://www.ccn-cert.cni.es/series-ccn-stic/600-guias-de-otros-entornos/444-ccn-stic-644-seguridad-en-equipos-de-comunicaciones-switches-cisco/file.html)
 
 ### Routers
+[Taxonomía de productos STIC - Anexo D.1: Enrutadores](https://www.ccn-cert.cni.es/series-ccn-stic/guias-de-acceso-publico-ccn-stic/3923-guia-140-anexo-d-1-enrutadores/file.html)
+
+*"Producto orientado a facilitar la interconexión de dos o más redes, encaminando los paquetes de datos entre ellas, a la vez que proporcionan determinados mecanismos de protección."*
+
 
 Guías CCN-STIC:
 - [CCN-STIC-641 Seguridad en Equipos de Comunicaciones. Routers Cisco](https://www.ccn-cert.cni.es/series-ccn-stic/600-guias-de-otros-entornos/435-ccn-stic-641-seguridad-en-equipos-de-comunicaciones-routers-cisco/file.html)
 
 
-### Análisis de redes
-
-
 ### Control de Acceso a la Red (NAC)
+[Taxonomía de productos STICAnexo A.1: Dispositivos de Control de Acceso a Red](https://www.ccn-cert.cni.es/series-ccn-stic/guias-de-acceso-publico-ccn-stic/3869-guia-140-anexo-a-1-control-de-acceso-a-red-nac/file.html) 
+
+*"El objetivo del control de acceso a red es asegurar que todos los dispositivos que se conectan a las redes corporativas de una organización cumplen con las políticas de seguridad establecidas, incluyendo las de pre-admisión, el cumplimiento de las políticas de seguridad implementadas por el usuario final y los controles post-admisión sobre los recursos de red a los que pueden acceder los usuarios y dispositivos, de cara a reducir el riesgo de entrada de virus, fuga de información sensible, etc."*
+
 
 ## Acceso Remoto Seguro
 [Guía CCN-STIC-836 ENS: Seguridad en VPN](https://www.ccn-cert.cni.es/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/2299-ccn-stic-836-seguridad-en-vpn-en-el-marco-del-ens/file.html)
@@ -118,6 +132,7 @@ Guías CCN-STIC:
 
 ### Seguridad en la nube de Microsoft
 
+Guías CCN-STIC:
 - [CCN-STIC-884A Secure Configuration Guide for Azure](https://www.ccn-cert.cni.es/pdf/guias/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/4634-ccn-stic-884a-secure-configuration-guide-for-azure.html)
 - [CCN-STIC-884B Secure configuration guide for Azure Kubernetes Services](https://www.ccn-cert.cni.es/pdf/guias/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/4829-ccn-stic-884b-secure-configuration-guide-for-azure-kubernetes-services.html)
 - [CCN-STIC-884C Secure configuration guide for Azure SQL Database](https://www.ccn-cert.cni.es/pdf/guias/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/4832-ccn-stic-884c-secure-configuration-guide-for-azure-sql-database.html)
@@ -141,17 +156,17 @@ Documentos CCN:
 - [CCN-CERT BP/05 Internet de las Cosas](https://www.ccn-cert.cni.es/informes/informes-de-buenas-practicas-bp/2258-ccn-cert-bp-05-internet-de-las-cosas/file.html)
 
 
-## Aplicaciones web
+## Seguridad en Aplicaciones Web
+
 
 Algunas referencias interesantes:
 
-- [Awesome AppSec](https://github.com/paragonie/awesome-appsec) - curated list of resources for learning about application security. Contains books,
-  websites, blog posts, and self-assessment quizzes.
+- [Awesome AppSec](https://github.com/paragonie/awesome-appsec) - curated list of resources for learning about application security. Contains books, websites, blog posts, and self-assessment quizzes.
 
 
 ### HTTPS y TLS
 
-Documentos CCN-STIC:
+Documentos CCN:
 -  [CCN-CERT BP/07 Recomendaciones implementación HTTPS](https://www.ccn-cert.cni.es/informes/informes-de-buenas-practicas-bp/2109-ccn-cert-bp-07-recomendaciones-implementacion-https-1/file.html)
 
 Si tienes que configurar un servidor SSL y no sabes qué TLS  poner o qué cipher suites habilitar, mira [esta página de Mozilla](https://wiki.mozilla.org/Security/Server_Side_TLS) que además te dice qué versiones de navegadores van a funcionar según la configuración elegida.
@@ -162,12 +177,11 @@ Herramientas online para chequear mi web:
   and security professionals configure their sites safely and securely.
 - [HTTP Security report](https://httpsecurityreport.com/)
 - [SSLLab test](https://www.ssllabs.com/ssltest/) - SSL Server test para verificar la configuración.
-- cnd77 TLS Checker - This testing tool will quickly verify which SSL and TLS versions are enabled.
+- [cdn77 TLS Checker](https://www.cdn77.com/tls-test) - This testing tool will quickly verify which SSL and TLS versions are enabled.
 
 Charlas específicas sobre seguridad HTTPS/SSL:
 - [2018. Habías Tenido Tiempo para Securizarlo… (Raúl Siles, Dinosec) (CCN)](https://www.youtube.com/watch?v=SiVuwY1AYVA)
 - [2017. Has Tenido Tiempo Para Securizarlo: Te Lo Suplico, no Sigas Solo Leyéndolo (Raúl Siles, DinoSec)](https://www.youtube.com/watch?v=87GNHBXKkfg) [PDF](https://www.dinosec.com/docs/HTTPS_TLS_SSL_X_Jornadas_STIC_CCN-CERT-RaulSiles_DinoSec_v1.0.pdf)
-
 
 
 ### Windows Application Firewall (WAF)

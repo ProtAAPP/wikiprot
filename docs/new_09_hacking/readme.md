@@ -37,6 +37,8 @@ Recursos interesantes:
 - [FIREEYE. 2020. Atacando el directorio activo](https://www.fireeye.com/blog/threat-research/2020/08/hands-on-introduction-to-mandiant-approach-to-ot-red-teaming.html)
 - [Active Directory Kill Chain Attack & Defense](https://github.com/infosecn1nja/AD-Attack-Defense/blob/master/README.md)
 - [2016. Atacando LAPS](https://secureidentity.se/recover-laps-passwords/)
+- [Atacando WSUS](https://www.gosecure.net/blog/2020/09/03/wsus-attacks-part-1-introducing-pywsus/)
+
 
 
 

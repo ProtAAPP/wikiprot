@@ -22,7 +22,7 @@ Recursos interesantes:
 
 ## Difusión de la ciberseguridad
 
-### Canales de youtube:
+### Canales de youtube
 - [Palabra de Hacker by Yolanda Corral](https://www.youtube.com/c/Palabradehacker-ciberseguridad?sub_confirmation=1)
 
 
@@ -37,6 +37,15 @@ Recursos interesantes:
 #### Twitter
 - [Lista](https://twitter.com/i/lists/25837857) de 313 cuentas de Twitter que hablan sobre ciberseguridad (principalmente en ingles)
 - [ProtAAPP](https://twitter.com/protaapp) Cuenta oficial de la Comunidad ProtAAPP
+
+
+### Canales de Telegram
+- [CCN-CERT](https://t.me/CCNCERT)
+- [Criptored](https://t.me/criptored). Dr. Alfonso Muñoz - Dr. Jorge Ramio [@criptored](https://twitter.com/criptored) [@mindcrypt](https://twitter.com/mindcrypt)
+- [Derecho de la Red](https://t.me/DerechodelaRed)
+- [CyberSecurtyPulse (ElevenPaths)](https://t.me/cybersecuritypulse)
+- [BugBounty ES](https://t.me/bugbountyes)
+- [C1b3rWallAcademy](https://t.me/C1b3rWallAcademy)
 
 
 #### Blogs

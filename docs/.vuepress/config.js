@@ -23,7 +23,7 @@ module.exports =
             ariaLabel: 'Índice wiki',
             items: [
                { text: 'Introducción', link: '/01_introduccion/' },
-               { text: 'Normativa', link: '/02_normativa/' },
+               { text: 'Normativa y Organismos', link: '/02_normativa/' },
                { text: 'Gestión de la seguridad', link: '/03_gestion/' },
 /*
                { text: 'Logs', link: '/04_logs/' },
@@ -39,12 +39,12 @@ module.exports =
                { text: 'Auditorías', link: '/14_auditorias/' }
 */
                { text: 'Protección: Arquitecturas y Tecnologías', link: '/new_04_tecnologias/' },
-               { text: 'Desarrollo', link: '/new_05_desarrollo/' },
-               { text: 'Operaciones', link: '/new_06_operaciones/' },
-               { text: 'Amenazas y Vulnerabilidades', link: '/new_08_amenazas/' },
+               { text: 'Seguridad en el Desarrollo', link: '/new_05_desarrollo/' },
+               { text: 'Detección y Respuesta de Ciberincidentes', link: '/new_06_operaciones/' },
+               { text: 'Amenazas, Ataques y Vulnerabilidades', link: '/new_08_amenazas/' },
                { text: 'Auditorías de Vulnerabilidades y Hacking Ético', link: '/new_09_hacking/' },
-               { text: 'Formación y Concienciación', link: '/new_07_formacion/' },               
-               { text: 'Eventos', link: '/new_10_eventos/' }               
+               { text: 'Formación, Concienciación y Difusión', link: '/new_07_formacion/' },               
+               { text: 'Eventos de Ciberseguridad', link: '/new_10_eventos/' }               
             ]
          }
       ],
