@@ -17,4 +17,5 @@
 ## Concienciación en ciberseguridad
 
 Recursos interesantes:
+- [Concienciación del CCN-CERT - Ciberconsejos](https://www.ccn.cni.es/index.php/es/ciberconsejos)
 - [Kit de concienciación de INCIBE](https://www.incibe.es/protege-tu-empresa/kit-concienciacion)
