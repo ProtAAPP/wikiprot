@@ -104,13 +104,11 @@ Cada usuario que acceda a la información del sistema debe estar **identificado 
 ## Gestión Incidentes de seguridad
 
 
-
-
 ## Adquisición de productos de seguridad y contratación de servicios de seguridad
 
-En la adquisición de productos de seguridad de las TIC que vayan a ser empleados por las AAPP se utilizarán, de forma proporcionada a la categoría del sistema y 
-nivel de seguridad determinados, aquellos que tengan **certificada la funcionalidad de seguridad** relacionada con el objeto de su adquisición, salvo en 
-aquellos casos en que las exigencias de proporcionalidad en cuanto a los riesgos asumidos no lo justifiquen a juicio del responsable de Seguridad.
+En la adquisición de productos de seguridad de las TIC que vayan a ser empleados por las AAPP se utilizarán, de forma proporcionada a la categoría del sistema y nivel de seguridad determinados, aquellos que tengan **certificada la funcionalidad de seguridad** relacionada con el objeto de su adquisición, salvo en aquellos casos en que las exigencias de proporcionalidad en cuanto a los riesgos asumidos no lo justifiquen a juicio del responsable de Seguridad.
+Ver [Catálogo CCN-STIC](../new_04_tecnologias/readme.md#catalogo-de-productos-de-seguridad-de-las-tecnologias-de-la-informacion-y-la-comunicacion)
+
 
 
 

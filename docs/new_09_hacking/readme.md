@@ -1,8 +1,13 @@
-# Auditorías de Vulnerabilidades y Hacking ético
+# Auditorías y pentesting
 
 [[TOC]]
 
-## Auditorías de Vulnerabilidades
+## Tipos de auditorías
+Auditoría de seguridad vs auditoría de vulnerabilidads vs pentesting.
+
+
+## Auditoría de Seguridad
+¿Qué es una auditoría y por qué es importante que los organismos auditen sus sistemas/servicios?
 
 Recursos generales:
 - [Pentesting cheatsheet](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE/blob/master/7-part-100-article/Pentesting%20Cheatsheet22.pdf)
@@ -45,9 +50,6 @@ Recursos interesantes:
 - [Atacando WSUS](https://www.gosecure.net/blog/2020/09/03/wsus-attacks-part-1-introducing-pywsus/)
 
 
-
-
-
 ### Auditorías de aplicaciones móviles
 
 Recursos interesantes:
@@ -62,11 +64,10 @@ Recursos interesantes:
 
 ### Auditorías WIFI
 
-## Hacking Ético
+## Pentesting
 
 ## Ejercicios ReadTeam
 ¿Qué es un ReadTeam? ¿Cual su propósito?
-
 
 ## OSINT 
 - [Enlaces a Herramientas OSINT por Ciberpatrulla](https://ciberpatrulla.com/links/)

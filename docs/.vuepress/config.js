@@ -40,6 +40,7 @@ module.exports =
 */
                { text: 'Protección: Arquitecturas y Tecnologías', link: '/new_04_tecnologias/' },
                { text: 'Seguridad en el Desarrollo', link: '/new_05_desarrollo/' },
+               { text: 'Gestión de Vulnerabilidades', link: '/new_11_vulnerabilities/' },
                { text: 'Detección y Respuesta de Ciberincidentes', link: '/new_06_operaciones/' },
                { text: 'Amenazas, Ataques y Vulnerabilidades', link: '/new_08_amenazas/' },
                { text: 'Auditorías de Vulnerabilidades y Hacking Ético', link: '/new_09_hacking/' },
@@ -61,6 +62,7 @@ module.exports =
          '03_gestion/',
          'new_04_tecnologias/',
          'new_05_desarrollo/',
+         'new_11_vulnerabilities/',
          'new_06_operaciones/',
          'new_08_amenazas/',
          'new_09_hacking/',

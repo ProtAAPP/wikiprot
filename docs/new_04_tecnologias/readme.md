@@ -1,16 +1,33 @@
-# Protección: Arquitecturas y Tecnologías
+# Protección: Arquitecturas, Tecnologías y Bastionado
 
 [[TOC]]
 
 ## Estrategias de protección integral de una organización
-
-### Frameworks para abordar una proteccion integral
-Pendiente de desarrollo
-
-### Recursos interesantes
 Algunas charlas con un enfoque de protección integral:
 * [Zarancon City: ciudad bastionada](https://www.youtube.com/watch?v=VJIzFuTTRb4&feature=youtu.be). RootedCon 2019, con [Miguel Angel Rodriguez](https://twitter.com/marodriguezz), [Guillermo Obispo](https://twitter.com/gobispo) y [Jose Angel Alvarez](https://twitter.com/joseangel_a76)
 
+## Principios para una construcción segura 
+### Segmentación de la red
+Pendiente de desarrollar
+
+### Protección de aplicaciones
+Pendiente de desarrollar
+
+### Defensa en profundidad
+Pendiente de desarrollar
+
+### Criptografía
+#### Conceptos y recursos
+Recursos interesante:
+- Certificación en criptografía: [CryptoCert](https://www.criptocert.com/)
+- [Curso sobre criptografía de criptored](https://www.youtube.com/watch?v=rm8W5XD3lUg)
+- [Crypto Go Game](https://www.cryptogogame.com/ES/juego) - Juego de cartas educativo sobre criptografía simétrica actual. El principal objetivo de _Crypto Go_ es   familiarizar a los jugadores de una manera lúdica y social con las principales herramientas criptográficas actuales,  su nivel de seguridad, y la forma correcta de combinarlas.
+
+### Copias de Seguridad
+Pendiente de desarrollar
+
+### Zero Trust
+Pendiente de desarrollar
 
 ## Productos revisados por organismos independientes
 
@@ -300,21 +317,4 @@ Guías CCN-STIC:
 - [CCN-CERT BP/15 Buenas Prácticas en Virtualización](https://www.ccn-cert.cni.es/informes/informes-de-buenas-practicas-bp/4010-ccn-cert-bp-15-buenas-practicas-en-virtualizacion/file.html)
 
 
-
-## Criptografía
-
-### Conceptos y recursos
-
-Recursos interesante:
-- Certificación en criptografía: [CryptoCert](https://www.criptocert.com/)
-- [Curso sobre criptografía de criptored](https://www.youtube.com/watch?v=rm8W5XD3lUg)
-- [Crypto Go Game](https://www.cryptogogame.com/ES/juego) - Juego de cartas educativo sobre criptografía simétrica actual. El principal objetivo de _Crypto Go_ es   familiarizar a los jugadores de una manera lúdica y social con las principales herramientas criptográficas actuales,  su nivel de seguridad, y la forma correcta de combinarlas.
-
-### Algoritmos cifrado simétrico
-
-### Algoritmos de clave asimétrica 
-
-### Hash
-
-### Aplicaciones criptográficas
 

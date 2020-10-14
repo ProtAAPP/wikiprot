@@ -1,4 +1,4 @@
-# Detección y Respuesta de Ciberincidentes
+# Detección y Respuesta
 
 [[TOC]]
 
@@ -11,8 +11,10 @@
 - [MARTA](https://www.ccn-cert.cni.es/soluciones-seguridad/marta.html). Sandboxing para ficheros maliciosos, en la nube del CCN.
 - [REYES](https://www.ccn-cert.cni.es/soluciones-seguridad/reyes.html). Inteligencia de amenazas. Compartición de IOCs.
 
+## Inteligencia de amenazas - IOCs
+Pendiente de desarrollar
 
-## Deteccion de ciberincidentes - SIEM
+## Gestion Logs - Correlación eventos - SIEM
 
 Recursos interesantes:
 - [2020. 8 WAYS TO DETECT MALICIOUS FIREWALL TRAFFIC USING SIEM](https://blueteamblog.com/8-ways-to-detect-malicious-firewall-traffic-using-siem)
@@ -27,16 +29,30 @@ Recursos interesantes:
 - [2019. 7 habits of highly effective SOCs](https://expel.io/blog/7-habits-highly-effective-socs/)
 - [2020. Expel. Behind the scenes in the Expel SOC: Alert-to-fix in AWS](https://expel.io/blog/behind-the-scenes-expel-soc-alert-aws/)
 
-
-
-## Respuesta a incidentes
-
 ## Threat Hunting
 - [2020. ElevenPaths. "TheTHE: The Threat Hunting Environment"](https://empresas.blogthinkbig.com/thethe-threat-hunting-environment-nuestra-herramienta-para-investigadores/)
 - [2020. Blog de Menasec sobre threat hunting](https://blog.menasec.net/)
 
 ## Ejercicios redteam-blueteam
 
-## Análisis Forense
+## Respuesta a ciberincidentes
+
+### Procedimientos generales de alto nivel
+
+### Respondiendo a Ransomware
+
+### Respondiendo a DDoS
+
+### Respondiendo a brechas de seguridad
+
+### SOAR / Playbooks
+
+
+
+#### 
+
+
+### Análisis Forense
+
 
 
