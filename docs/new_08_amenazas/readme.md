@@ -67,6 +67,9 @@ Vulnerabilidades recientes, en sistemas habitualmente expuestos en Internet, que
 - [CVE-2020-1147](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1147) Sharepoint - CVSS 7.8 - Cuidado si tienes un Sharepoint expuesto directamente en Internet.
 - [CVE-2019-0604](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0604) Sharepoint - CVSS 9.8
 
+Páginas que listan vulnerabilidades en todo tipo de tecnologías:
+- [Vulnerabilidades recopiladas por CCN](https://www.ccn-cert.cni.es/seguridad-al-dia/vulnerabilidades.html)
+- [CVEDetails](https://www.cvedetails.com/)
 
 
 

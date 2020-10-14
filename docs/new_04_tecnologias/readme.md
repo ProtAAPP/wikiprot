@@ -209,6 +209,9 @@ Charlas interesantes sobre DNS:
 
 ### Unix/Linux
 
+Soluciones CCN:
+- [CLARA](https://www.ccn-cert.cni.es/soluciones-seguridad/clara.html). Revisa la configuración de un equipo Unix/Linux contra una configuración "base", para ver el nivel de cumplimiento.
+
 Guías CCN-STIC:
 - [CCN-STIC-619B Configuración segura de CentOS 8](https://www.ccn-cert.cni.es/pdf/guias/series-ccn-stic/guias-de-acceso-publico-ccn-stic/5332-ccn-stic-619b-configuracion-segura-de-centos-8.html)
 - [CCN-STIC-681 Implementación de seguridad en Postfix sobre CentOS 7](https://www.ccn-cert.cni.es/pdf/guias/series-ccn-stic/guias-de-acceso-publico-ccn-stic/475-ccn-stic-681-seguridad-en-servidores-de-correo-postfix.html)
