@@ -97,8 +97,8 @@
 - [C1b3rWallAcademy](https://t.me/C1b3rWallAcademy)
 
 
-#### Blogs
-
+### Blogs
+Pendiente de desarrollar
 
 
 
