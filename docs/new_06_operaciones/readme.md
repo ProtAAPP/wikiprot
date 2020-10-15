@@ -4,6 +4,7 @@
 
 ## Soluciones del CCN para gestion de ciberincidentes
 - [SAT-INET](https://www.ccn-cert.cni.es/gestion-de-incidentes/sistema-de-alerta-temprana-sat/sat-inet.html). Sonda del CCN para detectar tráfico malicioso y abrir incidente en LUCIA.
+- [SAT-ICS](https://www.ccn-cert.cni.es/gestion-de-incidentes/sistema-de-alerta-temprana-sat/sat-ics.html) Sonda del CCN para detectar tráfico malicioso, especialmente orientado a protocolos industriales.
 - [LUCIA](ccn-cert.cni.es/soluciones-seguridad/lucia.html). Gestión del ciclo de vida de los ciberincidentes.
 - [CARMEN](https://www.ccn-cert.cni.es/soluciones-seguridad/carmen.html). Detección de APTs.
 - [GLORIA](https://www.ccn-cert.cni.es/soluciones-seguridad/gloria.html)- SIEM.
@@ -47,12 +48,12 @@ Recursos interesantes:
 
 ### SOAR / Playbooks
 
-
-
-#### 
-
-
 ### Análisis Forense
+
+## Otros recursos
+Lista de CTFs con orientación defensiva (blue):
+- []()
+
 
 
 

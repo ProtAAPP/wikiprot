@@ -17,8 +17,11 @@ Soluciones del CCN
 - [ANA](https://www.ccn-cert.cni.es/soluciones-seguridad/ana.html). Carga los resultados de auditorías realizadas con otras herramientas y permite "gestionar" el ciclo de vida de las vulnerabilidades.
 
 
-
 ### Auditorías de aplicaciones web
+
+- [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
+- [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
+
 
 Herramientas:
 
@@ -44,6 +47,8 @@ Recursos interesantes:
 - [An Offensive Kerberos Overview](https://posts.specterops.io/kerberosity-killed-the-domain-an-offensive-kerberos-overview-eb04b1402c61)
 - [Mapa mental para explotar el directorio activo](https://i.ibb.co/TKYNCNP/Pentest-ad.png)
 - [12 charlas sobre cómo atacar el directorio activo en TroopersCON19](https://www.youtube.com/playlist?list=PL1eoQr97VfJnvOWo_Jxk2qUrFyB-BJh4Y)
+- [2019. Pentesting Active Directory Forests. Carlos García Ciyi](https://www.youtube.com/watch?v=6aV5tZlQ2EQ)
+- [2018. Pentesting Active Directory. Carlos García Ciyi](https://www.youtube.com/watch?v=-8HTqAxppEc)
 - [FIREEYE. 2020. Atacando el directorio activo](https://www.fireeye.com/blog/threat-research/2020/08/hands-on-introduction-to-mandiant-approach-to-ot-red-teaming.html)
 - [Active Directory Kill Chain Attack & Defense](https://github.com/infosecn1nja/AD-Attack-Defense/blob/master/README.md)
 - [2016. Atacando LAPS](https://secureidentity.se/recover-laps-passwords/)
@@ -71,3 +76,7 @@ Recursos interesantes:
 
 ## OSINT 
 - [Enlaces a Herramientas OSINT por Ciberpatrulla](https://ciberpatrulla.com/links/)
+
+## Otros recursos
+Lista de CTFs con orientación ofensiva (red):
+- []()

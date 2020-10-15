@@ -2,7 +2,7 @@
 
 <!--[[TOC]]-->
 
-## Vulnerabilidades
+<!-- ## Vulnerabilidades -->
 
 Vulnerabilidades recientes, en sistemas habitualmente expuestos en Internet, que pueden acabar en un compromiso total de la organización:
 - [CVE-2020-1472](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1472) "Zerologon" - CVSS 10.0 - El atacante escala a Domain Admin, simplement pudiendo ejecutar comandos en la red interna. 
