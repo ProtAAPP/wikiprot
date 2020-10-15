@@ -40,11 +40,12 @@ Difunde ProtAAPP con nuestras [infografías](https://www.protaapp.com/p/blog-pag
 ## Colabora con esta documentación
 
 Si tienes conocimientos de cualquier ámbito de la ciberseguridad, te animamos a participar en el desarrollo de este repositorio 
-de documentación. Está construido a base de ficheros de texto plano en formato [markdown](https://markdown.es/) y las contribuciones
-se controlan mediante el repositorio git, en [GitHub](https://github.com/).
+de documentación. Está construido a base de ficheros de texto plano en formato [markdown](https://markdown.es/) y las contribuciones se controlan mediante el repositorio git, en [GitHub](https://github.com/).
 
 Este repositorio de documentación está construido con la librería [Vuepress](https://vuepress.vuejs.org/). 
 El código fuente de este repositorio se encuentra en github: [ProtAAPP/wikiprot](https://github.com/ProtAAPP/wikiprot).
+Consulta el [código de conducta](/code_of_conduct.md) y la [guía para contribuir](/code_contribution_guideline.md)
+
 
 
 ### Requisitos 
