@@ -19,3 +19,9 @@ Vulnerabilidades recientes que pueden acabar en un compromiso total de la organi
 Páginas que listan vulnerabilidades en todo tipo de tecnologías:
 - [Vulnerabilidades recopiladas por CCN](https://www.ccn-cert.cni.es/seguridad-al-dia/vulnerabilidades.html)
 - [CVEDetails](https://www.cvedetails.com/)
+
+A modo de orientativo, en los siguientes casos el [gobierno USA](https://cyber.dhs.gov/directives/) ha ordenado a sus agencias federales parchear con urgencia (sin esperar al ciclo de actualizaciones habitual) las siguientes vulnerabilidades:
+- [2020-04](https://cyber.dhs.gov/ed/20-04/) Netlogon.
+- [2020-03](https://cyber.dhs.gov/ed/20-03/) Windows DNS server.
+- [2020-02](https://cyber.dhs.gov/ed/20-02/) Problema con las curvas elípitcas.
+- [2019-01](https://cyber.dhs.gov/ed/19-01/) DNS

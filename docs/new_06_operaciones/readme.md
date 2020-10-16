@@ -50,7 +50,9 @@ Recursos interesantes:
 ## Defensa Activa (Deception)
 - [2019. How Deception Technology Can Defend Networks](https://medium.com/@eddies_47682/how-deception-technology-can-defend-networks-914864bf9f53#:~:text=Modern%20deception%20technology%20involves%20distributing,be%20accessed%20by%20anyone%20legitimately.)
 - [2015. ¿Qué es la Defensa Activa?](https://www.ccn-cert.cni.es/documentos-publicos/ix-jornadas-stic-ccn-cert/1258-p2-01-defensa-activa-dbarroso/file.html)
-- [CanaryTokens](https://blog.thinkst.com/p/canarytokensorg-quick-free-detection.html)
+- HoneyTokens o [CanaryTokens](https://blog.thinkst.com/p/canarytokensorg-quick-free-detection.html) Ejemplos de alertas que se pueden configurar con honeytokens:
+  ![IMG](./img/canaries.png)
+
 
 ## Ejercicios redteam-blueteam
 
