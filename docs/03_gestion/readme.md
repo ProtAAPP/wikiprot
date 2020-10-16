@@ -2,6 +2,8 @@
 
 [[TOC]]
 
+![ISO 27001](https://e7.pngegg.com/pngimages/332/830/png-clipart-iso-iec-27001-information-security-management-iso-iec-27002-iso-iec-27000-international-organization-for-standardization-isoiec-27001-lead-implementer-pdca-area.png "ISO 27001")
+
 ## Política de Seguridad de la Información (PSI)
 
 La seguridad deberá comprometer a todos los miembros de la organización. La **política de seguridad (PSI)** deberá identificar unos claros 
@@ -49,19 +51,22 @@ PSIs de **entidades locales**:
 - [Junta General del Principado de Asturias](http://anleo.jgpa.es:8080/documentos/Boletines/PDF/10C-029.pdf)
 - [Ayuntamiento de Málaga](http://www.malaga.eu/export/sites/default/ayto/portadaAyto/portal/menu/portada/documentos/Politica_de_Seguridad_de_la_Informacion_Ayuntamiento_de_Malaga.pdf) 
 
-
 ## Responsabilidades y funciones
 
 - [CCN-STIC-801](https://www.ccn-cert.cni.es/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/501-ccn-stic-801-responsibilidades-y-funciones-en-el-ens/file.html) Responsabilidades y Funciones
 
-
 ## Inventario de activos
+![Cuadrante mágico de Gartner para ITSM](https://i.pinimg.com/originals/d8/a7/84/d8a7845ed70af06169edaf656a15b1f1.png "Cuadrante mágico de Gartner para ITSM")
 
+- [ServiceNow IT Service Management](https://www.servicenow.com/products/itsm.html)
+- [BMC Helix CMDB](https://www.bmcsoftware.es/it-solutions/bmc-helix-cmdb.html)
+- [BMC Helix Discovery](https://www.bmcsoftware.es/it-solutions/bmc-helix-discovery.html)
+- [EasyVista](https://www.easyvista.com/es/solucion/gestion-activos-ti)
+- [MicroFocus](https://www.microfocus.com/es-es/products/configuration-management-system-database/overview)
 
 ## Categorización de los sistemas
 
 [CCN-STIC-803](https://www.ccn-cert.cni.es/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/682-ccn-stic-803-valoracion-de-sistemas-en-el-ens-1/file.html) ENS. Valoración de los sistemas
-
 
 ## Declaración de aplicabilidad
 
@@ -81,8 +86,7 @@ implementadas y las  medidas del  Anexo  II  que  compensan siendo objeto  de  a
 Referencias:
 
 - [CCN-CERT BP/14](https://www.ccn-cert.cni.es/informes/informes-de-buenas-practicas-bp/3830-ccn-cert-bp-14-declaracion-de-aplicacibilidad-ens/file.html) - 
-  Declaración de Aplicabilidad en el ENS(Perfil de Cumplimiento) 
-
+  Declaración de Aplicabilidad en el ENS(Perfil de Cumplimiento).
 
 ## Análisis y gestión de riesgos
    
@@ -92,9 +96,8 @@ Esta gestión se realizará por medio del análisis y tratamiento de los riesgos
 suprimir los riesgos deberán estar justificadas y, en todo caso, existirá una **proporcionalidad** entre ellas y los riesgos.
 
 Referencias:
+- [Magerit v3](https://administracionelectronica.gob.es/pae_Home/pae_Documentacion/pae_Metodolog/pae_Magerit.html) Metodología para el análisis y gestión de riesgos.
 - [PILAR](https://pilar.ccn-cert.cni.es/) Conjunto de soluciones del CCN para la realización del análisis de riesgos.
-
-
 
 ## Gestión de personal
    
@@ -109,16 +112,15 @@ El significado y alcance del uso seguro del sistema se concretará y plasmará e
 Cada usuario que acceda a la información del sistema debe estar **identificado de forma única**
 ::: 
 
-
 ## Plan de formación y concienciación
 
+- [ProofPoint](https://www.proofpoint.com/es/products/security-awareness-training)
+- [Firewall Mindset](https://thefirewallmindset.com/?utm_source=web&utm_medium=Entelgy&utm_campaign=TFMSficha)
 
 ## Gestión Incidentes de seguridad
 Referencias:
 - [ENS Gestión de ciberincidentes](https://www.ccn-cert.cni.es/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/988-ccn-stic-817-gestion-de-ciberincidentes/file.html) 
 - [GUÍA NACIONAL DE NOTIFICACIÓN Y GESTIÓN DE CIBERINCIDENTES](http://www.interior.gob.es/documents/10180/9771228/Gu%C3%ADa+Nacional+de+Notificaci%C3%B3n+y+Gesti%C3%B3n+de+Ciberincidentes.pdf)
-
-
 
 ## Adquisición de productos de seguridad y contratación de servicios de seguridad
 
@@ -128,7 +130,3 @@ Ver [Catálogo CCN-STIC](../new_04_tecnologias/readme.md#catalogo-de-productos-d
 ## Auditorías de Cumplimiento
 
 - [CCN-STIC-802](https://www.ccn-cert.cni.es/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/502-ccn-stic-802-auditoria-del-ens/file.html) ENS. Guía de auditoría.
-
-
-
-
