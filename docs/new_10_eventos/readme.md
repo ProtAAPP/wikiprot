@@ -87,7 +87,6 @@
 - [Lista](https://twitter.com/i/lists/25837857) de 313 cuentas de Twitter que hablan sobre ciberseguridad (principalmente en ingles)
 - [ProtAAPP](https://twitter.com/protaapp) Cuenta oficial de la Comunidad ProtAAPP
 
-
 ### Canales de Telegram
 - [CCN-CERT](https://t.me/CCNCERT)
 - [Criptored](https://t.me/criptored). Dr. Alfonso Muñoz - Dr. Jorge Ramio [@criptored](https://twitter.com/criptored) [@mindcrypt](https://twitter.com/mindcrypt)
@@ -96,9 +95,21 @@
 - [BugBounty ES](https://t.me/bugbountyes)
 - [C1b3rWallAcademy](https://t.me/C1b3rWallAcademy)
 
+### Listas de correo
+- [RootedCON List](https://groups.io/g/rootedcon)
+- [ProtAAPP](https://groups.google.com/d/forum/protaapp) Solo para empleados públicos de AAPP.
+
+### Revistas
+- [Revista SIC](https://revistasic.es/). Durante la pandemia, se pueden consultar las ediciones online: [SIC 141](https://revistasic.es/sic141/revistasic141.pdf), [SIC 140](https://revistasic.es/sic140/revistasic140.pdf), [SIC 139](https://revistasic.es/sic139/revistasic139.pdf) 
+
+### Radio
+- [Capital Radio. Afterwork](https://www.monicavalle.es/ciberseguridad-en-capital-radio/) Ciberseguridad con Monica Valle y Pablo San Emeterio.
 
 ### Blogs
 Pendiente de desarrollar
+
+### Otras iniciativas de difusión
+- [Mes europeo de la ciberseguridad](https://cybersecuritymonth.eu/) Promovido por [ENISA](https://www.enisa.europa.eu/)
 
 
 

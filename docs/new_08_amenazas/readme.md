@@ -1,4 +1,4 @@
-# Tácticas y Técnicas de ataque
+# Amenazas, Tácticas y Técnicas de ataque
 
 [[TOC]]
 
@@ -11,6 +11,12 @@ En función del origen y propósito de los atacantes podrían ser:
 * Insiders
 
 Los atacantes con capacidades avanzadas (APTs) se nombrar como APT-XX. En esta [lista](https://www.fireeye.com/current-threats/apt-groups.html), están recopilados algunos de los más importantes.
+
+## Informes sobre ciberamenazas
+- [2020. Informe Anual sobre Ciberamenazas y Tendencias](https://www.ccn-cert.cni.es/informes/informes-ccn-cert-publicos/5377-ccn-cert-ia-13-20-ciberamenazas-y-tendencias-edicion-2020/file.html)
+- [2019. Informe Anual sobre Hacktivismo y Ciberyihadismo](https://www.ccn-cert.cni.es/informes/informes-ccn-cert-publicos/4714-ccn-cert-ia-04-20-informe-anual-2019-hactivismo-y-ciberyihadismo-1/file.html)
+- [Lista de informes públicados por el CCN](https://www.ccn-cert.cni.es/informes/informes-ccn-cert-publicos.html?limit=100)
+
 
 
 ## Tácticas, Técnicas y Procedimientos de los atacantes
@@ -59,11 +65,10 @@ menudo se confunden con las acciones de programas legítimos.
 El ransomware es un tipo de malware que cifra el dispositivo que infecta, bloqueando su uso y exigiendo un rescate por devolver la plena
 funcionalidad al usuario.
 
-## FakeNews y Amenazas en redes sociales
+### El Fraude del CEO
+- [¿Qué es y cómo funcional el fraude del CEO?](https://www.yolandacorral.com/ciberdebate-estafa-del-ceo/) Ciberdebate en "Palabra de Hacker"
 
-### Tipología de redes sociales
-
-### Amenazas y mitigantes en redes sociales
+### FakeNews y Amenazas en redes sociales
 
 ### DOXING y SOCINT
 

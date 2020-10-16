@@ -208,6 +208,11 @@ Productos:
 
 - [ModSecurity](https://github.com/SpiderLabs/ModSecurity-nginx) - Módulo Nginx ampliamente extendido para implantar un WAF. Open Source.
 
+## Seguridad del Correo Electrónico
+- [2020. Sesión CCN sobre seguridad en el correo electrónico](https://vanesa.ccn-cert.cni.es/userportal/#/player/vod/U65311506170b406388235bed29ffd82e) Basado en Exchange.
+- [2016. Informe buenas prácticas en el correo electrónico](https://www.ccn-cert.cni.es/informes/informes-de-buenas-practicas-bp/1598-ccn-cert-bp-02-correo-electronico/file.html). Incluye SPF, DKIM y DMARC.
+
+
 ## DNS
 
 Guías CCN-STIC:
@@ -216,6 +221,8 @@ Guías CCN-STIC:
 Charlas interesantes sobre DNS:
 - [2019. To SEC or not to SEC: DNS question (Raúl Siles y Mónica Salas, Dinosec)](https://www.youtube.com/watch?v=HmiK51kA1QY)
 
+## Bases de Datos
+- [Actualizaciones Oracle](https://www.oracle.com/security-alerts/)
 
 
 ## Sistemas operativos
@@ -237,6 +244,10 @@ Artículos:
 - [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
 
 ### Plataforma Windows
+
+Recursos generales:
+- [Actualizaciones de seguridad](https://portal.msrc.microsoft.com/en-us/security-guidance)
+- [Microsoft Patch Tuesday by Morphus Labs](https://patchtuesdaydashboard.com/)
 
 Soluciones CCN:
 - [CLARA](https://www.ccn-cert.cni.es/soluciones-seguridad/clara.html). Revisa la configuración de un equipo Windows contra una configuración "base", para ver el nivel de cumplimiento.
@@ -283,6 +294,9 @@ Guías CCN-STIC:
 Recursos interesantes:
 - [2019- Microsoft. Introducing the security configuration framework: A prioritized guide to hardening Windows 10](https://www.microsoft.com/security/blog/2019/04/11/introducing-the-security-configuration-framework-a-prioritized-guide-to-hardening-windows-10/)
  ![IMG](./img/seccon-framework.png)
+
+#### Seguridad plataforma Microsoft Office
+- [Seguridad en Macros](https://www.cyber.gov.au/acsc/view-all-content/publications/microsoft-office-macro-security)
 
 
 

@@ -17,6 +17,11 @@ Soluciones del CCN
 - [ANA](https://www.ccn-cert.cni.es/soluciones-seguridad/ana.html). Carga los resultados de auditorías realizadas con otras herramientas y permite "gestionar" el ciclo de vida de las vulnerabilidades.
 
 
+### Escaneo de Vulnerabilidades
+- [Vulnerability Scanning Tools](https://owasp.org/www-community/Vulnerability_Scanning_Tools)
+- [Flan Scan](https://github.com/cloudflare/flan)
+
+
 ### Auditorías de aplicaciones web
 
 - [OWASP Top Ten](https://owasp.org/www-project-top-ten/)

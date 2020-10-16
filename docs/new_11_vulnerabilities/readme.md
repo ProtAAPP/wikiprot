@@ -4,7 +4,8 @@
 
 <!-- ## Vulnerabilidades -->
 
-Vulnerabilidades recientes, en sistemas habitualmente expuestos en Internet, que pueden acabar en un compromiso total de la organización:
+Vulnerabilidades recientes que pueden acabar en un compromiso total de la organización:
+- [CVE-2020-16898](https://www.ccn-cert.cni.es/seguridad-al-dia/avisos-ccn-cert/10594-ccn-cert-av-72-20-vulnerabilidad-en-bad-neighbor.html). "Bad Neighbor" - CVSS 9.8 - Vulnerabilidad en la gestión de IPV6. "Gusanable"
 - [CVE-2020-1472](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1472) "Zerologon" - CVSS 10.0 - El atacante escala a Domain Admin, simplement pudiendo ejecutar comandos en la red interna. 
 - [CVE-2020-12271](https://es-la.tenable.com/blog/cve-2020-12271-zero-day-sql-injection-vulnerability-in-sophos-xg-firewall-exploited-in-the-wild) Sophos XG Firewall - CVSS 10.0
 - [CVE-2019-11510](https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/SA44101/) PULSE SECURE - CVSS 10.0
