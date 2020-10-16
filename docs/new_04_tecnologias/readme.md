@@ -171,10 +171,21 @@ Documentos CCN:
 
 ## Seguridad en Aplicaciones Web
 
-
-Algunas referencias interesantes:
-
-- [Awesome AppSec](https://github.com/paragonie/awesome-appsec) - curated list of resources for learning about application security. Contains books, websites, blog posts, and self-assessment quizzes.
+[Recopilatorio](https://httpsecurityreport.com/best_practice.html) de aspectos a tener en cuenta
+* SSL/TLS
+* HTTP Strict Transport Security (HSTS)
+* Public Key Pins
+* Content Security Policy
+* Frame Options
+* XSS Protection
+* Cache Control
+* Content Type Options
+* Subresource Integrity
+* Iframe Sandbox
+* Server Clock
+* Server Banner
+* Web Framework Information
+* Cookie Security
 
 
 ### HTTPS y TLS
@@ -184,8 +195,7 @@ Documentos CCN:
 
 Si tienes que configurar un servidor SSL y no sabes qué TLS  poner o qué cipher suites habilitar, mira [esta página de Mozilla](https://wiki.mozilla.org/Security/Server_Side_TLS) que además te dice qué versiones de navegadores van a funcionar según la configuración elegida.
 
-Herramientas online para chequear mi web: 
-
+Herramientas online para comprobar el nivel de seguridad HTTPS/SSL: 
 - [Mozilla observatory](https://observatory.mozilla.org) - Observatory by Mozilla is a project designed to help developers, system administrators, 
   and security professionals configure their sites safely and securely.
 - [HTTP Security report](https://httpsecurityreport.com/)
