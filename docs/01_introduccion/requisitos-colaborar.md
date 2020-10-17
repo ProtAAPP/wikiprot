@@ -124,7 +124,7 @@ Este sería el "código fuente" en markdown
 - León (**salvaje**)
 ```
 
-Los **enlaces** se escriben con corchetes seguidos de paréntesis. Entre los corchetes ponemos el texto, y entre los paréntesis la url
+Los [enlaces](https://www.protaapp.com) se escriben con corchetes seguidos de paréntesis. Entre los corchetes ponemos el texto, y entre los paréntesis la url
 de destino del enlace:
 
 ```markdown
@@ -143,12 +143,28 @@ Si quieres poner un _tip_, _warning_ o _error_ (advertencia):
 Recuerda que debes disfrutar modificando esta guía. Siempre se percibe la esencia de las cosas hechas con alegría
 :::
 
+::: warning Cuidado con el deporte
+Ya sabes, el mundo está lleno de gente que se lesiona practicándolo. Pero nunca he visto a nadie lesionado por estar en la barra del bar
+:::
+
+::: danger ¿hace cuánto que no actualizas Windows?
+Si hace más de 2 meses, estás en grave riesgo
+:::
+
 Esta es la sintaxis:
 
 ```markdown
 ::: tip ¡Sé feliz!
 Recuerda que debes disfrutar modificando esta guía. 
 Siempre se percibe la esencia de las cosas hechas con alegría
+:::
+
+::: warning Cuidado con el deporte
+Ya sabes, el mundo está lleno de gente que se lesiona practicándolo.
+:::
+
+::: danger ¿hace cuánto que no actualizas Windows?
+Si hace más de 2 meses, estás en grave riesgo
 :::
 ```
 

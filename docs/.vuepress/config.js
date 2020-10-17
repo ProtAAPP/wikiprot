@@ -3,6 +3,15 @@ module.exports =
    title: 'Wiki Prot',
    description: 'Repositorio de documentación y referencias relativas al mundo de la ciberseguridad, creado y mantenido por la Comunidad de ProtAAPP',
 
+   plugins: [
+      [
+         '@vuepress/google-analytics',
+         {
+            'ga': 'UA-180770730-1'
+         }
+      ]
+   ],
+   
    themeConfig: {
       searchMaxSuggestions: 15,
       lastUpdated: 'Esta página ha sido actualizada por última vez',
