@@ -18,3 +18,5 @@ Imagen de portada cortesía de
 [pngtree.com](https://es.pngtree.com/freepng/digital-technology-background--futuristic-structure-elements-concept-background-design_3527875.html)
 
 
+<AvisoCookies />
+
