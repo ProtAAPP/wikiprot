@@ -5,8 +5,7 @@ sidebar: auto
 
 # Requisitos para colaborar
 
-Vamos a desarrollar con mayor detalle los requisitos para poder colaborar en
-el desarrollo de esta guía:
+Vamos a desarrollar con mayor detalle los requisitos para poder colaborar en el desarrollo de esta guía:
 
 
 [[TOC]]

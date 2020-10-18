@@ -44,7 +44,7 @@ de documentación. Está construido a base de ficheros de texto plano en formato
 
 Este repositorio de documentación está construido con la librería [Vuepress](https://vuepress.vuejs.org/). 
 El código fuente de este repositorio se encuentra en github: [ProtAAPP/wikiprot](https://github.com/ProtAAPP/wikiprot).
-Consulta el [código de conducta](/code_of_conduct.md) y la [guía para contribuir](/code_contribution_guideline.md)
+Consulta el [código de conducta](./code_of_conduct.md) y la [guía para contribuir](./code_contribution_guideline.md)
 
 
 
