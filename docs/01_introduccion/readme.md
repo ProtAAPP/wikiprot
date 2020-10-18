@@ -44,7 +44,7 @@ de documentación. Está construido a base de ficheros de texto plano en formato
 
 Este repositorio de documentación está construido con la librería [Vuepress](https://vuepress.vuejs.org/). 
 El código fuente de este repositorio se encuentra en github: [ProtAAPP/wikiprot](https://github.com/ProtAAPP/wikiprot).
-Consulta el [código de conducta](./code_of_conduct.md) y la [guía para contribuir](./code_contribution_guideline.md)
+Consulta el [código de conducta](https://github.com/ProtAAPP/wikiprot/blob/master/code_of_conduct.md) y la [guía para contribuir](https://github.com/ProtAAPP/wikiprot/blob/master/code_contribution_guideline.md)
 
 
 
@@ -58,13 +58,13 @@ Los requisitos para poder colaborar en el desarrollo de esta guía son:
 4. Instalar [git](https://git-scm.com/downloads) en tu PC *(ó editar directamente en Github)*
 5. Instalar Node en tu PC ([explicación más detallada](./requisitos-colaborar.md#instalar-node))
 6. Instalar yarn ([cómo hacerlo en 10 segundos](./requisitos-colaborar.md#instalar-yarn))
-7. ¡ya está! listo para insertar tu primera aportación 
+7. Seguir la [guía para contribuir](https://github.com/ProtAAPP/wikiprot/blob/master/code_contribution_guideline.md)
+8. ¡ya está! listo para insertar tu primera aportación 
 
 
-### Pasos para aportar contenidos
+### Pasos de instalación
 
-Una vez cumplidos los requisitos definidos en el apartado anterior, lo primero es descargarse la última versión del
-repositorio, antes de modificar ningún contenido. 
+Una vez cumplidos los requisitos definidos en el apartado anterior, una vez hecho el fork lo primero es descargarse la última versión del repositorio, antes de modificar ningún contenido. 
 
 Si fuera la primera vez que me descargo el respositorio:
 
