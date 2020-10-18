@@ -13,6 +13,9 @@ Pendiente de desarrollar
 Pendiente de desarrollar
 
 ### Criptografía
+
+[Criptografía de empleo en el Esquema Nacional de Seguridad](https://www.ccn-cert.cni.es/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/513-ccn-stic-807-criptologia-de-empleo-en-el-ens/file.html) Guía del CCN que presenta los algoritmos criptográficos que han sido acreditados para su uso en el ENS, así como parámetros de los mismos (versiones, tamaño de claves...).
+
 #### Conceptos y recursos
 Recursos interesante:
 - Certificación en criptografía: [CryptoCert](https://www.criptocert.com/)
