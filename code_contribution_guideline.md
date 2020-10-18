@@ -11,8 +11,6 @@ El repositorio de documentación está construido con la librería [Vuepress](ht
 
 La licencia es [INSERTAR NOMBRE LICENCIAMIENTO]
 
-<img style="float: right;" src="./assets/fork.png" alt="fork de este repositorio" />
-
 Si no tienes git en tu equipo, puedes encontrar instrucciones para instalarlo en [este enlace]( https://help.github.com/articles/set-up-git/ ).
 
 ## Bifurca (*Fork*) este repositorio
@@ -20,11 +18,13 @@ Si no tienes git en tu equipo, puedes encontrar instrucciones para instalarlo en
 Haz un *fork* de este repositorio haciendo click en el botón "*Fork*" en la parte superior derecha en esta página.
 Esto creará una copia de este repositorio en tu cuenta.
 
+<img style="float: right;" src="./assets/fork.png" alt="fork de este repositorio" />
+
 ## Clona (*Clone*) el repositorio
 
-<img style="float: right;" src="./assets/clone.png" alt="clonar este repositorio" />
-
 Ahora clona este repositorio en tu equipo. Dirígete a tu cuenta de GitHub, haz click en el botón "*clone or download*" y luego haz click en el icono para *copiar al portapapeles*.
+
+<img style="float: right;" src="./assets/clone.png" alt="clonar este repositorio" />
 
 Abre tu consola o terminal y ejecuta el siguiente comando de git:
 
@@ -63,7 +63,7 @@ git checkout -b add-alonzo-church
 
 ## Haz los cambios necesarios y confirma (*Commit*) esos cambios
 
-Para ayudarte en los cambios puedes ayudarte con el tutorial [Pasos de instalación](./docs/01_introduccion/#pasos-para-aportar-contenidos)
+Para ayudarte en los cambios puedes ayudarte con el tutorial [Pasos de instalación](./docs/01_introduccion/#pasos-de-instalacion)
 
 Abre el archivo `contributors.md` en un editor de texto y añade tu nombre. No lo añadas ni al principio ni al final del archivo, hazlo en cualquier otro sitio. Guarda el archivo.
 
