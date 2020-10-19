@@ -3,7 +3,7 @@
 [[TOC]]
 
 ## Tipos de auditorías
-Auditoría de seguridad vs auditoría de vulnerabilidads vs pentesting.
+Pendiente de desarrollar: auditoría de seguridad vs auditoría de vulnerabilidads vs pentesting.
 
 
 ## Auditoría de Seguridad
@@ -12,6 +12,8 @@ Auditoría de seguridad vs auditoría de vulnerabilidads vs pentesting.
 Recursos generales:
 - [Pentesting cheatsheet](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE/blob/master/7-part-100-article/Pentesting%20Cheatsheet22.pdf)
 - [Red Teaming Toolkit Collection](https://0xsp.com/offensive/red-teaming-toolkit-collection)
+- [346 consejos para RedTeams](https://vincentyiu.com/red-team-tips)
+- [Compilación de recursos de todo tipo](https://github.com/scspcommunity/Cyber-Sec-Resources)
 
 Soluciones del CCN
 - [ANA](https://www.ccn-cert.cni.es/soluciones-seguridad/ana.html). Carga los resultados de auditorías realizadas con otras herramientas y permite "gestionar" el ciclo de vida de las vulnerabilidades.
@@ -27,9 +29,9 @@ Soluciones del CCN
 - [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
 - [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
 
-
 Herramientas:
-
+- [Tools](https://hackr.io/blog/top-10-open-source-security-testing-tools-for-web-applications) 19 herramientas opensource para pentesting de aplicaciones web
+- [Usando ZAP](https://medium.com/volosoft/running-penetration-tests-for-your-website-as-a-simple-developer-with-owasp-zap-493d6a7e182b) para auditar la seguridad de una web
 - [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is an evolving list of strings which have a high probability of causing issues when used as user-input data. This is intended for use in
   helping both automated and manual QA testing.
 
@@ -64,17 +66,21 @@ Recursos interesantes:
 
 Recursos interesantes:
 - [Mobile Application Security Testing Distributions](https://hackersonlineclub.com/mobile-security-penetration-testing/)
+- [Where to find the OWASP Mobile Top 10 Vulnerabilities](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/Misc%20Content%20By%20SCSP/Where%20to%20find%20the%20OWASP%20Mobile%20Top%2010%20Vulnerabilities.pdf)
 
 
 #### Android
+Pendiente de desarrollar
 
 #### IOS
 
 ![IOS Vulnerability Assesment](./img/ios-pentesting.jpg)
 
 ### Auditorías WIFI
+Pendiente de desarrollar
 
 ## Pentesting
+Pendiente de desarrollar
 
 ## Ejercicios ReadTeam
 ¿Qué es un ReadTeam? ¿Cual su propósito?

@@ -40,6 +40,7 @@
 ##### (VIRTUAL)
 * [c0r0n4con](https://c0r0n4con.com/)
 * [TotoConf](https://totoconf.tech/)
+* [TizonaConf](https://www.tizonaconf.com/)
 
 ### Congresos de Ciberseguridad en Europa
 * [CCC](https://www.ccc.de/en/). Alemania. [Vídeos ponencias](https://www.youtube.com/c/mediacccde/videos)
@@ -106,6 +107,9 @@
 - [Capital Radio. Afterwork](https://www.monicavalle.es/ciberseguridad-en-capital-radio/) Ciberseguridad con Monica Valle y Pablo San Emeterio.
 
 ### Blogs
+Pendiente de desarrollar
+
+### Libros
 Pendiente de desarrollar
 
 ### Otras iniciativas de difusión

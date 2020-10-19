@@ -13,6 +13,7 @@
 - [REYES](https://www.ccn-cert.cni.es/soluciones-seguridad/reyes.html). Inteligencia de amenazas. Compartición de IOCs.
 - [VANESA](https://vanesa.ccn-cert.cni.es/userportal/#/home/channel/5e89c77de4b02b452626aff2) Sesiones en vídeo sobre cada una de las herramientas.
 
+
 ## Inteligencia de amenazas - IOCs
 Pendiente de desarrollar
 
@@ -20,7 +21,7 @@ Pendiente de desarrollar
 
 
 ## Gestion Logs - Correlación eventos - SIEM
-Pendiente desarrollar... la importancia de la sincronización de reloj de los logs...
+Pendiente desarrollar.
 
 - [SIGMA Rules](https://github.com/Neo23x0/sigma)
 
@@ -54,7 +55,9 @@ Recursos interesantes:
   ![IMG](./img/canaries.png)
 
 
-## Ejercicios redteam-blueteam
+## Reflexiones Redteam-Blueteam-Purpleteam-Yellowteam
+
+- [RedBluePurple](https://danielmiessler.com/study/red-blue-purple-teams/) ¿Qué significa cada color?
 
 ## Respuesta a ciberincidentes
 
