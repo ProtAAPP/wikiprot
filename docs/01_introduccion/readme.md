@@ -196,3 +196,13 @@ los ficheros _.md_, razón por la cual existe mucha más libertad para este tipo
 Esta sección es de obligada lectura antes de aportar tu granito de arena. Por cierto, ¡muchas gracias!
 :::   
    
+**EL buscador** del repositorio sólo busca en los títulos de las secciones. no busca en el contenido de los ficheros markdown. 
+Esto puede sorprender al principio, pero es una buena idea. 
+
+::: tip Dedica tiempo a pensar bien el título de cada sección
+Para que las cosas se encuentren bien con el buscador hay que **incluir las palabras clave en el título de las secciones**.
+:::
+
+
+
+
