@@ -42,6 +42,8 @@ Recursos interesantes:
 - [2020. ElevenPaths. "TheTHE: The Threat Hunting Environment"](https://empresas.blogthinkbig.com/thethe-threat-hunting-environment-nuestra-herramienta-para-investigadores/)
 - [2020. Blog de Menasec sobre threat hunting](https://blog.menasec.net/)
 - [2020. Sesión del CCN sobre Threat Hunting](https://vanesa.ccn-cert.cni.es/userportal/#/player/vod/Uec62bde1a8764b1983d7b871811afbf5)
+- [Guía de referencia sobre Movimiento Lateral](https://secureservercdn.net/160.153.138.53/x27.24e.myftpupload.com/download/Lateral-Movement-Analyst-Reference.pdf?time=1599801482)
+- [Guía de referencia sobre Windows Event Log](https://secureservercdn.net/160.153.138.53/x27.24e.myftpupload.com/download/Windows-Event-Log-Analyst-Reference.pdf?time=1599801482)
 
 ## Vulnerability Disclosure y Bug Bounties
 - [Security.txt](https://securitytxt.org/). Propuesta de estándard para que los investigadores puedan contactar con los responsable de seguridad de los sitios y aplicaciones web a través del fichero https://xxxx.org/.well-known/security.txt
@@ -76,6 +78,7 @@ Recursos interesantes:
 ## Otros recursos
 Lista de CTFs con orientación defensiva (blue):
 - [Splunk Boss of the SOC V](https://www.splunk.com/en_us/blog/conf-splunklive/bots-v-at-conf20.html)
+- [DFIR CTF Challenges - Unizar](https://ctf.unizar.es/)
 
 
 

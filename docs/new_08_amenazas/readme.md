@@ -73,6 +73,8 @@ funcionalidad al usuario.
 ### DOXING y SOCINT
 Pendiente de desarrollar.
 
+## Otros recursos
+- [Explicando cada tipo de vulnerabilidad](https://www.hacksplaining.com/lessons)
 
 
 

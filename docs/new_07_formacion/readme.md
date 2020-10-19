@@ -26,6 +26,7 @@ Recursos interesantes:
 - [Concienciación del CCN-CERT - Ciberconsejos](https://www.ccn.cni.es/index.php/es/ciberconsejos)
 - [Kit de concienciación de INCIBE](https://www.incibe.es/protege-tu-empresa/kit-concienciacion)
 - [Kit ENISA mes europeo de la ciberseguridad](https://cybersecuritymonth.eu/press-campaign-toolbox)
+- [Cuentos de Ciberseguridad](https://www.amazon.es/Cuentos-Ciberseguridad-Plural-Francisco-Perez/dp/8418155051)Libro para concienciar a niños/adolescentes.
 
 Herramientas para hacer concienciación:
 - [Gophish](https://getgophish.com/) Herramienta opensource para crear tus propias campañas de phishing simulado y concienciar a los empleados.

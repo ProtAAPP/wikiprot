@@ -6,17 +6,66 @@
 
 ### Segmentación de la red
 Desde una perspectiva de seguridad, la segmentación (o segregación) de redes, trata de garantizar que los servicios y los datos puedan protegerse de manera acorde con su sensibilidad o valor para el negocio, y también asegurar que los atacantes no puedan acceder a la red completa, en caso de que ocurra una brecha de seguridad. Además, también proporciona una defensa efectiva en profundidad en términos de proporcionar obstáculos adicionales que los atacantes deben superar para acceder a ciertos tipos de datos.
-En una red plana, un atacante que consigue acceso o posibilidad de ejecución, podrá alcanzar TODOS los equipos conectados, posibilitando el movimiento lateral. Esto no sucede así, en una red segmentada.
+En una red plana, un atacante que consigue acceso o posibilidad de ejecución, podrá alcanzar TODOS los equipos conectados, posibilitando el movimiento lateral. Esto no sucede así, en una red debidamente segmentada o segregada.
 
 Ver también [Modelos de interconexión según la guía CCN-STIC-811](#modelos-de-interconexion-segun-la-guia-ccn-stic-811)
 
-### Protección de aplicaciones
-Pendiente de desarrollar
+### Minimio privilegio
+El principio de mínimo privilegio es un concepto esencial en seguridad. La idea del mínimo privilegio es que cualquier usuario, aplicación, etc. debe tener solo los derechos y privilegios mínimos necesarios para realizar su función. Por ejemplo, los usuarios del departamento financiero no deberían tener el mismo nivel de acceso que los usuarios del departamento de ingeniería.
+
+El privilegio mínimo ayuda a reducir la superficie de ataque al eliminar los derechos y privilegios innecesarios que pueden provocar incidentes de seguridad, como una violación de datos importante. Por ejemplo, la Agencia de Seguridad Nacional (NSA) tuvo que reducir el número de personas que tenían acceso a información secreta después de que Edward Snowden filtrara datos clasificados.
+
+Las organizaciones también deben implementar verificaciones periódicas, posiblemente anuales, para detectar cualquier tipo de privilegio. La idea es evitar una acumulación gradual de derechos y privilegios más allá de lo que el sujeto necesita para realizar su función.
 
 ### Defensa en profundidad
-Pendiente de desarrollar
+Se refiere a un enfoque de seguridad de la información en el que una serie de mecanismos y controles de seguridad se colocan cuidadosamente para proteger la confidencialidad, integridad y disponibilidad de la red y los datos que contiene. Si bien ninguna mitigación individual puede detener todas las amenazas cibernéticas, juntas proporcionan mitigaciones contra una amplia variedad de amenazas al tiempo que incorporan redundancia en caso de que un mecanismo falle. Cuando tiene éxito, este enfoque refuerza significativamente la seguridad de la red contra muchos vectores de ataque.
+
+Varias capas de control proporcionan:
+* Múltiples oportunidades para que la monitorización detecte el ataque.
+* Controles adicionales que el atacante debe superar, lo que crea un retraso que puede interrumpir o prevenir el ataque.
+* A menudo es importante utilizar varios controles para proteger un activo. El número y tipos de capas necesarios es una función de cosas como:
+   * Valor de los activos y criticidad
+   * La confiabilidad de cada control
+   * El grado de exposición
+
+La defensa en profundidad también se puede ver en términos de arquitectura:
+* DEFENSA HORIZONTAL EN PROFUNDIDAD
+   * Los controles se colocan en varios lugares en la ruta de acceso para un activo
+* DEFENSA VERTICAL EN PROFUNDIDAD
+   * Los controles se colocan en diferentes capas del sistema
+   * Estas capas incluyen hardware, sistema operativo, aplicación, base de datos o niveles de usuario.
+
+
+### Monitorización
+Con el panorama de amenazas en constante evolución, la monitorizacíon no debería ser algo a configurar "a posteriori", sino que debería ser una de las primeras estrategias de defensa en la lista. Es fundamental disponer de la capacidad de monitorizar su red en busca de amenazas de seguridad, vulnerabilidades, comportamientos sospechosos, etc., y responder adecuadamente cuanto antes.
+
+La mayoría de las brechas de seguridad tarda meses o más en descubrirse. En muchos casos, un tercero, como la policía o un colaborador, descubre la brecha. El peor de los casos es cuando los clientes detectan la brecha.
+
 
 ### Criptografía
+
+Para que los datos estén seguros, deben estar protegidos durante todo su ciclo de vida. Por tanto, es importante tener en cuenta el estado de los datos que está intentando proteger:
+* Datos en movimiento: transmitidos a través de una red.
+* Datos en reposo: en su almacenamiento o en equipos de escritorio, portátiles, teléfonos móviles, tabletas y dispositivos Iot.
+* datos en uso: en proceso de ser generados, actualizados, borrados o visualizados.
+
+Cada tipo de datos presenta desafíos únicos. Y cada uno puede tener diferentes herramientas y metodologías que se pueden utilizar para asegurarlo.
+
+Los tipos de cifrado para datos en reposo incluyen los siguientes:
+* Cifrado de disco completo (FDE) para protección de endpoints.
+* Cifrado de disco completo con autenticación previa al arranque para protección de endpoints.
+* Módulo de seguridad de hardware (HSM) para la protección del ciclo de vida de la gestión de claves.
+* Sistema de cifrado de archivos (EFS) para proteger el almacenamiento.
+* Cifrado virtual para la protección del almacenamiento.
+* Cifrado de archivos y carpetas (FFE) para protección de datos no estructurados.
+* Cifrado de base de datos para protección de datos estructurados.
+
+Los tipos de cifrado para datos en movimiento incluyen (pero no se limitan a) los siguientes:
+* Red privada virtual (VPN) para acceso remoto
+* Acceso protegido Wi-Fi (WPA / WPA2 / WPA3) para acceso inalámbrico.
+* Capa de sockets seguros (SSL) para las comunicaciones del navegador web al servidor.
+* Secure Shell (SSH) para la administración segura de sistemas remotos.
+
 
 [Criptografía de empleo en el Esquema Nacional de Seguridad](https://www.ccn-cert.cni.es/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/513-ccn-stic-807-criptologia-de-empleo-en-el-ens/file.html) Guía del CCN que presenta los algoritmos criptográficos que han sido acreditados para su uso en el ENS, así como parámetros de los mismos (versiones, tamaño de claves...).
 
@@ -27,10 +76,19 @@ Recursos interesante:
 - [Crypto Go Game](https://www.cryptogogame.com/ES/juego) - Juego de cartas educativo sobre criptografía simétrica actual. El principal objetivo de _Crypto Go_ es   familiarizar a los jugadores de una manera lúdica y social con las principales herramientas criptográficas actuales,  su nivel de seguridad, y la forma correcta de combinarlas.
 
 ### Copias de Seguridad
-Pendiente de desarrollar
+Todos los responsables de sistemas y/o usuarios deben respaldar los datos críticos que tienen en sus equipos de escritorio, portátiles, servidores e incluso dispositivos móviles para protegerlos de pérdidas o corrupción. Guardar solo un archivo de respaldo puede no ser suficiente para salvaguardar
+la información. Para aumentar las posibilidades de recuperar datos perdidos o dañados, siga una estrateiga 3-2-1:
+* 3 - Guarde 3 copias de cualquier archivo importante: 1 principal y 2 copias de seguridad.
+* 2 - Mantenga los archivos en 2 tipos de medios diferentes para protegerlos contra diferentes tipos de peligros.
+* 1 - Guarde 1 copia fuera del sitio (por ejemplo, fuera de su hogar o instalación comercial).
+
+[US-CERT Data Backup Options](https://us-cert.cisa.gov/sites/default/files/publications/data_backup_options.pdf)
 
 ### Zero Trust
-Pendiente de desarrollar
+Se trata de un modelo de seguridad introducido por [John Kindervag en 2010](https://media.paloaltonetworks.com/documents/Forrester-No-More-Chewy-Centers.pdf) que se aleja de la vieja mentalidad de seguridad perimetral. Básicamente, las organizaciones no deben confiar automáticamente en nada dentro de su perímetro y, en cambio, siempre deben verificar todo lo que intenta conectarse a sus sistemas antes de otorgar acceso.
+
+El enfoque tradicional de seguridad de red de muchas organizaciones se basa en el concepto de castillo y foso, que se denomina seguridad perimetral. En este enfoque, las organizaciones se concentran en proteger su red desde el exterior, pero se confía en todos los que están dentro. La falla de este enfoque es que una vez que los ciberdelincuentes obtienen acceso a la red, son libres de causar estragos.
+
 
 ## Productos revisados por organismos independientes
 

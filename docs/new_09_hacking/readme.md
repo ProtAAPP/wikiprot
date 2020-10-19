@@ -35,6 +35,7 @@ Recursos interesantes:
 - [2020. AZURE AD INTRODUCTION FOR RED TEAMERS](https://www.synacktiv.com/en/publications/azure-ad-introduction-for-red-teamers.html)
 - [Attacking Azure, Azure AD, and Introducing PowerZure](https://posts.specterops.io/attacking-azure-azure-ad-and-introducing-powerzure-ca70b330511a)
 - [Abusing Azure AD SSO with the Primary Refresh Token](https://dirkjanm.io/abusing-azure-ad-sso-with-the-primary-refresh-token/)
+- [Penetration Tester's Guide to Evaluating OAuth 2.0](https://maxfieldchen.com/posts/2020-05-17-penetration-testers-guide-oauth-2.html)
 
 ### Auditorías Kubernetes
 
@@ -58,9 +59,10 @@ Recursos interesantes:
 
 ### Auditorías de aplicaciones móviles
 
-Recursos interesantes:
+Recursos interesantesg:
 - [Mobile Application Security Testing Distributions](https://hackersonlineclub.com/mobile-security-penetration-testing/)
 - [Where to find the OWASP Mobile Top 10 Vulnerabilities](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/Misc%20Content%20By%20SCSP/Where%20to%20find%20the%20OWASP%20Mobile%20Top%2010%20Vulnerabilities.pdf)
+- [The Top 5 Most Common Mobile App Security Flaws](https://www.allysonomalley.com/2020/06/23/the-top-5-most-common-mobile-app-security-flaws/)
 
 
 #### Android
@@ -92,3 +94,9 @@ Recursos generales:
 ## Otros recursos
 Lista de CTFs con orientación ofensiva (red):
 - []()
+
+Lista de "writeups" (soluciones) en CTFs:
+- [CTF Writeups]()https://medium.com/ctf-writeups
+
+Lista de "writeups" (soluciones) en BugBounties:
+- [+1500 List of bug bounty writeups](https://pentester.land/list-of-bug-bounty-writeups.html)
