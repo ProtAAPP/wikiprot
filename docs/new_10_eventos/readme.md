@@ -110,6 +110,7 @@
 - [Capital Radio. Afterwork](https://www.monicavalle.es/ciberseguridad-en-capital-radio/) Ciberseguridad con Monica Valle y Pablo San Emeterio.
 
 ### Blogs
+#### Blogs en español
 - [Un Informático en el lado del mal](https://www.elladodelmal.com/)
 - [Security By Default](http://www.securitybydefault.com/)
 - [Dragonjar](http://www.dragonjar.org/)
@@ -119,6 +120,25 @@
 - [Hack Players](https://www.hackplayers.com/)
 - [INSEGUROS](http://kinomakino.blogspot.com/)
 - [Hypertextual](http://kinomakino.blogspot.com/)
+
+#### Blogs en inglés
+- [Dark Reading](http://www.darkreading.com/)
+- [Darknet](http://www.darknet.org.uk/)
+- [F-Secure](https://www.f-secure.com/weblog/)
+- [Google Security](http://googleonlinesecurity.blogspot.com/)
+- [Graham Cluley](https://grahamcluley.com/)
+- [Naked Security](https://nakedsecurity.sophos.com/)
+- [The Hackers News](http://thehackernews.com/)
+- [Taosecurity](http://taosecurity.blogspot.com/)
+- [ThreatPost](https://threatpost.com/)
+- [Krebs on Security](http://krebsonsecurity.com/)
+- [Threat Level](http://www.wired.com/category/threatlevel)
+- [Dan Kaminsky](http://dankaminsky.com/)
+- [Security Weekly](http://securityweekly.com/)
+- [It Security Guru](http://www.itsecurityguru.org/)
+- [Hacking Articles](http://www.hackingarticles.in/)
+- [Social Engineer](http://www.social-engineer.org/blog/)
+
 
 ### Libros
 - [We Have Root](https://www.schneier.com/books/root/) Bruce Schneier. Inglés. 2019.
