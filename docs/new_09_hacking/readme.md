@@ -1,4 +1,4 @@
-# Auditorías y pentesting
+# Auditorías y Pentesting
 
 [[TOC]]
 

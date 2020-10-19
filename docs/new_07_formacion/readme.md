@@ -10,9 +10,11 @@
 ### Cursos Online
 - [C1berWall Academy](https://www.ecteg.eu/c1b3rwall-academy-es/)
 - Cursos de ciberseguridad en Coursera, [English](https://www.coursera.org/courses?query=cybersecurity)
+<!--
 - [2020. Become an Azure Sentinel Ninja: The complete level 400 training](https://techcommunity.microsoft.com/t5/azure-sentinel/become-an-azure-sentinel-ninja-the-complete-level-400-training/ba-p/1246310)
+-->
 - [2019. Zero to Hero: A practical network penetration testing course](https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj)
-- [Sesiones formativos del CCN](https://vanesa.ccn-cert.cni.es/userportal/#/home/main) VANESA.
+- [Sesiones formativas del CCN](https://vanesa.ccn-cert.cni.es/userportal/#/home/main) VANESA.
 
 ### Eventos de tipo competitivo
 - [NATIONAL CYBERLEAGUE](https://www.nationalcyberleague.es/) Promovido por la Guardia Civil.

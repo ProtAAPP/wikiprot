@@ -68,6 +68,9 @@
 * [Govware](https://www.govware.sg/) Singapur.
 * [Mind The Sec](https://www.mindthesec.com.br/) Brasil.
 
+### Eventos de tipo competitivo
+- [NATIONAL CYBERLEAGUE](https://www.nationalcyberleague.es/) Promovido por la Guardia Civil.
+
 ### Otros formatos de eventos
 - [Hack & Beers](https://hackandbeers.es/). Ponencias gratuitas para interesados en la seguridad informática. Ambiente distendido y acompañando las charlas con unas Beers.
 

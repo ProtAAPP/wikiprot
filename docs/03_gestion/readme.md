@@ -1,4 +1,4 @@
-# Gestión de la seguridad de la información
+# Gestión de la Seguridad de la Información
 
 [[TOC]]
 
