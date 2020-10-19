@@ -9,12 +9,6 @@ Pendiente de desarrollar: auditoría de seguridad vs auditoría de vulnerabilida
 ## Auditoría de Seguridad
 ¿Qué es una auditoría y por qué es importante que los organismos auditen sus sistemas/servicios?
 
-Recursos generales:
-- [Pentesting cheatsheet](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE/blob/master/7-part-100-article/Pentesting%20Cheatsheet22.pdf)
-- [Red Teaming Toolkit Collection](https://0xsp.com/offensive/red-teaming-toolkit-collection)
-- [346 consejos para RedTeams](https://vincentyiu.com/red-team-tips)
-- [Compilación de recursos de todo tipo](https://github.com/scspcommunity/Cyber-Sec-Resources)
-
 Soluciones del CCN
 - [ANA](https://www.ccn-cert.cni.es/soluciones-seguridad/ana.html). Carga los resultados de auditorías realizadas con otras herramientas y permite "gestionar" el ciclo de vida de las vulnerabilidades.
 
@@ -81,6 +75,13 @@ Pendiente de desarrollar
 
 ## Pentesting
 Pendiente de desarrollar
+
+Recursos generales:
+- [Pentesting cheatsheet](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE/blob/master/7-part-100-article/Pentesting%20Cheatsheet22.pdf)
+- [Red Teaming Toolkit Collection](https://0xsp.com/offensive/red-teaming-toolkit-collection)
+- [346 consejos para RedTeams](https://vincentyiu.com/red-team-tips)
+- [Compilación de recursos de todo tipo](https://github.com/scspcommunity/Cyber-Sec-Resources)
+
 
 ## Ejercicios ReadTeam
 ¿Qué es un ReadTeam? ¿Cual su propósito?
