@@ -62,9 +62,10 @@ Los requisitos para poder colaborar en el desarrollo de esta guía son:
 8. ¡ya está! listo para insertar tu primera aportación 
 
 
-### Pasos de instalación
+### Instalación para preparar el entorno
 
-Una vez cumplidos los requisitos definidos en el apartado anterior, una vez hecho el fork lo primero es descargarse la última versión del repositorio, antes de modificar ningún contenido. 
+Una vez cumplidos los requisitos definidos en el apartado anterior, una vez hecho el fork lo primero es descargarse 
+la última versión del repositorio, antes de modificar ningún contenido. 
 
 Si fuera la primera vez que me descargo el respositorio:
 
@@ -83,8 +84,12 @@ git pull                     # Traer los últimos cambios
 yarn install                 # Instalar/actualizar librerías. Ejecutar siempre  
 ```
 
-*(Si no tienes conocimientos suficientes de git o no puedes instalarlo, es posible utilizar Github para navegar a través de
-las carpetas del repositorio [para editar, previsualizar y enviar contenidos.](https://docs.github.com/es/free-pro-team@latest/github/managing-files-in-a-repository/editing-files-in-your-repository))*
+*(Si no tienes conocimientos suficientes de git o no puedes instalarlo, es posible utilizar Github para navegar 
+a través de las carpetas del repositorio
+[para editar, previsualizar y enviar contenidos.](https://docs.github.com/es/free-pro-team@latest/github/managing-files-in-a-repository/editing-files-in-your-repository))*
+
+
+### Modificar contenidos del repositorio
 
 Ahora toca **modificar los ficheros markdown** para introducir o modificar los contenidos de la guía. Gracias por aportar
 tus conocimientos a la causa. Se puede utilizar cualquier editor de texto 
@@ -101,6 +106,11 @@ yarn dev
 Ahora abre un navegador (firefox, chrome, edge...) y entra en [http://localhost:8080](http://localhost:8080), donde podrás 
 ver este repositorio. Cada vez que cambies una palabra de la documentación y guardes el fichero, el cambio se reflejará
 automáticmaente en el navegador.
+
+:::warning Cuidado: El menú lateral no se actualiza automáticamente
+Si introduces nuevas secciones en los ficheros markdown, para que el menú lateral "se entere" habrás de 
+parar el servidor y volver a ejecutar ```yarn dev```  
+:::
 
 Si tienes dos monitores, lo suyo es tener en un monitor el programa en el que estés editando los ficheros, y en el otro
 monitor tener abierto el navegador para ver cómo van quedando los cambios en el momento.
@@ -150,3 +160,39 @@ Entornos para practicar:
 
 
 
+### Organizando los contenidos
+
+A la hora de **organizar los contenidos de este repositorio**, existe una primera jerarquía de apartados principales 
+que se muestran en el menú lateral, y que está definida por el equipo que ha puesto en marcha la iniciativa. Este primer
+ nivel no se puede modificar sin debatirlo, y está configurado de forma fija para el repositorio.
+
+Dentro de cada sección principal, se podrán ir incluyendo secciones de segundo y tercer nivel, simplemente incluyendo 
+títulos en markdown en los archivos _.md_. El menú del repositorio se construye dinámicamente para adaptarse al contenido de 
+los ficheros _.md_, razón por la cual existe mucha más libertad para este tipo de subapartados.
+
+**Cada sección** en principio debe seguir una estructura aproximada a la siguiente:
+
+1. **Descripción concisa, clara y breve del concepto**. Aunque pueda parecerte algo evidente, no todo el mundo conoce o está 
+   familiarizado con todos los conceptos de seguridad. Por esta razón, es recomendable iniciar cada sección con una breve descripción.
+
+2. En su caso, y de forma opcional, un mayor desarrollo explicativo.
+
+3. **Referencias importantes** que permitan profundizar sobre el tema, con un objetivo didáctivo. Pueden ser referencias 
+   a la wikipedia, a artículos de calidad u otros enlaces que permitan obtener un conocimiento más profundo.
+
+4. **Herramientas** y productos útiles relacionados con la sección. Debe indicarse de forma clara **si son gratuitos**, 
+   de software libre, o tienen algún coste o limitación. Estas herramientas deben ser referenciadas con un enlace a su
+   página oficial.
+
+5. Desarrollos en mayor profundidad. Si se desea incluir en WikiProt un mayor desarrollo de algún concepto o herramienta,
+   lo adecuado es hacerlo en otro fichero markdown que se referencie desde este punto. Por ejemplo, podrían incluirse ejemplos
+   de configuraciones de un servidor web, o trozos de código fuente explicando cómo se lleva a la práctica un concepto en
+   varios lenguajes de programación, o el detalle de cómo fue un evento de ProtAAPP con sus fotos y presentaciones.
+
+6. Es muy valioso incluir "tips", "warnings" o mensajes de advertencia "danger" para alertar sobre trucos, consejos, 
+   avisos o peligros a conocer. Por ejemplo, este "tip":
+   
+::: tip Vas por buen camino
+Esta sección es de obligada lectura antes de aportar tu granito de arena. Por cierto, ¡muchas gracias!
+:::   
+   
