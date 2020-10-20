@@ -128,6 +128,17 @@ Referencias:
 - [Magerit v3](https://administracionelectronica.gob.es/pae_Home/pae_Documentacion/pae_Metodolog/pae_Magerit.html) Metodología para el análisis y gestión de riesgos.
 - [PILAR](https://pilar.ccn-cert.cni.es/) Conjunto de soluciones del CCN para la realización del análisis de riesgos.
 
+### Normativa de seguridad
+- [ENS. Normas de seguridad](https://www.ccn-cert.cni.es/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/529-ccn-stic-821-normas-de-seguridad-en-el-ens/file.html)
+- [ENS. Apéndice I. NG 00 Utilización de recursos y sistemas](https://www.ccn-cert.cni.es/publico/seriesCCN-STIC/series/800-Esquema_Nacional_de_Seguridad/821-Normas_de_Seguridad_en_el_ENS/821-Normas_de_seguridad-abr13-NG00.pdf)
+- [ENS. Apéndice II. NP 10 Normas de acceso a Internet](https://www.ccn-cert.cni.es/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/531-ccn-stic-821-normas-de-seguridad-en-el-ens-anexo-ii/file.html)
+- [ENS. Apéndice III. NP 20 Normas de acceso al correo Electrónico (E-Mail)](https://www.ccn-cert.cni.es/publico/seriesCCN-STIC/series/800-Esquema_Nacional_de_Seguridad/821-Normas_de_Seguridad_en_el_ENS/821-Normas_de_seguridad-abr13-NP20.pdf)
+- [ENS. Apéndice IV. NP 30 Normas para trabajar fuera de las instalaciones del organismo](https://www.ccn-cert.cni.es/publico/seriesCCN-STIC/series/800-Esquema_Nacional_de_Seguridad/821-Normas_de_Seguridad_en_el_ENS/821-Normas_de_seguridad-abr13-NP30.pdf)
+- [ENS. Apéndice V. NP 40 Normas de creación y uso de contraseñas](https://www.ccn-cert.cni.es/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/534-ccn-stic-821-normas-de-seguridad-en-el-ens-anexo-v/file.html)
+- [ENS. Apéndice VI. NP 50 Acuerdo de confidencialidad para terceros](https://www.ccn-cert.cni.es/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/535-ccn-stic-821-normas-de-seguridad-en-el-ens-anexo-vi/file.html)
+- [ENS. Apéndice VII. NP 60 Modelo de contenido de buenas prácticas para terceros](https://www.ccn-cert.cni.es/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/536-ccn-stic-821-normas-de-seguridad-en-el-ens-anexo-vii/file.html)
+- [ENS. Apéndice VIII. NP 70 Normativa de uso de redes sociales](https://www.ccn-cert.cni.es/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/2722-821-ccn-stic-apendice-viii/file.html)
+
 ### Gestión de personal
    
 Todo el personal relacionado con la información y los sistemas deberá ser formado e informado de sus deberes y obligaciones en materia de seguridad.
