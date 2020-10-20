@@ -155,8 +155,8 @@ Cada usuario que acceda a la información del sistema debe estar **identificado 
 ### Plan de formación y concienciación
 Pendinete de desarrollar
 <!--
-- [ProofPoint](https://www.proofpoint.com/es/products/security-awareness-training)
-- [Firewall Mindset](https://thefirewallmindset.com/?utm_source=web&utm_medium=Entelgy&utm_campaign=TFMSficha)
+ [ProofPoint](https://www.proofpoint.com/es/products/security-awareness-training)
+ [Firewall Mindset](https://thefirewallmindset.com/?utm_source=web&utm_medium=Entelgy&utm_campaign=TFMSficha)
 -->
 
 ### Gestión Incidentes de seguridad
