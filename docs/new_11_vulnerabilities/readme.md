@@ -25,3 +25,5 @@ A modo de orientativo, en los siguientes casos el [gobierno USA](https://cyber.d
 - [2020-03](https://cyber.dhs.gov/ed/20-03/) Windows DNS server.
 - [2020-02](https://cyber.dhs.gov/ed/20-02/) Problema con las curvas elípitcas.
 - [2019-01](https://cyber.dhs.gov/ed/19-01/) DNS
+
+Y lista de la NSA (octubre 2020) con las 25 vulnerabilidades que los grupos de APTs chinos, mas están utilizando [aquí](https://www.zdnet.com/article/nsa-publishes-list-of-top-25-vulnerabilities-currently-targeted-by-chinese-hackers/)
