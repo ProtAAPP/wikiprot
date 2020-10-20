@@ -16,6 +16,11 @@
 - [2019. Zero to Hero: A practical network penetration testing course](https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj)
 - [Sesiones formativas del CCN](https://vanesa.ccn-cert.cni.es/userportal/#/home/main) VANESA.
 
+### Certificaciones
+[Enlace a imagen tamaño completo](https://i.redd.it/yo33xlys53141.png)
+![IMG](./img/certifications.png)
+
+
 ### Eventos de tipo competitivo
 - [NATIONAL CYBERLEAGUE](https://www.nationalcyberleague.es/) Promovido por la Guardia Civil.
 
