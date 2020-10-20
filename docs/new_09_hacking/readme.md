@@ -83,6 +83,7 @@ Recursos generales:
 - [Red Teaming Toolkit Collection](https://0xsp.com/offensive/red-teaming-toolkit-collection)
 - [346 consejos para RedTeams](https://vincentyiu.com/red-team-tips)
 - [Compilación de recursos de todo tipo](https://github.com/scspcommunity/Cyber-Sec-Resources)
+- [10 formas de atacar el mecanismo de reseteo de contraseñas](https://www.anugrahsr.me/posts/10-Password-reset-flaws/)
 
 
 ## Ejercicios ReadTeam
