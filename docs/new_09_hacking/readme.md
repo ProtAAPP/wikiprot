@@ -3,6 +3,9 @@
 [[TOC]]
 
 ## Tipos de auditorías
+
+Auditorías de Seguridad vs Auditoría de vulnerabilidades vs Pruebas de penetración
+
 ### Auditoría de Seguridad
 Una auditoría de seguridad se puede describir como una evaluación sistemática de las defensas de la infraestructura de TI de su organización. Durante el transcurso de esta revisión, los auditores medirán lo bien o mal que sus protocolos de seguridad cumplen con una lista de criterios establecidos para validar su postura de seguridad.
 
@@ -49,6 +52,8 @@ Esta simulación imita aquellos ataques en los que los atacantes (ya sea interna
 
 ## Soluciones del CCN en materia de auditorías
 - [ANA](https://www.ccn-cert.cni.es/soluciones-seguridad/ana.html). Carga los resultados de auditorías realizadas con otras herramientas y permite "gestionar" el ciclo de vida de las vulnerabilidades.
+
+## Auditorías según tecnología
 
 ### Escaneo de Vulnerabilidades
 - [Vulnerability Scanning Tools](https://owasp.org/www-community/Vulnerability_Scanning_Tools)
