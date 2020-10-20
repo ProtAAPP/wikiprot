@@ -3,15 +3,52 @@
 [[TOC]]
 
 ## Tipos de auditorías
-Pendiente de desarrollar: auditoría de seguridad vs auditoría de vulnerabilidads vs pentesting.
+### Auditoría de Seguridad
+Una auditoría de seguridad se puede describir como una evaluación sistemática de las defensas de la infraestructura de TI de su organización. Durante el transcurso de esta revisión, los auditores medirán lo bien o mal que sus protocolos de seguridad cumplen con una lista de criterios establecidos para validar su postura de seguridad.
 
+Estas auditorías deben ser exhaustivas y realizarse de forma regular para proteger sus datos y activos digitales. Si se encuentra en una industria altamente regulada (banca, salud, defensa), participar en esta actividad también ayudará a su empresa a garantizar el cumplimiento con la normas exigidas.
 
-## Auditoría de Seguridad
-¿Qué es una auditoría y por qué es importante que los organismos auditen sus sistemas/servicios?
+### Evaluación de Vulnerabilidades (o Auditoría de vulnerabilidades)
+Una evaluación de vulnerabilidades, sin embargo, analiza las vulnerabilidades en el sistema de información (a menudo utilizando herramientas automatizadas) pero no proporciona ninguna indicación de si las vulnerabilidades pueden explotarse o cuánto podría costarle a la empresa una brecha o un ataque de ransomware exitoso.
 
-Soluciones del CCN
+Este enfoque tiene limitaciones, ya que el software de escaneo de vulnerabilidades solo analiza su sistema basándose en vulnerabilidades comunes pasadas. Por tanto, si está realizando una evaluación de vulnerabilidades, es muy importante que el software esté actualizado. 
+
+### Pruebas de penetración
+Las pruebas de penetración van más allá de las auditorías de seguridad y las evaluaciones de vulnerabilidades al intentar vulnerar su sistema como un atacante. En este escenario, el pentester intentará replicar los mismos métodos empleados por los atacantes para determinar si su infraestructura de TI podría resistir un ataque similar.
+
+A menudo, las pruebas de penetración implicarán el uso de múltiples enfoques en conjunto para intentar vulnerar el sistema. Esto es muy efectivo ya que está simulando los mismos métodos empleados por los atacantes del mundo real.
+
+Existen diferentes tipos de pruebas de penetración:
+#### Pruebas de penetración externa
+Las pruebas de penetración externas se centran en los sistemas expuestos públicamente en Internet o redes externas. 
+
+#### Pruebas de penetración interna
+Las pruebas de penetración interna se enfocan en todos sus sistemas conectados a redes internas (no expuestos directamente en Internet). 
+
+#### Pruebas de penetración híbridas
+Las pruebas de penetración híbrida aprovechan los ataques externos e internos para determinar si un enfoque combinado puede conducir a una brecha de seguridad. 
+
+Para llevar a cabo este tipo de pruebas de penetración, los auditores/pentesters podrán emplear tres enfoques durante los "ataques".
+
+#### Pruebas de caja negra
+Las pruebas de penetración de caja negra implican pruebas de penetración externas en las que el atacante no tiene conocimiento previo del sistema. Apuntarán a su red como lo haría cualquier atacante para intentar obtener acceso a su red interna.
+
+Este enfoque simula ataques del mundo real y contribuye en gran medida a reducir los falsos positivos. 
+
+#### Pruebas de caja blanca
+Las pruebas de penetración de caja blanca son lo opuesto a las pruebas de penetración de caja negra, ya que se proporcionará a los atacantes con un conocimiento detallado de la infraestructura de TI de la organización así como de la postura de seguridad actual. Esto podría implicar que conociesen:
+* Código fuente del sistema de información
+* Direcciones IP
+* Entorno de red
+* Sistema operativo (incluida la versión actual)
+
+#### Pruebas de caja gris
+El enfoque de prueba de caja gris encuentra un equilibrio entre las pruebas de caja negra y caja blanca. En este escenario, los atacantes tendrán algún conocimiento sobre la infraestructura interna y externa.
+
+Esta simulación imita aquellos ataques en los que los atacantes (ya sea interna o externamente) acceden al sistema con privilegios de acceso restringido. 
+
+## Soluciones del CCN en materia de auditorías
 - [ANA](https://www.ccn-cert.cni.es/soluciones-seguridad/ana.html). Carga los resultados de auditorías realizadas con otras herramientas y permite "gestionar" el ciclo de vida de las vulnerabilidades.
-
 
 ### Escaneo de Vulnerabilidades
 - [Vulnerability Scanning Tools](https://owasp.org/www-community/Vulnerability_Scanning_Tools)
@@ -84,6 +121,7 @@ Recursos generales:
 - [346 consejos para RedTeams](https://vincentyiu.com/red-team-tips)
 - [Compilación de recursos de todo tipo](https://github.com/scspcommunity/Cyber-Sec-Resources)
 - [10 formas de atacar el mecanismo de reseteo de contraseñas](https://www.anugrahsr.me/posts/10-Password-reset-flaws/)
+- [shodan.io for pentesters](https://www.defcon.org/images/defcon-18/dc-18-presentations/Schearer/DEFCON-18-Schearer-SHODAN.pdf)
 
 
 ## Ejercicios ReadTeam
