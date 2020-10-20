@@ -13,7 +13,7 @@ informática.
 
 - Estrategias:
     - [2017. Estrategia de Seguridad Nacional](https://www.dsn.gob.es/estrategias-publicaciones/estrategias/estrategia-seguridad-nacional-2017)
-    - [2019. Estrategia de Ciberseguridad Nacional](https://www.dsn.gob.es/documento/estrategia-nacional-ciberseguridad-2019)
+    - [2019. Estrategia Nacional de Ciberseguridad](https://www.dsn.gob.es/documento/estrategia-nacional-ciberseguridad-2019)
 
 - Normativa de alto nivel:
     - [RD 3/2010](https://www.boe.es/buscar/act.php?id=BOE-A-2010-1330) Esquema Nacional de Seguridad en el ámbito de la Administración Electrónica.
