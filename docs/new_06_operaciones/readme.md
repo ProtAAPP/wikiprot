@@ -98,17 +98,20 @@ Ejemplos de alertas que se pueden configurar con honeytokens:
 
 
 
-
-
 ### Respondiendo a Ransomware
+Pendiente de desarrollar
 
 ### Respondiendo a DDoS
+Pendiente de desarrollar
 
 ### Respondiendo a brechas de seguridad
+Pendiente de desarrollar
 
 ### SOAR / Playbooks
+Pendiente de desarrollar
 
 ### Análisis Forense
+Pendiente de desarrollar
 
 ## Otros recursos
 Lista de CTFs con orientación defensiva (blue):
