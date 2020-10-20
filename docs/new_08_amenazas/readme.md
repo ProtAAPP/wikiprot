@@ -14,6 +14,8 @@ Los atacantes con capacidades avanzadas (APTs) se nombrar como APT-XX. En esta [
 
 ## Informes sobre ciberamenazas
 - [2020. Informe Anual sobre Ciberamenazas y Tendencias. CCN](https://www.ccn-cert.cni.es/informes/informes-ccn-cert-publicos/5377-ccn-cert-ia-13-20-ciberamenazas-y-tendencias-edicion-2020/file.html)
+- [2020. ENISA Threat Landscape - The year in review](https://www.enisa.europa.eu/publications/year-in-review/at_download/fullReport)
+- [2020. ENISA Threat Landscape. List of top 15 threats](https://www.enisa.europa.eu/publications/enisa-threat-landscape-2020-list-of-top-15-threats/at_download/fullReport)
 - [2019. Informe Anual sobre Hacktivismo y Ciberyihadismo. CCN](https://www.ccn-cert.cni.es/informes/informes-ccn-cert-publicos/4714-ccn-cert-ia-04-20-informe-anual-2019-hactivismo-y-ciberyihadismo-1/file.html)
 - [Lista de informes públicados por el CCN](https://www.ccn-cert.cni.es/informes/informes-ccn-cert-publicos.html?limit=100)
 
