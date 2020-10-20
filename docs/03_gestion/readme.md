@@ -158,6 +158,9 @@ Referencias:
 En la adquisición de productos de seguridad de las TIC que vayan a ser empleados por las AAPP se utilizarán, de forma proporcionada a la categoría del sistema y nivel de seguridad determinados, aquellos que tengan **certificada la funcionalidad de seguridad** relacionada con el objeto de su adquisición, salvo en aquellos casos en que las exigencias de proporcionalidad en cuanto a los riesgos asumidos no lo justifiquen a juicio del responsable de Seguridad.
 Ver [Catálogo CCN-STIC](../new_04_tecnologias/readme.md#catalogo-de-productos-de-seguridad-de-las-tecnologias-de-la-informacion-y-la-comunicacion)
 
+### Clausulado de Seguridad en la contratación pública
+Pendiente de desarrollar
+
 ### Auditorías de Cumplimiento
 
 - [CCN-STIC-802](https://www.ccn-cert.cni.es/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/502-ccn-stic-802-auditoria-del-ens/file.html) ENS. Guía de auditoría.
