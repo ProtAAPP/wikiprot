@@ -94,13 +94,12 @@ Ejemplos de alertas que se pueden configurar con honeytokens:
 ### Procedimientos generales de alto nivel
 
 - [GUÍA NACIONAL DE NOTIFICACIÓN Y GESTIÓN DE CIBERINCIDENTES](https://www.incibe-cert.es/sites/default/files/contenidos/guias/doc/guia_nacional_notificacion_gestion_ciberincidentes.pdf) aprobada por el Consejo Nacional de Ciberseguridad. 2020.
+![IMG](./img/ventanilla.png)
+
 - [CCN-STIC-817](https://www.ccn-cert.cni.es/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/988-ccn-stic-817-gestion-de-ciberincidentes/file.html)Esquema Nacional de Seguridad. Gestión de ciberincidentes
-
-
 ![IMG](./img/cicloincidentes.png)
 <!--![IMG](./img/clasificacioninc.png)-->
 ![IMG](./img/817peligrosidad.png)
-![IMG](./img/ventanilla.png)
 
 
 
