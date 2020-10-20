@@ -35,8 +35,9 @@ de las infraestructuras críticas.
 ### Normativa sobre Protección de datos en España:
 
 - [Ley Orgánica 3/2018](https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673) Protección de Datos Personales y garantía de los derechos digitales
+<!--
 - [RD 1720/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2008-979) Reglamento de desarrollo de protección de datos de carácter personal
-
+-->
 
 ### Normativa europea
 - [2016. Directiva NIS](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A32016L1148)
