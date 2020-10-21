@@ -187,4 +187,91 @@ Pendiente de desarrollar
 [Presentación](https://www.nist.gov/document/cybersecurityframeworkv1-1presentationpptx)
 ![NIST CSF](./img/nist01.png)
 
+## CIS (Critical Security Controls)
+Extraido de [Center For Internet Security](http://www.cisecurity.org/controls/), con licencia Creative Commons Attribution-Non-Commercial-No Derivatives 4.0 International Public License.
+
+[PDF](/docs/cis-controls-v71.pdf) CIS Security Controls v7.1
+[Excel](/docs/cis-controls-v71.xlsx) CIS Security Controls v7.1
+
+### Basics (1-6)
+#### 1. Inventario y control de activos de hardware
+Administración activa (inventario, seguimiento y corrección) de todos los dispositivos de hardware en la red para que solo los dispositivos autorizados tengan acceso, y aquellos dispositivos que no estén autorizados ni gestionados, sean localizados y se les impide el acceso.
+
+#### 2. Inventario y control de activos de software
+Administración activa (inventariar, rastrear y corregir) de todo el software en la red para que solo el software autorizado está instalado y puede ejecutarse, y que todo el software no autorizado y no administrado, sea localizado y se impide su instalación o ejecución.
+
+#### 3. Gestión continua de vulnerabilidades 
+Obtener, evaluar y tomar acciones continuamente sobre nueva información para identificar vulnerabilidades, remediar y minimizar la ventana de oportunidad para los atacantes.
+
+#### 4. Uso controlado de privilegios administrativos
+Los procesos y herramientas utilizados para rastrear / controlar / prevenir / corregir el uso, asignación y
+configuración de privilegios administrativos en equipos, redes y aplicaciones.
+
+#### 5. Configuración segura de hardware y software en dispositivos móviles, equipos portátiles, puestos de trabajo y servidores
+Establecer, implementar y administrar activamente (realizar un seguimiento, informar y corregir) la configuración de seguridad
+de dispositivos móviles, portátiles, servidores y puestos de trabajo con una configuración rigurosa de gestión y control de cambios, para evitar que los atacantes exploten servicios y entornos vulnerables.
+
+#### 6. Mantenimiento, seguimiento y análisis de registros de auditoría
+Recopilar, administrar y analizar los registros de auditoría de eventos que podrían ayudar a detectar, comprender o recuperarse de un ataque.
+
+### Foundational (7-16)
+
+#### 7.Protecciones de correo electrónico y navegador web
+Minimizar la superficie de ataque y las oportunidades para que los atacantes manipulen el comportamiento humano, a través de su interacción con navegadores web y sistemas de correo electrónico
+
+#### 8. Defensas contra malware
+Controlar la instalación, propagación y ejecución de código malicioso en varios puntos de la organización, mientras se optimiza el uso de la automatización para permitir una actualización rápida de los datos de defensa, recolección y acción correctiva.
+
+#### 9. Limitación y control de puertos de red, Protocolos y servicios
+Gestionar (rastrear / controlar / corregir) el uso operativo continuo de puertos, protocolos y servicios.
+
+#### 10. Capacidades de recuperación de datos
+Los procesos y herramientas utilizados para respaldar adecuadamente la información crítica con una metodología probada.
+para la recuperación oportuna de la misma.
+
+#### 11. Configuración segura para dispositivos de red, como cortafuegos, enrutadores y conmutadores
+Establecer, implementar y administrar activamente (rastrear, informar, corregir) la configuración de seguridad de
+Dispositivos de infraestructura de red que utilizan una gestión rigurosa de configuración y control de cambios, para evitar que los atacantes exploten servicios y configuraciones vulnerables.
+
+#### 12. Protección perimetral
+Detectar / prevenir / corregir el flujo de información que se transfiere a través de redes de diferente nivel de confianza con un enfoque en datos puedan ser dañinos para la seguridad.
+
+#### 13. Protección de Datos
+Los procesos y herramientas utilizados para prevenir la filtración de datos, mitigar los efectos de la filtración de datos,
+y garantizar la privacidad e integridad de la información confidencial.
+
+#### 14. Acceso controlado basado en la necesidad de saber
+Los procesos y herramientas utilizados para rastrear / controlar / prevenir / corregir el acceso seguro a activos críticos
+(por ejemplo, información, recursos, sistemas) de acuerdo con la determinación formal de qué personas, que equipos y qué aplicaciones tienen la necesidad y el derecho de acceder a estos activos críticos basado en una clasificación aprobada.
+
+#### 15. Control de acceso inalámbrico 
+Los procesos y herramientas utilizados para rastrear / controlar / prevenir / corregir el uso seguro del área local inalámbrica
+redes (WLAN), puntos de acceso y sistemas de clientes inalámbricos.
+
+#### 16. Seguimiento y control de cuentas
+Administrar activamente el ciclo de vida de las cuentas de aplicaciones y sistemas - su creación, uso, inactividad, eliminación - con el fin de minimizar las oportunidades de que los atacantes los aprovechen.
+
+
+### Organizational (17-20)
+#### 17. Implementar un programa de capacitación y concientización sobre seguridad
+Para todos los roles funcionales en la organización (priorizando aquellos de misión crítica para el negocio y su seguridad), identificar los conocimientos, habilidades y habilidades específicos necesarios para apoyar la defensa de la organización; desarrollar y ejecutar un plan integrado para evaluar, identificar brechas y remediar a través de programas de políticas, planificación organizacional, capacitación y concienciación, en mateira de seguridad.
+
+#### 18. Seguridad del software de aplicación
+Gestionar el ciclo de vida de seguridad de todo el software desarrollado y adquirido internamente para prevenir, detectar y corregir las debilidades de seguridad.
+
+#### 19. Gestión y respuesta a incidentes
+Proteger la información de la organización, así como su reputación, desarrollando e implementando una infraestructura de respuesta a incidentes (por ejemplo, planes, roles definidos, capacitación, comunicaciones, supervisión de la gestión) para descubrir rápidamente un ataque y luego contener eficazmente el daño, erradicar la presencia del atacante y restaurar la integridad de la red y sistemas.
+
+#### 20. Pruebas de penetración y ejercicios de RedTeam
+Poner a prueba la solidez general de la defensa de una organización (la tecnología, los procesos y las personas) simulando los objetivos y acciones de un atacante.
+
+## Comparativa de controles entre frameworks
+Pendiente de desarrollar un mapeo de controles entre los diferentes frameworks.
+
+
+
+
+
+
+
 
