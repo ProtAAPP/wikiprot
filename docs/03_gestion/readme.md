@@ -265,8 +265,13 @@ Proteger la información de la organización, así como su reputación, desarrol
 #### 20. Pruebas de penetración y ejercicios de RedTeam
 Poner a prueba la solidez general de la defensa de una organización (la tecnología, los procesos y las personas) simulando los objetivos y acciones de un atacante.
 
-## Comparativa de controles entre frameworks
-Pendiente de desarrollar un mapeo de controles entre los diferentes frameworks.
+### Recursos interesantes sobre CIS (Critital Security Controls)
+- [AuditScripts Critical Security Control Executive Assessment Tool](https://www.auditscripts.com/download/2788/)
+- [CIS Critical Security Control v7.1 Assessment Tool](https://www.auditscripts.com/download/4229/)
+- [AuditScripts Critical Security Controls Master Mapping](https://www.auditscripts.com/download/2742/)
+- [2011. A Small Business No Budget Implementation of the SANS 20 Security Controls](https://www.sans.org/reading-room/whitepapers/hsoffice/small-business-budget-implementation-20-security-controls-33744)
+
+
 
 
 
