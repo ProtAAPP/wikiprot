@@ -8,6 +8,8 @@ Por tanto, la finalidad del Esquema Nacional de Seguridad es la creación de las
 
 ![IMG](./img/ens01.jpg)
 
+[Detalle de los 75 controles](https://www.ccn-cert.cni.es/publico/ens/ens/index.html#!1073)
+
 La adecuación ordenada al Esquema Nacional de Seguridad requiere el tratamiento de diversas cuestiones:
 
 - Preparar y aprobar la política de seguridad, incluyendo la definición de roles y la asignación de responsabilidades. (Véase [CCN-STIC 805 Política de seguridad de la información](https://www.ccn-cert.cni.es/publico/seriesCCN-STIC/series/800-Esquema_Nacional_de_Seguridad/805-Politica_de_seguridad_del_ENS/805-ENS_politica-sep11.pdf))
