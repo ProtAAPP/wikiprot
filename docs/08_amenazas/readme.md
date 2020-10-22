@@ -10,7 +10,7 @@ En función del origen y propósito de los atacantes podrían ser:
 * Hacktivismo
 * Insiders
 
-Los atacantes con capacidades avanzadas (APTs) se nombrar como APT-XX. En esta [lista](https://www.fireeye.com/current-threats/apt-groups.html), están recopilados algunos de los más importantes.
+Los atacantes con capacidades avanzadas (APTs) se nombran como APT-XX. En esta [lista](https://www.fireeye.com/current-threats/apt-groups.html), están recopilados algunos de los más importantes.
 
 ## Informes sobre ciberamenazas
 - [2020. Informe Anual sobre Ciberamenazas y Tendencias. CCN](https://www.ccn-cert.cni.es/informes/informes-ccn-cert-publicos/5377-ccn-cert-ia-13-20-ciberamenazas-y-tendencias-edicion-2020/file.html)
@@ -30,6 +30,8 @@ MITRE ha creado [ATT&CK](https://attack.mitre.org) que es una base de datos de c
 - [2019. USING ATT&CK TO ADVANCE CYBER THREAT INTELLIGENCE – PART 1](https://www.mitre.org/capabilities/cybersecurity/overview/cybersecurity-blog/using-attck-to-advance-cyber-threat)
 - [2019. Launching ATT&CK for ICS](https://medium.com/mitre-attack/launching-attack-for-ics-2be4d2fb9b8)
 
+### ATT&CK Initial Access
+- [Por dónde llegan los malos](https://attack.mitre.org/tactics/TA0001/)
 
 ## Tipos de Amenazas
 
