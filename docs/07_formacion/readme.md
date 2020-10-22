@@ -10,8 +10,9 @@
 ### Cursos Online
 - [C1berWall Academy](https://www.ecteg.eu/c1b3rwall-academy-es/)
 - Cursos de ciberseguridad en Coursera, [English](https://www.coursera.org/courses?query=cybersecurity)
-- [2019. Zero to Hero: A practical network penetration testing course](https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj)
 - [Sesiones formativas del CCN](https://vanesa.ccn-cert.cni.es/userportal/#/home/main) VANESA.
+- [Zero to Hero: A practical network penetration testing course](https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj)
+- [Hack Yourself First]() "How to go on The Cyber-Offense" por [Troy Hunt](www.troyhunt.com)
 
 ### Certificaciones
 [Enlace a imagen tamaño completo](https://i.redd.it/yo33xlys53141.png)
