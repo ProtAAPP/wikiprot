@@ -29,15 +29,16 @@
 ### Para empleados
 
 Recursos interesantes:
-- [Concienciación del CCN-CERT - Ciberconsejos](https://www.ccn.cni.es/index.php/es/ciberconsejos)
-- [Ciberconsejos CCN, Buenas prácticas en el empleo de tecnología](https://www.youtube.com/watch?v=uKNcqM0ZBEw)
-- [Ciberconsejos CCN, Recomendaciones de Ciberseguridad](https://www.youtube.com/watch?v=VfZVGFgRl4g)
-- [Ciberconsejos CCN, Configuración segura de dispositivos Android](https://www.youtube.com/watch?v=t6S7j6hKNPI)
-- [Ciberconsejos CCN, Configuración segura de dispositivos iOS](https://www.youtube.com/watch?v=gSY_xGj89oc)
-- [Ciberconsejos CCN, Cryptojacking](https://www.youtube.com/watch?v=9Opq9Sn7azE)
-- [Ciberconsejos CCN, Redes Sociales](https://www.youtube.com/watch?v=R2ZUXlNth1U)
-- [Ciberconsejos CCN, Zero Trust](https://www.youtube.com/watch?v=R2ZUXlNth1U)
-- [Ciberconsejos CCN, Desinformación en el Ciberespacio](https://www.youtube.com/watch?v=sKdb-iCyqLU)
+- [Concienciación del CCN-CERT - Página inicial sobre Ciberconsejos](https://www.ccn.cni.es/index.php/es/ciberconsejos)
+- [Ciberconsejos (video), Buenas prácticas en el empleo de tecnología](https://www.youtube.com/watch?v=uKNcqM0ZBEw)
+- [Ciberconsejos (video), Recomendaciones de Ciberseguridad](https://www.youtube.com/watch?v=VfZVGFgRl4g)
+- [Ciberconsejos (video), Configuración segura de dispositivos Android](https://www.youtube.com/watch?v=t6S7j6hKNPI)
+- [Ciberconsejos (video), Configuración segura de dispositivos iOS](https://www.youtube.com/watch?v=gSY_xGj89oc)
+- [Ciberconsejos (video), Cryptojacking](https://www.youtube.com/watch?v=9Opq9Sn7azE)
+- [Ciberconsejos (video), Redes Sociales](https://www.youtube.com/watch?v=R2ZUXlNth1U)
+- [Ciberconsejos (video), Zero Trust](https://www.youtube.com/watch?v=R2ZUXlNth1U)
+- [Ciberconsejos (video), Desinformación en el Ciberespacio](https://www.youtube.com/watch?v=sKdb-iCyqLU)
+- [Ciberconsejos (infografía), Desinformación en el Ciberespacio](https://www.ccn.cni.es/index.php/es/docman/documentos-publicos/305-infografia-ccn-desinformacion2/file)
 - [Kit de concienciación de INCIBE](https://www.incibe.es/protege-tu-empresa/kit-concienciacion)
 - [Kit ENISA mes europeo de la ciberseguridad](https://cybersecuritymonth.eu/press-campaign-toolbox)
 
