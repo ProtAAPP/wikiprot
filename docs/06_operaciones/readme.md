@@ -25,7 +25,7 @@ Lista de recursos:
 - [URLhaus](https://urlhaus.abuse.ch/) Sharing malicious URLs that are being used for malware distribution.
 - [Recopilatorio de Threat Inteligence sources](https://github.com/hslatman/awesome-threat-intelligence)
 
-### Sandboxing
+## Analizando (posible) malware
 - [Any.Run](https://app.any.run/)
 - [Hybrid Analysis](hybrid-analysis.com)
 - [Joe Sandbox](https://www.joesandbox.com/)
