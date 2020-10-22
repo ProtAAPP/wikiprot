@@ -102,6 +102,9 @@ El CCN publica este catálogo (CPSTIC) con el objetivo de ofrecer a los organism
 - [Lista de productos certificados CC](https://commoncriteriaportal.org/products/)
 
 
+## Las Guías CCN-STIC
+[Indice con TODAS las guías CCN-STIC publicadas](https://www.ccn-cert.cni.es/pdf/guias/1297-indice-series-ccn-stic/file.html), fecha y estado (F ‐ Fuera de soporte / P ‐ Pendiente de publicación / R ‐ En revisión / * DIFUSION LIMITADA / ** CONFIDENCIAL)
+
 ## Gestión de Identidades
 Pendiente de desarrollar
 
@@ -139,8 +142,10 @@ Soluciones del CCN:
 
 
 Guías CCN-STIC:
+- [CCN-STIC-408 SEGURIDAD PERIMETRAL (CORTAFUEGOS)](https://www.ccn-cert.cni.es/series-ccn-stic/guias-de-acceso-publico-ccn-stic/74-ccn-stic-408-seguridad-perimetral-cortafuegos/file.html)
 - [CCN-STIC-653 Seguridad en Check Point](https://www.ccn-cert.cni.es/pdf/guias/series-ccn-stic/guias-de-acceso-publico-ccn-stic/5404-ccn-stic-653-seguridad-en-check-point-1.html)
 - [CCN-STIC-652 Seguridad en Palo Alto](https://www.ccn-cert.cni.es/pdf/guias/series-ccn-stic/600-guias-de-otros-entornos/2467-ccn-stic-652-seguridad-en-palo-alto/file.html)
+- [CCN-STIC 1415 Procedimiento de Empleo Seguro UTM/NG-Firewall de Stormshield](https://www.ccn-cert.cni.es/pdf/guias/series-ccn-stic/1000-procedimientos-de-empleo-seguro/5108-ccn-stic-1415-procedimiento-de-empleo-seguro-utm-ng-firewall-de-stormshield/file.html)
 
 
 ### IDS / IPS
