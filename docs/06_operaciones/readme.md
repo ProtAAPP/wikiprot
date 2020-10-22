@@ -25,6 +25,13 @@ Lista de recursos:
 - [URLhaus](https://urlhaus.abuse.ch/) Sharing malicious URLs that are being used for malware distribution.
 - [Recopilatorio de Threat Inteligence sources](https://github.com/hslatman/awesome-threat-intelligence)
 
+### Sandboxing
+- [Any.Run](https://app.any.run/)
+- [Hybrid Analysis](hybrid-analysis.com)
+- [Joe Sandbox](https://www.joesandbox.com/)
+- [Valkyrie Sandbox](https://verdict.valkyrie.comodo.com/)
+- [Cuckoo Sandbox](https://cuckoosandbox.org/)
+
 
 ## Gestion Logs - Correlación eventos - SIEM
 ¿Qué es un SIEM? Es un sistema de seguridad compuesto por múltiples componentes de monitorización y análisis destinados a ayudar a las organizaciones a detectar amenazas y mitigarlas. Un SIEM combina una serie disciplinas y herramientas de seguridad bajo un paraguas integral:
