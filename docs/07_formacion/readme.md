@@ -21,6 +21,9 @@
 ### Eventos de tipo competitivo
 - [NATIONAL CYBERLEAGUE](https://www.nationalcyberleague.es/) Promovido por la Guardia Civil.
 
+### Plataformas de tipo competitivo
+- [ATENEA](https://www.ccn-cert.cni.es/soluciones-seguridad/atenea.html) Promovido por CCN.
+
 ### Charlas generales
 - [¿Qué hay en la mochila de un hacker?](https://cybercamp.es/videos/que-hay-en-la-mochila-de-un-hacker). Especial para jovenes.
 
