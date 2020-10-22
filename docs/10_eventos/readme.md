@@ -77,13 +77,29 @@
 ## Difusión de la ciberseguridad
 
 ### Canales de youtube
+
+#### Canales de youtube en español
 - [Palabra de Hacker by Yolanda Corral](https://www.youtube.com/c/Palabradehacker-ciberseguridad?sub_confirmation=1)
 
+#### Canales de youtube en inglés
+- [The PC Security Channel](https://www.youtube.com/user/ThePCSecurity/featured)
+- [SecurityNow](https://www.youtube.com/user/TWiTSecurityNow/featured)
+- [OWASP Global](https://www.youtube.com/c/OWASPGLOBAL/videos)
+- [Troy Hunt](https://www.youtube.com/c/troyhuntdotcom/videos)
+- [Security Weekly](https://www.youtube.com/c/SecurityWeekly/videos)
+- [Graham Cluley](https://www.youtube.com/c/GrahamCluleyCom/videos)
+
+
 ### Podcasts
+#### Podcasts en español
 - [ElevenPaths Radio](https://www.ivoox.com/podcast-elevenpathsradio_sq_f1715143_1.html)
 - [Cosas de Hackers](https://www.ivoox.com/podcast-cosas-hackers_sq_f1876480_1.html)
 - [Tierra de Hackers](https://es.ivoox.com/es/podcast-tierra-hackers_sq_f1891863_1.html)
 - [Securizando](https://securizando.com/category/podcast/)
+
+#### Podcasts en inglés
+- [TheCyberWire Daily](https://thecyberwire.com/podcasts/daily-podcast/)
+
 
 ### Redes sociales
 
