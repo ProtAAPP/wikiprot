@@ -1,3 +1,0 @@
-# Internet Of Things (IOT)
-
-
