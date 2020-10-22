@@ -3,6 +3,13 @@
 <!--[[TOC]]-->
 
 <!-- ## Vulnerabilidades -->
+::: tip
+Antes de empezar... si no tienes un inventario de equipos HW y de servicios/componentes SW, ¿cómo vas a saber si una vulnerabilidad te aplica o no?
+
+¿Tienes claro qué servicios/componentes tienes expuestos en Internet? ¿IP? ¿Puerto?
+:::
+
+
 
 Vulnerabilidades recientes que pueden acabar en un compromiso total de la organización:
 - [CVE-2020-16898](https://www.ccn-cert.cni.es/seguridad-al-dia/avisos-ccn-cert/10594-ccn-cert-av-72-20-vulnerabilidad-en-bad-neighbor.html). "Bad Neighbor" - CVSS 9.8 - Vulnerabilidad en la gestión de IPV6. "Gusanable"
