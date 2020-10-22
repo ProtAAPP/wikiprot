@@ -213,6 +213,9 @@ Guías CCN-STIC:
 
 ## Seguridad del Cloud
 
+### Controles de Seguridad para Cloud
+[Cloud Controls Matrix (CCM)](https://cloudsecurityalliance.org/research/cloud-controls-matrix/)
+
 ### Seguridad en la nube de Microsoft
 
 Azure y O365 han obtenido la certificación [ENS nivel Alto](https://docs.microsoft.com/es-es/microsoft-365/compliance/offering-ens-spain?view=o365-worldwide)
