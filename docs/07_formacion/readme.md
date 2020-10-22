@@ -25,12 +25,25 @@
 
 ## Concienciación en ciberseguridad
 
+### Para empleados
+
 Recursos interesantes:
 - [Concienciación del CCN-CERT - Ciberconsejos](https://www.ccn.cni.es/index.php/es/ciberconsejos)
+- [Ciberconsejos CCN, Buenas prácticas en el empleo de tecnología](https://www.youtube.com/watch?v=uKNcqM0ZBEw)
+- [Ciberconsejos CCN, Recomendaciones de Ciberseguridad](https://www.youtube.com/watch?v=VfZVGFgRl4g)
+- [Ciberconsejos CCN, Configuración segura de dispositivos Android](https://www.youtube.com/watch?v=t6S7j6hKNPI)
+- [Ciberconsejos CCN, Configuración segura de dispositivos iOS](https://www.youtube.com/watch?v=gSY_xGj89oc)
+- [Ciberconsejos CCN, Cryptojacking](https://www.youtube.com/watch?v=9Opq9Sn7azE)
+- [Ciberconsejos CCN, Redes Sociales](https://www.youtube.com/watch?v=R2ZUXlNth1U)
+- [Ciberconsejos CCN, Zero Trust](https://www.youtube.com/watch?v=R2ZUXlNth1U)
+- [Ciberconsejos CCN, Desinformación en el Ciberespacio](https://www.youtube.com/watch?v=sKdb-iCyqLU)
 - [Kit de concienciación de INCIBE](https://www.incibe.es/protege-tu-empresa/kit-concienciacion)
 - [Kit ENISA mes europeo de la ciberseguridad](https://cybersecuritymonth.eu/press-campaign-toolbox)
+
+
+### Para el hogar y la familia
 - [Cuentos de Ciberseguridad](https://www.amazon.es/Cuentos-Ciberseguridad-Plural-Francisco-Perez/dp/8418155051)Libro para concienciar a niños/adolescentes.
 
-Herramientas para hacer concienciación:
+### Herramientas para hacer concienciación
 - [Gophish](https://getgophish.com/) Herramienta opensource para crear tus propias campañas de phishing simulado y concienciar a los empleados.
 
