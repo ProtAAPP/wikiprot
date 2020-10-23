@@ -18,23 +18,59 @@
 
 
 ## Inteligencia de amenazas - IOCs
+¿Qué son los indicadores de compromiso?
+
+Los indicadores de compromiso (IOC) son elementos observados en una red o en un sistema operativo que, con alta confianza, indica una intrusión informática. Ejemplos de IOCs son: direcciones IP, URL, hashes de ficheros, nombres de ficheros, cadenas de texto en ficheros, entradas del registro del sistema, etc. Monitorizando la presencia de indicadores de compromiso, las organizaciones pueden detectar ataques y actuar rápidamente para evitar que ocurran brechas o limitar los daños al detener los ataques en etapas anteriores.
+
+Además de elementos concretos, tambien se puede hablar de [indicadores de ataque](http://www.darkreading.com/attacks-breaches/top-15-indicators-of-compromise/d/d-id/1140647?) como:
+- Tráfico de red saliente inusual
+- Anomalías en la actividad de la cuenta de usuario privilegiado
+- Irregularidades geográficas
+- Inicio de sesión sospechosos
+- Aumentos en el volumen de lectura de la base de datos
+- Tamaños de respuesta HTML
+- Gran cantidad de solicitudes para el mismo archivo
+- Tráfico de aplicaciones de puerto no coincidente
+- Cambios sospechosos en el registro o en los archivos del sistema
+- Solicitudes de DNS inusuales
+- Parcheo inesperado de sistemas
+- Cambios en el perfil del dispositivo móvil
+- Paquetes de datos en el lugar equivocado
+- Tráfico web con comportamiento inhumano
+- Señales de actividad DDoS
+
+¿Cómo compartir IOCs?
+- [REYES](https://www.ccn-cert.cni.es/soluciones-seguridad/reyes.html). Inteligencia de amenazas. Compartición de IOCs. Solo accesible para organismos públicos.
+- [TAXII & STIX](https://oasis-open.github.io/cti-documentation/) Trusted Automated Exchange of Indicator Information (TAXII) y Structured Threat Information Expression (STIX).
+- [MISP](https://www.misp-project.org/) Open Source Threat Intelligence Platform
 
 Lista de recursos:
-- [REYES](https://www.ccn-cert.cni.es/soluciones-seguridad/reyes.html). Inteligencia de amenazas. Compartición de IOCs. Solo accesible para organismos públicos.
 - [VirusTotal](https://www.virustotal.com/gui/home) Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community
-- [YARA](https://yara.readthedocs.io/en/stable/)
-- [MISP](https://www.misp-project.org/) Open Source Threat Intelligence Platform
+- [YARA](https://yara.readthedocs.io/en/stable/) 
 - [Cisco Talos](https://talosintelligence.com/)
 - [URLhaus](https://urlhaus.abuse.ch/) Sharing malicious URLs that are being used for malware distribution.
 - [Recopilatorio de Threat Inteligence sources](https://github.com/hslatman/awesome-threat-intelligence)
 
-## Analizando (posible) malware
-- [Any.Run](https://app.any.run/)
-- [Hybrid Analysis](hybrid-analysis.com)
+
+## Analisis de malware
+El análisis de malware es la práctica de determinar la funcionalidad, la fuente y el posible impacto de un malware dado, como un virus, gusano, troyano, rootkit o puerta trasera. Este análisis implica dos técnicas fundamentales: análisis estático y análisis dinámico.
+
+### Análisis de malware estático
+El análisis estático de malware implica la investigación de archivos ejecutables sin que se ejecuten realmente las instrucciones del programa. El análisis estático puede validar si un archivo es malicioso, brindar información sobre su funcionalidad y, en ocasiones, brindar información que puede permitir la creación de firmas (patrones reconocibles). Es básico y puede ser rápido, pero en su mayoría es inútil contra software malicioso sofisticado y puede pasar por alto comportamientos importantes.
+
+Lista de enlaces sobre reversing:
+- [Reversing WannaCry Part 1 - Finding the killswitch and unpacking the malware in #Ghidra](https://www.youtube.com/watch?v=Sv8yu12y5zM)
+
+
+### Análisis dinámico de malware
+A diferencia del análisis estático, el análisis dinámico ejecuta el malware para observar sus actividades, comprender su funcionalidad e identificar indicadores técnicos que se pueden utilizar para revelar firmas. El análisis dinámico puede revelar nombres de dominio, direcciones IP, ubicaciones de rutas de archivo, claves de registro, ubicaciones de archivos adicionales y también puede clasificar la comunicación con un servidor externo controlado por el atacante para propósitos de comando y control o para descargar otros archivos de malware.
+
+Lista de sandboxes y tutoriales, para análisis dinámico de malware:
+- [Any.Run](https://app.any.run/) [EMOTET - Interactive Malware Analysis with ANY.RUN](https://www.youtube.com/watch?v=YLnBPNenH9k)
+- [Hybrid Analysis](hybrid-analysis.com) [Complete your first Hybrid-Analysis](https://www.youtube.com/watch?v=PQZ2w4XVyEI)
 - [Joe Sandbox](https://www.joesandbox.com/)
 - [Valkyrie Sandbox](https://verdict.valkyrie.comodo.com/)
-- [Cuckoo Sandbox](https://cuckoosandbox.org/)
-
+- [Cuckoo Sandbox](https://cuckoosandbox.org/) [Malware Analysis Using a Cuckoo Sandbox](https://www.youtube.com/watch?v=7Nm48OQWmA8)
 
 ## Gestion Logs - Correlación eventos - SIEM
 ¿Qué es un SIEM? Es un sistema de seguridad compuesto por múltiples componentes de monitorización y análisis destinados a ayudar a las organizaciones a detectar amenazas y mitigarlas. Un SIEM combina una serie disciplinas y herramientas de seguridad bajo un paraguas integral:
@@ -53,6 +89,7 @@ Componentes de un SIEM:
 
 
 - [SIGMA Rules](https://github.com/Neo23x0/sigma). Lenguaje para describir reglas de correlación.
+
 
 Recursos interesantes:
 - [2020. 8 WAYS TO DETECT MALICIOUS FIREWALL TRAFFIC USING SIEM](https://blueteamblog.com/8-ways-to-detect-malicious-firewall-traffic-using-siem)
@@ -78,6 +115,8 @@ Recursos interesantes:
 - [2020. Sesión del CCN sobre Threat Hunting](https://vanesa.ccn-cert.cni.es/userportal/#/player/vod/Uec62bde1a8764b1983d7b871811afbf5)
 - [Guía de referencia sobre Movimiento Lateral](https://secureservercdn.net/160.153.138.53/x27.24e.myftpupload.com/download/Lateral-Movement-Analyst-Reference.pdf?time=1599801482)
 - [Guía de referencia sobre Windows Event Log](https://secureservercdn.net/160.153.138.53/x27.24e.myftpupload.com/download/Windows-Event-Log-Analyst-Reference.pdf?time=1599801482)
+- [Catching Lazarus: Threat Intelligence to Real Detection Logic - Part One](https://labs.f-secure.com/blog/catching-lazarus-threat-intelligence-to-real-detection-logic/)
+- [Catching Lazarus: Threat Intelligence to Real Detection Logic - Part Two](https://labs.f-secure.com/blog/catching-lazarus-threat-intelligence-to-real-detection-logic-part-two)
 
 ## Vulnerability Disclosure y Bug Bounties
 - [Security.txt](https://securitytxt.org/). Propuesta de estándard para que los investigadores puedan contactar con los responsable de seguridad de los sitios y aplicaciones web a través del fichero https://xxxx.org/.well-known/security.txt
@@ -126,7 +165,9 @@ Pendiente de desarrollar
 Pendiente de desarrollar
 
 ### Análisis Forense
-Pendiente de desarrollar
+- [Windows Forensic Analysis](https://www.geeksforgeeks.org/windows-forensic-analysis/)
+- [Linux Forensics — Some Useful Artifacts](https://medium.com/@tho.le/linux-forensics-some-useful-artifacts-74497dca1ab2)
+- [Android Forensic Acquisition Techniques](https://medium.com/@lucideus/android-forensic-acquisition-techniques-lucideus-forensics-e7671dbac984)
 
 ## Otros recursos
 Lista de CTFs con orientación defensiva (blue):
