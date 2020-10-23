@@ -88,6 +88,7 @@
 - [Troy Hunt](https://www.youtube.com/c/troyhuntdotcom/videos)
 - [Security Weekly](https://www.youtube.com/c/SecurityWeekly/videos)
 - [Graham Cluley](https://www.youtube.com/c/GrahamCluleyCom/videos)
+- [MalwareTech](https://www.youtube.com/c/MalwareTechBlog/videos)
 
 
 ### Podcasts
