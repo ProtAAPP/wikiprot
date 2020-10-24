@@ -18,6 +18,9 @@
 [Enlace a imagen tamaño completo](https://i.redd.it/yo33xlys53141.png)
 ![IMG](./img/certifications.png)
 
+#### Material para preparar certificaciones
+- [CISSP Exam Study Guide. Netwrix](https://www.netwrix.com/cissp_study_guide_pdf.html)
+
 ### Eventos de tipo competitivo
 - [NATIONAL CYBERLEAGUE](https://www.nationalcyberleague.es/) Promovido por la Guardia Civil.
 
