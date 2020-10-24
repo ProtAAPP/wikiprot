@@ -40,8 +40,8 @@ Si ya eres miembro, siéntete libre de utilizar nuestras [infografías](https://
 - Sesiones de formación o confirmación.
 - Documentación y propuestas.
 
-::: tip ¿A que estás esperando?
-Quizá tienes una idea pero no te atreves a ponerla en práctica de forma individual. Ningún problema. Compártelo con la comunidad. Seguro que alguien se anima 
+::: tip¿A qué estás esperando?
+Quizá tienes una idea pero no te atreves a ponerla en práctica de forma individual. Ningún problema. Compártelo con la comunidad. Seguro que alguien se anima contigo.
 :::
 
 Si no puedes ser miembro, también puedes contactar con nosotros para proponer la participación en alguna de las anteriores o cualquier otra iniciativa interesante. No dudes en contactar con nosotros y si se ajusta a los objetivos de la comunidad, intentaremos ponerte en contacto con miembros que puedan estar interesados.
@@ -69,8 +69,6 @@ Por esta razón, si tienes conocimientos de cualquier ámbito de la cibersegurid
 Este repositorio de documentación está construido con la librería [Vuepress](https://vuepress.vuejs.org/). 
 El código fuente de este repositorio se encuentra en github: [ProtAAPP/wikiprot](https://github.com/ProtAAPP/wikiprot).
 Consulta el [código de conducta](https://github.com/ProtAAPP/wikiprot/blob/master/code_of_conduct.md) y la [guía para contribuir](https://github.com/ProtAAPP/wikiprot/blob/master/code_contribution_guideline.md)
-
-
 
 ### Requisitos 
 
