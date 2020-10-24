@@ -2,11 +2,8 @@
 
 [[TOC]]
 
-
 ## Normativa sobre Ciberseguridad
-
 ### Normativa sobre Ciberseguridad en España
-
 En el [Código de Derecho de la Ciberseguridad](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=173&modo=1&nota=0&tab=2)
 publicado en el BOE puede encontrarse un amplio índice a todas las normas relacionadas con la seguridad 
 informática.
@@ -33,13 +30,12 @@ de las infraestructuras críticas.
     - [Orden PRE/2740/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-16830) Reglamento de Evaluación y Certificación de la Seguridad TIC
 
 ### Normativa sobre Protección de datos en España:
-
 - [Ley Orgánica 3/2018](https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673) Protección de Datos Personales y garantía de los derechos digitales
 
-
 ### Normativa europea
-- [2016. Directiva NIS](https://www.boe.es/doue/2016/194/L00001-00030.pdf)
-- [2016. Reglamento Europeo de Protección de Datos](https://www.boe.es/doue/2016/119/L00001-00088.pdf)
+- [2016/1148 Directiva NIS](https://www.boe.es/doue/2016/194/L00001-00030.pdf)
+- [2016/679 Reglamento Europeo de Protección de Datos](https://www.boe.es/doue/2016/119/L00001-00088.pdf)
+- [2016/680 Reglamento Europeo de Protección de Datos por parte de las autoridades competentes](https://www.boe.es/doue/2016/119/L00089-00131.pdf)
 
 ## Organismos Públicos con competencias en Ciberseguridad
 ### España
@@ -49,16 +45,4 @@ de las infraestructuras críticas.
 ![IMG](./img/dsn.jpg)
 
 ### Europa
-- [ENISA](https://www.enisa.europa.eu/). 
-
-
-
-
-
-
-
-
- 
-
-
-
+- [ENISA](https://www.enisa.europa.eu/)
