@@ -33,9 +33,31 @@ Síguenos en:
 - [Grupo de Google](https://groups.google.com/group/ProtAAPP)
 - Correo electrónico: [info@protaapp.com](mailto:info@protaapp.com)
 
-Difunde ProtAAPP con nuestras [infografías](https://www.protaapp.com/p/blog-page.html).
+### Colabora en la difusión de ProtAAPP
 
+Si ya eres miembro, siéntete libre de utilizar nuestras [infografías](https://www.protaapp.com/p/blog-page.html) con la imagen de la comunidad en:
+- Asistencia a seminarios, jornadas o congresos de seguridad.
+- Sesiones de formación o confirmación.
+- Documentación y propuestas.
 
+Quizá tienes una idea pero no te atreves a ponerla en práctica de forma individual. Ningún problema. Compártelo con la comunidad. Seguro que alguien se anima 
+
+Si no puedes ser miembro, también puedes contactar con nosotros para proponer la participación en alguna de las anteriores o cualquier otra iniciativa interesante. No dudes en contactar con nosotros y si se ajusta a los objetivos de la comunidad, intentaremos ponerte en contacto con miembros que puedan estar interesados.
+
+### Participaciones  y actividades de la comunidad
+#### 2018
+- SocInfo [Elige tu propia aventura - La incidencia de seguridad](https://www.slideshare.net/GuillermoObispoSanRo/elige-tu-propia-aventura-la-incidencia-de-seguridad)
+#### 2019
+- El Diablu (la precuela) febrero
+- SocInfo [Accesos corporativos. Instrucciones de montaje (DIY)](https://www.slideshare.net/GuillermoObispoSanRo/accesos-corporativos)
+- RootedCon [Zarancon City: Ciudad bastionada](https://www.youtube.com/watch?v=VJIzFuTTRb4)
+- CyberCamp [Del rojo al azul](https://www.youtube.com/watch?v=WiQ1zknX-rU)
+- El DiaBlu (Viernes 13) diciembre
+#### 2020
+- Isaca [Menú saludable para Responsables de Seguridad. Como digerir el ENS](https://www.slideshare.net/GuillermoObispoSanRo/menu-saludable-para-responsables-de-seguridad-226454626)
+- RootedCon [Compliance as Code (Auditoría de intraestructura, rápida y eficiente)](https://www.youtube.com/watch?v=vODFljdavJw&t=1s)
+- RootedCon [La Metacharla de Seguridad](https://www.youtube.com/watch?v=laRfJ_zYJBI)
+- El Diablu (?)
 
 ## Colabora con esta documentación
 
