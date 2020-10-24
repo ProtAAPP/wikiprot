@@ -41,6 +41,12 @@ de las infraestructuras críticas.
 - [2016. Directiva NIS](https://www.boe.es/doue/2016/194/L00001-00030.pdf)
 - [2016. Reglamento Europeo de Protección de Datos](https://www.boe.es/doue/2016/119/L00001-00088.pdf)
 
+### Normativa de otros paises
+- [Australia's Cyber Security Strategy 2020](https://www.homeaffairs.gov.au/cyber-security-subsite/files/cyber-security-strategy-2020.pdf)
+- [USA National Cyber Strategy. 2018](https://www.whitehouse.gov/wp-content/uploads/2018/09/National-Cyber-Strategy.pdf)
+- [UK National Cyber Security Strategy 2016-2021.](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/567242/national_cyber_security_strategy_2016.pdf)
+- [Francia. French National Digital Security Strategy](https://www.ssi.gouv.fr/uploads/2015/10/strategie_nationale_securite_numerique_en.pdf)
+
 ## Organismos Públicos con competencias en Ciberseguridad
 ### España
 ![IMG](./img/organismoscompetentes.jpg)
