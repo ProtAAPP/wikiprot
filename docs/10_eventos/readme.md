@@ -67,6 +67,7 @@
 * [SecTor](https://sector.ca/) Canadá.
 * [Govware](https://www.govware.sg/) Singapur.
 * [Mind The Sec](https://www.mindthesec.com.br/) Brasil.
+* [Ekoparty](https://www.ekoparty.org/) Buenos Aires, Argentina. [Vídeos charlas](https://www.youtube.com/playlist?list=PLaIv9WEAzYZOnKJZHG_HJ6LdDwGz45cy5)
 
 ### Eventos de tipo competitivo
 - [NATIONAL CYBERLEAGUE](https://www.nationalcyberleague.es/) Promovido por la Guardia Civil.
