@@ -147,11 +147,10 @@ Ejemplos de alertas que se pueden configurar con honeytokens:
 - [GUÍA NACIONAL DE NOTIFICACIÓN Y GESTIÓN DE CIBERINCIDENTES](https://www.incibe-cert.es/sites/default/files/contenidos/guias/doc/guia_nacional_notificacion_gestion_ciberincidentes.pdf) aprobada por el Consejo Nacional de Ciberseguridad. 2020.
 ![IMG](./img/ventanilla.png)
 
-- [CCN-STIC-817](https://www.ccn-cert.cni.es/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/988-ccn-stic-817-gestion-de-ciberincidentes/file.html)Esquema Nacional de Seguridad. Gestión de ciberincidentes
+- [CCN-STIC-817](https://www.ccn-cert.cni.es/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/988-ccn-stic-817-gestion-de-ciberincidentes/file.html) Esquema Nacional de Seguridad. Gestión de ciberincidentes
 ![IMG](./img/cicloincidentes.png)
 <!--![IMG](./img/clasificacioninc.png)-->
 ![IMG](./img/817peligrosidad.png)
-
 
 
 ### Respondiendo a Ransomware
@@ -162,6 +161,9 @@ Pendiente de desarrollar
 
 ### Respondiendo a brechas de seguridad
 Pendiente de desarrollar
+
+### Respondiendo a incidentes en tecnologías concretas
+- [AWS Security Incident Response Guide](https://d1.awsstatic.com/whitepapers/aws_security_incident_response.pdf)
 
 ### SOAR / Playbooks
 Pendiente de desarrollar
