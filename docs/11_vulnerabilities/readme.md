@@ -9,8 +9,6 @@ Antes de empezar... si no tienes un inventario de equipos HW y de servicios/comp
 ¿Tienes claro qué servicios/componentes tienes expuestos en Internet? ¿IP? ¿Puerto?
 :::
 
-
-
 Vulnerabilidades recientes que pueden acabar en un compromiso total de la organización:
 - [CVE-2020-16898](https://www.ccn-cert.cni.es/seguridad-al-dia/avisos-ccn-cert/10594-ccn-cert-av-72-20-vulnerabilidad-en-bad-neighbor.html). "Bad Neighbor" - CVSS 9.8 - Vulnerabilidad en la gestión de IPV6. "Gusanable"
 - [CVE-2020-1472](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1472) "Zerologon" - CVSS 10.0 - El atacante escala a Domain Admin, simplement pudiendo ejecutar comandos en la red interna. 
@@ -22,10 +20,11 @@ Vulnerabilidades recientes que pueden acabar en un compromiso total de la organi
 - [CVE-2020-1147](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1147) Sharepoint - CVSS 7.8 - Cuidado si tienes un Sharepoint expuesto directamente en Internet.
 - [CVE-2019-0604](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0604) Sharepoint - CVSS 9.8
 
-
 Páginas que listan vulnerabilidades en todo tipo de tecnologías:
-- [Vulnerabilidades recopiladas por CCN](https://www.ccn-cert.cni.es/seguridad-al-dia/vulnerabilidades.html)
+- [Buscador de Common Vulnerabilities & Exposures (MITRE)](https://cve.mitre.org/cve/)
+- [Buscador de scoring NIST](https://nvd.nist.gov/vuln/search)
 - [CVEDetails](https://www.cvedetails.com/)
+- [Vulnerabilidades recopiladas por CCN](https://www.ccn-cert.cni.es/seguridad-al-dia/vulnerabilidades.html)
 
 A modo de orientativo, en los siguientes casos el [gobierno USA](https://cyber.dhs.gov/directives/) ha ordenado a sus agencias federales parchear con urgencia (sin esperar al ciclo de actualizaciones habitual) las siguientes vulnerabilidades:
 - [2020-04](https://cyber.dhs.gov/ed/20-04/) Netlogon.
