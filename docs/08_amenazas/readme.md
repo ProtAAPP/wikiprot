@@ -24,14 +24,14 @@ Los atacantes con capacidades avanzadas (APTs) se nombran como APT-XX. En esta [
 ## Tácticas, Técnicas y Procedimientos de los atacantes
 MITRE ha creado [ATT&CK](https://attack.mitre.org) que es una base de datos de conocimiento del comportamiento real de los adversarios, TTPS (Técnicas, tácticas y procedimientos).
 
+Lista de recursos:
 - [2019. Getting Started with ATT&CK: Detection and Analytics](https://medium.com/mitre-attack/getting-started-with-attack-detection-a8e49e4960d0)
 - [2019. Getting Started with ATT&CK: Adversary Emulation and Red Teaming](https://medium.com/mitre-attack/getting-started-with-attack-red-29f074ccf7e3)
 - [2019. Getting Started with ATT&CK: Assessments and Engineering](https://medium.com/mitre-attack/getting-started-with-attack-assessment-cc0b01769cb4)
 - [2019. USING ATT&CK TO ADVANCE CYBER THREAT INTELLIGENCE – PART 1](https://www.mitre.org/capabilities/cybersecurity/overview/cybersecurity-blog/using-attck-to-advance-cyber-threat)
 - [2019. Launching ATT&CK for ICS](https://medium.com/mitre-attack/launching-attack-for-ics-2be4d2fb9b8)
 
-### ATT&CK Initial Access
-- [Por dónde llegan los malos](https://attack.mitre.org/tactics/TA0001/)
+ ATT&CK Initial Access. [Por dónde llegan los malos](https://attack.mitre.org/tactics/TA0001/)
 
 ## Tipos de Amenazas
 
