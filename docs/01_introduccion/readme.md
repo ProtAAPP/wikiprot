@@ -40,7 +40,7 @@ Si ya eres miembro, siéntete libre de utilizar nuestras [infografías](https://
 - Sesiones de formación o confirmación.
 - Documentación y propuestas.
 
-::: tip¿A qué estás esperando?
+::: tip ¿A qué estás esperando?
 Quizá tienes una idea pero no te atreves a ponerla en práctica de forma individual. Ningún problema. Compártelo con la comunidad. Seguro que alguien se anima contigo.
 :::
 
