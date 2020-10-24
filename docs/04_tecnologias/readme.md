@@ -42,6 +42,22 @@ Con el panorama de amenazas en constante evolución, la monitorizacíon no deber
 La mayoría de las brechas de seguridad tarda meses o más en descubrirse. En muchos casos, un tercero, como la policía o un colaborador, descubre la brecha. El peor de los casos es cuando los clientes detectan la brecha.
 
 
+### Autenticacion multifactor
+La autenticación multifactor es un método de autenticación electrónica en el que, a un usuario se le permite acceder a un sistema, solo después de presentar dos o más piezas de evidencia (o factores) de los siguientes tipos:
+- Conocimiento (algo que el usuario y solo el usuario sabe): contraseñas, PINs, etc.
+- Posesión (algo que el usuario y solo el usuario tiene): PC, dispositivo móvil, dispositivo USB, token hardware, etc.
+- Inherencia (algo que el usuario y solo el usuario es): huellas dactilares, reconocimiento facial, iris, voz, etc.
+
+El doble factor de autenticación (también conocido como 2FA) es un tipo o subconjunto de autenticación de múltiples factores, en el que se utilizan dos factores. Un escenario habitual es requerir al usuario una combinacion usuario/contraseña junto con un  segundo factor que puede ser algo que posee (p.e. código producido por un dispositivo en su poder) o algo que es (huella dactilar presentada ante dispositivo en su poder).
+
+Mecanismos para utilizar el MFA:
+- OTP
+
+
+Recursos interesantes:
+- [Google data shows 2-factor authentication blocks 100% of automated bot hacks](https://security.googleblog.com/2019/05/new-research-how-effective-is-basic.html)
+
+
 ### Criptografía
 
 Para que los datos estén seguros, deben estar protegidos durante todo su ciclo de vida. Por tanto, es importante tener en cuenta el estado de los datos que está intentando proteger:
