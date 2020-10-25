@@ -53,6 +53,8 @@ Además de elementos concretos, tambien se puede hablar de [indicadores de ataqu
 Lista de recursos:
 - [VirusTotal](https://www.virustotal.com/gui/home) Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community
 - [YARA](https://yara.readthedocs.io/en/stable/) 
+- [How to write Yara Rules Guides](https://github.com/neo23x0/blueledger/blob/main/README.md#how-to-write-yara-rules-guides)
+- [IOC Scanners](https://github.com/neo23x0/blueledger/blob/main/README.md#scanners)
 - [IOC Bucket (gratuito)](https://www.iocbucket.com/)
 - [Cisco Talos](https://talosintelligence.com/)
 - [URLhaus](https://urlhaus.abuse.ch/) Sharing malicious URLs that are being used for malware distribution.
@@ -64,7 +66,8 @@ El análisis de malware es la práctica de determinar la funcionalidad, la fuent
 ### Análisis de malware estático
 El análisis estático de malware implica la investigación de archivos ejecutables sin que se ejecuten realmente las instrucciones del programa. El análisis estático puede validar si un archivo es malicioso, brindar información sobre su funcionalidad y, en ocasiones, brindar información que puede permitir la creación de firmas (patrones reconocibles). Es básico y puede ser rápido, pero en su mayoría es inútil contra software malicioso sofisticado y puede pasar por alto comportamientos importantes.
 
-Lista de enlaces sobre reversing:
+Recursos interesantes sobre reversing y análisis de malware:
+- [Practical Malware Analysis](https://www.jaiminton.com/Tutorials/PracticalMalwareAnalysis/) por [Jai Minton](twitter.com/CyberRaiju)
 - [Reversing WannaCry Part 1 - Finding the killswitch and unpacking the malware in #Ghidra](https://www.youtube.com/watch?v=Sv8yu12y5zM)
 
 ### Análisis dinámico de malware
@@ -93,6 +96,9 @@ Componentes de un SIEM:
 * Mitigación y remediación: una vez que se implementan las reglas de correlación y se crean los paneles de control para proporcionar una descripción general completa del sistema, el último componente clave de un sistema SIEM es cómo se manejan los incidentes una vez identificados. La mayoría de los sistemas SIEM admiten mecanismos para contener y mitigar automáticamente los eventos de seguridad. Por ejemplo, según las reglas de correlación, se puede configurar un sistema SIEM para que comience automáticamente un proceso de escalamiento interno: ejecutar scripts que inician el proceso de contención y pasar el balón al recurso correcto en la organización activando una alerta, abriendo un ticket, etc.
 
 - [SIGMA Rules](https://github.com/Neo23x0/sigma). Lenguaje para describir reglas de correlación.
+- [Godmode Sigma Rule](https://gist.github.com/Neo23x0/811db09add59068a7a80273d7e5f6e0f)
+- [Godmode Yara Rule](https://gist.github.com/Neo23x0/f1bb645a4f715cb499150c5a14d82b44)
+
 
 Recursos interesantes:
 - [2020. 8 WAYS TO DETECT MALICIOUS FIREWALL TRAFFIC USING SIEM](https://blueteamblog.com/8-ways-to-detect-malicious-firewall-traffic-using-siem)
@@ -163,6 +169,7 @@ Ejemplos de alertas que se pueden configurar con honeytokens:
 Pendiente de desarrollar
 
 ### Análisis Forense
+- ["Chuleta" Digital Forensics and Incident Response](https://www.jaiminton.com/cheatsheet/DFIR/#)
 - [Windows Forensic Analysis](https://www.geeksforgeeks.org/windows-forensic-analysis/)
 - [Linux Forensics — Some Useful Artifacts](https://medium.com/@tho.le/linux-forensics-some-useful-artifacts-74497dca1ab2)
 - [Android Forensic Acquisition Techniques](https://medium.com/@lucideus/android-forensic-acquisition-techniques-lucideus-forensics-e7671dbac984)
