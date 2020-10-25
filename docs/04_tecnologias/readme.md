@@ -424,6 +424,9 @@ Recursos interesantes:
 #### Seguridad plataforma Microsoft Office
 - [Seguridad en Macros](https://www.cyber.gov.au/acsc/view-all-content/publications/microsoft-office-macro-security)
 
+Diferentes estrategias para securizar las macros de Office:
+![IMG](./img/macros.png)
+
 ### Seguridad en el arranque de los sistemas
 - [Hardware-Enabled Security for Server Platforms. NIST Draft. 2020](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04282020-draft.pdf)
 
