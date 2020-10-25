@@ -68,6 +68,8 @@
 * [Govware](https://www.govware.sg/) Singapur.
 * [Mind The Sec](https://www.mindthesec.com.br/) Brasil.
 * [Ekoparty](https://www.ekoparty.org/) Buenos Aires, Argentina. [Vídeos charlas](https://www.youtube.com/playlist?list=PLaIv9WEAzYZOnKJZHG_HJ6LdDwGz45cy5)
+* [OpenHacking](https://www.openhacking.gt/) Guatemala
+
 
 ### Eventos de tipo competitivo
 - [NATIONAL CYBERLEAGUE](https://www.nationalcyberleague.es/) Promovido por la Guardia Civil.
@@ -138,6 +140,7 @@
 - [Hack Players](https://www.hackplayers.com/)
 - [INSEGUROS](http://kinomakino.blogspot.com/)
 - [Hypertextual](http://kinomakino.blogspot.com/)
+- [DerechodelaRed](https://derechodelared.com/)
 
 #### Blogs en inglés
 - [Dark Reading](http://www.darkreading.com/)
@@ -168,6 +171,10 @@
 - [The Code Book: The Secret History of Codes and Code-breaking](https://www.amazon.co.uk/Code-Book-Secret-History-Code-breaking/dp/1857028899/ref=sr_1_1?s=books&ie=UTF8&qid=1492525081&sr=1-1&keywords=%E2%80%A2%09%E2%80%A2%09The+Code+Book). Simon Singh. Inglés. 2002.
 - [Editorial 0xword](https://0xword.com). Ciberseguridad en Español.
 - [Cuentos de Ciberseguridad](https://www.amazon.es/Cuentos-Ciberseguridad-Plural-Francisco-Perez/dp/8418155051) de Francisco Perez Bes (para niños). Español.
+
+### Tiras cómicas
+- [Cybersecurity Cartoons](https://cybersecurityventures.com/cybersecurity-cartoon-archives/)
+
 
 ### Otras iniciativas de difusión
 - [Mes europeo de la ciberseguridad](https://cybersecuritymonth.eu/) Promovido por [ENISA](https://www.enisa.europa.eu/)
