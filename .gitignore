@@ -8,7 +8,6 @@ yarn-error.log
 .env
 docs/.vuepress/dist
 .yarnrc
-yarn.lock
 .yarn/releases
 
 # Las siguientes líneas las añado yo (Andy)
