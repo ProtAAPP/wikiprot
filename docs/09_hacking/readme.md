@@ -98,6 +98,8 @@ Recursos interesantes:
 - [2016. Atacando LAPS](https://secureidentity.se/recover-laps-passwords/)
 - [Atacando WSUS](https://www.gosecure.net/blog/2020/09/03/wsus-attacks-part-1-introducing-pywsus/)
 
+"Writeups" o soluciones a retos de hacking sobre Directorio Activo:
+- [Forest: A walk through in hacking active directory](https://rootsecdev.medium.com/forest-a-walk-through-in-hacking-active-directory-c83ecb21e1a9)
 
 ### Auditorías de aplicaciones móviles
 
