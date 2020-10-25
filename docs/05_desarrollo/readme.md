@@ -3,11 +3,13 @@
 [[TOC]]
 
 ## DevSecOps
+
 - [¿Qué es DevSecOps?](https://devonblog.com/security/devsecops-what-why-how/)
 - [DevSecOps vs. SecDevOps vs. DevOpsSec: Is there really a difference in these secure DevOps terms?](https://blog.ariacybersecurity.com/blog/devsecops-vs-secdevops-blog)
 - [DevSecOps - Web Oficial y Manifiesto](https://www.devsecops.org/)
 
 ## Herramientas
+
 Herramientas Open Source para DevSecOps
 
 ### Hooks previos a la subida de código
@@ -81,6 +83,7 @@ Herramientas open source para Compliance as Code:
 - [Kitchen CI](https://kitchen.ci/)
 
 ## Recursos
+
 - [Awesome AppSec](https://github.com/paragonie/awesome-appsec) - curated list of resources for learning about application security. Contains books, websites, blog posts, and self-assessment quizzes.
 
 

@@ -2,6 +2,7 @@
 
 [[TOC]]
 
+
 ## Principios para una construcción segura 
 
 ### Segmentación de la red
@@ -306,6 +307,12 @@ Herramientas online para comprobar el nivel de seguridad HTTPS/SSL:
 Charlas específicas sobre seguridad HTTPS/SSL:
 - [2018. Habías Tenido Tiempo para Securizarlo… (Raúl Siles, Dinosec) (CCN)](https://www.youtube.com/watch?v=SiVuwY1AYVA)
 - [2017. Has Tenido Tiempo Para Securizarlo: Te Lo Suplico, no Sigas Solo Leyéndolo (Raúl Siles, DinoSec)](https://www.youtube.com/watch?v=87GNHBXKkfg) [PDF](https://www.dinosec.com/docs/HTTPS_TLS_SSL_X_Jornadas_STIC_CCN-CERT-RaulSiles_DinoSec_v1.0.pdf)
+
+:::tip Muy recomendable definir una CSP
+Definir una **Content Security Policy** es algo que debe hacerse en toda aplicación web. Esta CSP
+se incluye como una **cabecera HTTP**. Hemos desarrollado este tema en la 
+[siguiente sección específica](./csp.md)
+:::
 
 
 ### Windows Application Firewall (WAF)
