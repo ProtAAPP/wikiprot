@@ -15,6 +15,8 @@
 
 ##### ALBACETE
 * [Navaja Negra](https://www.navajanegra.com/). [Vídeos ponencias](https://www.youtube.com/c/NavajaNegra/videos)
+##### ALICANTE
+* [BitUp Alicante](https://bitupalicante.com/)
 ##### ÁVILA
 * [C1b3rWall](https://www.c1b3rwall.es/). [Vídeos](https://www.youtube.com/c/C1b3rWall/videos)
 ##### CUENCA
