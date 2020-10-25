@@ -21,11 +21,12 @@ Un equipo de respuesta a emergencias informáticas es un término histórico par
 - [MICROCLAUDIA](https://www.ccn-cert.cni.es/soluciones-seguridad/microclaudia.html) - Protección contra código dañino tipo ransomware en los endpoints.
 - [VANESA](https://vanesa.ccn-cert.cni.es/userportal/#/home/channel/5e89c77de4b02b452626aff2) Sesiones en vídeo sobre cada una de las herramientas.
 
-
 ## Inteligencia de amenazas - IOCs
 ¿Qué son los indicadores de compromiso?
 
 Los indicadores de compromiso (IOC) son elementos observados en una red o en un sistema operativo que, con alta confianza, indica una intrusión informática. Ejemplos de IOCs son: direcciones IP, URL, hashes de ficheros, nombres de ficheros, cadenas de texto en ficheros, entradas del registro del sistema, etc. Monitorizando la presencia de indicadores de compromiso, las organizaciones pueden detectar ataques y actuar rápidamente para evitar que ocurran brechas o limitar los daños al detener los ataques en etapas anteriores.
+
+[CCN-STIC 423 Indicadores de compromiso](https://www.ccn-cert.cni.es/series-ccn-stic/guias-de-acceso-publico-ccn-stic/1090-ccn-stic-423-indicadores-de-compromiso/file.html)
 
 Además de elementos concretos, tambien se puede hablar de [indicadores de ataque](http://www.darkreading.com/attacks-breaches/top-15-indicators-of-compromise/d/d-id/1140647?) como:
 - Tráfico de red saliente inusual
@@ -52,6 +53,7 @@ Además de elementos concretos, tambien se puede hablar de [indicadores de ataqu
 Lista de recursos:
 - [VirusTotal](https://www.virustotal.com/gui/home) Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community
 - [YARA](https://yara.readthedocs.io/en/stable/) 
+- [IOC Bucket (gratuito)](https://www.iocbucket.com/)
 - [Cisco Talos](https://talosintelligence.com/)
 - [URLhaus](https://urlhaus.abuse.ch/) Sharing malicious URLs that are being used for malware distribution.
 - [Recopilatorio de Threat Inteligence sources](https://github.com/hslatman/awesome-threat-intelligence)
@@ -94,8 +96,8 @@ Componentes de un SIEM:
 
 Recursos interesantes:
 - [2020. 8 WAYS TO DETECT MALICIOUS FIREWALL TRAFFIC USING SIEM](https://blueteamblog.com/8-ways-to-detect-malicious-firewall-traffic-using-siem)
-- [2019. A Blue Team guide to Azure & Office 365 monitoring](https://0x00sec.org/t/a-blue-team-guide-to-azure-office-365-monitoring/14411)
 - [2020. 18 WAYS TO DETECT MALCIOUS ACTIONS IN YOUR ACTIVE DIRECTORY LOGS USING SIEM](https://blueteamblog.com/18-ways-to-detect-malcious-actions-in-your-active-directory-logs-using-siem)
+- [2019. A Blue Team guide to Azure & Office 365 monitoring](https://0x00sec.org/t/a-blue-team-guide-to-azure-office-365-monitoring/14411)
 
 ## Centros de Operaciones de Seguridad (SOCs)
 - [El SOC de la AGE](https://www.ccn.cni.es/index.php/es/ccn-cert-menu-es/soc-age/soc-age-faq) Preguntas y respuestas.
@@ -133,17 +135,13 @@ Ejemplos de alertas que se pueden configurar con honeytokens:
 -->
 
 ## Reflexiones Redteam-Blueteam-Purpleteam-Yellowteam
-
 - [RedBluePurple](https://danielmiessler.com/study/red-blue-purple-teams/) ¿Qué significa cada color?
 ![IMG](./img/colors.png)
 
 ## Respuesta a ciberincidentes
-
 ### Procedimientos generales de alto nivel
-
 - [GUÍA NACIONAL DE NOTIFICACIÓN Y GESTIÓN DE CIBERINCIDENTES](https://www.incibe-cert.es/sites/default/files/contenidos/guias/doc/guia_nacional_notificacion_gestion_ciberincidentes.pdf) aprobada por el Consejo Nacional de Ciberseguridad. 2020.
 ![IMG](./img/ventanilla.png)
-
 - [CCN-STIC-817](https://www.ccn-cert.cni.es/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/988-ccn-stic-817-gestion-de-ciberincidentes/file.html) Esquema Nacional de Seguridad. Gestión de ciberincidentes
 ![IMG](./img/cicloincidentes.png)
 <!--![IMG](./img/clasificacioninc.png)-->
@@ -153,10 +151,10 @@ Ejemplos de alertas que se pueden configurar con honeytokens:
 - [CCN-CERT BP/04 Ransomware (2018)](https://www.ccn-cert.cni.es/informes/informes-ccn-cert-buenas-practicas-bp/2088-ccn-cert-bp-04-ransomware/file.html)
 
 ### Respondiendo a DDoS
-- [CCN Abstract Ataques DDoS. Recomendaciones y buenas prácticas (2020)](https://www.ccn-cert.cni.es/informes/abstracts/4925-ataques-ddos-recomendaciones-y-buenas-practicas/file.html)
+- [CCN Abstract - Ataques DDoS. Recomendaciones y buenas prácticas (2020)](https://www.ccn-cert.cni.es/informes/abstracts/4925-ataques-ddos-recomendaciones-y-buenas-practicas/file.html)
 
 ### Respondiendo a brechas de seguridad
-- [AEDP - Guía para la gestión y notificación de brechas de seguridad](https://www.aepd.es/sites/default/files/2019-09/guia-brechas-seguridad.pdf)
+- [AEPD - Guía para la gestión y notificación de brechas de seguridad](https://www.aepd.es/sites/default/files/2019-09/guia-brechas-seguridad.pdf)
 
 ### Respondiendo a incidentes en tecnologías concretas
 - [AWS Security Incident Response Guide](https://d1.awsstatic.com/whitepapers/aws_security_incident_response.pdf)
