@@ -311,7 +311,7 @@ Charlas específicas sobre seguridad HTTPS/SSL:
 :::tip Muy recomendable definir una CSP
 Definir una **Content Security Policy** es algo que debe hacerse en toda aplicación web. Esta CSP
 se incluye como una **cabecera HTTP**. Hemos desarrollado este tema en la 
-[siguiente sección específica](./csp.md)
+[siguiente sección específica](./csp.md#content-security-policy-csp)
 :::
 
 
