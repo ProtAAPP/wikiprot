@@ -3,6 +3,8 @@
 [[TOC]]
 
 ## CSIRTs en España
+Un equipo de respuesta a emergencias informáticas es un término histórico para un grupo de expertos que maneja incidentes de seguridad informática. "CERT" no debe usarse genéricamente como un acrónimo de este término, ya que está registrado como una marca comercial en la Oficina de Patentes y Marcas Registradas de los Estados Unidos. Por esta razón, se propone como nombre alternativo "Computer Security Incident Response Team (CSIRT), en español, equipo de respuesta a incidentes de seguridad informática.
+
 [Equipos de Ciberseguridad y Gestión de Incidentes españoles (CSIRT)](https://www.csirt.es/index.php/es/)
 
 ## Soluciones del CCN para gestion de ciberincidentes
