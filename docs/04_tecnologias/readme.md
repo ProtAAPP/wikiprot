@@ -43,19 +43,20 @@ La mayoría de las brechas de seguridad tarda meses o más en descubrirse. En mu
 
 
 ### Autenticacion multifactor
-La autenticación multifactor es un método de autenticación electrónica en el que, a un usuario se le permite acceder a un sistema, solo después de presentar dos o más piezas de evidencia (o factores) de los siguientes tipos:
-- Conocimiento (algo que el usuario y solo el usuario sabe): contraseñas, PINs, etc.
-- Posesión (algo que el usuario y solo el usuario tiene): PC, dispositivo móvil, dispositivo USB, token hardware, etc.
-- Inherencia (algo que el usuario y solo el usuario es): huellas dactilares, reconocimiento facial, iris, voz, etc.
+La autenticación multifactor (MFA) o la autenticación de dos factores (2FA) es cuando se requiere que un usuario presente más de un tipo de evidencia para autenticarse en un sistema. Hay cuatro tipos diferentes de evidencia (o factores) que se pueden utilizar:
+- Algo que sabe:  contraseñas, PIN y preguntas de seguridad.
+- Algo que tenga: tokens de hardware o software, certificados, correo electrónico, SMS y llamadas telefónicas.
+- Algo que eres: huellas dactilares, reconocimiento facial, escaneos de iris y escaneos de huellas de manos.
+- Geolocalización y rangos de IP de origen de ubicación.
 
-El doble factor de autenticación (también conocido como 2FA) es un tipo o subconjunto de autenticación de múltiples factores, en el que se utilizan dos factores. Un escenario habitual es requerir al usuario una combinacion usuario/contraseña junto con un  segundo factor que puede ser algo que posee (p.e. código producido por un dispositivo en su poder) o algo que es (huella dactilar presentada ante dispositivo en su poder).
+Es importante resaltar que, requerir múltiples ejemplos de un solo factor (por ejemplo contraseña + PIN), no constituye MFA, aunque puede proporcionar algunos beneficios de seguridad sobre una contraseña simple.
 
-Mecanismos para utilizar el MFA:
-- OTP
-
+Aunque algunos factores son más seguros que otros, es importante señalar que "cualquier MFA es mejor que ningún MFA".
 
 Recursos interesantes:
+- [Multifactor Authentication Cheat Sheet by OWASP](https://cheatsheetseries.owasp.org/cheatsheets/Multifactor_Authentication_Cheat_Sheet.html)
 - [Google data shows 2-factor authentication blocks 100% of automated bot hacks](https://security.googleblog.com/2019/05/new-research-how-effective-is-basic.html)
+
 
 
 ### Criptografía
