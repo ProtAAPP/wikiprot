@@ -47,6 +47,7 @@ Recursos interesantes:
 - [Ciberconsejos (infografía), Desinformación en el Ciberespacio](https://www.ccn.cni.es/index.php/es/docman/documentos-publicos/305-infografia-ccn-desinformacion2/file)
 - [Kit de concienciación de INCIBE](https://www.incibe.es/protege-tu-empresa/kit-concienciacion)
 - [Kit ENISA mes europeo de la ciberseguridad](https://cybersecuritymonth.eu/press-campaign-toolbox)
+- [Infografía Fraude del CEO. DSN](https://pbs.twimg.com/media/DrPn0x-WwAMwucf?format=jpg&name=large)
 
 
 ### Para el hogar y la familia
