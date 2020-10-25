@@ -108,6 +108,15 @@ Se trata de un modelo de seguridad introducido por [John Kindervag en 2010](http
 El enfoque tradicional de seguridad de red de muchas organizaciones se basa en el concepto de castillo y foso, que se denomina seguridad perimetral. En este enfoque, las organizaciones se concentran en proteger su red desde el exterior, pero se confía en todos los que están dentro. La falla de este enfoque es que una vez que los ciberdelincuentes obtienen acceso a la red, son libres de causar estragos.
 
 
+### Secure Access Service Edge (SASE)
+Secure Access Service Edge o SASE (pronunciado "sassy"), es un concepto emergente de ciberseguridad que Gartner describió en el informe de agosto de 2019, El futuro de la seguridad de la red en la nube [The Future of Network Security Is in the Cloud](https://blogs.gartner.com/andrew-lerner/2019/12/23/say-hello-sase-secure-access-service-edge/)
+
+Antes de sumergirse en los detalles de SASE, es importante entender un poco los antecedentes de este nuevo término. Los enfoques y tecnologías de red existentes simplemente ya no proporcionan los niveles de seguridad y control de acceso que las organizaciones digitales necesitan. Estas organizaciones demandan acceso inmediato e ininterrumpido para sus usuarios, sin importar donde se encuentren. Con el aumento de los usuarios remotos y las aplicaciones de software como servicio (SaaS), el traslado de datos del centro de datos a los servicios de la nube y el aumento del tráfico que se dirige a los servicios públicos de la nube y a las sucursales en lugar de volver al centro de datos, ha aumentado la necesidad de un nuevo enfoque para la seguridad de la red.
+
+SASE es la convergencia de la red de área amplia, o WAN, y los servicios de seguridad de red como CASB, FWaaS y Zero Trust, en un único modelo de servicio entregado en la nube. De acuerdo con Gartner, "las capacidades de SASE se entregan como un servicio basado en la identidad de la entidad, el contexto en tiempo real, las políticas de seguridad/cumplimiento de la empresa y la evaluación continua de riesgo/confianza a lo largo de las sesiones. Las identidades de las entidades pueden asociarse con personas, grupos de personas (sucursales), dispositivos, aplicaciones, servicios, sistemas de IO o ubicaciones de computación de punta".
+
+Gartner espera que, "para el 2024, al menos el 40% de las empresas tendrán estrategias explícitas para adoptar SASE, frente a menos del 1% a finales de 2018". Una arquitectura SASE identifica a los usuarios y dispositivos, aplica la seguridad basada en políticas y ofrece acceso seguro a la aplicación o datos apropiados. Este enfoque permite a las organizaciones aplicar el acceso seguro sin importar dónde se encuentren sus usuarios, aplicaciones o dispositivos.
+
 ## Productos revisados por organismos independientes
 
 ### Catálogo de Productos de Seguridad de las Tecnologías de la Información y la Comunicación
