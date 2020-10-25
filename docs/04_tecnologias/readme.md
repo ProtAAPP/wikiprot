@@ -91,6 +91,7 @@ Los tipos de cifrado para datos en movimiento incluyen (pero no se limitan a) lo
 Recursos interesante:
 - Certificación en criptografía: [CryptoCert](https://www.criptocert.com/)
 - [Curso sobre criptografía de criptored](https://www.youtube.com/watch?v=rm8W5XD3lUg)
+- [Hashing vs. Encryption vs. Encoding vs. Obfuscation](https://danielmiessler.com/study/encoding-encryption-hashing-obfuscation/)
 - [Crypto Go Game](https://www.cryptogogame.com/ES/juego) - Juego de cartas educativo sobre criptografía simétrica actual. El principal objetivo de _Crypto Go_ es   familiarizar a los jugadores de una manera lúdica y social con las principales herramientas criptográficas actuales,  su nivel de seguridad, y la forma correcta de combinarlas.
 
 ### Copias de Seguridad
@@ -366,6 +367,9 @@ Artículos:
 - [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
 
 ### Plataforma Windows
+
+Aspectos de seguridad del funcionamiento de la plataforma Windows:
+- [Tipos de Login en sistemas Microsoft.](http://kinomakino.blogspot.com/2020/10/tipos-de-login-en-sistemas-microsoft-101.html)
 
 Recursos generales:
 - [Actualizaciones de seguridad](https://portal.msrc.microsoft.com/en-us/security-guidance)
