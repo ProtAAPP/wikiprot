@@ -7,16 +7,16 @@ sidebar: auto
 [[TOC]]
 
 
-## Concepto CSP
+## Concepto
 
 Una *Política de Seguridad de los Contenidos* ("Content Security Policy" ó CSP) es un pequeño texto que indica a los navegadores
 web, cuando van a mostrar y ejecutar el código fuente de una página web (html, javascript, css, imágenes, etc), qué fuentes y 
 recursos son **fiables** y cuáles otros no lo son y deben ser ignorados o bloqueados.
 
-**El navegador, en lugar de confiar ciegamente en todo lo que entrega un servidor**, se guiará por la la CSP 
+**El navegador, en lugar de confiar ciegamente en todo lo que entrega un servidor**, se guiará por la CSP 
 que define esa lista blanca de fuentes de contenido confiables, y ordena al navegador que solo ejecute o muestre 
-recursos de esas fuentes. Incluso si un atacante puede encontrar un hueco a través del cual insertar una secuencia de 
-comandos, esta no concordará con la lista blanca, y por lo tanto no se ejecutará.
+recursos de esas fuentes. Incluso si un atacante puede encontrar un hueco a través del cual insertar código fuente o 
+una secuencia de comandos, ésta no concordará con la lista blanca, y por lo tanto no se ejecutará.
 
 :::warning Ataques XSS
 La vulnerabilidad que aprovechan los ataques por XSS es la incapacidad de los navegadores para distinguir entre código fuente
@@ -51,7 +51,9 @@ La CSP puede insertarse de muchas maneras, a continuación se explican varias fo
 únicamente una de ellas.
 
 
-## Configurar CSP en Apache
+## Configurar CSP vía servidores web
+
+### En Apache
 
 Para configurar una Content Security Policy (CSP) para una aplicación concreta, en el fichero .htaccess (por ejemplo) 
 de la raiz, hay que añadir esto:
@@ -80,7 +82,7 @@ $ sudo service apache2 restart
 ```
 
 
-## Configurar CSP en Nginx
+### En Nginx
 
 En Nginx podrá definirse la cabecera http relativa a la CSP dentro de la sección ```server```, en el fichero
 de configuración de un sitio web:
@@ -114,7 +116,9 @@ server
 ``` 
 
 
-## Definir CSP en HTML
+## Definir CSP vía código fuente
+
+### Mediante etiqueta meta en HTML
 
 La CSP puede definirse en el propio código fuente HTML que se envía al navegador web desde el cliente. Simplemente habría
 que incluir una etiqueta ```meta``` en la sección ```head``` de la página web:
@@ -125,7 +129,7 @@ que incluir una etiqueta ```meta``` en la sección ```head``` de la página web:
 ```
 
 
-## Definir CSP en PHP
+### En PHP
 
 Concretamente, el siguiente ejemplo muestra cómo la aplicación podría inyectar una cabecera http con la CSP
 a través del código fuente de la propia aplicación. En concreto este en un ejemplo que aplica a una aplicación PHP
@@ -185,7 +189,7 @@ use App\Http\Middleware\AnadirCSP;
 ```
 
 
-## Definir CSP en Java
+### En Java
 
 A continuación se muestra un ejemplo habitual en el que se define una cabecera http personalizada (custom header) utilizando
 ```HttpClient```, pero para definir la CSP:
@@ -216,4 +220,22 @@ HttpClient client = HttpClients.custom().setDefaultHeaders(headers).build();
 HttpUriRequest request = RequestBuilder.get().setUri(SAMPLE_URL).build();
 client.execute(request);
 ```
+
+
+## Verificar CSP y solucionar problemas
+
+En ocasiones una página o aplicación web no funciona, y no siempre es evidente qué está ocurriendo. Si los fallos
+se deben a que la CSP está bloqueando recursos, como por ejemplo un fichero javasript, un fichero css o algunas
+fuentes o imágenes, este hecho **siempre aparecerá en la consola del navegador**.
+
+Es decir, que ha de abrirse la consola (en la mayoría de navegadores se hace pulsando '''F12''), y al mirar en la
+pestaña *"Consola"* aparecerá el rojo un error similar al siguiente:
+
+![Ejemplo error CSP en la consola](./img-csp/ejemplo_error_csp.png)
+
+El mensaje es muy claro, indica claramente el recurso que ha violado la definición de la CSP, por lo que deberá
+ser modicada para permitirlo, o evitado.
+
+
+
 
