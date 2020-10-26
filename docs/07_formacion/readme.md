@@ -8,6 +8,7 @@
 [2019. Listado de masters en ciberseguridad compilado por INCIBE](https://www.incibe.es/sites/default/files/paginas/talento/catalogos-formacion/catalogo-masteres-ciberseguridad-feb2019.pdf)
 
 ### Cursos Online
+- [Plataforma Angeles CCN](https://angeles.ccn-cert.cni.es/index.php/es/menu-formacion-es) Agrupa todos los recursos de formación en ciberseguridad del CCN.
 - [C1berWall Academy](https://www.ecteg.eu/c1b3rwall-academy-es/)
 - Cursos de ciberseguridad en Coursera, [English](https://www.coursera.org/courses?query=cybersecurity)
 - [Sesiones formativas del CCN](https://vanesa.ccn-cert.cni.es/userportal/#/home/main) VANESA.
@@ -25,7 +26,7 @@
 - [NATIONAL CYBERLEAGUE](https://www.nationalcyberleague.es/) Promovido por la Guardia Civil.
 
 ### Plataformas de tipo competitivo
-- [ATENEA](https://www.ccn-cert.cni.es/soluciones-seguridad/atenea.html) Promovido por CCN.
+- [ATENEA](https://angeles.ccn-cert.cni.es/index.php/es/talento-es) Plataforma promovida por CCN que incluye retos sobre Criptografía y Esteganografía; Exploiting, Forense, Análisis de tráfico, Reversing, etc.
 
 ### Charlas generales
 - [¿Qué hay en la mochila de un hacker?](https://cybercamp.es/videos/que-hay-en-la-mochila-de-un-hacker). Especial para jovenes.
@@ -35,6 +36,7 @@
 ### Para empleados
 
 Recursos interesantes:
+- [Plataforma Angeles CCN](https://angeles.ccn-cert.cni.es/index.php/es/ciberconsejos) Agrupa todo el contenido de concienciación en ciberseguridad.
 - [Concienciación del CCN-CERT - Página inicial sobre Ciberconsejos](https://www.ccn.cni.es/index.php/es/ciberconsejos)
 - [Ciberconsejos (video), Buenas prácticas en el empleo de tecnología](https://www.youtube.com/watch?v=uKNcqM0ZBEw)
 - [Ciberconsejos (video), Recomendaciones de Ciberseguridad](https://www.youtube.com/watch?v=VfZVGFgRl4g)
@@ -59,4 +61,3 @@ Recursos interesantes:
 
 ### Herramientas para hacer concienciación
 - [Gophish](https://getgophish.com/) Herramienta opensource para crear tus propias campañas de phishing simulado y concienciar a los empleados.
-
