@@ -146,12 +146,16 @@ Ejemplos de alertas que se pueden configurar con honeytokens:
 
 ## Respuesta a ciberincidentes
 ### Procedimientos generales de alto nivel
+#### Por organismos españoles
 - [GUÍA NACIONAL DE NOTIFICACIÓN Y GESTIÓN DE CIBERINCIDENTES](https://www.incibe-cert.es/sites/default/files/contenidos/guias/doc/guia_nacional_notificacion_gestion_ciberincidentes.pdf) aprobada por el Consejo Nacional de Ciberseguridad. 2020.
 ![IMG](./img/ventanilla.png)
 - [CCN-STIC-817](https://www.ccn-cert.cni.es/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/988-ccn-stic-817-gestion-de-ciberincidentes/file.html) Esquema Nacional de Seguridad. Gestión de ciberincidentes
 ![IMG](./img/cicloincidentes.png)
 <!--![IMG](./img/clasificacioninc.png)-->
 ![IMG](./img/817peligrosidad.png)
+
+#### Por organismos internacionales
+- [Computer Security Incident Handling Guide. NIST](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf)
 
 ### Respondiendo a Ransomware
 - [CCN-CERT BP/04 Ransomware (2018)](https://www.ccn-cert.cni.es/informes/informes-ccn-cert-buenas-practicas-bp/2088-ccn-cert-bp-04-ransomware/file.html)
@@ -164,6 +168,7 @@ Ejemplos de alertas que se pueden configurar con honeytokens:
 
 ### Respondiendo a incidentes en tecnologías concretas
 - [AWS Security Incident Response Guide](https://d1.awsstatic.com/whitepapers/aws_security_incident_response.pdf)
+- [AWS Incident Response template. Web Application Dos/DDoS Attack](https://github.com/aws-samples/aws-incident-response-runbooks/blob/master/runbooks/runbook%20sample%20-%20DoS%20or%20DDoS%20attack.md)
 
 ### SOAR / Playbooks
 Pendiente de desarrollar
