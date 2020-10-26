@@ -92,6 +92,7 @@ Recursos interesante:
 - Certificación en criptografía: [CryptoCert](https://www.criptocert.com/)
 - [Curso sobre criptografía de criptored](https://www.youtube.com/watch?v=rm8W5XD3lUg)
 - [Hashing vs. Encryption vs. Encoding vs. Obfuscation](https://danielmiessler.com/study/encoding-encryption-hashing-obfuscation/)
+- [Criptografía en el mundo real](https://cmr.e-paths.com/) Libro de Gonzalo Alvarez Marañon, Area de Innovación y Laboratorio. Eleven Paths.
 - [Crypto Go Game](https://www.cryptogogame.com/ES/juego) - Juego de cartas educativo sobre criptografía simétrica actual. El principal objetivo de _Crypto Go_ es   familiarizar a los jugadores de una manera lúdica y social con las principales herramientas criptográficas actuales,  su nivel de seguridad, y la forma correcta de combinarlas.
 
 ### Copias de Seguridad
