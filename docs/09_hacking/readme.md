@@ -55,6 +55,10 @@ Esta simulación imita aquellos ataques en los que los atacantes (ya sea interna
 
 ## Auditorías según tecnología
 
+### Descubrimiento de subdominios
+- [Recursos y herramientas para el descubrimiento de subdominios](https://www.hackplayers.com/2017/02/recopilatorio-para-descubrimiento-subdominios.html)
+
+
 ### Escaneo de Vulnerabilidades
 - [Vulnerability Scanning Tools](https://owasp.org/www-community/Vulnerability_Scanning_Tools)
 - [Flan Scan](https://github.com/cloudflare/flan)
