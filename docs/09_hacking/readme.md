@@ -120,6 +120,13 @@ Pendiente de desarrollar
 
 ![IOS Vulnerability Assesment](./img/ios-pentesting.jpg)
 
+- [iOS Pentesting Tools Part 1: App Decryption and class-dump](https://www.allysonomalley.com/2018/08/10/ios-pentesting-tools-part-1-app-decryption-and-class-dump/)
+- [iOS Pentesting Tools Part 2: Cycript](https://www.allysonomalley.com/2018/12/13/ios-pentesting-tools-part-2-cycript/)
+- [iOS Pentesting Tools Part 3: Frida and Objection](https://www.allysonomalley.com/2018/12/20/ios-pentesting-tools-part-3-frida-and-objection/)
+- [iOS Pentesting Tools Part 4: Binary Analysis and Debugging](https://www.allysonomalley.com/2019/01/06/ios-pentesting-tools-part-4-binary-analysis-and-debugging/)
+- [iOS Bug Hunting – Web View XSS](https://www.allysonomalley.com/2018/12/03/ios-bug-hunting-web-view-xss/)
+
+
 ### Auditorías WIFI
 Pendiente de desarrollar
 
