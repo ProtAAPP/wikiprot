@@ -265,6 +265,9 @@ Guías CCN-STIC para configuración y bastionado:
 ### Amazon AWS
 Amazon AWS ha obtenido la certificación [ENS nivel Alto](https://aws.amazon.com/es/compliance/esquema-nacional-de-seguridad/)
 
+- [AWS Auto Remediate](https://github.com/servian/aws-auto-remediate)
+- [Antivirus for S3 buckets](https://github.com/widdix/aws-s3-virusscan)
+
 ### Google Cloud
 Google Cloud ha obtenido la certificación [ENS nivel Alto](https://cloud.google.com/security/compliance/ens?hl=es-419)
 
