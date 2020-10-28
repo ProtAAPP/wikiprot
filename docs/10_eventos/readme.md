@@ -19,24 +19,38 @@
 * [BitUp Alicante](https://bitupalicante.com/)
 ##### ÁVILA
 * [C1b3rWall](https://www.c1b3rwall.es/). [Vídeos](https://www.youtube.com/c/C1b3rWall/videos)
+##### BARCELONA
+* [NoConName](https://www.noconname.org/)
+* [R2Con](https://rada.re/con/2020/). Todo Reversing.
 ##### CUENCA
 * [MorterueloCON](http://www.morteruelo.net/)
 ##### GUADALAJARA
 * [HoneyCON](https://www.honeycon.eu/). [Vídeos](https://www.youtube.com/channel/UCWiLr2F71gHXh6gvZB6N9MQ/videos)
+##### GRANADA
+* [JASYP](https://interferencias.tech/jasyp/) inter_ferencias
 ##### MADRID
 * [RootedCon](https://www.rootedcon.com/) [Vídeos ponencias](https://www.youtube.com/user/rootedconmadrid/videos)
 * [X1RedMasSegura](https://www.x1redmassegura.com/). [Vídeos ponencias](https://www.youtube.com/user/X1RedMasSegura/videos)
 * [MundoHacker](https://mundohackerday.com/)
 * [Jornadas de Ciberseguridad y Ciberdefensa](https://ciberseg.uah.es/)
+* [H_Con](https://www.h-c0n.com/p/home.html)
+* [EastMadH4ck](https://eastmadhack.benjagarrido.com/)
+* [Hack Madrid](https://hackmadrid.org/conferencias.html)
+##### MÁLAGA
+* [UAD360](https://uad360.es/)
 ##### SANTANDER
 * [Sh3llcon](https://www.sh3llcon.es/)
 ##### SEVILLA
 * [OSINT City](https://www.osintcity.com/)
+* [SecAdm1n](https://www.secadmin.es/)
 ##### SAN SEBASTIÁN
 * [Euskalhack](https://securitycongress.euskalhack.org/)
+##### TENERIFE
+* [Hackr0n](https://www.hackron.com/)
 ##### VALENCIA
 * [TomatinaCON](http://tomatinacon.com/)
 * [RootedCon Valencia](https://www.rootedcon.com/)
+* [PaellaCon](http://www.paellacon.com/)
 ##### ZARAGOZA
 * [CONPilar](https://conpilar.es/)
 ##### (VIRTUAL)
