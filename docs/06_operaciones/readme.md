@@ -95,6 +95,11 @@ Componentes de un SIEM:
 * Presentación: la capacidad de visualizar datos y eventos es otro componente clave en los sistemas SIEM, ya que permite a los analistas ver datos fácilmente. Los paneles que contienen múltiples visualizaciones o vistas ayudan a identificar tendencias, anomalías y monitorear el estado general o de seguridad de un entorno. Algunas herramientas SIEM vendrán con paneles prefabricados, mientras que otras permitirán a los usuarios crear y ajustar los suyos propios.
 * Mitigación y remediación: una vez que se implementan las reglas de correlación y se crean los paneles de control para proporcionar una descripción general completa del sistema, el último componente clave de un sistema SIEM es cómo se manejan los incidentes una vez identificados. La mayoría de los sistemas SIEM admiten mecanismos para contener y mitigar automáticamente los eventos de seguridad. Por ejemplo, según las reglas de correlación, se puede configurar un sistema SIEM para que comience automáticamente un proceso de escalamiento interno: ejecutar scripts que inician el proceso de contención y pasar el balón al recurso correcto en la organización activando una alerta, abriendo un ticket, etc.
 
+Es importante tener en cuenta que no todas las fuentes de logs tienen el mismo volumen generado, ni aportan lo mismo desde un punto de vista de deteccion de ataques. Por tanto, es conveniente realizar un análisis coste/beneficio para establecer prioridades. Se incluye aquí, una posible lista de fuentes priorizada, elaborada por [cyb3rops](https://twitter.com/cyb3rops/status/1221580082667499522?s=20):
+
+![IMG](./img/logsourcespriority.png)
+
+Recursos interesantes:
 - [SIGMA Rules](https://github.com/Neo23x0/sigma). Lenguaje para describir reglas de correlación.
 - [Godmode Sigma Rule](https://gist.github.com/Neo23x0/811db09add59068a7a80273d7e5f6e0f)
 - [Godmode Yara Rule](https://gist.github.com/Neo23x0/f1bb645a4f715cb499150c5a14d82b44)
