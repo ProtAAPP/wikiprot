@@ -164,15 +164,19 @@
 
 
 ### Libros
-- [We Have Root](https://www.schneier.com/books/root/) Bruce Schneier. Inglés. 2019.
-- [Click Here to Kill Everybody](https://www.schneier.com/books/click-here/) Bruce Schneier. Inglés. 2018.
-- [Data and Goliath](https://www.schneier.com/books/data-and-goliath/) Bruce Schneier. Inglés. 2015.
-- [The Art of Invisibility](https://www.amazon.com/Art-Invisibility-Worlds-Teaches-Brother/dp/0316380504/) Kevin Mitnick. Inglés. 2017
-- [Future Crimes](https://www.amazon.com/Future-Crimes-Digital-Underground-Connected/dp/0804171459) Marc Goodman. Inglés. 2015]
-- [Manipulated: Inside the Cyberwar to Hijack Elections and Distort the Truth](https://www.amazon.com/Manipulated-Inside-Cyberwar-Elections-Distort/dp/1538133504) Theresa Payton. Inglés. 2020.
-- [The Code Book: The Secret History of Codes and Code-breaking](https://www.amazon.co.uk/Code-Book-Secret-History-Code-breaking/dp/1857028899/ref=sr_1_1?s=books&ie=UTF8&qid=1492525081&sr=1-1&keywords=%E2%80%A2%09%E2%80%A2%09The+Code+Book). Simon Singh. Inglés. 2002.
-- [Editorial 0xword](https://0xword.com). Ciberseguridad en Español.
-- [Cuentos de Ciberseguridad](https://www.amazon.es/Cuentos-Ciberseguridad-Plural-Francisco-Perez/dp/8418155051) de Francisco Perez Bes (para niños). Español.
+#### Libros en Español
+- [Editorial 0xword](https://0xword.com). Muchísimos libros sobre Ciberseguridad en Español.
+- [Cuentos de Ciberseguridad](https://www.amazon.es/Cuentos-Ciberseguridad-Plural-Francisco-Perez/dp/8418155051) de [Francisco Perez Bes](https://twitter.com/pacoperezbes) (para niños).
+- [Nuestros hijos en la red: 50 cosas que debemos saber para una buena prevención digital](https://www.amazon.es/Nuestros-hijos-red-debemos-prevenci%C3%B3n/dp/8417886028/ref=sr_1_1) de [Silvia Barrera](https://twitter.com/sbarrera0)
+#### Libros en Inglés
+- [We Have Root](https://www.schneier.com/books/root/) Bruce Schneier. 2019.
+- [Click Here to Kill Everybody](https://www.schneier.com/books/click-here/) Bruce Schneier. 2018.
+- [Data and Goliath](https://www.schneier.com/books/data-and-goliath/) Bruce Schneier. 2015.
+- [The Art of Invisibility](https://www.amazon.com/Art-Invisibility-Worlds-Teaches-Brother/dp/0316380504/) Kevin Mitnick. 2017
+- [Future Crimes](https://www.amazon.com/Future-Crimes-Digital-Underground-Connected/dp/0804171459) Marc Goodman. 2015]
+- [Manipulated: Inside the Cyberwar to Hijack Elections and Distort the Truth](https://www.amazon.com/Manipulated-Inside-Cyberwar-Elections-Distort/dp/1538133504) Theresa Payton. 2020.
+- [The Code Book: The Secret History of Codes and Code-breaking](https://www.amazon.co.uk/Code-Book-Secret-History-Code-breaking/dp/1857028899/ref=sr_1_1?s=books&ie=UTF8&qid=1492525081&sr=1-1&keywords=%E2%80%A2%09%E2%80%A2%09The+Code+Book). Simon Singh. 2002.
+
 
 ### Tiras cómicas
 - [Cybersecurity Cartoons](https://cybersecurityventures.com/cybersecurity-cartoon-archives/)
