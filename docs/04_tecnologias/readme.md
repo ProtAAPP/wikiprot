@@ -11,7 +11,7 @@ En una red plana, un atacante que consigue acceso o posibilidad de ejecución, p
 
 Ver también [Modelos de interconexión según la guía CCN-STIC-811](#modelos-de-interconexion-segun-la-guia-ccn-stic-811)
 
-### Minimio privilegio
+### Minimo privilegio
 El principio de mínimo privilegio es un concepto esencial en seguridad. La idea del mínimo privilegio es que cualquier usuario, aplicación, etc. debe tener solo los derechos y privilegios mínimos necesarios para realizar su función. Por ejemplo, los usuarios del departamento financiero no deberían tener el mismo nivel de acceso que los usuarios del departamento de ingeniería.
 
 El privilegio mínimo ayuda a reducir la superficie de ataque al eliminar los derechos y privilegios innecesarios que pueden provocar incidentes de seguridad, como una violación de datos importante. Por ejemplo, la Agencia de Seguridad Nacional (NSA) tuvo que reducir el número de personas que tenían acceso a información secreta después de que Edward Snowden filtrara datos clasificados.
@@ -57,8 +57,6 @@ Aunque algunos factores son más seguros que otros, es importante señalar que "
 Recursos interesantes:
 - [Multifactor Authentication Cheat Sheet by OWASP](https://cheatsheetseries.owasp.org/cheatsheets/Multifactor_Authentication_Cheat_Sheet.html)
 - [Google data shows 2-factor authentication blocks 100% of automated bot hacks](https://security.googleblog.com/2019/05/new-research-how-effective-is-basic.html)
-
-
 
 ### Criptografía
 
@@ -109,7 +107,6 @@ Se trata de un modelo de seguridad introducido por [John Kindervag en 2010](http
 
 El enfoque tradicional de seguridad de red de muchas organizaciones se basa en el concepto de castillo y foso, que se denomina seguridad perimetral. En este enfoque, las organizaciones se concentran en proteger su red desde el exterior, pero se confía en todos los que están dentro. La falla de este enfoque es que una vez que los ciberdelincuentes obtienen acceso a la red, son libres de causar estragos.
 
-
 ### Secure Access Service Edge (SASE)
 Secure Access Service Edge o SASE (pronunciado "sassy"), es un concepto emergente de ciberseguridad que Gartner describió en el informe de agosto de 2019, El futuro de la seguridad de la red en la nube [The Future of Network Security Is in the Cloud](https://blogs.gartner.com/andrew-lerner/2019/12/23/say-hello-sase-secure-access-service-edge/)
 
@@ -130,12 +127,30 @@ El CCN publica este catálogo (CPSTIC) con el objetivo de ofrecer a los organism
 ### Common Criteria
 - [Lista de productos certificados CC](https://commoncriteriaportal.org/products/)
 
-
 ## Las Guías CCN-STIC
 [Indice con TODAS las guías CCN-STIC publicadas](https://www.ccn-cert.cni.es/pdf/guias/1297-indice-series-ccn-stic/file.html), fecha y estado (F ‐ Fuera de soporte / P ‐ Pendiente de publicación / R ‐ En revisión / * DIFUSION LIMITADA / ** CONFIDENCIAL)
 
 ## Gestión de Identidades
-Pendiente de desarrollar
+Se realiza mediante sistemas que integran políticas y procesos para el control de acceso a sistemas de información y/o instalaciones corporativas.
+
+### Aprovisionamiento de cuentas
+Requiere la existencia de un repositorio corporativo de entidades con servicios de directorio que permitan administrar los atributos de cada cuenta.
+
+### Flujos de autorización
+El control de acceso se realiza mediante políticas basadas en modelos de autorización.
+[Diferentes modelo explicados de forma sencilla (En inglés)](https://dzone.com/articles/acl-rbac-abac-pbac-radac-and-a-dash-of-cbac)
+- ACL (Access Control List): Tu nombre está en la lista.
+- RBAC (Role-Based Access Control): Llevas puesta la pulsera correcta.
+- ABAC (Attribute-Based Access Control): Tienes la edad adecuada.
+- RAdAC (Risk Adaptative-Based Access Control): No has estado recientemente en un país con alguna epidemia.
+
+### Sincronización de credenciales
+Es un procedimiento de autenticación para habilitar a un usuario el acceso a los sistemas para los que tiene acceso concedido, mediante un solo uso de su identificación.
+- SSO (Single Sign On): Autenticación primaria que intercepta los requisitos de autenticación de sistemas de información secundarios.
+- Token: Autenticación externalizada en un servidor de tickets que los usuarios presentan a los sistemas de información para obtener acceso (El más popular es [Kerberos](http://web.mit.edu/kerberos/)).
+- Federación de identidades: Se utilizan protocolos basados en estándares que los sistemas de información intercambian para no requerir nuevas autenticaciones (El más popular es [SAML](http://saml.xml.org/)).
+- [OpenID](https://openid.net/): Mecanismo SSO descentralizado y distribuido que utiliza una URL para compilar una identidad que puede ser usada por los sistemas de información.
+- [OAuth](https://oauth.net/): Protocolo web basado en una API para autenticación en sistemas de información de escritorio, móviles y web.
 
 ## Protección Perimetral
 
