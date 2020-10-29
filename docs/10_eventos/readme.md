@@ -195,6 +195,8 @@
 ### Tiras cómicas
 - [Cybersecurity Cartoons](https://cybersecurityventures.com/cybersecurity-cartoon-archives/)
 
+### Infografías
+- [Infografías sobre ciberseguridad](https://twitter.com/securityguill)
 
 ### Otras iniciativas de difusión
 - [Mes europeo de la ciberseguridad](https://cybersecuritymonth.eu/) Promovido por [ENISA](https://www.enisa.europa.eu/)
