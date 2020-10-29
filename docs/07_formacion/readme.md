@@ -50,6 +50,7 @@ Recursos interesantes:
 - [Kit de concienciación de INCIBE](https://www.incibe.es/protege-tu-empresa/kit-concienciacion)
 - [Kit ENISA mes europeo de la ciberseguridad](https://cybersecuritymonth.eu/press-campaign-toolbox)
 - [Infografía Fraude del CEO. DSN](https://pbs.twimg.com/media/DrPn0x-WwAMwucf?format=jpg&name=large)
+- [Guía de ciberataques INCIBE](https://www.osi.es/sites/default/files/docs/guia-ciberataques/osi-guia-ciberataques.pdf)
 
 
 ### Para el hogar y la familia
