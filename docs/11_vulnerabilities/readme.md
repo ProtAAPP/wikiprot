@@ -24,6 +24,7 @@ Páginas que listan vulnerabilidades en todo tipo de tecnologías:
 - [Buscador de Common Vulnerabilities & Exposures (MITRE)](https://cve.mitre.org/cve/)
 - [Buscador de scoring NIST](https://nvd.nist.gov/vuln/search)
 - [CVEDetails](https://www.cvedetails.com/)
+- [Base de Datos de Exploits (Offensive Security)](https://www.exploit-db.com/)
 - [Vulnerabilidades recopiladas por CCN](https://www.ccn-cert.cni.es/seguridad-al-dia/vulnerabilidades.html)
 
 A modo de orientativo, en los siguientes casos el [gobierno USA](https://cyber.dhs.gov/directives/) ha ordenado a sus agencias federales parchear con urgencia (sin esperar al ciclo de actualizaciones habitual) las siguientes vulnerabilidades:
