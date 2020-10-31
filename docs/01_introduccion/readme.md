@@ -59,6 +59,7 @@ Si no puedes ser miembro, también puedes contactar con nosotros para proponer l
 - Isaca [Menú saludable para Responsables de Seguridad. Como digerir el ENS](https://www.slideshare.net/GuillermoObispoSanRo/menu-saludable-para-responsables-de-seguridad-226454626)
 - RootedCon [Compliance as Code (Auditoría de intraestructura, rápida y eficiente)](https://www.youtube.com/watch?v=vODFljdavJw&t=1s)
 - RootedCon [La Metacharla de Seguridad](https://www.youtube.com/watch?v=laRfJ_zYJBI)
+- C1b3rWall Academy [Cimientos sólidos para Defensores](https://www.youtube.com/watch?v=hmaMOKSjw-U)
 - El Diablu (?)
 
 ## Colabora con esta documentación
