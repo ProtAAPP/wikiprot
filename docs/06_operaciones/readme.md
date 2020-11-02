@@ -109,10 +109,14 @@ Recursos interesantes::
 - [Godmode Yara Rule](https://gist.github.com/Neo23x0/f1bb645a4f715cb499150c5a14d82b44)
 - [2020. 8 WAYS TO DETECT MALICIOUS FIREWALL TRAFFIC USING SIEM](https://blueteamblog.com/8-ways-to-detect-malicious-firewall-traffic-using-siem)
 - [2020. 18 WAYS TO DETECT MALCIOUS ACTIONS IN YOUR ACTIVE DIRECTORY LOGS USING SIEM](https://blueteamblog.com/18-ways-to-detect-malcious-actions-in-your-active-directory-logs-using-siem)
+- [2020. Tips to improve your SIEM](https://blueteamblog.com/tips-to-improve-your-siem)
+- [2020. 7 WAYS TO MONITOR YOUR ORACLE DATABASE USING SIEM](https://blueteamblog.com/7-ways-to-monitor-your-oracle-database-using-siem)
+- [2020. 7 WAYS TO MONITOR YOUR OFFICE 365 LOGS USING SIEM](https://blueteamblog.com/7-ways-to-monitor-your-office-365-logs-using-siem)
 - [2019. A Blue Team guide to Azure & Office 365 monitoring](https://0x00sec.org/t/a-blue-team-guide-to-azure-office-365-monitoring/14411)
 
 ## Centros de Operaciones de Seguridad (SOCs)
 - [El SOC de la AGE](https://www.ccn.cni.es/index.php/es/ccn-cert-menu-es/soc-age/soc-age-faq) Preguntas y respuestas.
+- [2020 Setting up a CSIR](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/setting-up-a-csirt) ENISA
 - [2020. Expel. Performance metrics, part 1: Measuring SOC efficiency](https://expel.io/blog/performance-metrics-measuring-soc-efficiency/)
 - [2020. Expel. Performance metrics, part 2: Keeping things under control](https://expel.io/blog/performance-metrics-keeping-things-under-control/)
 - [2019. Introducing the Funnel of Fidelity](https://posts.specterops.io/introducing-the-funnel-of-fidelity-b1bb59b04036)
@@ -131,6 +135,9 @@ Recursos interesantes::
 - [Catching Lazarus: Threat Intelligence to Real Detection Logic - Part One](https://labs.f-secure.com/blog/catching-lazarus-threat-intelligence-to-real-detection-logic/)
 - [Catching Lazarus: Threat Intelligence to Real Detection Logic - Part Two](https://labs.f-secure.com/blog/catching-lazarus-threat-intelligence-to-real-detection-logic-part-two)
 - Threat hunting: cazando sin salir de casa. SecurityAtWork [ParteI](https://www.securityartwork.es/2020/09/21/threat-hunting-cazando-sin-salir-de-casa-i/) [Parte2](https://www.securityartwork.es/2020/09/25/threat-hunting-cazando-sin-salir-de-casa-ii/), [Parte3](https://www.securityartwork.es/2020/09/29/threat-hunting-iii-cazando-sin-salir-de-casa-kibana/), [Parte4](https://www.securityartwork.es/2020/10/07/threat-hunting-cazando-sin-salir-de-casa-grafiki-iv/), [Parte5](https://www.securityartwork.es/2020/10/15/threat-hunting-v-cazando-sin-salir-de-casa-jupyter-notebooks/)
+- [Detecting Kerberoasting Activity](https://www.hub.trimarcsecurity.com/post/trimarc-research-detecting-kerberoasting-activity)
+- [Detecting Password Spraying with Security Event Auditing](https://www.hub.trimarcsecurity.com/post/trimarc-research-detecting-password-spraying-with-security-event-auditing)
+- [LogonTracer](https://github.com/JPCERTCC/LogonTracer) Herramienta del JPCERT para investigar logons en directorio activo presentandolos de forma gráfica.
 
 
 ## Vulnerability Disclosure y Bug Bounties
@@ -138,9 +145,13 @@ Recursos interesantes::
 - [Lista de bug bounties en HackerOne](https://hackerone.com/bug-bounty-programs)
 
 ## Defensa Activa (Deception)
+- [2020. The Art of the Honeypot Account: Making the Unusual Look Normal](https://www.hub.trimarcsecurity.com/post/the-art-of-the-honeypot-account-making-the-unusual-look-normal)
 - [2019. How Deception Technology Can Defend Networks](https://medium.com/@eddies_47682/how-deception-technology-can-defend-networks-914864bf9f53#:~:text=Modern%20deception%20technology%20involves%20distributing,be%20accessed%20by%20anyone%20legitimately.)
 - [2015. ¿Qué es la Defensa Activa?](https://www.ccn-cert.cni.es/documentos-publicos/ix-jornadas-stic-ccn-cert/1258-p2-01-defensa-activa-dbarroso/file.html)
 - HoneyTokens o [CanaryTokens](https://blog.thinkst.com/p/canarytokensorg-quick-free-detection.html) 
+- [Kushtaka](https://kushtaka.io/)
+- [Recopilatorio recursos honeypots](https://github.com/paralax/awesome-honeypots)
+
 <!--
 Ejemplos de alertas que se pueden configurar con honeytokens:
   ![IMG](./img/canaries.png)
@@ -187,5 +198,11 @@ Pendiente de desarrollar
 
 ## Otros recursos
 Lista de CTFs con orientación defensiva (blue):
+- [Cyberdefenders Challenges](https://cyberdefenders.org/labs/?type=ctf) Incluye investigaciones en SIEM, análisis de PCAPs, análisis de memoria, etc. La parte de Challenges es free, la parte de labs tiene coste.
 - [Splunk Boss of the SOC V](https://www.splunk.com/en_us/blog/conf-splunklive/bots-v-at-conf20.html)
 - [DFIR CTF Challenges - Unizar](https://ctf.unizar.es/)
+- [DFIR CTF images](https://dfir.training/ctfs-images)
+
+Recursos generales de "Blue Team":
+- [Megarepositorio BlueTeam](https://github.com/fabacab/awesome-cybersecurity-blueteam)
+- [30 Herramientas para BlueTeam](https://securitytrails.com/blog/blue-team-tools)
