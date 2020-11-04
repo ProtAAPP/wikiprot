@@ -229,5 +229,10 @@ Para que las cosas se encuentren bien con el buscador hay que **incluir las pala
 :::
 
 
+### Asuntos por desarrollar
+Podeis contribuir al wiki con cualquier contenido que considereis interesante. No obstante, aquí enumeramos algunos contenidos que tenemos pendientes desarrollar o profundizar:
+- [Estrategias, planes y experiencias en implantación ENS](http://localhost:8080/03_gestion/#esquema-nacional-de-seguridad-para-organizaciones-publicas-en-espana)
+- [Seguridad en Bases de Datos](http://localhost:8080/04_tecnologias/#bases-de-datos)
+- ...
 
 
