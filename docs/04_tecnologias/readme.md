@@ -274,14 +274,36 @@ Tipos de servicios:
 
 ![IMG](./img/cloudmodeltypes.png)
 
+![IMG](./img/gcloudresponsabilities.png)
+
+
 ### Aspectos generales de seguridad Cloud
 La seguridad en la nube se refiere a las tecnologías, políticas, controles y servicios que protegen los datos, las aplicaciones y la infraestructura de la nube, de las amenazas.
-
 
 ### Frameworks/controles de Seguridad para Cloud
 - [CCN-STIC-823. UTILIZACIÓN DE SERVICIOS EN LA NUBE](https://www.ccn-cert.cni.es/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/541-ccn-stic-823-seguridad-en-entornos-cloud/file.html) Particularización del ENS para Seguridad Cloud
 - [Cloud Controls Matrix (CCM)](https://cloudsecurityalliance.org/research/cloud-controls-matrix/) [Excel](https://downloads.cloudsecurityalliance.org/initiatives/ccm/CSA_CCM_v3.0.xlsx)
 - [Security Framework for Governmental Clouds. ENISA (2015)](https://www.enisa.europa.eu/publications/security-framework-for-governmental-clouds/at_download/fullReport)
+- [Federal Risk and Authorization Management Program (FedRAMP)](https://hyperproof.io/resource/fedramp-compliance-guide/)
+
+### CASB
+Un "Cloud Access Security Broker" (CASB) es un software que se encuentra entre el consumidor de servicios en la nube y sus proveedores de servicios en la nube. Un CASB extiende los controles de seguridad desde la infraestructura local a la nube. Ayudando a hacer cumplir las políticas de seguridad, cumplimiento y gobernanza para sus aplicaciones en la nube. Puede encontrarse en las instalaciones del cliente o alojado en la nube.
+
+![IMG](./img/casb.png)
+
+Un CASB se puede implementar de tres formas distintas: como proxy inverso, proxy de reenvío o en un "modo API". Cada opción tiene sus particularidades:
+
+- Proxy inverso
+
+Un proxy inverso se encuentra frente al servicio en la nube, proporcionando capacidades de seguridad en línea al ubicarse en la ruta del tráfico de la red. La conexión del agente de proxy inverso se ejecuta desde Internet a su servidor de aplicaciones, ocultando la información que proviene de la fuente original.
+
+- Proxy de reenvío
+
+Un proxy de reenvío se encuentra frente al usuario, y el CASB envía el tráfico a múltiples plataformas en la nube. La conexión del proxy de reenvío se ejecuta desde usted, sentado detrás de su firewall, a Internet. Al igual que el proxy inverso, también proporciona capacidades de seguridad en línea.
+
+- Modo API
+
+A diferencia de las implementaciones de proxy, el uso de la interfaz del programa de aplicaciones (API) permite la integración directa de CASB y un servicio en la nube. Esto le permite proteger tanto el tráfico administrado como el no administrado. Dependiendo de la funcionalidad de la API de los proveedores de servicios en la nube, puede ver la actividad, el contenido y tomar medidas de cumplimiento.
 
 ### Seguridad en la nube de Microsoft
 
@@ -297,8 +319,14 @@ Guías CCN-STIC para configuración y bastionado:
 - [CCN-STIC-885C Guía de configuración segura para Exchange Online](https://www.ccn-cert.cni.es/pdf/guias/series-ccn-stic/guias-de-acceso-publico-ccn-stic/4516-ccn-stic-885c-guia-de-configuracion-segura-para-exchange-online.html)
 - [CCN-STIC-885D Guía de configuración segura para Microsoft Teams](https://www.ccn-cert.cni.es/pdf/guias/series-ccn-stic/guias-de-acceso-publico-ccn-stic/4519-ccn-stic-885d-guia-de-configuracion-segura-para-microsoft-teams.html)
 
+Otros recursos:
+- [Shared Responsibilities for Azure Cloud Computing](https://gallery.technet.microsoft.com/Shared-Responsibilities-81d0ff91)
+
 ### Seguridad en Amazon AWS
 Amazon AWS ha obtenido la certificación [ENS nivel Alto](https://aws.amazon.com/es/compliance/esquema-nacional-de-seguridad/)
+
+- [Modelo de responsabilidad compartida en Amazon AWS](https://aws.amazon.com/es/compliance/shared-responsibility-model/)
+![IMG](./img/awsresponsabilities.jpg)
 
 - [AWS Auto Remediate](https://github.com/servian/aws-auto-remediate)
 - [Antivirus for S3 buckets](https://github.com/widdix/aws-s3-virusscan)
