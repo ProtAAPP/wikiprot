@@ -291,19 +291,23 @@ Un "Cloud Access Security Broker" (CASB) es un software que se encuentra entre e
 
 ![IMG](./img/casb.png)
 
-Un CASB se puede implementar de tres formas distintas: como proxy inverso, proxy de reenvío o en un "modo API". Cada opción tiene sus particularidades:
+Un CASB se puede implementar de tres formas distintas: como proxy inverso, proxy de reenvío o en "modo API". Cada opción tiene sus particularidades:
 
-- Proxy inverso
+* Proxy inverso: 
+Un proxy inverso se encuentra frente al servicio en la nube, proporcionando capacidades de seguridad en línea al ubicarse en la ruta del tráfico de la red. La conexión del agente de proxy inverso se ejecuta desde Internet a su servidor de aplicaciones, ocultando la información que proviene de la fuente original. Es habitual que esta solución esté desplegada on-premise.
+    * Ventajas: Aplicación efectiva de políticas, como capacidades de bloqueo y prevención de fugas de datos.
+    * Inconvenientes: CASB está "ciego" para el tráfico que no pasa por el dispositivo
 
-Un proxy inverso se encuentra frente al servicio en la nube, proporcionando capacidades de seguridad en línea al ubicarse en la ruta del tráfico de la red. La conexión del agente de proxy inverso se ejecuta desde Internet a su servidor de aplicaciones, ocultando la información que proviene de la fuente original.
+* Proxy de reenvío:
+Un proxy de reenvío se encuentra frente al usuario, y el CASB envía el tráfico a múltiples plataformas en la nube. La conexión del proxy de reenvío se ejecuta desde usted, sentado detrás de su firewall, a Internet. Al igual que el proxy inverso, también proporciona capacidades de seguridad en línea. Es habitual que este tipo de solución esté desplegada como SaaS.
+    * Ventajas: Aplicación efectiva de políticas, como capacidades de bloqueo y prevención de fugas de datos.
+    * Inconvenientes: El CASB está "ciego" para el tráfico que no pasa por el dispositivo
 
-- Proxy de reenvío
-
-Un proxy de reenvío se encuentra frente al usuario, y el CASB envía el tráfico a múltiples plataformas en la nube. La conexión del proxy de reenvío se ejecuta desde usted, sentado detrás de su firewall, a Internet. Al igual que el proxy inverso, también proporciona capacidades de seguridad en línea.
-
-- Modo API
-
+* Modo API:
 A diferencia de las implementaciones de proxy, el uso de la interfaz del programa de aplicaciones (API) permite la integración directa de CASB y un servicio en la nube. Esto le permite proteger tanto el tráfico administrado como el no administrado. Dependiendo de la funcionalidad de la API de los proveedores de servicios en la nube, puede ver la actividad, el contenido y tomar medidas de cumplimiento.
+    * Ventajas: no es necesario cambiar la topología de la red durante la fase de implementación.
+    * Inconvenientes: no todos los servicios en la nube admiten la integración de API. La aplicación de las políticas (como el bloqueo o la prevención de fugas de datos) se realiza con un retraso (de acuerdo con las capacidades del servicio en la nube y el SLA entre el servicio en la nube y los proveedores CASB).
+
 
 ### Seguridad en la nube de Microsoft
 
