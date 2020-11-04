@@ -1,4 +1,6 @@
 # Introducción
+| :warning: Si nos visitas desde un dispositivo móvil, en las tres rayas horizontales en la parte superior izquierda puedes desplegar el menú lateral para acceder a todo el contenido.
+| --- |
 
 ## La Comunidad ProtAAPP
 
