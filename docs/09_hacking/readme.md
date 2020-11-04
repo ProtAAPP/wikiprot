@@ -137,7 +137,7 @@ Lista de recursos:
 
 ### Auditorías WIFI
 - [WIFI Hacking Cheatsheets](https://github.com/koutto/pi-pwnbox-rogueap/wiki) Teoría sobre hacking WIFI, comandos
-- [Mapa mental sobre WIFI Hacking](https://github.com/koutto/pi-pwnbox-rogueap/blob/main/mindmap/WiFi-Hacking-MindMap-v1.png)
+- Mapa mental sobre WIFI Hacking [PNG](https://raw.githubusercontent.com/koutto/pi-pwnbox-rogueap/main/mindmap/WiFi-Hacking-MindMap-v1.png) [PDF](https://github.com/koutto/pi-pwnbox-rogueap/raw/main/mindmap/WiFi-Hacking-MindMap-v1.pdf)
 <!-- ![IMG](./img/wifi-hacking-mindmap.png) -->
 
 ## Pentesting
