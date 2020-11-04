@@ -11,7 +11,7 @@ En una red plana, un atacante que consigue acceso o posibilidad de ejecución, p
 
 Ver también [Modelos de interconexión según la guía CCN-STIC-811](#modelos-de-interconexion-segun-la-guia-ccn-stic-811)
 
-### Minimo privilegio
+### Mínimo privilegio
 El principio de mínimo privilegio es un concepto esencial en seguridad. La idea del mínimo privilegio es que cualquier usuario, aplicación, etc. debe tener solo los derechos y privilegios mínimos necesarios para realizar su función. Por ejemplo, los usuarios del departamento financiero no deberían tener el mismo nivel de acceso que los usuarios del departamento de ingeniería.
 
 El privilegio mínimo ayuda a reducir la superficie de ataque al eliminar los derechos y privilegios innecesarios que pueden provocar incidentes de seguridad, como una violación de datos importante. Por ejemplo, la Agencia de Seguridad Nacional (NSA) tuvo que reducir el número de personas que tenían acceso a información secreta después de que Edward Snowden filtrara datos clasificados.
@@ -38,12 +38,12 @@ La defensa en profundidad también se puede ver en términos de arquitectura:
 
 
 ### Monitorización
-Con el panorama de amenazas en constante evolución, la monitorizacíon no debería ser algo a configurar "a posteriori", sino que debería ser una de las primeras estrategias de defensa en la lista. Es fundamental disponer de la capacidad de monitorizar su red en busca de amenazas de seguridad, vulnerabilidades, comportamientos sospechosos, etc., y responder adecuadamente cuanto antes.
+Con el panorama de amenazas en constante evolución, la monitorización no debería ser algo a configurar "a posteriori", sino que debería ser una de las primeras estrategias de defensa en la lista. Es fundamental disponer de la capacidad de monitorizar su red en busca de amenazas de seguridad, vulnerabilidades, comportamientos sospechosos, etc., y responder adecuadamente cuanto antes.
 
 La mayoría de las brechas de seguridad tarda meses o más en descubrirse. En muchos casos, un tercero, como la policía o un colaborador, descubre la brecha. El peor de los casos es cuando los clientes detectan la brecha.
 
 
-### Autenticacion multifactor
+### Autenticación multifactor
 La autenticación multifactor (MFA) o la autenticación de dos factores (2FA) es cuando se requiere que un usuario presente más de un tipo de evidencia para autenticarse en un sistema. Hay cuatro tipos diferentes de evidencia (o factores) que se pueden utilizar:
 - Algo que sabe:  contraseñas, PIN y preguntas de seguridad.
 - Algo que tenga: tokens de hardware o software, certificados, correo electrónico, SMS y llamadas telefónicas.
@@ -90,12 +90,12 @@ Recursos interesante:
 - Certificación en criptografía: [CryptoCert](https://www.criptocert.com/)
 - [Curso sobre criptografía de criptored](https://www.youtube.com/watch?v=rm8W5XD3lUg)
 - [Hashing vs. Encryption vs. Encoding vs. Obfuscation](https://danielmiessler.com/study/encoding-encryption-hashing-obfuscation/)
-- [Criptografía en el mundo real](https://cmr.e-paths.com/) Libro de Gonzalo Alvarez Marañon, Area de Innovación y Laboratorio. Eleven Paths.
+- [Criptografía en el mundo real](https://cmr.e-paths.com/) Libro de Gonzalo Álvarez Marañón, Área de Innovación y Laboratorio. Eleven Paths.
 - [Crypto Go Game](https://www.cryptogogame.com/ES/juego) - Juego de cartas educativo sobre criptografía simétrica actual. El principal objetivo de _Crypto Go_ es   familiarizar a los jugadores de una manera lúdica y social con las principales herramientas criptográficas actuales,  su nivel de seguridad, y la forma correcta de combinarlas.
 
 ### Copias de Seguridad
 Todos los responsables de sistemas y/o usuarios deben respaldar los datos críticos que tienen en sus equipos de escritorio, portátiles, servidores e incluso dispositivos móviles para protegerlos de pérdidas o corrupción. Guardar solo un archivo de respaldo puede no ser suficiente para salvaguardar
-la información. Para aumentar las posibilidades de recuperar datos perdidos o dañados, siga una estrateiga 3-2-1:
+la información. Para aumentar las posibilidades de recuperar datos perdidos o dañados, siga una estrategia 3-2-1:
 * 3 - Guarde 3 copias de cualquier archivo importante: 1 principal y 2 copias de seguridad.
 * 2 - Mantenga los archivos en 2 tipos de medios diferentes para protegerlos contra diferentes tipos de peligros.
 * 1 - Guarde 1 copia fuera del sitio (por ejemplo, fuera de su hogar o instalación comercial).
@@ -154,7 +154,7 @@ Es un procedimiento de autenticación para habilitar a un usuario el acceso a lo
 
 ## Protección Perimetral
 
-### Modelos de interconexion según la guía CCN-STIC-811:
+### Modelos de interconexión según la guía CCN-STIC-811:
 
 La guía [CCN-STIC-811 Interconexión en el ENS](https://www.ccn-cert.cni.es/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/521-ccn-stic-811-interconexion-en-el-ens/file.html) tienen como objetivo analizar los elementos disponibles para interconectar sistemas afectados por el Esquema Nacional de Seguridad a otros sistemas,
 adscritos o no al ENS. El objetivo de establecer un perímetro de seguridad es siempre proteger los flujos de información entre el sistema de información propio y el sistema al que queremos conectarnos. En base a unas reglas que determinen qué flujos son
@@ -491,6 +491,6 @@ Guías CCN-STIC:
 
 ## Otros recursos
 Charlas con un enfoque de protección integral:
-* [Zarancon City: ciudad bastionada](https://www.youtube.com/watch?v=VJIzFuTTRb4&feature=youtu.be). RootedCon 2019, con [Miguel Angel Rodriguez](https://twitter.com/marodriguezz), [Guillermo Obispo](https://twitter.com/gobispo) y [Jose Angel Alvarez](https://twitter.com/joseangel_a76)
-* [Cimientos sólidos para Defensores](https://www.youtube.com/watch?v=hmaMOKSjw-U) C1b3rWall Academy, por [Guillermo Obispo](https://twitter.com/gobispo) y [Jose Angel Alvarez](https://twitter.com/joseangel_a76)
+* [Zarancon City: ciudad bastionada](https://www.youtube.com/watch?v=VJIzFuTTRb4&feature=youtu.be). RootedCon 2019, con [Miguel Angel Rodriguez](https://twitter.com/marodriguezz), [Guillermo Obispo](https://twitter.com/gobispo) y [José Ángel Álvarez](https://twitter.com/joseangel_a76)
+* [Cimientos sólidos para Defensores](https://www.youtube.com/watch?v=hmaMOKSjw-U) C1b3rWall Academy, por [Guillermo Obispo](https://twitter.com/gobispo) y [José Ángel Álvarez](https://twitter.com/joseangel_a76)
 

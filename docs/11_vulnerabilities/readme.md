@@ -22,15 +22,16 @@ Vulnerabilidades recientes que pueden acabar en un compromiso total de la organi
 
 Páginas que listan vulnerabilidades en todo tipo de tecnologías:
 - [Buscador de Common Vulnerabilities & Exposures (MITRE)](https://cve.mitre.org/cve/)
+- [Buscador de CERT](https://www.kb.cert.org/vuls/)
 - [Buscador de scoring NIST](https://nvd.nist.gov/vuln/search)
 - [CVEDetails](https://www.cvedetails.com/)
 - [Base de Datos de Exploits (Offensive Security)](https://www.exploit-db.com/)
 - [Vulnerabilidades recopiladas por CCN](https://www.ccn-cert.cni.es/seguridad-al-dia/vulnerabilidades.html)
 
-A modo de orientativo, en los siguientes casos el [gobierno USA](https://cyber.dhs.gov/directives/) ha ordenado a sus agencias federales parchear con urgencia (sin esperar al ciclo de actualizaciones habitual) las siguientes vulnerabilidades:
+De manera orientativa, en los siguientes casos el [gobierno USA](https://cyber.dhs.gov/directives/) ha ordenado a sus agencias federales parchear con urgencia (sin esperar al ciclo de actualizaciones habitual) las siguientes vulnerabilidades:
 - [2020-04](https://cyber.dhs.gov/ed/20-04/) Netlogon.
 - [2020-03](https://cyber.dhs.gov/ed/20-03/) Windows DNS server.
-- [2020-02](https://cyber.dhs.gov/ed/20-02/) Problema con las curvas elípitcas.
+- [2020-02](https://cyber.dhs.gov/ed/20-02/) Problema con las curvas elípticas.
 - [2019-01](https://cyber.dhs.gov/ed/19-01/) DNS
 
 Y lista de la NSA (octubre 2020) con las 25 vulnerabilidades que los grupos de APTs chinos, mas están utilizando [aquí](https://www.zdnet.com/article/nsa-publishes-list-of-top-25-vulnerabilities-currently-targeted-by-chinese-hackers/)

@@ -4,8 +4,8 @@
 
 ## Formación en ciberseguridad
 
-### Masters
-[2019. Listado de masters en ciberseguridad compilado por INCIBE](https://www.incibe.es/sites/default/files/paginas/talento/catalogos-formacion/catalogo-masteres-ciberseguridad-feb2019.pdf)
+### Másteres
+[2019. Listado de másteres en ciberseguridad compilado por INCIBE](https://www.incibe.es/sites/default/files/paginas/talento/catalogos-formacion/catalogo-masteres-ciberseguridad-feb2019.pdf)
 
 ### Cursos Online
 - [Plataforma Angeles CCN](https://angeles.ccn-cert.cni.es/index.php/es/menu-formacion-es) Agrupa todos los recursos de formación en ciberseguridad del CCN.
@@ -32,7 +32,7 @@
 - [ATENEA](https://angeles.ccn-cert.cni.es/index.php/es/talento-es) Plataforma promovida por CCN que incluye retos sobre Criptografía y Esteganografía; Exploiting, Forense, Análisis de tráfico, Reversing, etc.
 
 ### Charlas generales
-- [¿Qué hay en la mochila de un hacker?](https://cybercamp.es/videos/que-hay-en-la-mochila-de-un-hacker). Especial para jovenes.
+- [¿Qué hay en la mochila de un hacker?](https://cybercamp.es/videos/que-hay-en-la-mochila-de-un-hacker). Especial para jóvenes.
 
 ## Concienciación en ciberseguridad
 
@@ -41,14 +41,14 @@
 Recursos interesantes:
 - [Plataforma Angeles CCN](https://angeles.ccn-cert.cni.es/index.php/es/ciberconsejos) Agrupa todo el contenido de concienciación en ciberseguridad.
 - [Concienciación del CCN-CERT - Página inicial sobre Ciberconsejos](https://www.ccn.cni.es/index.php/es/ciberconsejos)
-- [Ciberconsejos (video), Buenas prácticas en el empleo de tecnología](https://www.youtube.com/watch?v=uKNcqM0ZBEw)
-- [Ciberconsejos (video), Recomendaciones de Ciberseguridad](https://www.youtube.com/watch?v=VfZVGFgRl4g)
-- [Ciberconsejos (video), Configuración segura de dispositivos Android](https://www.youtube.com/watch?v=t6S7j6hKNPI)
-- [Ciberconsejos (video), Configuración segura de dispositivos iOS](https://www.youtube.com/watch?v=gSY_xGj89oc)
-- [Ciberconsejos (video), Cryptojacking](https://www.youtube.com/watch?v=9Opq9Sn7azE)
-- [Ciberconsejos (video), Redes Sociales](https://www.youtube.com/watch?v=R2ZUXlNth1U)
-- [Ciberconsejos (video), Zero Trust](https://www.youtube.com/watch?v=R2ZUXlNth1U)
-- [Ciberconsejos (video), Desinformación en el Ciberespacio](https://www.youtube.com/watch?v=sKdb-iCyqLU)
+- [Ciberconsejos (vídeo), Buenas prácticas en el empleo de tecnología](https://www.youtube.com/watch?v=uKNcqM0ZBEw)
+- [Ciberconsejos (vídeo), Recomendaciones de Ciberseguridad](https://www.youtube.com/watch?v=VfZVGFgRl4g)
+- [Ciberconsejos (vídeo), Configuración segura de dispositivos Android](https://www.youtube.com/watch?v=t6S7j6hKNPI)
+- [Ciberconsejos (vídeo), Configuración segura de dispositivos iOS](https://www.youtube.com/watch?v=gSY_xGj89oc)
+- [Ciberconsejos (vídeo), Cryptojacking](https://www.youtube.com/watch?v=9Opq9Sn7azE)
+- [Ciberconsejos (vídeo), Redes Sociales](https://www.youtube.com/watch?v=R2ZUXlNth1U)
+- [Ciberconsejos (vídeo), Zero Trust](https://www.youtube.com/watch?v=R2ZUXlNth1U)
+- [Ciberconsejos (vídeo), Desinformación en el Ciberespacio](https://www.youtube.com/watch?v=sKdb-iCyqLU)
 - [Ciberconsejos (infografía), Desinformación en el Ciberespacio](https://www.ccn.cni.es/index.php/es/docman/documentos-publicos/305-infografia-ccn-desinformacion2/file)
 - [Kit de concienciación de INCIBE](https://www.incibe.es/protege-tu-empresa/kit-concienciacion)
 - [Kit ENISA mes europeo de la ciberseguridad](https://cybersecuritymonth.eu/press-campaign-toolbox)

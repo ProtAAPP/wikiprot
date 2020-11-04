@@ -56,7 +56,7 @@ La CSP puede insertarse de muchas maneras, a continuación se explican varias fo
 ### En Apache
 
 Para configurar una Content Security Policy (CSP) para una aplicación concreta, en el fichero .htaccess (por ejemplo) 
-de la raiz, hay que añadir esto:
+de la raíz, hay que añadir esto:
 
 ```bash
 # Se muestra en varias líneas por motivos de legibilidad, 
@@ -234,7 +234,7 @@ pestaña *"Consola"* aparecerá el rojo un error similar al siguiente:
 ![Ejemplo error CSP en la consola](./img-csp/ejemplo_error_csp.png)
 
 El mensaje es muy claro, indica claramente el recurso que ha violado la definición de la CSP, por lo que deberá
-ser modicada para permitirlo, o evitado.
+ser modificada para permitirlo, o evitado.
 
 
 

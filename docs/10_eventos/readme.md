@@ -95,12 +95,12 @@
 
 ## Difusión de la ciberseguridad
 
-### Canales de youtube
+### Canales de Youtube
 
-#### Canales de youtube en español
+#### Canales de Youtube en español
 - [Palabra de Hacker by Yolanda Corral](https://www.youtube.com/c/Palabradehacker-ciberseguridad?sub_confirmation=1)
 
-#### Canales de youtube en inglés
+#### Canales de Youtube en inglés
 - [The PC Security Channel](https://www.youtube.com/user/ThePCSecurity/featured)
 - [SecurityNow](https://www.youtube.com/user/TWiTSecurityNow/featured)
 - [OWASP Global](https://www.youtube.com/c/OWASPGLOBAL/videos)
@@ -143,7 +143,7 @@
 - [Revista SIC](https://revistasic.es/). Durante la pandemia, se pueden consultar las ediciones online: [SIC 141](https://revistasic.es/sic141/revistasic141.pdf), [SIC 140](https://revistasic.es/sic140/revistasic140.pdf), [SIC 139](https://revistasic.es/sic139/revistasic139.pdf) 
 
 ### Radio
-- [Capital Radio. Afterwork](https://www.monicavalle.es/ciberseguridad-en-capital-radio/) Ciberseguridad con Monica Valle y Pablo San Emeterio.
+- [Capital Radio. Afterwork](https://www.monicavalle.es/ciberseguridad-en-capital-radio/) Ciberseguridad con Mónica Valle y Pablo San Emeterio.
 
 ### Blogs
 #### Blogs en español
@@ -180,7 +180,7 @@
 ### Libros
 #### Libros en Español
 - [Editorial 0xword](https://0xword.com). Muchísimos libros sobre Ciberseguridad en Español.
-- [Cuentos de Ciberseguridad](https://www.amazon.es/Cuentos-Ciberseguridad-Plural-Francisco-Perez/dp/8418155051) de [Francisco Perez Bes](https://twitter.com/pacoperezbes) (para niños).
+- [Cuentos de Ciberseguridad](https://www.amazon.es/Cuentos-Ciberseguridad-Plural-Francisco-Perez/dp/8418155051) de [Francisco Pérez Bes](https://twitter.com/pacoperezbes) (para niños).
 - [Nuestros hijos en la red: 50 cosas que debemos saber para una buena prevención digital](https://www.amazon.es/Nuestros-hijos-red-debemos-prevenci%C3%B3n/dp/8417886028/ref=sr_1_1) de [Silvia Barrera](https://twitter.com/sbarrera0)
 #### Libros en Inglés
 - [We Have Root](https://www.schneier.com/books/root/) Bruce Schneier. 2019.
