@@ -257,11 +257,31 @@ Guías CCN-STIC:
 
 ## Seguridad del Cloud
 
-### Aspectos generales
-[CCN-STIC-823. UTILIZACIÓN DE SERVICIOS EN LA NUBE](https://www.ccn-cert.cni.es/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/541-ccn-stic-823-seguridad-en-entornos-cloud/file.html)
+### Introducción al Cloud
+La computación en la nube es la entrega de servicios gestionados, incluidos software, hardware y almacenamiento, a través de Internet. 
 
-### Controles de Seguridad para Cloud
-[Cloud Controls Matrix (CCM)](https://cloudsecurityalliance.org/research/cloud-controls-matrix/) [Excel](https://downloads.cloudsecurityalliance.org/initiatives/ccm/CSA_CCM_v3.0.xlsx)
+Modelos de Despliegue (extracto de [CCN-STIC-823](https://www.ccn-cert.cni.es/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/541-ccn-stic-823-seguridad-en-entornos-cloud/file.html)):
+- **Nube pública**. La infraestructura de esta nube está mantenida y gestionada por terceras personas no vinculadas con la organización proporcionando recursos de forma abierta a entidades heterogéneas, sin más que un contrato con el mismo proveedor que controla dicha infraestructura.
+- **Nube privada**. La infraestructura de esta nube o servicios provistos son completamente dedicados para un solo cliente que controla qué aplicaciones debe ejecutarse y dónde (infraestructura bajo demanda).
+Puede ser propiedad, ser administrado y operado por la organización, un tercero o alguna combinación de ellos, y puede existir dentro o fuera de las instalaciones. La nube pública presenta flexibilidad de contratación y la nube privada, en la mayoría de los casos, exige determinados compromisos de consumo o permanencia.
+- **Nube híbrida**. Los servicios se ofrecen de forma pública y privada. Un usuario es propietario de unas partes y comparte otras, aunque de una manera controlada.
+- **Nube comunitaria**. La infraestructura de esta nube o servicios provistos son compartidos en comunidad cerrada por varias organizaciones relacionadas entre ellas y que comparten requisitos con la finalidad de servir a una función o propósito común (seguridad, política, …). La nube comunitaria puede ser propiedad, administrada y operada por una o más de las organizaciones de la comunidad, un  tercero o alguna combinación de ellas, y puede existir dentro o fuera de las instalaciones.
+
+Tipos de servicios:
+- Infraestructura como Servicio (IaaS)
+- Plataforma como Servicio (PaaS)
+- Software como Servicio (SaaS)
+
+![IMG](./img/cloudmodeltypes.png)
+
+### Aspectos generales de seguridad Cloud
+La seguridad en la nube se refiere a las tecnologías, políticas, controles y servicios que protegen los datos, las aplicaciones y la infraestructura de la nube, de las amenazas.
+
+
+### Frameworks/controles de Seguridad para Cloud
+- [CCN-STIC-823. UTILIZACIÓN DE SERVICIOS EN LA NUBE](https://www.ccn-cert.cni.es/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/541-ccn-stic-823-seguridad-en-entornos-cloud/file.html) Particularización del ENS para Seguridad Cloud
+- [Cloud Controls Matrix (CCM)](https://cloudsecurityalliance.org/research/cloud-controls-matrix/) [Excel](https://downloads.cloudsecurityalliance.org/initiatives/ccm/CSA_CCM_v3.0.xlsx)
+- [Security Framework for Governmental Clouds. ENISA (2015)](https://www.enisa.europa.eu/publications/security-framework-for-governmental-clouds/at_download/fullReport)
 
 ### Seguridad en la nube de Microsoft
 
@@ -277,13 +297,13 @@ Guías CCN-STIC para configuración y bastionado:
 - [CCN-STIC-885C Guía de configuración segura para Exchange Online](https://www.ccn-cert.cni.es/pdf/guias/series-ccn-stic/guias-de-acceso-publico-ccn-stic/4516-ccn-stic-885c-guia-de-configuracion-segura-para-exchange-online.html)
 - [CCN-STIC-885D Guía de configuración segura para Microsoft Teams](https://www.ccn-cert.cni.es/pdf/guias/series-ccn-stic/guias-de-acceso-publico-ccn-stic/4519-ccn-stic-885d-guia-de-configuracion-segura-para-microsoft-teams.html)
 
-### Amazon AWS
+### Seguridad en Amazon AWS
 Amazon AWS ha obtenido la certificación [ENS nivel Alto](https://aws.amazon.com/es/compliance/esquema-nacional-de-seguridad/)
 
 - [AWS Auto Remediate](https://github.com/servian/aws-auto-remediate)
 - [Antivirus for S3 buckets](https://github.com/widdix/aws-s3-virusscan)
 
-### Google Cloud
+### Seguridad enGoogle Cloud
 Google Cloud ha obtenido la certificación [ENS nivel Alto](https://cloud.google.com/security/compliance/ens?hl=es-419)
 
 ## Contenedores
