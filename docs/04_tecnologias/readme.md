@@ -397,6 +397,8 @@ Recursos interesantes:
 Aspectos de seguridad del funcionamiento de la plataforma Windows:
 - [Credentials Processes in Windows Authentication](https://docs.microsoft.com/en-us/windows-server/security/windows-authentication/credentials-processes-in-windows-authentication)
 - [Tipos de Login en sistemas Microsoft.](http://kinomakino.blogspot.com/2020/10/tipos-de-login-en-sistemas-microsoft-101.html)
+- [Kerberos en Directorio Activo](https://en.hackndo.com/kerberos/)
+
 
 Recursos generales:
 - [Actualizaciones de seguridad](https://portal.msrc.microsoft.com/en-us/security-guidance)
@@ -490,4 +492,5 @@ Guías CCN-STIC:
 ## Otros recursos
 Charlas con un enfoque de protección integral:
 * [Zarancon City: ciudad bastionada](https://www.youtube.com/watch?v=VJIzFuTTRb4&feature=youtu.be). RootedCon 2019, con [Miguel Angel Rodriguez](https://twitter.com/marodriguezz), [Guillermo Obispo](https://twitter.com/gobispo) y [Jose Angel Alvarez](https://twitter.com/joseangel_a76)
+* [Cimientos sólidos para Defensores](https://www.youtube.com/watch?v=hmaMOKSjw-U) C1b3rWall Academy, por [Guillermo Obispo](https://twitter.com/gobispo) y [Jose Angel Alvarez](https://twitter.com/joseangel_a76)
 
