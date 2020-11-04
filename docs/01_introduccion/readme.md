@@ -59,14 +59,14 @@ Si no puedes ser miembro, también puedes contactar con nosotros para proponer l
 - El DiaBlu (Viernes 13) diciembre
 #### 2020
 - Isaca [Menú saludable para Responsables de Seguridad. Como digerir el ENS](https://www.slideshare.net/GuillermoObispoSanRo/menu-saludable-para-responsables-de-seguridad-226454626)
-- RootedCon [Compliance as Code (Auditoría de intraestructura, rápida y eficiente)](https://www.youtube.com/watch?v=vODFljdavJw&t=1s)
+- RootedCon [Compliance as Code (Auditoría de infraestructura, rápida y eficiente)](https://www.youtube.com/watch?v=vODFljdavJw&t=1s)
 - RootedCon [La Metacharla de Seguridad](https://www.youtube.com/watch?v=laRfJ_zYJBI)
 - C1b3rWall Academy [Cimientos sólidos para Defensores](https://www.youtube.com/watch?v=hmaMOKSjw-U)
 - El Diablu (?)
 
 ## Colabora con esta documentación
 
-Este repositorio está (y estará siempre) **"en construccion"**, ya que el conocimiento en esta materia está en continua evolución.
+Este repositorio está (y estará siempre) **"en construcción"**, ya que el conocimiento en esta materia está en continua evolución.
 Por esta razón, si tienes conocimientos de cualquier ámbito de la ciberseguridad, te animamos a participar en el desarrollo de este repositorio de documentación. Está construido a base de ficheros de texto plano en formato [markdown](https://markdown.es/) y las contribuciones se controlan mediante el repositorio git, en [GitHub](https://github.com/).
 
 Este repositorio de documentación está construido con la librería [Vuepress](https://vuepress.vuejs.org/). 
@@ -92,7 +92,7 @@ Los requisitos para poder colaborar en el desarrollo de esta guía son:
 Una vez cumplidos los requisitos definidos en el apartado anterior, una vez hecho el fork lo primero es descargarse 
 la última versión del repositorio, antes de modificar ningún contenido. 
 
-Si fuera la primera vez que me descargo el respositorio:
+Si fuera la primera vez que me descargo el repositorio:
 
 ```bash
 cd /proyectos
@@ -130,7 +130,7 @@ yarn dev
 
 Ahora abre un navegador (firefox, chrome, edge...) y entra en [http://localhost:8080](http://localhost:8080), donde podrás 
 ver este repositorio. Cada vez que cambies una palabra de la documentación y guardes el fichero, el cambio se reflejará
-automáticmaente en el navegador.
+automáticamente en el navegador.
 
 :::warning Cuidado: El menú lateral no se actualiza automáticamente
 Si introduces nuevas secciones en los ficheros markdown, para que el menú lateral "se entere" habrás de 
@@ -160,13 +160,13 @@ El mundo digital en el que nos encontramos, y que está sufriendo una fuerte ace
 doble cara, la de aquellos que pueden aprovechar tal potencia para hacer el mal. La implantación de la sociedad digital en todos
 los ámbitos de la sociedad ha de pagar un **importante peaje: el de la seguridad**.
 
-De acuerdo con el antiguo responsable de cibersegurida y protección de la información del gobierno de Australia, Stephen Day, 
+De acuerdo con el antiguo responsable de ciberseguridad y protección de la información del gobierno de Australia, Stephen Day, 
 **la ética y la honradez deben regir las prácticas de la industria de la seguridad cibernética**.
 
 La rapidez y la disponibilidad de los recursos generados por el desarrollo de internet y los entornos digitales han favorecido el 
 crecimiento exponencial de numerosas compañías y negocios, pero los riesgos a los que estas se exponen también se han multiplicado.
 
-Podría ocurrir que un profesionarl de la ciberseguridad rompa viole ciertas reglas e invada la privacidad de otros para lograr sus cometidos. 
+Podría ocurrir que un profesional de la ciberseguridad rompa viole ciertas reglas e invada la privacidad de otros para lograr sus cometidos. 
 -->
 
 <!--
@@ -202,7 +202,7 @@ los ficheros _.md_, razón por la cual existe mucha más libertad para este tipo
 
 2. En su caso, y de forma opcional, un mayor desarrollo explicativo.
 
-3. **Referencias importantes** que permitan profundizar sobre el tema, con un objetivo didáctivo. Pueden ser referencias 
+3. **Referencias importantes** que permitan profundizar sobre el tema, con un objetivo didáctico. Pueden ser referencias 
    a la wikipedia, a artículos de calidad u otros enlaces que permitan obtener un conocimiento más profundo.
 
 4. **Herramientas** y productos útiles relacionados con la sección. Debe indicarse de forma clara **si son gratuitos**, 
@@ -230,7 +230,7 @@ Para que las cosas se encuentren bien con el buscador hay que **incluir las pala
 
 
 ### Asuntos por desarrollar
-Podeis contribuir al wiki con cualquier contenido que considereis interesante. No obstante, aquí enumeramos algunos contenidos que tenemos pendientes desarrollar o profundizar:
+Podéis contribuir al repositorio con cualquier contenido que consideréis interesante. No obstante, aquí enumeramos algunos contenidos que tenemos pendientes desarrollar o profundizar:
 - [Estrategias, planes y experiencias en implantación ENS](http://localhost:8080/03_gestion/#esquema-nacional-de-seguridad-para-organizaciones-publicas-en-espana)
 - [Seguridad en Bases de Datos](http://localhost:8080/04_tecnologias/#bases-de-datos)
 - ...
