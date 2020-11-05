@@ -85,6 +85,7 @@ Recursos interesantes:
 - [Attacking Azure, Azure AD, and Introducing PowerZure](https://posts.specterops.io/attacking-azure-azure-ad-and-introducing-powerzure-ca70b330511a)
 - [Abusing Azure AD SSO with the Primary Refresh Token](https://dirkjanm.io/abusing-azure-ad-sso-with-the-primary-refresh-token/)
 - [Penetration Tester's Guide to Evaluating OAuth 2.0](https://maxfieldchen.com/posts/2020-05-17-penetration-testers-guide-oauth-2.html)
+- [Azure Cloud Penetration Testing](https://dl.packetstormsecurity.net/papers/general/azure-pentest.pdf)
 
 ### Auditorías Kubernetes
 
@@ -155,9 +156,25 @@ Recursos generales:
 
 
 ## Ejercicios ReadTeam
-¿Qué es un ReadTeam? ¿Cual su propósito?
+Un ejercicio RedTeam vs BlueTeam es una técnica de evaluación de la ciberseguridad que utiliza ataques simulados para medir la fortaleza de las capacidades de seguridad existentes de la organización e identificar áreas de mejora en un entorno de bajo riesgo.
+
+Siguiendo el modelo de ejercicios de entrenamiento militar, este simulacro es un enfrentamiento entre dos equipos de profesionales de ciberseguridad altamente capacitados: un equipo rojo que utiliza técnicas de adversario del mundo real en un intento de comprometer el entorno, y un equipo azul que consta de personal de respuesta a incidentes que trabaja dentro de la unidad de seguridad para identificar, evaluar y responder a la intrusión.
+
+Estos ejercicios ayudan a las organizaciones a:
+- Identificar puntos vulnerables en lo que respecta a personas, tecnologías y sistemas.
+- Determinar áreas de mejora en los procesos defensivos de respuesta a incidentes en cada fase de la cadena de eliminación.
+- Desarrollar la experiencia de primera mano de la organización sobre cómo detectar y contener un ataque dirigido
+- Desarrollar actividades de respuesta y remediación para devolver el entorno a un estado operativo normal.
 
 - [Recopilatorio enlaces Red Teaming](https://www.hackingarticles.in/red-teaming/)
+
+### Threat Emulation
+- [Comparing open source adversary emulation platforms for red teams](https://redcanary.com/blog/comparing-red-team-platforms/)
+- [CALDERA](https://github.com/mitre/caldera) CALDERA™ is a cyber security framework designed to easily run autonomous breach-and-simulation exercises. It can also be used to run manual red-team engagements or automated incident response.
+- [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team)
+- [Mordor](https://github.com/OTRF/mordor)
+- [Testing adversary technique variations with AtomicTestHarnesses](https://redcanary.com/blog/introducing-atomictestharnesses/?utm_source=twitter&utm_medium=social&utm_campaign=blog)  
+- [Run your Microsoft 365 Defender attack simulations](https://github.com/MicrosoftDocs/microsoft-365-docs/blob/public/microsoft-365/security/mtp/mtp-pilot-simulate.md)
 
 ## OSINT 
 - [Enlaces a Herramientas OSINT por Ciberpatrulla](https://ciberpatrulla.com/links/)

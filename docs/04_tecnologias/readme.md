@@ -325,6 +325,7 @@ Guías CCN-STIC para configuración y bastionado:
 
 Otros recursos:
 - [Shared Responsibilities for Azure Cloud Computing](https://gallery.technet.microsoft.com/Shared-Responsibilities-81d0ff91)
+- [Securing Microsoft Azure AD Connect](https://www.hub.trimarcsecurity.com/amp/securing-microsoft-azure-ad-connect)
 
 ### Seguridad en Amazon AWS
 Amazon AWS ha obtenido la certificación [ENS nivel Alto](https://aws.amazon.com/es/compliance/esquema-nacional-de-seguridad/)
@@ -503,6 +504,8 @@ Recursos interesantes:
 - [2019- Microsoft. Introducing the security configuration framework: A prioritized guide to hardening Windows 10](https://www.microsoft.com/security/blog/2019/04/11/introducing-the-security-configuration-framework-a-prioritized-guide-to-hardening-windows-10/)
  ![IMG](./img/seccon-framework.png)
 
+- [Ransomware Protection and Containment Strategies for Endpoints. FIREEYE](https://www.fireeye.com/content/dam/fireeye-www/current-threats/pdfs/wp-ransomware-protection-and-containment-strategies.pdf)
+
 #### Seguridad plataforma Microsoft Office
 - [Seguridad en Macros](https://www.cyber.gov.au/acsc/view-all-content/publications/microsoft-office-macro-security)
 
@@ -525,6 +528,7 @@ Guías CCN-STIC:
 
 Recursos interesantes:
 - [Recopilatorio enlaces Android Security](https://github.com/saeidshirazi/awesome-android-security) Se mezclan recursos defensivos y ofensivos.
+- [Recopilatorio seguridad Android](https://www.kitploit.com/2020/10/awesome-android-security-curated-list.html?m=1) Se mezclan recursos defensivos y ofensivos.
 
 
 ### iPhone

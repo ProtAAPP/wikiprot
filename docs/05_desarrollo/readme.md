@@ -85,6 +85,7 @@ Herramientas open source para Compliance as Code:
 ## Recursos
 
 - [Awesome AppSec](https://github.com/paragonie/awesome-appsec) - curated list of resources for learning about application security. Contains books, websites, blog posts, and self-assessment quizzes.
+- [CWE flaw types in various languages](https://pbs.twimg.com/media/Elaf5sMWoAIW9zn?format=jpg&name=large)
 
 
 
