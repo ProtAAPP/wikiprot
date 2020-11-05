@@ -276,7 +276,7 @@ Poner a prueba la solidez general de la defensa de una organización (la tecnolo
 ## Cuestiones generales sobre organización de la Ciberseguridad
 CISO Mind Map by [RAFEEQ REHMAN](https://rafeeqrehman.com/2020/06/12/ciso-mindmap-2020-what-do-infosec-professionals-really-do/)[PDF](http://rafeeqrehman.com/wp-content/uploads/2020/06/CISO_Job_MindMap_Rafeeq_Rehman_v_2020.pdf) 
 
-![my-img](./img/cisomindmap.png) 
+![IMG](./img/cisomindmap.png) 
 
 
 
