@@ -2,10 +2,22 @@
 
 [[TOC]]
 
-## CSIRTs en España
-Un equipo de respuesta a emergencias informáticas es un término histórico para un grupo de expertos que maneja incidentes de seguridad informática. "CERT" no debe usarse genéricamente como un acrónimo de este término, ya que está registrado como una marca comercial en la Oficina de Patentes y Marcas Registradas de los Estados Unidos. Por esta razón, se propone como nombre alternativo "Computer Security Incident Response Team (CSIRT), en español, equipo de respuesta a incidentes de seguridad informática.
-
-[Equipos de Ciberseguridad y Gestión de Incidentes españoles (CSIRT)](https://www.csirt.es/index.php/es/)
+## Organización de Servicios de detección y respuesta ante ciberincidentes
+Tipos de servicios:
+- Vigilancia Digital en el ciberespacio. Monitorizar el ciberespacio para detectar:
+     - Dominios similares a los de la organización que puedan utilizarse para fines no lícitos ([domain squatting o typo squatting](https://es.wikipedia.org/wiki/Typosquatting))
+     - Uso no autorizado de las marcas de la organización
+     - Contenidos ofensivos para las marcas de la organización
+     - Seguimiento de la identidad digital (de personas de la organización)
+     - Fugas de información 
+     - Hacktivismo y activismo en la red
+     - Robo de credenciales
+     - Phishing y farming
+     - Aplicaciones móviles sospechosas 
+- Monitorización y detección, en sistemas propios:
+     - Gestión de logs, envío a SIEM, correlación, alertas
+- Respuesta
+     - Triaje inicial, contención, análisis de malware, análisis forense
 
 ## Soluciones del CCN para gestión de ciberincidentes
 - [SAT-INET](https://www.ccn-cert.cni.es/gestion-de-incidentes/sistema-de-alerta-temprana-sat/sat-inet.html). Sonda del CCN para detectar tráfico malicioso y abrir incidente en LUCIA.
@@ -120,6 +132,13 @@ Recursos interesantes::
 - [2019. A Blue Team guide to Azure & Office 365 monitoring](https://0x00sec.org/t/a-blue-team-guide-to-azure-office-365-monitoring/14411)
 
 ## Centros de Operaciones de Seguridad (SOCs)
+
+### CSIRTs en España
+Un equipo de respuesta a emergencias informáticas es un término histórico para un grupo de expertos que maneja incidentes de seguridad informática. "CERT" no debe usarse genéricamente como un acrónimo de este término, ya que está registrado como una marca comercial en la Oficina de Patentes y Marcas Registradas de los Estados Unidos. Por esta razón, se propone como nombre alternativo "Computer Security Incident Response Team (CSIRT), en español, equipo de respuesta a incidentes de seguridad informática.
+
+[Equipos de Ciberseguridad y Gestión de Incidentes españoles (CSIRT)](https://www.csirt.es/index.php/es/)
+
+Enlaces interesantes:
 - [El SOC de la AGE](https://www.ccn.cni.es/index.php/es/ccn-cert-menu-es/soc-age/soc-age-faq) Preguntas y respuestas.
 - [2020 Setting up a CSIR](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/setting-up-a-csirt) ENISA
 - [2020. Expel. Performance metrics, part 1: Measuring SOC efficiency](https://expel.io/blog/performance-metrics-measuring-soc-efficiency/)
