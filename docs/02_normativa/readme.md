@@ -14,7 +14,7 @@ informática.
 
 - Normativa de alto nivel:
     - [RD 3/2010](https://www.boe.es/buscar/act.php?id=BOE-A-2010-1330) Esquema Nacional de Seguridad en el ámbito de la Administración Electrónica.
-    - [RD 12/2018](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-12257) Seguridad de las redes y sistemas de información (trasposición de la directiva NIS)
+    - [RD 12/2018](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-12257) Seguridad de las redes y sistemas de información (transposición de la directiva NIS)
     - [RD 4/2010](https://www.boe.es/buscar/act.php?id=BOE-A-2010-1331) Esquema Nacional de Interoperabilidad
     - [Ley 8/2011](https://www.ccn-cert.cni.es/publico/InfraestructurasCriticaspublico/Ley82011-de28deabril-PIC.pdf) Protección
 de las infraestructuras críticas.
@@ -37,7 +37,7 @@ de las infraestructuras críticas.
 - [2016/679 Reglamento Europeo de Protección de Datos](https://www.boe.es/doue/2016/119/L00001-00088.pdf)
 - [2016/680 Reglamento Europeo de Protección de Datos por parte de las autoridades competentes](https://www.boe.es/doue/2016/119/L00089-00131.pdf)
 
-### Normativa de otros paises
+### Normativa de otros países
 - [Australia's Cyber Security Strategy 2020](https://www.homeaffairs.gov.au/cyber-security-subsite/files/cyber-security-strategy-2020.pdf)
 - [USA National Cyber Strategy. 2018](https://www.whitehouse.gov/wp-content/uploads/2018/09/National-Cyber-Strategy.pdf)
 - [UK National Cyber Security Strategy 2016-2021.](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/567242/national_cyber_security_strategy_2016.pdf)

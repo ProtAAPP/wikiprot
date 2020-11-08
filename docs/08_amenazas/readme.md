@@ -19,7 +19,7 @@ Los atacantes con capacidades avanzadas (APTs) se nombran como APT-XX. En esta [
 - [2020. ENISA Threat Landscape - The year in review](https://www.enisa.europa.eu/publications/year-in-review/at_download/fullReport)
 - [2020. ENISA Threat Landscape. List of top 15 threats](https://www.enisa.europa.eu/publications/enisa-threat-landscape-2020-list-of-top-15-threats/at_download/fullReport)
 - [2019. Informe Anual sobre Hacktivismo y Ciberyihadismo. CCN](https://www.ccn-cert.cni.es/informes/informes-ccn-cert-publicos/4714-ccn-cert-ia-04-20-informe-anual-2019-hactivismo-y-ciberyihadismo-1/file.html)
-- [Lista de informes públicados por el CCN](https://www.ccn-cert.cni.es/informes/informes-ccn-cert-publicos.html?limit=100)
+- [Lista de informes publicados por el CCN](https://www.ccn-cert.cni.es/informes/informes-ccn-cert-publicos.html?limit=100)
 
 ### Informes sobre ciberamenazas de entidades privadas
 - [2020 Cyber Threatscape Report. Accenture](https://www.accenture.com/_acnmedia/PDF-136/Accenture-2020-Cyber-Threatscape-Full-Report.pdf)
@@ -69,7 +69,7 @@ para propagarse o borrar todo en un disco duro.
 
 ### Gusanos
 
-Su principal característica es la posibilidad de autorreplicación que les permite propagarse automáticamente a través de dispositivos y redes. 
+Su principal característica es la posibilidad de autoreplicación que les permite propagarse automáticamente a través de dispositivos y redes. 
 Normalmente no alteran archivos ocultándose en la memoria RAM, pasando desapercibidos hasta que su extensión alcanza una escala que consume recursos
  significativos del sistema o ancho de banda de la red.
  

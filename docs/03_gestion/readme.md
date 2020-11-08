@@ -4,7 +4,7 @@
 
 ## Esquema Nacional de Seguridad (para organizaciones públicas en España)
 El [Real Decreto 3/2010](https://www.boe.es/buscar/act.php?id=BOE-A-2010-1330), de 8 de enero, por el que se regula el Esquema Nacional de Seguridad en el ámbito de la Administración Electrónica da cumplimiento a lo previsto en el artículo 42 de la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos. Su objeto es establecer la política de seguridad en la utilización de medios electrónicos y está constituido por principios básicos y requisitos mínimos que permitan una protección adecuada de la información.
-Por tanto, la finalidad del Esquema Nacional de Seguridad es la creación de las condiciones necesarias de confianza en el uso de los medios electrónicos, a través de medidas para garantizar la seguridad de los sistemas, los datos, las comunicaciones y los servicios electrónicos, que permita a los ciudadanos y a las Administraciones públicas, el ejercicio de erechos y el cumplimiento de deberes a través de estos medios.
+Por tanto, la finalidad del Esquema Nacional de Seguridad es la creación de las condiciones necesarias de confianza en el uso de los medios electrónicos, a través de medidas para garantizar la seguridad de los sistemas, los datos, las comunicaciones y los servicios electrónicos, que permita a los ciudadanos y a las Administraciones públicas, el ejercicio de derechos y el cumplimiento de deberes a través de estos medios.
 
 ![IMG](./img/ens01.jpg)
 
@@ -109,7 +109,7 @@ La  Declaración  de  Aplicabilidad,  en  el  ámbito  del [ENS](https://www.boe
 
 Las  medidas  de  seguridad  referenciadas  en  el  Anexo  II  **podrán  ser  reemplazadas  por
 otras medidas compensatorias** siempre  y  cuando  se  justifique  documentalmente  que protegen igual o mejor el riesgo sobre los activos ([Anexo I](https://www.boe.es/buscar/act.php?id=BOE-A-2010-1330#ani))
-y se satisfacen los principios básicos  y  los  requisitos  mínimos  previstosen  los  capítulos  II  y  III  del  Real  Decreto 3/2010.
+y se satisfacen los principios básicos  y  los  requisitos  mínimos  previstos en  los  capítulos  II  y  III  del  Real  Decreto 3/2010.
 
 Como parte integral de la Declaración de Aplicabilidad, se indicará de forma detallada la  correspondencia  entre  las  medidas  compensatorias implementadas y las  medidas del  Anexo  II  que  compensan siendo objeto  de  aprobación  formal  por  parte  del responsable de seguridad.
 
@@ -155,7 +155,7 @@ Cada usuario que acceda a la información del sistema debe estar **identificado 
 ::: 
 
 ### Plan de formación y concienciación
-Pendinete de desarrollar
+Pendiente de desarrollar
 <!--
  [ProofPoint](https://www.proofpoint.com/es/products/security-awareness-training)
  [Firewall Mindset](https://thefirewallmindset.com/?utm_source=web&utm_medium=Entelgy&utm_campaign=TFMSficha)
@@ -255,8 +255,8 @@ Administrar activamente el ciclo de vida de las cuentas de aplicaciones y sistem
 
 
 ### Organizational (17-20)
-#### 17. Implementar un programa de capacitación y concientización sobre seguridad
-Para todos los roles funcionales en la organización (priorizando aquellos de misión crítica para el negocio y su seguridad), identificar los conocimientos, habilidades y habilidades específicos necesarios para apoyar la defensa de la organización; desarrollar y ejecutar un plan integrado para evaluar, identificar brechas y remediar a través de programas de políticas, planificación organizacional, capacitación y concienciación, en mateira de seguridad.
+#### 17. Implementar un programa de capacitación y concienciación sobre seguridad
+Para todos los roles funcionales en la organización (priorizando aquellos de misión crítica para el negocio y su seguridad), identificar los conocimientos, habilidades y habilidades específicos necesarios para apoyar la defensa de la organización; desarrollar y ejecutar un plan integrado para evaluar, identificar brechas y remediar a través de programas de políticas, planificación organizacional, capacitación y concienciación, en materia de seguridad.
 
 #### 18. Seguridad del software de aplicación
 Gestionar el ciclo de vida de seguridad de todo el software desarrollado y adquirido internamente para prevenir, detectar y corregir las debilidades de seguridad.
@@ -273,7 +273,10 @@ Poner a prueba la solidez general de la defensa de una organización (la tecnolo
 - [AuditScripts Critical Security Controls Master Mapping](https://www.auditscripts.com/download/2742/)
 - [2011. A Small Business No Budget Implementation of the SANS 20 Security Controls](https://www.sans.org/reading-room/whitepapers/hsoffice/small-business-budget-implementation-20-security-controls-33744)
 
+## Cuestiones generales sobre organización de la Ciberseguridad
+CISO Mind Map by [RAFEEQ REHMAN](https://rafeeqrehman.com/2020/06/12/ciso-mindmap-2020-what-do-infosec-professionals-really-do/)[PDF](http://rafeeqrehman.com/wp-content/uploads/2020/06/CISO_Job_MindMap_Rafeeq_Rehman_v_2020.pdf) 
 
+![IMG](./img/cisomindmap.png) 
 
 
 

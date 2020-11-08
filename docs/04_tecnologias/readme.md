@@ -11,7 +11,7 @@ En una red plana, un atacante que consigue acceso o posibilidad de ejecución, p
 
 Ver también [Modelos de interconexión según la guía CCN-STIC-811](#modelos-de-interconexion-segun-la-guia-ccn-stic-811)
 
-### Minimio privilegio
+### Mínimo privilegio
 El principio de mínimo privilegio es un concepto esencial en seguridad. La idea del mínimo privilegio es que cualquier usuario, aplicación, etc. debe tener solo los derechos y privilegios mínimos necesarios para realizar su función. Por ejemplo, los usuarios del departamento financiero no deberían tener el mismo nivel de acceso que los usuarios del departamento de ingeniería.
 
 El privilegio mínimo ayuda a reducir la superficie de ataque al eliminar los derechos y privilegios innecesarios que pueden provocar incidentes de seguridad, como una violación de datos importante. Por ejemplo, la Agencia de Seguridad Nacional (NSA) tuvo que reducir el número de personas que tenían acceso a información secreta después de que Edward Snowden filtrara datos clasificados.
@@ -38,12 +38,12 @@ La defensa en profundidad también se puede ver en términos de arquitectura:
 
 
 ### Monitorización
-Con el panorama de amenazas en constante evolución, la monitorizacíon no debería ser algo a configurar "a posteriori", sino que debería ser una de las primeras estrategias de defensa en la lista. Es fundamental disponer de la capacidad de monitorizar su red en busca de amenazas de seguridad, vulnerabilidades, comportamientos sospechosos, etc., y responder adecuadamente cuanto antes.
+Con el panorama de amenazas en constante evolución, la monitorización no debería ser algo a configurar "a posteriori", sino que debería ser una de las primeras estrategias de defensa en la lista. Es fundamental disponer de la capacidad de monitorizar su red en busca de amenazas de seguridad, vulnerabilidades, comportamientos sospechosos, etc., y responder adecuadamente cuanto antes.
 
 La mayoría de las brechas de seguridad tarda meses o más en descubrirse. En muchos casos, un tercero, como la policía o un colaborador, descubre la brecha. El peor de los casos es cuando los clientes detectan la brecha.
 
 
-### Autenticacion multifactor
+### Autenticación multifactor
 La autenticación multifactor (MFA) o la autenticación de dos factores (2FA) es cuando se requiere que un usuario presente más de un tipo de evidencia para autenticarse en un sistema. Hay cuatro tipos diferentes de evidencia (o factores) que se pueden utilizar:
 - Algo que sabe:  contraseñas, PIN y preguntas de seguridad.
 - Algo que tenga: tokens de hardware o software, certificados, correo electrónico, SMS y llamadas telefónicas.
@@ -57,8 +57,6 @@ Aunque algunos factores son más seguros que otros, es importante señalar que "
 Recursos interesantes:
 - [Multifactor Authentication Cheat Sheet by OWASP](https://cheatsheetseries.owasp.org/cheatsheets/Multifactor_Authentication_Cheat_Sheet.html)
 - [Google data shows 2-factor authentication blocks 100% of automated bot hacks](https://security.googleblog.com/2019/05/new-research-how-effective-is-basic.html)
-
-
 
 ### Criptografía
 
@@ -91,6 +89,8 @@ Los tipos de cifrado para datos en movimiento incluyen (pero no se limitan a) lo
 Recursos interesante:
 - Certificación en criptografía: [CryptoCert](https://www.criptocert.com/)
 - [Curso sobre criptografía de criptored](https://www.youtube.com/watch?v=rm8W5XD3lUg)
+- [Hashing vs. Encryption vs. Encoding vs. Obfuscation](https://danielmiessler.com/study/encoding-encryption-hashing-obfuscation/)
+- [Criptografía en el mundo real](https://cmr.e-paths.com/) Libro de Gonzalo Álvarez Marañón, Área de Innovación y Laboratorio. Eleven Paths.
 - [Crypto Go Game](https://www.cryptogogame.com/ES/juego) - Juego de cartas educativo sobre criptografía simétrica actual. El principal objetivo de _Crypto Go_ es   familiarizar a los jugadores de una manera lúdica y social con las principales herramientas criptográficas actuales,  su nivel de seguridad, y la forma correcta de combinarlas.
 
 ### Copias de Seguridad
@@ -107,6 +107,14 @@ Se trata de un modelo de seguridad introducido por [John Kindervag en 2010](http
 
 El enfoque tradicional de seguridad de red de muchas organizaciones se basa en el concepto de castillo y foso, que se denomina seguridad perimetral. En este enfoque, las organizaciones se concentran en proteger su red desde el exterior, pero se confía en todos los que están dentro. La falla de este enfoque es que una vez que los ciberdelincuentes obtienen acceso a la red, son libres de causar estragos.
 
+### Secure Access Service Edge (SASE)
+Secure Access Service Edge o SASE (pronunciado "sassy"), es un concepto emergente de ciberseguridad que Gartner describió en el informe de agosto de 2019, El futuro de la seguridad de la red en la nube [The Future of Network Security Is in the Cloud](https://blogs.gartner.com/andrew-lerner/2019/12/23/say-hello-sase-secure-access-service-edge/)
+
+Antes de sumergirse en los detalles de SASE, es importante entender un poco los antecedentes de este nuevo término. Los enfoques y tecnologías de red existentes simplemente ya no proporcionan los niveles de seguridad y control de acceso que las organizaciones digitales necesitan. Estas organizaciones demandan acceso inmediato e ininterrumpido para sus usuarios, sin importar donde se encuentren. Con el aumento de los usuarios remotos y las aplicaciones de software como servicio (SaaS), el traslado de datos del centro de datos a los servicios de la nube y el aumento del tráfico que se dirige a los servicios públicos de la nube y a las sucursales en lugar de volver al centro de datos, ha aumentado la necesidad de un nuevo enfoque para la seguridad de la red.
+
+SASE es la convergencia de la red de área amplia, o WAN, y los servicios de seguridad de red como CASB, FWaaS y Zero Trust, en un único modelo de servicio entregado en la nube. De acuerdo con Gartner, "las capacidades de SASE se entregan como un servicio basado en la identidad de la entidad, el contexto en tiempo real, las políticas de seguridad/cumplimiento de la empresa y la evaluación continua de riesgo/confianza a lo largo de las sesiones. Las identidades de las entidades pueden asociarse con personas, grupos de personas (sucursales), dispositivos, aplicaciones, servicios, sistemas de IO o ubicaciones de computación de punta".
+
+Gartner espera que, "para el 2024, al menos el 40% de las empresas tendrán estrategias explícitas para adoptar SASE, frente a menos del 1% a finales de 2018". Una arquitectura SASE identifica a los usuarios y dispositivos, aplica la seguridad basada en políticas y ofrece acceso seguro a la aplicación o datos apropiados. Este enfoque permite a las organizaciones aplicar el acceso seguro sin importar dónde se encuentren sus usuarios, aplicaciones o dispositivos.
 
 ### Secure Access Service Edge (SASE)
 Secure Access Service Edge o SASE (pronunciado "sassy"), es un concepto emergente de ciberseguridad que Gartner describió en el informe de agosto de 2019, El futuro de la seguridad de la red en la nube [The Future of Network Security Is in the Cloud](https://blogs.gartner.com/andrew-lerner/2019/12/23/say-hello-sase-secure-access-service-edge/)
@@ -128,16 +136,34 @@ El CCN publica este catálogo (CPSTIC) con el objetivo de ofrecer a los organism
 ### Common Criteria
 - [Lista de productos certificados CC](https://commoncriteriaportal.org/products/)
 
-
 ## Las Guías CCN-STIC
 [Indice con TODAS las guías CCN-STIC publicadas](https://www.ccn-cert.cni.es/pdf/guias/1297-indice-series-ccn-stic/file.html), fecha y estado (F ‐ Fuera de soporte / P ‐ Pendiente de publicación / R ‐ En revisión / * DIFUSION LIMITADA / ** CONFIDENCIAL)
 
 ## Gestión de Identidades
-Pendiente de desarrollar
+Se realiza mediante sistemas que integran políticas y procesos para el control de acceso a sistemas de información y/o instalaciones corporativas.
+
+### Aprovisionamiento de cuentas
+Requiere la existencia de un repositorio corporativo de entidades con servicios de directorio que permitan administrar los atributos de cada cuenta.
+
+### Flujos de autorización
+El control de acceso se realiza mediante políticas basadas en modelos de autorización.
+[Diferentes modelo explicados de forma sencilla (En inglés)](https://dzone.com/articles/acl-rbac-abac-pbac-radac-and-a-dash-of-cbac)
+- ACL (Access Control List): Tu nombre está en la lista.
+- RBAC (Role-Based Access Control): Llevas puesta la pulsera correcta.
+- ABAC (Attribute-Based Access Control): Tienes la edad adecuada.
+- RAdAC (Risk Adaptative-Based Access Control): No has estado recientemente en un país con alguna epidemia.
+
+### Sincronización de credenciales
+Es un procedimiento de autenticación para habilitar a un usuario el acceso a los sistemas para los que tiene acceso concedido, mediante un solo uso de su identificación.
+- SSO (Single Sign On): Autenticación primaria que intercepta los requisitos de autenticación de sistemas de información secundarios.
+- Token: Autenticación externalizada en un servidor de tickets que los usuarios presentan a los sistemas de información para obtener acceso (El más popular es [Kerberos](http://web.mit.edu/kerberos/)).
+- Federación de identidades: Se utilizan protocolos basados en estándares que los sistemas de información intercambian para no requerir nuevas autenticaciones (El más popular es [SAML](http://saml.xml.org/)).
+- [OpenID](https://openid.net/): Mecanismo SSO descentralizado y distribuido que utiliza una URL para compilar una identidad que puede ser usada por los sistemas de información.
+- [OAuth](https://oauth.net/): Protocolo web basado en una API para autenticación en sistemas de información de escritorio, móviles y web.
 
 ## Protección Perimetral
 
-### Modelos de interconexion según la guía CCN-STIC-811:
+### Modelos de interconexión según la guía CCN-STIC-811:
 
 La guía [CCN-STIC-811 Interconexión en el ENS](https://www.ccn-cert.cni.es/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/521-ccn-stic-811-interconexion-en-el-ens/file.html) tienen como objetivo analizar los elementos disponibles para interconectar sistemas afectados por el Esquema Nacional de Seguridad a otros sistemas,
 adscritos o no al ENS. El objetivo de establecer un perímetro de seguridad es siempre proteger los flujos de información entre el sistema de información propio y el sistema al que queremos conectarnos. En base a unas reglas que determinen qué flujos son
@@ -240,11 +266,57 @@ Guías CCN-STIC:
 
 ## Seguridad del Cloud
 
-### Aspectos generales
-[CCN-STIC-823. UTILIZACIÓN DE SERVICIOS EN LA NUBE](https://www.ccn-cert.cni.es/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/541-ccn-stic-823-seguridad-en-entornos-cloud/file.html)
+### Introducción al Cloud
+La computación en la nube es la entrega de servicios gestionados, incluidos software, hardware y almacenamiento, a través de Internet. 
 
-### Controles de Seguridad para Cloud
-[Cloud Controls Matrix (CCM)](https://cloudsecurityalliance.org/research/cloud-controls-matrix/) [Excel](https://downloads.cloudsecurityalliance.org/initiatives/ccm/CSA_CCM_v3.0.xlsx)
+Modelos de Despliegue (extracto de [CCN-STIC-823](https://www.ccn-cert.cni.es/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/541-ccn-stic-823-seguridad-en-entornos-cloud/file.html)):
+- **Nube pública**. La infraestructura de esta nube está mantenida y gestionada por terceras personas no vinculadas con la organización proporcionando recursos de forma abierta a entidades heterogéneas, sin más que un contrato con el mismo proveedor que controla dicha infraestructura.
+- **Nube privada**. La infraestructura de esta nube o servicios provistos son completamente dedicados para un solo cliente que controla qué aplicaciones debe ejecutarse y dónde (infraestructura bajo demanda).
+Puede ser propiedad, ser administrado y operado por la organización, un tercero o alguna combinación de ellos, y puede existir dentro o fuera de las instalaciones. La nube pública presenta flexibilidad de contratación y la nube privada, en la mayoría de los casos, exige determinados compromisos de consumo o permanencia.
+- **Nube híbrida**. Los servicios se ofrecen de forma pública y privada. Un usuario es propietario de unas partes y comparte otras, aunque de una manera controlada.
+- **Nube comunitaria**. La infraestructura de esta nube o servicios provistos son compartidos en comunidad cerrada por varias organizaciones relacionadas entre ellas y que comparten requisitos con la finalidad de servir a una función o propósito común (seguridad, política, …). La nube comunitaria puede ser propiedad, administrada y operada por una o más de las organizaciones de la comunidad, un  tercero o alguna combinación de ellas, y puede existir dentro o fuera de las instalaciones.
+
+Tipos de servicios:
+- Infraestructura como Servicio (IaaS)
+- Plataforma como Servicio (PaaS)
+- Software como Servicio (SaaS)
+
+![IMG](./img/cloudmodeltypes.png)
+
+![IMG](./img/gcloudresponsabilities.png)
+
+
+### Aspectos generales de seguridad Cloud
+La seguridad en la nube se refiere a las tecnologías, políticas, controles y servicios que protegen los datos, las aplicaciones y la infraestructura de la nube, de las amenazas.
+
+### Frameworks/controles de Seguridad para Cloud
+- [CCN-STIC-823. UTILIZACIÓN DE SERVICIOS EN LA NUBE](https://www.ccn-cert.cni.es/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/541-ccn-stic-823-seguridad-en-entornos-cloud/file.html) Particularización del ENS para Seguridad Cloud
+- [Cloud Controls Matrix (CCM)](https://cloudsecurityalliance.org/research/cloud-controls-matrix/) [Excel](https://downloads.cloudsecurityalliance.org/initiatives/ccm/CSA_CCM_v3.0.xlsx)
+- [Security Framework for Governmental Clouds. ENISA (2015)](https://www.enisa.europa.eu/publications/security-framework-for-governmental-clouds/at_download/fullReport)
+- [Federal Risk and Authorization Management Program (FedRAMP)](https://hyperproof.io/resource/fedramp-compliance-guide/)
+
+### CASB
+Un "Cloud Access Security Broker" (CASB) es un software que se encuentra entre el consumidor de servicios en la nube y sus proveedores de servicios en la nube. Un CASB extiende los controles de seguridad desde la infraestructura local a la nube. Ayudando a hacer cumplir las políticas de seguridad, cumplimiento y gobernanza para sus aplicaciones en la nube. Puede encontrarse en las instalaciones del cliente o alojado en la nube.
+
+![IMG](./img/casb.png)
+
+Un CASB se puede implementar de tres formas distintas: como proxy inverso, proxy de reenvío o en "modo API". Cada opción tiene sus particularidades:
+
+* Proxy inverso: 
+Un proxy inverso se encuentra frente al servicio en la nube, proporcionando capacidades de seguridad en línea al ubicarse en la ruta del tráfico de la red. La conexión del agente de proxy inverso se ejecuta desde Internet a su servidor de aplicaciones, ocultando la información que proviene de la fuente original. Es habitual que esta solución esté desplegada on-premise.
+    * Ventajas: Aplicación efectiva de políticas, como capacidades de bloqueo y prevención de fugas de datos.
+    * Inconvenientes: CASB está "ciego" para el tráfico que no pasa por el dispositivo
+
+* Proxy de reenvío:
+Un proxy de reenvío se encuentra frente al usuario, y el CASB envía el tráfico a múltiples plataformas en la nube. La conexión del proxy de reenvío se ejecuta desde usted, sentado detrás de su firewall, a Internet. Al igual que el proxy inverso, también proporciona capacidades de seguridad en línea. Es habitual que este tipo de solución esté desplegada como SaaS.
+    * Ventajas: Aplicación efectiva de políticas, como capacidades de bloqueo y prevención de fugas de datos.
+    * Inconvenientes: El CASB está "ciego" para el tráfico que no pasa por el dispositivo
+
+* Modo API:
+A diferencia de las implementaciones de proxy, el uso de la interfaz del programa de aplicaciones (API) permite la integración directa de CASB y un servicio en la nube. Esto le permite proteger tanto el tráfico administrado como el no administrado. Dependiendo de la funcionalidad de la API de los proveedores de servicios en la nube, puede ver la actividad, el contenido y tomar medidas de cumplimiento.
+    * Ventajas: no es necesario cambiar la topología de la red durante la fase de implementación.
+    * Inconvenientes: no todos los servicios en la nube admiten la integración de API. La aplicación de las políticas (como el bloqueo o la prevención de fugas de datos) se realiza con un retraso (de acuerdo con las capacidades del servicio en la nube y el SLA entre el servicio en la nube y los proveedores CASB).
+
 
 ### Seguridad en la nube de Microsoft
 
@@ -260,10 +332,20 @@ Guías CCN-STIC para configuración y bastionado:
 - [CCN-STIC-885C Guía de configuración segura para Exchange Online](https://www.ccn-cert.cni.es/pdf/guias/series-ccn-stic/guias-de-acceso-publico-ccn-stic/4516-ccn-stic-885c-guia-de-configuracion-segura-para-exchange-online.html)
 - [CCN-STIC-885D Guía de configuración segura para Microsoft Teams](https://www.ccn-cert.cni.es/pdf/guias/series-ccn-stic/guias-de-acceso-publico-ccn-stic/4519-ccn-stic-885d-guia-de-configuracion-segura-para-microsoft-teams.html)
 
-### Amazon AWS
+Otros recursos:
+- [Shared Responsibilities for Azure Cloud Computing](https://gallery.technet.microsoft.com/Shared-Responsibilities-81d0ff91)
+- [Securing Microsoft Azure AD Connect](https://www.hub.trimarcsecurity.com/amp/securing-microsoft-azure-ad-connect)
+
+### Seguridad en Amazon AWS
 Amazon AWS ha obtenido la certificación [ENS nivel Alto](https://aws.amazon.com/es/compliance/esquema-nacional-de-seguridad/)
 
-### Google Cloud
+- [Modelo de responsabilidad compartida en Amazon AWS](https://aws.amazon.com/es/compliance/shared-responsibility-model/)
+![IMG](./img/awsresponsabilities.jpg)
+
+- [AWS Auto Remediate](https://github.com/servian/aws-auto-remediate)
+- [Antivirus for S3 buckets](https://github.com/widdix/aws-s3-virusscan)
+
+### Seguridad enGoogle Cloud
 Google Cloud ha obtenido la certificación [ENS nivel Alto](https://cloud.google.com/security/compliance/ens?hl=es-419)
 
 ## Contenedores
@@ -368,13 +450,17 @@ Guías CCN-STIC:
 - [CCN-STIC-681 Implementación de seguridad en Postfix sobre CentOS 7](https://www.ccn-cert.cni.es/pdf/guias/series-ccn-stic/guias-de-acceso-publico-ccn-stic/475-ccn-stic-681-seguridad-en-servidores-de-correo-postfix.html)
 - [CCN-STIC-617 Implementación de seguridad sobre Suse Linux Enterprise 12 (cliente independiente)](https://www.ccn-cert.cni.es/pdf/guias/series-ccn-stic/guias-de-acceso-publico-ccn-stic/3638-ccn-stic-617-implementacion-de-seguridad-sobre-suse-linux-enterprise-12-servidor-independiente/file.html)
 
-
-
-Artículos:
-
+Recursos interesantes:
 - [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
+- [40 Linux Server Hardening Security Tips](https://www.cyberciti.biz/tips/linux-security.html)
 
 ### Plataforma Windows
+
+Aspectos de seguridad del funcionamiento de la plataforma Windows:
+- [Credentials Processes in Windows Authentication](https://docs.microsoft.com/en-us/windows-server/security/windows-authentication/credentials-processes-in-windows-authentication)
+- [Tipos de Login en sistemas Microsoft.](http://kinomakino.blogspot.com/2020/10/tipos-de-login-en-sistemas-microsoft-101.html)
+- [Kerberos en Directorio Activo](https://en.hackndo.com/kerberos/)
+
 
 Recursos generales:
 - [Actualizaciones de seguridad](https://portal.msrc.microsoft.com/en-us/security-guidance)
@@ -402,6 +488,7 @@ Guías CCN-STIC:
 Recursos interesantes:
 - [2020. 118 páginas sobre seguridad en el Directorio Activo](https://github.com/incredibleindishell/Windows-AD-environment-related/blob/master/ad-security-fundamentals-1.pdf)
 - [2020. 18 WAYS TO DETECT MALCIOUS ACTIONS IN YOUR ACTIVE DIRECTORY LOGS USING SIEM](https://blueteamblog.com/18-ways-to-detect-malcious-actions-in-your-active-directory-logs-using-siem)
+- [2020. Securing Active Directory: Performing an Active Directory Security Review](https://www.hub.trimarcsecurity.com/post/securing-active-directory-performing-an-active-directory-security-review)
 - [2019. Presentaciones de Sean Metcalf sobre seguridad del directorio activo](https://adsecurity.org/?page_id=1352)
 - [2019. Privileged Access Workstations (PAW)](https://docs.microsoft.com/en-us/windows-server/identity/securing-privileged-access/privileged-access-workstations)
 - [2019. Mejores prácticas en la seguridad del Directorio Activo](https://www.dnsstuff.com/active-directory-best-practices)
@@ -426,8 +513,13 @@ Recursos interesantes:
 - [2019- Microsoft. Introducing the security configuration framework: A prioritized guide to hardening Windows 10](https://www.microsoft.com/security/blog/2019/04/11/introducing-the-security-configuration-framework-a-prioritized-guide-to-hardening-windows-10/)
  ![IMG](./img/seccon-framework.png)
 
+- [Ransomware Protection and Containment Strategies for Endpoints. FIREEYE](https://www.fireeye.com/content/dam/fireeye-www/current-threats/pdfs/wp-ransomware-protection-and-containment-strategies.pdf)
+
 #### Seguridad plataforma Microsoft Office
 - [Seguridad en Macros](https://www.cyber.gov.au/acsc/view-all-content/publications/microsoft-office-macro-security)
+
+Diferentes estrategias para securizar las macros de Office:
+![IMG](./img/macros.png)
 
 ### Seguridad en el arranque de los sistemas
 - [Hardware-Enabled Security for Server Platforms. NIST Draft. 2020](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04282020-draft.pdf)
@@ -442,6 +534,11 @@ Guías CCN-STIC:
 - [Guía práctica de seguridad en dispositivos móviles Android 8](https://www.ccn-cert.cni.es/pdf/guias/series-ccn-stic/guias-de-acceso-publico-ccn-stic/3579-ccn-stic-453f-guia-practica-de-seguridad-en-dispositvos-moviles-android-8/file.html)
 - [Procedimiento de empleo seguro de dispositivos Samsung Galaxy (Android 10)](https://www.ccn-cert.cni.es/pdf/guias/series-ccn-stic/1000-procedimientos-de-empleo-seguro/5102-ccn-stic-1608-procedimiento-de-empleo-seguro-de-dispositivos-samsung-galaxy-android-10/file.html)
 - [Ciberconsejo: Configuración segura de dispositivos ANDROID](https://www.ccn.cni.es/index.php/es/docman/documentos-publicos/168-ciberconsejos-configuracion-segura-android/file)
+
+Recursos interesantes:
+- [Recopilatorio enlaces Android Security](https://github.com/saeidshirazi/awesome-android-security) Se mezclan recursos defensivos y ofensivos.
+- [Recopilatorio seguridad Android](https://www.kitploit.com/2020/10/awesome-android-security-curated-list.html?m=1) Se mezclan recursos defensivos y ofensivos.
+
 
 ### iPhone
 
@@ -459,5 +556,6 @@ Guías CCN-STIC:
 
 ## Otros recursos
 Charlas con un enfoque de protección integral:
-* [Zarancon City: ciudad bastionada](https://www.youtube.com/watch?v=VJIzFuTTRb4&feature=youtu.be). RootedCon 2019, con [Miguel Angel Rodriguez](https://twitter.com/marodriguezz), [Guillermo Obispo](https://twitter.com/gobispo) y [Jose Angel Alvarez](https://twitter.com/joseangel_a76)
+* [Zarancon City: ciudad bastionada](https://www.youtube.com/watch?v=VJIzFuTTRb4&feature=youtu.be). RootedCon 2019, con [Miguel Angel Rodriguez](https://twitter.com/marodriguezz), [Guillermo Obispo](https://twitter.com/gobispo) y [José Ángel Álvarez](https://twitter.com/joseangel_a76)
+* [Cimientos sólidos para Defensores](https://www.youtube.com/watch?v=hmaMOKSjw-U) C1b3rWall Academy, por [Guillermo Obispo](https://twitter.com/gobispo) y [José Ángel Álvarez](https://twitter.com/joseangel_a76)
 

@@ -10,7 +10,7 @@ features:
   details: Facilitemos el conocimiento de otros profesionales con las mismas inquietudes con los que poder colaborar, apasionados con al ciberseguridad
 - title: Conoce
   details: Impulsemos un foro de conocimiento a través del que continuar aprendiendo en todos los ámbitos de la ciberseguridad
-footer: MIT Licensed | Copyright © 2020 ProtAAPP
+footer: CC BY-NC-SA 4.0 | Copyright © 2020 ProtAAPP
 ---
 
 

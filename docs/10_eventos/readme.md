@@ -15,26 +15,42 @@
 
 ##### ALBACETE
 * [Navaja Negra](https://www.navajanegra.com/). [Vídeos ponencias](https://www.youtube.com/c/NavajaNegra/videos)
+##### ALICANTE
+* [BitUp Alicante](https://bitupalicante.com/)
 ##### ÁVILA
 * [C1b3rWall](https://www.c1b3rwall.es/). [Vídeos](https://www.youtube.com/c/C1b3rWall/videos)
+##### BARCELONA
+* [NoConName](https://www.noconname.org/)
+* [R2Con](https://rada.re/con/2020/). Todo Reversing.
 ##### CUENCA
 * [MorterueloCON](http://www.morteruelo.net/)
 ##### GUADALAJARA
 * [HoneyCON](https://www.honeycon.eu/). [Vídeos](https://www.youtube.com/channel/UCWiLr2F71gHXh6gvZB6N9MQ/videos)
+##### GRANADA
+* [JASYP](https://interferencias.tech/jasyp/) inter_ferencias
 ##### MADRID
 * [RootedCon](https://www.rootedcon.com/) [Vídeos ponencias](https://www.youtube.com/user/rootedconmadrid/videos)
 * [X1RedMasSegura](https://www.x1redmassegura.com/). [Vídeos ponencias](https://www.youtube.com/user/X1RedMasSegura/videos)
 * [MundoHacker](https://mundohackerday.com/)
 * [Jornadas de Ciberseguridad y Ciberdefensa](https://ciberseg.uah.es/)
+* [H_Con](https://www.h-c0n.com/p/home.html)
+* [EastMadH4ck](https://eastmadhack.benjagarrido.com/)
+* [Hack Madrid](https://hackmadrid.org/conferencias.html)
+##### MÁLAGA
+* [UAD360](https://uad360.es/)
 ##### SANTANDER
 * [Sh3llcon](https://www.sh3llcon.es/)
 ##### SEVILLA
 * [OSINT City](https://www.osintcity.com/)
+* [SecAdm1n](https://www.secadmin.es/)
 ##### SAN SEBASTIÁN
 * [Euskalhack](https://securitycongress.euskalhack.org/)
+##### TENERIFE
+* [Hackr0n](https://www.hackron.com/)
 ##### VALENCIA
 * [TomatinaCON](http://tomatinacon.com/)
 * [RootedCon Valencia](https://www.rootedcon.com/)
+* [PaellaCon](http://www.paellacon.com/)
 ##### ZARAGOZA
 * [CONPilar](https://conpilar.es/)
 ##### (VIRTUAL)
@@ -68,6 +84,8 @@
 * [Govware](https://www.govware.sg/) Singapur.
 * [Mind The Sec](https://www.mindthesec.com.br/) Brasil.
 * [Ekoparty](https://www.ekoparty.org/) Buenos Aires, Argentina. [Vídeos charlas](https://www.youtube.com/playlist?list=PLaIv9WEAzYZOnKJZHG_HJ6LdDwGz45cy5)
+* [OpenHacking](https://www.openhacking.gt/) Guatemala
+
 
 ### Eventos de tipo competitivo
 - [NATIONAL CYBERLEAGUE](https://www.nationalcyberleague.es/) Promovido por la Guardia Civil.
@@ -77,12 +95,12 @@
 
 ## Difusión de la ciberseguridad
 
-### Canales de youtube
+### Canales de Youtube
 
-#### Canales de youtube en español
+#### Canales de Youtube en español
 - [Palabra de Hacker by Yolanda Corral](https://www.youtube.com/c/Palabradehacker-ciberseguridad?sub_confirmation=1)
 
-#### Canales de youtube en inglés
+#### Canales de Youtube en inglés
 - [The PC Security Channel](https://www.youtube.com/user/ThePCSecurity/featured)
 - [SecurityNow](https://www.youtube.com/user/TWiTSecurityNow/featured)
 - [OWASP Global](https://www.youtube.com/c/OWASPGLOBAL/videos)
@@ -125,7 +143,7 @@
 - [Revista SIC](https://revistasic.es/). Durante la pandemia, se pueden consultar las ediciones online: [SIC 141](https://revistasic.es/sic141/revistasic141.pdf), [SIC 140](https://revistasic.es/sic140/revistasic140.pdf), [SIC 139](https://revistasic.es/sic139/revistasic139.pdf) 
 
 ### Radio
-- [Capital Radio. Afterwork](https://www.monicavalle.es/ciberseguridad-en-capital-radio/) Ciberseguridad con Monica Valle y Pablo San Emeterio.
+- [Capital Radio. Afterwork](https://www.monicavalle.es/ciberseguridad-en-capital-radio/) Ciberseguridad con Mónica Valle y Pablo San Emeterio.
 
 ### Blogs
 #### Blogs en español
@@ -138,6 +156,7 @@
 - [Hack Players](https://www.hackplayers.com/)
 - [INSEGUROS](http://kinomakino.blogspot.com/)
 - [Hypertextual](http://kinomakino.blogspot.com/)
+- [DerechodelaRed](https://derechodelared.com/)
 
 #### Blogs en inglés
 - [Dark Reading](http://www.darkreading.com/)
@@ -159,15 +178,27 @@
 
 
 ### Libros
-- [We Have Root](https://www.schneier.com/books/root/) Bruce Schneier. Inglés. 2019.
-- [Click Here to Kill Everybody](https://www.schneier.com/books/click-here/) Bruce Schneier. Inglés. 2018.
-- [Data and Goliath](https://www.schneier.com/books/data-and-goliath/) Bruce Schneier. Inglés. 2015.
-- [The Art of Invisibility](https://www.amazon.com/Art-Invisibility-Worlds-Teaches-Brother/dp/0316380504/) Kevin Mitnick. Inglés. 2017
-- [Future Crimes](https://www.amazon.com/Future-Crimes-Digital-Underground-Connected/dp/0804171459) Marc Goodman. Inglés. 2015]
-- [Manipulated: Inside the Cyberwar to Hijack Elections and Distort the Truth](https://www.amazon.com/Manipulated-Inside-Cyberwar-Elections-Distort/dp/1538133504) Theresa Payton. Inglés. 2020.
-- [The Code Book: The Secret History of Codes and Code-breaking](https://www.amazon.co.uk/Code-Book-Secret-History-Code-breaking/dp/1857028899/ref=sr_1_1?s=books&ie=UTF8&qid=1492525081&sr=1-1&keywords=%E2%80%A2%09%E2%80%A2%09The+Code+Book). Simon Singh. Inglés. 2002.
-- [Editorial 0xword](https://0xword.com). Ciberseguridad en Español.
-- [Cuentos de Ciberseguridad](https://www.amazon.es/Cuentos-Ciberseguridad-Plural-Francisco-Perez/dp/8418155051) de Francisco Perez Bes (para niños). Español.
+#### Libros en Español
+- [Editorial 0xword](https://0xword.com). Muchísimos libros sobre Ciberseguridad en Español.
+- [Manual de la Resiliencia](https://www.elladodelmal.com/2020/10/manual-de-la-resiliencia-una-guia.html?m=1)
+- [Cuentos de Ciberseguridad](https://www.amazon.es/Cuentos-Ciberseguridad-Plural-Francisco-Perez/dp/8418155051) de [Francisco Pérez Bes](https://twitter.com/pacoperezbes) (para niños).
+- [Nuestros hijos en la red: 50 cosas que debemos saber para una buena prevención digital](https://www.amazon.es/Nuestros-hijos-red-debemos-prevenci%C3%B3n/dp/8417886028/ref=sr_1_1) de [Silvia Barrera](https://twitter.com/sbarrera0)
+#### Libros en Inglés
+- [We Have Root](https://www.schneier.com/books/root/) Bruce Schneier. 2019.
+- [Click Here to Kill Everybody](https://www.schneier.com/books/click-here/) Bruce Schneier. 2018.
+- [Data and Goliath](https://www.schneier.com/books/data-and-goliath/) Bruce Schneier. 2015.
+- [The Art of Invisibility](https://www.amazon.com/Art-Invisibility-Worlds-Teaches-Brother/dp/0316380504/) Kevin Mitnick. 2017
+- [Future Crimes](https://www.amazon.com/Future-Crimes-Digital-Underground-Connected/dp/0804171459) Marc Goodman. 2015]
+- [Manipulated: Inside the Cyberwar to Hijack Elections and Distort the Truth](https://www.amazon.com/Manipulated-Inside-Cyberwar-Elections-Distort/dp/1538133504) Theresa Payton. 2020.
+- [The Code Book: The Secret History of Codes and Code-breaking](https://www.amazon.co.uk/Code-Book-Secret-History-Code-breaking/dp/1857028899/ref=sr_1_1?s=books&ie=UTF8&qid=1492525081&sr=1-1&keywords=%E2%80%A2%09%E2%80%A2%09The+Code+Book). Simon Singh. 2002.
+- [The Pentester BluePrint: Your Guide to Being a Pentester](https://www.amazon.com/Pentester-BluePrint-Your-Guide-Being/dp/1119684307)
+
+
+### Tiras cómicas
+- [Cybersecurity Cartoons](https://cybersecurityventures.com/cybersecurity-cartoon-archives/)
+
+### Infografías
+- [Infografías sobre ciberseguridad](https://twitter.com/securityguill)
 
 ### Otras iniciativas de difusión
 - [Mes europeo de la ciberseguridad](https://cybersecuritymonth.eu/) Promovido por [ENISA](https://www.enisa.europa.eu/)
