@@ -95,7 +95,7 @@ Recursos interesante:
 
 ### Copias de Seguridad
 Todos los responsables de sistemas y/o usuarios deben respaldar los datos críticos que tienen en sus equipos de escritorio, portátiles, servidores e incluso dispositivos móviles para protegerlos de pérdidas o corrupción. Guardar solo un archivo de respaldo puede no ser suficiente para salvaguardar
-la información. Para aumentar las posibilidades de recuperar datos perdidos o dañados, siga una estrateiga 3-2-1:
+la información. Para aumentar las posibilidades de recuperar datos perdidos o dañados, siga una estrategia 3-2-1:
 * 3 - Guarde 3 copias de cualquier archivo importante: 1 principal y 2 copias de seguridad.
 * 2 - Mantenga los archivos en 2 tipos de medios diferentes para protegerlos contra diferentes tipos de peligros.
 * 1 - Guarde 1 copia fuera del sitio (por ejemplo, fuera de su hogar o instalación comercial).
