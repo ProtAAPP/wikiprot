@@ -38,7 +38,7 @@ En caso en que sea la primera vez que oyes esto de Git y Github esta es la maner
 
 [![Como colaborar en la wikiprot como si estuvieras en primero](./assets/screenshot-video.jpg)](https://youtu.be/Svy0kwtfJ-E "Como colaborar en la wikiprot como si estuvieras en primero")
 
-1. Abre en el navegador [Repositorio de Github](https://github.com/ProtAAPP/wikiprot)
+1. Abre en el navegador [Repositorio de WikiProt](https://github.com/ProtAAPP/wikiprot)
 2. Selecciona la rama develop.
 3. Navega por el código hasta que encuentres el fichero que quieres modificar.
 4. Editalo pulsando sobre el lápiz, si no tienes hecho login, te lo pedirá y una vez logueado ya puedes añadir o modificar.
