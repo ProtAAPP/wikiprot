@@ -19,7 +19,8 @@
 
 
 ### Certificaciones
-[Enlace a imagen tamaño completo](https://i.redd.it/yo33xlys53141.png)
+[Enlace a imagen tamaño completo](https://i.redd.it/h61ytobb7sx51.png)
+
 ![IMG](./img/certifications.png)
 
 #### Material para preparar certificaciones
