@@ -184,6 +184,7 @@ Estos ejercicios ayudan a las organizaciones a:
 
 ### Threat Emulation
 - [Comparing open source adversary emulation platforms for red teams](https://redcanary.com/blog/comparing-red-team-platforms/)
+- [Which C2 framework is best for you?](http://ask.thec2matrix.com/)
 - [CALDERA](https://github.com/mitre/caldera) CALDERA™ is a cyber security framework designed to easily run autonomous breach-and-simulation exercises. It can also be used to run manual red-team engagements or automated incident response.
 - [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team)
 - [Mordor](https://github.com/OTRF/mordor)
@@ -191,7 +192,7 @@ Estos ejercicios ayudan a las organizaciones a:
 - [Run your Microsoft 365 Defender attack simulations](https://github.com/MicrosoftDocs/microsoft-365-docs/blob/public/microsoft-365/security/mtp/mtp-pilot-simulate.md)
 - [Cobalt Strike](https://www.cobaltstrike.com/)
 - [Empire](https://github.com/EmpireProject/Empire)
-- [Metasploit](https://github.com/rapid7/metasploit-framework)
+- [Metasploit](https://github.com/rapid7/metasploit-framework) [Chuleta sobre Metasploit](https://www.comparitech.com/fr/net-admin/metasploit-cheat-sheet/)
 
 
 ## OSINT 
