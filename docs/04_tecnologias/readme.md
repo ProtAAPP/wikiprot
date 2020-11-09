@@ -488,6 +488,7 @@ Recursos interesantes:
 - [2017. Detectando Kerberoasting](https://adsecurity.org/?p=3458)
 - [2018. 21 consejos para una gestion eficaz del Directorio Activo](https://activedirectorypro.com/active-directory-management-tips/)
 - [2018. Microsoft. Azure AD and ADFS best practices: Defending against password spray attacks](https://www.microsoft.com/en-us/microsoft-365/blog/2018/03/05/azure-ad-and-adfs-best-practices-defending-against-password-spray-attacks/)
+- 2017. Configurar Local Administrator Password Solution (LAPS)](https://www.santiagobuitragoreis.com/implementar-laps-desde-gpo-todos-los-equipos-del-dominio/)
 
 Herramientas para diagnosticar el nivel de seguridad del Directorio Activo:
 - [PingCastle](https://www.pingcastle.com/). "Get Active Directory Security At 80% In 20% Of The Time". [Usando PingCastle](https://www.pwndefend.com/2020/02/04/active-directory-security-securing-the-crown-jewels-with-pingcastle-2-8-0-0/)
