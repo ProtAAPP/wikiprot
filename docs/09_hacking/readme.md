@@ -69,6 +69,7 @@ Esta simulación imita aquellos ataques en los que los atacantes (ya sea interna
 
 - [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
 - [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
+- [Aplicación insegura para probar OWASP](https://owasp.org/www-project-juice-shop/)
 
 Herramientas:
 - [Tools](https://hackr.io/blog/top-10-open-source-security-testing-tools-for-web-applications) 19 herramientas opensource para pentesting de aplicaciones web
