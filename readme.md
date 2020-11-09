@@ -27,16 +27,16 @@ Los requisitos para poder colaborar en el desarrollo de esta guía son:
 5. Instalar Node en tu PC ([explicación más detallada](./requisitos-colaborar.md#instalar-node))
 6. Instalar yarn ([cómo hacerlo en 10 segundos](./requisitos-colaborar.md#instalar-yarn))
 7. Abrirte cuenta en Github. [Crear cuenta en Github](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
-7. ¡ya está! listo para insertar tu primera aportación 
+8. ¡ya está! listo para insertar tu primera aportación 
 
 ## Guía de contribución a este repositorio
 
 ### Para novatos (como si estuvieras en primero)
-recuerda que has de tener cuenta en Github para poder subir código, es gratis, aquí tienes el enlace para poderte [Crear cuenta en Github](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
+Recuerda que has de tener cuenta en Github para poder subir código, es gratis, aquí tienes el enlace para poderte [Crear cuenta en Github](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
 
 En caso en que sea la primera vez que oyes esto de Git y Github esta es la manera más sencilla de colaborar vía web, en el vídeo que a continuación se muestra puedes verlo:
 
-[![Como colaborar en la wikiprot como si estuvieras en primero](./assets/screenshot-video.jpg)](https://youtu.be/Svy0kwtfJ-E "Como colaborar en la wikiprot como si estuvieras en primero")
+[![Como colaborar en la wikiprot como si estuvieras en primero](./assets/screenshot-video.jpg)](https://youtu.be/Se7wAVhNBeQ "Como colaborar en la wikiprot como si estuvieras en primero")
 
 1. Abre en el navegador [Repositorio de WikiProt](https://github.com/ProtAAPP/wikiprot)
 2. Selecciona la rama develop.
