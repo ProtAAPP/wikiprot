@@ -152,6 +152,9 @@ Es un procedimiento de autenticación para habilitar a un usuario el acceso a lo
 - [OpenID](https://openid.net/): Mecanismo SSO descentralizado y distribuido que utiliza una URL para compilar una identidad que puede ser usada por los sistemas de información.
 - [OAuth](https://oauth.net/): Protocolo web basado en una API para autenticación en sistemas de información de escritorio, móviles y web.
 
+## Gestión de secretos
+- [GuardedBox](https://guardedbox.es/) Solución online de código abierto que permite, desde cualquier dispositivo con un navegador web, el almacenamiento, la compartición y el intercambio de secretos de manera segura, gestionando en el lado cliente todas las tareas de protección y cifrado de los datos, sin confiar en el servidor, y haciendo uso de las mejores prácticas de la industria de ciberseguridad. Desarrollado por [Dino Security S.L.](https://www.dinosec.com/es/index.html)
+
 ## Protección Perimetral
 
 ### Modelos de interconexión según la guía CCN-STIC-811:
@@ -391,6 +394,12 @@ Herramientas online para comprobar el nivel de seguridad HTTPS/SSL:
 Charlas específicas sobre seguridad HTTPS/SSL:
 - [2018. Habías Tenido Tiempo para Securizarlo… (Raúl Siles, Dinosec) (CCN)](https://www.youtube.com/watch?v=SiVuwY1AYVA)
 - [2017. Has Tenido Tiempo Para Securizarlo: Te Lo Suplico, no Sigas Solo Leyéndolo (Raúl Siles, DinoSec)](https://www.youtube.com/watch?v=87GNHBXKkfg) [PDF](https://www.dinosec.com/docs/HTTPS_TLS_SSL_X_Jornadas_STIC_CCN-CERT-RaulSiles_DinoSec_v1.0.pdf)
+
+Otros recursos interesantes sobre HTTPS/SSL:
+- [Revocation is broken](https://scotthelme.co.uk/revocation-is-broken/) by [Scott Helme](https://twitter.com/Scott_Helme)
+- [Revocation checking is pointless!](https://scotthelme.co.uk/revocation-checking-is-pointless/)
+- [CRLite: Finally a fix for broken revocation?](https://scotthelme.co.uk/crlite-finally-a-fix-for-broken-revocation/)
+
 
 :::tip Muy recomendable definir una CSP
 Definir una **Content Security Policy** es algo que debe hacerse en toda aplicación web. Esta CSP
