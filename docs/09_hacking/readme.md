@@ -88,6 +88,9 @@ Recursos interesantes:
 - [Penetration Tester's Guide to Evaluating OAuth 2.0](https://maxfieldchen.com/posts/2020-05-17-penetration-testers-guide-oauth-2.html)
 - [Azure Cloud Penetration Testing](https://dl.packetstormsecurity.net/papers/general/azure-pentest.pdf)
 
+### Auditorías Dockers
+- [Docker for pentesters](https://blog.ropnop.com/docker-for-pentesters/)
+
 ### Auditorías Kubernetes
 
 - [Kubernetes Pentest Methodology](https://www.cyberark.com/resources/threat-research-blog/kubernetes-pentest-methodology-part-1)
