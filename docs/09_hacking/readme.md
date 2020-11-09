@@ -163,6 +163,11 @@ Es destacable que organizaciones tradicionalmente conservadoras, como el Departa
 - [Lista de Bug Bounties en HackerOne](https://hackerone.com/bug-bounty-programs)
 
 
+## Concursos para "revelar" vulnerabilidades "owneando" productos
+- [Pwn2Own](https://en.wikipedia.org/wiki/Pwn2Own)
+
+
+
 ## Ejercicios ReadTeam
 Un ejercicio RedTeam vs BlueTeam es una técnica de evaluación de la ciberseguridad que utiliza ataques simulados para medir la fortaleza de las capacidades de seguridad existentes de la organización e identificar áreas de mejora en un entorno de bajo riesgo.
 
@@ -187,7 +192,6 @@ Estos ejercicios ayudan a las organizaciones a:
 - [Cobalt Strike](https://www.cobaltstrike.com/)
 - [Empire](https://github.com/EmpireProject/Empire)
 - [Metasploit](https://github.com/rapid7/metasploit-framework)
-
 
 
 ## OSINT 
