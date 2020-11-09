@@ -339,11 +339,13 @@ Amazon AWS ha obtenido la certificación [ENS nivel Alto](https://aws.amazon.com
 ### Seguridad enGoogle Cloud
 Google Cloud ha obtenido la certificación [ENS nivel Alto](https://cloud.google.com/security/compliance/ens?hl=es-419)
 
-## Contenedores
+## Contenedores y Kubernetes
 
 Guías CCN-STIC:
 - [CCN-STIC-652A Seguridad en contenedores](https://www.ccn-cert.cni.es/pdf/guias/series-ccn-stic/guias-de-acceso-publico-ccn-stic/5189-ccn-stic-652a-seguridad-en-contenedores.html)
 
+Guías CIS:
+- [Guía CIS Kubernetes 1.6](https://www.cisecurity.org/benchmark/kubernetes/)
 
 ## IOT
 
