@@ -244,3 +244,8 @@ Lista de CTFs con orientación defensiva (blue):
 Recursos generales de "Blue Team":
 - [Megarepositorio BlueTeam](https://github.com/fabacab/awesome-cybersecurity-blueteam)
 - [30 Herramientas para BlueTeam](https://securitytrails.com/blog/blue-team-tools)
+
+Herramientas para gestión ciberincidentes:
+
+## Otras soluciones para gestión de ciberincidentes
+- [TheHive](https://github.com/TheHive-Project/TheHive/) y [Cortex](https://github.com/TheHive-Project/Cortex)
