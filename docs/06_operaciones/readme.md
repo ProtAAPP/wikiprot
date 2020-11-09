@@ -167,7 +167,18 @@ Enlaces interesantes:
 
 ## Vulnerability Disclosure y Bug Bounties
 - [Security.txt](https://securitytxt.org/). Propuesta de estándar para que los investigadores puedan contactar con los responsable de seguridad de los sitios y aplicaciones web a través del fichero https://xxxx.org/.well-known/security.txt
-- [Lista de bug bounties en HackerOne](https://hackerone.com/bug-bounty-programs)
+
+¿Qué es un Bug Bounty?
+
+Un "Bug Bounty" es un "trato" ofrecido por muchos sitios web, organizaciones y desarrolladores de software mediante el cual los investigadores pueden recibir reconocimiento y compensación por informar de errores, especialmente aquellos relacionados con vulnerabilidades de seguridad.
+
+Estos programas permiten a los desarrolladores descubrir y resolver errores antes de que el público en general los conozca, evitando su abuso por parte de actores maliciosos. En los últimos años, un gran número de organizaciones han implementado programas de "Bug Bounty".
+
+Es destacable que organizaciones tradicionalmente conservadoras, como el Departamento de Defensa de los Estados Unidos, han comenzado a utilizar "Bug Bounties" (véase ["Hack the Pentagon"](https://www.hackerone.com/hack-the-pentagon) o [Hack the Air Force](https://www.hackerone.com/press-release/us-department-defense-concludes-third-hack-air-force-bug-bounty-challenge-hackerone)). Se trata de un cambio de posición importante ya que, históricamente, este tipo de organizaciones eran mas proclives a amenazar a los investigadores con demandas legales en lugar de incentivarles a participar en estos programas como parte de una política de divulgación de vulnerabilidades integral.
+
+[Cómo lleva a cabo un programa de "Bug Bounty"](https://medium.com/@berton.julian/part-5-a-guide-to-running-a-bug-bounty-program-71a829f90f94)
+
+
 
 ## Defensa Activa (Deception)
 - [MITRE SHIELD](https://shield.mitre.org/matrix/)
