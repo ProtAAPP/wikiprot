@@ -142,7 +142,6 @@ Lista de recursos:
 <!-- ![IMG](./img/wifi-hacking-mindmap.png) -->
 
 ## Pentesting
-Pendiente de desarrollar
 
 Recursos generales:
 - [Pentesting cheatsheet](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE/blob/master/7-part-100-article/Pentesting%20Cheatsheet22.pdf)
@@ -153,6 +152,15 @@ Recursos generales:
 - [shodan.io for pentesters](https://www.defcon.org/images/defcon-18/dc-18-presentations/Schearer/DEFCON-18-Schearer-SHODAN.pdf)
 - [Recopilatorio enlaces Penetration Testing](https://www.hackingarticles.in/penetration-testing/) Muchísimos enlaces.
 - [Recopilatorio enlaces Web Penetration Testing](https://www.hackingarticles.in/web-penetration-testing/) Muchísimos enlaces.
+
+## Bug Bounties
+Un "Bug Bounty" es un "trato" ofrecido por muchos sitios web, organizaciones y desarrolladores de software mediante el cual los investigadores pueden recibir reconocimiento y compensación por informar de errores, especialmente aquellos relacionados con vulnerabilidades de seguridad.
+
+Estos programas permiten a los desarrolladores descubrir y resolver errores antes de que el público en general los conozca, evitando su abuso por parte de actores maliciosos. En los últimos años, un gran número de organizaciones han implementado programas de "Bug Bounty".
+
+Es destacable que organizaciones tradicionalmente conservadoras, como el Departamento de Defensa de los Estados Unidos, han comenzado a utilizar "Bug Bounties" (véase ["Hack the Pentagon"](https://www.hackerone.com/hack-the-pentagon) o [Hack the Air Force](https://www.hackerone.com/press-release/us-department-defense-concludes-third-hack-air-force-bug-bounty-challenge-hackerone)). Se trata de un cambio de posición importante ya que, históricamente, este tipo de organizaciones eran mas proclives a amenazar a los investigadores con demandas legales en lugar de incentivarles a participar en estos programas como parte de una política de divulgación de vulnerabilidades integral.
+
+- [Lista de Bug Bounties en HackerOne](https://hackerone.com/bug-bounty-programs)
 
 
 ## Ejercicios ReadTeam
@@ -166,7 +174,8 @@ Estos ejercicios ayudan a las organizaciones a:
 - Desarrollar la experiencia de primera mano de la organización sobre cómo detectar y contener un ataque dirigido
 - Desarrollar actividades de respuesta y remediación para devolver el entorno a un estado operativo normal.
 
-- [Recopilatorio enlaces Red Teaming](https://www.hackingarticles.in/red-teaming/)
+- [Recopilatorio enlaces RedTeam](https://www.hackingarticles.in/red-teaming/)
+- [Mas enlaces sobre herramientas RedTeam](https://cyberarch.eu/red-teaming-adversary-simulation-toolkit/)
 
 ### Threat Emulation
 - [Comparing open source adversary emulation platforms for red teams](https://redcanary.com/blog/comparing-red-team-platforms/)
@@ -175,6 +184,11 @@ Estos ejercicios ayudan a las organizaciones a:
 - [Mordor](https://github.com/OTRF/mordor)
 - [Testing adversary technique variations with AtomicTestHarnesses](https://redcanary.com/blog/introducing-atomictestharnesses/?utm_source=twitter&utm_medium=social&utm_campaign=blog)  
 - [Run your Microsoft 365 Defender attack simulations](https://github.com/MicrosoftDocs/microsoft-365-docs/blob/public/microsoft-365/security/mtp/mtp-pilot-simulate.md)
+- [Cobalt Strike](https://www.cobaltstrike.com/)
+- [Empire](https://github.com/EmpireProject/Empire)
+- [Metasploit](https://github.com/rapid7/metasploit-framework)
+
+
 
 ## OSINT 
 - [Enlaces a Herramientas OSINT por Ciberpatrulla](https://ciberpatrulla.com/links/)
