@@ -83,7 +83,7 @@ Los requisitos para poder colaborar en el desarrollo de esta guía son:
 4. Instalar [git](https://git-scm.com/downloads) en tu PC *(ó editar directamente en Github)*
 5. Instalar Node en tu PC ([explicación más detallada](./requisitos-colaborar.md#instalar-node))
 6. Instalar yarn ([cómo hacerlo en 10 segundos](./requisitos-colaborar.md#instalar-yarn))
-7. Abrirte cuenta en Github. [Crear cuenta en Github](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
+7. Abrirte cuenta en Github ([crear cuenta en Github](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home))
 8. Ya estás listo para insertar tu primera aportación.
 
 | :warning: La siguiente sección es sólo para novatos, si ya eres un maestro Jedi en esto de git salta a [Instalación para preparar el entorno](./readme.md#instalacion-para-preparar-el-entorno).
