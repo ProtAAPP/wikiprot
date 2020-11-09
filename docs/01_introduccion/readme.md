@@ -248,8 +248,9 @@ Para que las cosas se encuentren bien con el buscador hay que **incluir las pala
 
 ### Asuntos por desarrollar
 Podéis contribuir al repositorio con cualquier contenido que consideréis interesante. No obstante, aquí enumeramos algunos contenidos que tenemos pendientes desarrollar o profundizar:
-- [Estrategias, planes y experiencias en implantación ENS](http://localhost:8080/03_gestion/#esquema-nacional-de-seguridad-para-organizaciones-publicas-en-espana)
-- [Seguridad en Bases de Datos](http://localhost:8080/04_tecnologias/#bases-de-datos)
+- [Estrategias, planes y experiencias en implantación ENS](http://wikiprot.protaapp.com/03_gestion/#esquema-nacional-de-seguridad-para-organizaciones-publicas-en-espana)
+- Comparativa entre controles de los diferentes frameworks.
+- [Seguridad en Bases de Datos](http://wikiprot.protaapp.com/04_tecnologias/#bases-de-datos)
 - ...
 
 
