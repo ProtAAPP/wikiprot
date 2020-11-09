@@ -9,6 +9,14 @@ Antes de empezar... si no tienes un inventario de equipos HW y de servicios/comp
 ¿Tienes claro qué servicios/componentes tienes expuestos en Internet? ¿IP? ¿Puerto?
 :::
 
+## Herramientas para gestión de vulnerabilidades
+- [OpenVAS](https://www.openvas.org/) Escaner de vulnerabilidades opensource
+- [Nessus](https://en.wikipedia.org/wiki/Nessus_(software))
+- [Nmap](https://nmap.org/)
+- [Nikto](https://cirt.net/Nikto2)
+
+
+## Vulnerabilidades MEGAMUERTE
 Vulnerabilidades recientes que pueden acabar en un compromiso total de la organización:
 - [CVE-2020-16898](https://www.ccn-cert.cni.es/seguridad-al-dia/avisos-ccn-cert/10594-ccn-cert-av-72-20-vulnerabilidad-en-bad-neighbor.html). "Bad Neighbor" - CVSS 9.8 - Vulnerabilidad en la gestión de IPV6. "Gusanable"
 - [CVE-2020-1472](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1472) "Zerologon" - CVSS 10.0 - El atacante escala a Domain Admin, simplement pudiendo ejecutar comandos en la red interna. 
