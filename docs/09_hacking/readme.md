@@ -59,11 +59,12 @@ Esta simulación imita aquellos ataques en los que los atacantes (ya sea interna
 - [NetblockTool: The Easy Way to Find IP Addresses Owned by a Company](https://blog.netspi.com/netblocktool/)
 - [Recursos y herramientas para el descubrimiento de subdominios](https://www.hackplayers.com/2017/02/recopilatorio-para-descubrimiento-subdominios.html)
 
+### Escaneo general
+- [Nmap](https://nmap.org/) [Cheatsheet](https://i.redd.it/xdd1vq43e3331.png)
 
 ### Escaneo de Vulnerabilidades
 - [Vulnerability Scanning Tools](https://owasp.org/www-community/Vulnerability_Scanning_Tools)
 - [Flan Scan](https://github.com/cloudflare/flan)
-
 
 ### Auditorías de aplicaciones web
 
@@ -168,6 +169,7 @@ Estos programas permiten a los desarrolladores descubrir y resolver errores ante
 Es destacable que organizaciones tradicionalmente conservadoras, como el Departamento de Defensa de los Estados Unidos, han comenzado a utilizar "Bug Bounties" (véase ["Hack the Pentagon"](https://www.hackerone.com/hack-the-pentagon) o [Hack the Air Force](https://www.hackerone.com/press-release/us-department-defense-concludes-third-hack-air-force-bug-bounty-challenge-hackerone)). Se trata de un cambio de posición importante ya que, históricamente, este tipo de organizaciones eran mas proclives a amenazar a los investigadores con demandas legales en lugar de incentivarles a participar en estos programas como parte de una política de divulgación de vulnerabilidades integral.
 
 - [Lista de Bug Bounties en HackerOne](https://hackerone.com/bug-bounty-programs)
+- [Bug Bounty hunter](https://www.bugbountyhunter.com/) Recursos generales.
 - [Bug Bounty cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xss.md)
 
 
