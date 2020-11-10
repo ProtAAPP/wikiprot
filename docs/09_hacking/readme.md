@@ -75,6 +75,7 @@ Esta simulación imita aquellos ataques en los que los atacantes (ya sea interna
 Herramientas:
 - [Tools](https://hackr.io/blog/top-10-open-source-security-testing-tools-for-web-applications) 19 herramientas opensource para pentesting de aplicaciones web
 - [Usando ZAP](https://medium.com/volosoft/running-penetration-tests-for-your-website-as-a-simple-developer-with-owasp-zap-493d6a7e182b) para auditar la seguridad de una web
+- [Web Application Security Recon Automation Framework](https://www.kitploit.com/2020/11/reconnote-web-application-security.html?m=1)
 
 Recursos interesantes:
 - [Recopilatorio de ataques web](https://github.com/swisskyrepo/PayloadsAllTheThings)
@@ -93,6 +94,10 @@ Recursos interesantes:
 - [Abusing Azure AD SSO with the Primary Refresh Token](https://dirkjanm.io/abusing-azure-ad-sso-with-the-primary-refresh-token/)
 - [Penetration Tester's Guide to Evaluating OAuth 2.0](https://maxfieldchen.com/posts/2020-05-17-penetration-testers-guide-oauth-2.html)
 - [Azure Cloud Penetration Testing](https://dl.packetstormsecurity.net/papers/general/azure-pentest.pdf)
+- [Journey to Azure AD PRT: Getting access with pass-the-token and pass-the-cert](https://o365blog.com/post/prt/#creating-your-own-prt)
+- [Bypassing conditional access by faking device compliance](https://o365blog.com/post/mdm/)
+- [AADinternals](https://o365blog.com/aadinternals/#installation) Módulo powershell para pentesting contra Azure AD.
+
 
 ### Auditorías Dockers
 - [Docker for pentesters](https://blog.ropnop.com/docker-for-pentesters/)
@@ -163,6 +168,7 @@ Recursos generales:
 - [shodan.io for pentesters](https://www.defcon.org/images/defcon-18/dc-18-presentations/Schearer/DEFCON-18-Schearer-SHODAN.pdf)
 - [Recopilatorio enlaces Penetration Testing](https://www.hackingarticles.in/penetration-testing/) Muchísimos enlaces.
 - [Recopilatorio enlaces Web Penetration Testing](https://www.hackingarticles.in/web-penetration-testing/) Muchísimos enlaces.
+- [Network Pivoting and Tunneling Guide](https://catharsis.net.au/blog/network-pivoting-and-tunneling-guide/)
 
 ## Bug Bounties
 Un "Bug Bounty" es un "trato" ofrecido por muchos sitios web, organizaciones y desarrolladores de software mediante el cual los investigadores pueden recibir reconocimiento y compensación por informar de errores, especialmente aquellos relacionados con vulnerabilidades de seguridad.
