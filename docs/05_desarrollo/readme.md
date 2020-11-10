@@ -35,6 +35,7 @@ Herramientas open source para gestionar secretos:
  - [EnvKey](https://www.envkey.com/)
  - [Confidant](https://github.com/lyft/confidant)
  - [AWS Secrets Manager](https://aws.amazon.com/secrets-manager/)
+ - [GuardedBox](https://guardedbox.es)
 
 ### Análisis de composición del software
 
