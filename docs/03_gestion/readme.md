@@ -131,6 +131,7 @@ Referencias:
 - [PILAR](https://pilar.ccn-cert.cni.es/) Conjunto de soluciones del CCN para la realización del análisis de riesgos.
 
 ### Normativa de seguridad
+Guías CCN-STIC:
 - [ENS. Normas de seguridad](https://www.ccn-cert.cni.es/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/529-ccn-stic-821-normas-de-seguridad-en-el-ens/file.html)
 - [ENS. Apéndice I. NG 00 Utilización de recursos y sistemas](https://www.ccn-cert.cni.es/publico/seriesCCN-STIC/series/800-Esquema_Nacional_de_Seguridad/821-Normas_de_Seguridad_en_el_ENS/821-Normas_de_seguridad-abr13-NG00.pdf)
 - [ENS. Apéndice II. NP 10 Normas de acceso a Internet](https://www.ccn-cert.cni.es/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/531-ccn-stic-821-normas-de-seguridad-en-el-ens-anexo-ii/file.html)
