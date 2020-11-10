@@ -2,6 +2,8 @@
 
 [[TOC]]
 
+<!-- https://www.akamai.com/es/es/about/compliance/ -->
+
 ## Normativa sobre Ciberseguridad
 ### Normativa sobre Ciberseguridad en España
 En el [Código de Derecho de la Ciberseguridad](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=173&modo=1&nota=0&tab=2)
@@ -44,14 +46,24 @@ de las infraestructuras críticas.
 ### Normas ISO
 * [Serie 27000](https://es.wikipedia.org/wiki/ISO/IEC_27000-series)
 
+### Acuerdos transnacionales
+- [Privacy Shield](https://www.privacyshield.gov/welcome) EU, Suiza y USA. [Invalidado](https://curia.europa.eu/jcms/upload/docs/application/pdf/2020-07/cp200091es.pdf) por el Tribunal de Justicia de la Unión Europea.
+
 ### Normativa de otros paises
+Leyes sobre Ciberseguridad:
+* Alemania [Ley BSI](https://www.bsi.bund.de/EN/TheBSI/BSIAct/bsiact_node.html)
+
+Marcos de controles sobre ciberseguridad
+* USA [NIST](https://www.nist.gov/) [SP800-53](https://nvd.nist.gov/800-53) [FedRAMP](https://www.fedramp.gov/)
+
 Regulación sobre privacidad:
 * USA [CCPA](https://oag.ca.gov/privacy/ccpa)
 * Canada [PIPEDA](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/)
 * Brasil [LGPD](https://gdpr.eu/gdpr-vs-lgpd)
 * Australia [ADPR](https://www.oaic.gov.au/privacy-law/privacy-act/)
 * Sudáfrica [POPI](https://popia.co.za/)
-* USA (Salud) [HIPAA](https://aspe.hhs.gov/report/health-insurance-portability-and-accountability-act-1996)
+* Singapur [MAS](https://www.mas.gov.sg/-/media/MAS/Regulations-and-Financial-Stability/Regulatory-and-Supervisory-Framework/Risk-Management/Outsourcing-Guidelines_Jul-2016-revised-on-5-Oct-2018.pdf)
+* USA (Servicios sanitarios y Seguros) [HIPAA](https://aspe.hhs.gov/report/health-insurance-portability-and-accountability-act-1996)
 
 Estrategias nacionales de Ciberseguridad:
 - [Australia's Cyber Security Strategy 2020](https://www.homeaffairs.gov.au/cyber-security-subsite/files/cyber-security-strategy-2020.pdf)
@@ -61,7 +73,7 @@ Estrategias nacionales de Ciberseguridad:
 
 
 ### Normativa impulsada por el sector privado
-* Pago con tarjeta: [PCI-DSS](https://es.pcisecuritystandards.org/pci_security/) Payment Card Industry Data Security Standards
+Pagos electrónicos [PCI-DSS](https://es.pcisecuritystandards.org/pci_security/) Payment Card Industry Data Security Standards
 
 
 ## Organismos Públicos con competencias en Ciberseguridad
