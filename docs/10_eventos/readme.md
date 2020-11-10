@@ -195,6 +195,7 @@
 - [Manual de la Resiliencia](https://www.elladodelmal.com/2020/10/manual-de-la-resiliencia-una-guia.html?m=1)
 - [Cuentos de Ciberseguridad](https://www.amazon.es/Cuentos-Ciberseguridad-Plural-Francisco-Perez/dp/8418155051) de [Francisco Pérez Bes](https://twitter.com/pacoperezbes) (para niños).
 - [Nuestros hijos en la red: 50 cosas que debemos saber para una buena prevención digital](https://www.amazon.es/Nuestros-hijos-red-debemos-prevenci%C3%B3n/dp/8417886028/ref=sr_1_1) de [Silvia Barrera](https://twitter.com/sbarrera0)
+
 #### Libros en Inglés
 - [We Have Root](https://www.schneier.com/books/root/) Bruce Schneier. 2019.
 - [Click Here to Kill Everybody](https://www.schneier.com/books/click-here/) Bruce Schneier. 2018.
@@ -204,6 +205,7 @@
 - [Manipulated: Inside the Cyberwar to Hijack Elections and Distort the Truth](https://www.amazon.com/Manipulated-Inside-Cyberwar-Elections-Distort/dp/1538133504) Theresa Payton. 2020.
 - [The Code Book: The Secret History of Codes and Code-breaking](https://www.amazon.co.uk/Code-Book-Secret-History-Code-breaking/dp/1857028899/ref=sr_1_1?s=books&ie=UTF8&qid=1492525081&sr=1-1&keywords=%E2%80%A2%09%E2%80%A2%09The+Code+Book). Simon Singh. 2002.
 - [The Pentester BluePrint: Your Guide to Being a Pentester](https://www.amazon.com/Pentester-BluePrint-Your-Guide-Being/dp/1119684307)
+- [Security Engineering](https://www.cl.cam.ac.uk/~rja14/book.html)
 
 
 ### Tiras cómicas
