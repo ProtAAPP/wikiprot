@@ -2,7 +2,16 @@
 
 [[TOC]]
 
-## Eventos
+## Eventos de Ciberseguridad
+
+### Próximos eventos
+* [BugCON](https://www.bugcon.org/) México. 26 y 27 de noviembre de 2020.
+* [Jornadas CCN-CERT](https://www.ccn-cert.cni.es/xivjornadas.html) Madrid. Del 30 de noviembre al 4 de diciembre de 2020.
+* [PwnedCR](https://pwnedcr.rocks/) Costa Rica. 5 y 6 de diciembre de 2020.
+* [C0r0n4con Christmas Edition](c0r0n4con.com) 11, 12 y 13 de diciembre de 2020.
+* [NoCONname](https://www.noconname.org/) 18, 19 y 20 de diciembre de 2020.
+
+
 ### Congresos de Ciberseguridad en España
 
 #### Congresos de Ciberseguridad organizados por Organismos Públicos
@@ -84,7 +93,8 @@
 * [Govware](https://www.govware.sg/) Singapur.
 * [Mind The Sec](https://www.mindthesec.com.br/) Brasil.
 * [Ekoparty](https://www.ekoparty.org/) Buenos Aires, Argentina. [Vídeos charlas](https://www.youtube.com/playlist?list=PLaIv9WEAzYZOnKJZHG_HJ6LdDwGz45cy5)
-* [OpenHacking](https://www.openhacking.gt/) Guatemala
+* [OpenHacking](https://www.openhacking.gt/) Guatemala.
+* [BugCON](https://www.bugcon.org/) México.
 
 
 ### Eventos de tipo competitivo
@@ -95,12 +105,13 @@
 
 ## Difusión de la ciberseguridad
 
-### Canales de Youtube
+### Canales de vídeo
 
-#### Canales de Youtube en español
+#### Canales de vídeo en español
 - [Palabra de Hacker by Yolanda Corral](https://www.youtube.com/c/Palabradehacker-ciberseguridad?sub_confirmation=1)
+- NoCONnameTV [Vimeo](https://vimeo.com/noconname) [Twitch](vimeo.com/noconname)
 
-#### Canales de Youtube en inglés
+#### Canales de vídeo en inglés
 - [The PC Security Channel](https://www.youtube.com/user/ThePCSecurity/featured)
 - [SecurityNow](https://www.youtube.com/user/TWiTSecurityNow/featured)
 - [OWASP Global](https://www.youtube.com/c/OWASPGLOBAL/videos)
