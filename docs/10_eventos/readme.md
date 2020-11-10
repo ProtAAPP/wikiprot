@@ -119,6 +119,7 @@
 - [Security Weekly](https://www.youtube.com/c/SecurityWeekly/videos)
 - [Graham Cluley](https://www.youtube.com/c/GrahamCluleyCom/videos)
 - [MalwareTech](https://www.youtube.com/c/MalwareTechBlog/videos)
+- [Black Hills Information Security](https://www.youtube.com/channel/UCJ2U9Dq9NckqHMbcUupgF0A)
 
 
 ### Podcasts
