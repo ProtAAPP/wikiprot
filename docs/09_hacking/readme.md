@@ -77,9 +77,11 @@ Herramientas:
 - [Usando ZAP](https://medium.com/volosoft/running-penetration-tests-for-your-website-as-a-simple-developer-with-owasp-zap-493d6a7e182b) para auditar la seguridad de una web
 
 Recursos interesantes:
+- [Recopilatorio de ataques web](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is an evolving list of strings which have a high probability of causing issues when used as user-input data. This is intended for use in
   helping both automated and manual QA testing.
 - [XSS Payload list](https://github.com/payloadbox/xss-payload-list)  
+
 
 ### Auditorías de sistemas Cloud
 
@@ -132,6 +134,7 @@ Recursos interesantesg:
 #### Android
 Lista de recursos:
 - [Recopilatorio enlaces Android Security](https://github.com/saeidshirazi/awesome-android-security)
+- [Intercepting HTTPS on Android](https://httptoolkit.tech/blog/intercepting-android-https/)
 
 #### IOS
 
@@ -203,6 +206,7 @@ Estos ejercicios ayudan a las organizaciones a:
 - [Cobalt Strike](https://www.cobaltstrike.com/)
 - [Empire](https://github.com/EmpireProject/Empire)
 - [Metasploit](https://github.com/rapid7/metasploit-framework) [Chuleta sobre Metasploit](https://www.comparitech.com/fr/net-admin/metasploit-cheat-sheet/)
+- [Infection Monkey](https://www.guardicore.com/infectionmonkey/) Open source Breach and Attack Simulation (BAS) tool that assesses the resiliency of private and public cloud environments to post-breach attacks and lateral movement.
 
 
 ## OSINT 
@@ -210,7 +214,8 @@ Estos ejercicios ayudan a las organizaciones a:
 
 ## Otros recursos
 Lista de CTFs con orientación ofensiva (red):
-- []()
+- [Practice CTF List](https://captf.com/practice-ctf/)
+- [Archive OOO](https://archive.ooo) 
 
 Lista de "writeups" (soluciones) en CTFs ofensivos:
 - [CTF Challenges](https://www.hackingarticles.in/ctf-challenges-walkthrough/). Cientos de ellos...
