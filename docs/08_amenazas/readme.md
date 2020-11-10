@@ -106,6 +106,8 @@ Pendiente de desarrollar.
 
 ## Otros recursos
 - [Explicando cada tipo de vulnerabilidad](https://www.hacksplaining.com/lessons)
+- [MALPEDIA](https://malpedia.caad.fkie.fraunhofer.de/) A free, independent, pooled resource for confidently labeled, unpacked reference samples for malware families and versions.
+- [Recopilatorio de malware Android de 2020](https://github.com/sk3ptre/AndroidMalware_2020)
 
 
 
