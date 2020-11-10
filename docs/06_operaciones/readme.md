@@ -82,6 +82,7 @@ Recursos interesantes sobre reversing y análisis de malware:
 - [Practical Malware Analysis](https://www.jaiminton.com/Tutorials/PracticalMalwareAnalysis/) por [Jai Minton](twitter.com/CyberRaiju)
 - [Reversing WannaCry Part 1 - Finding the killswitch and unpacking the malware in #Ghidra](https://www.youtube.com/watch?v=Sv8yu12y5zM)
 - [Curso sobre reversing](https://www.youtube.com/channel/UCPNPSP20z4FGfgMJ71VOJjw)
+- [The Art of Mac Malware](https://taomm.org/vol1/analysis.html)
 
 ### Análisis dinámico de malware
 A diferencia del análisis estático, el análisis dinámico ejecuta el malware para observar sus actividades, comprender su funcionalidad e identificar indicadores técnicos que se pueden utilizar para revelar firmas. El análisis dinámico puede revelar nombres de dominio, direcciones IP, ubicaciones de rutas de archivo, claves de registro, ubicaciones de archivos adicionales y también puede clasificar la comunicación con un servidor externo controlado por el atacante para propósitos de comando y control o para descargar otros archivos de malware.
@@ -155,6 +156,7 @@ Enlaces interesantes:
 - [2020. Blog de Menasec sobre threat hunting](https://blog.menasec.net/)
 - [2020. Sesión del CCN sobre Threat Hunting](https://vanesa.ccn-cert.cni.es/userportal/#/player/vod/Uec62bde1a8764b1983d7b871811afbf5)
 - [Guía de referencia sobre Movimiento Lateral](https://secureservercdn.net/160.153.138.53/x27.24e.myftpupload.com/download/Lateral-Movement-Analyst-Reference.pdf?time=1599801482)
+- [Lateral Movement Detection GPO Settings Cheat Sheet](https://compass-security.com/fileadmin/Datein/Research/White_Papers/lateral_movement_detection_basic_gpo_settings_v1.0.pdf)
 - [Guía de referencia sobre Windows Event Log](https://secureservercdn.net/160.153.138.53/x27.24e.myftpupload.com/download/Windows-Event-Log-Analyst-Reference.pdf?time=1599801482)
 - [Catching Lazarus: Threat Intelligence to Real Detection Logic - Part One](https://labs.f-secure.com/blog/catching-lazarus-threat-intelligence-to-real-detection-logic/)
 - [Catching Lazarus: Threat Intelligence to Real Detection Logic - Part Two](https://labs.f-secure.com/blog/catching-lazarus-threat-intelligence-to-real-detection-logic-part-two)
