@@ -136,7 +136,7 @@
 ### Redes sociales
 
 #### Twitter
-- [Lista](https://twitter.com/i/lists/25837857) de 313 cuentas de Twitter que hablan sobre ciberseguridad (principalmente en ingles)
+- [Lista](https://twitter.com/i/lists/25837857) de 324 cuentas de Twitter que hablan sobre ciberseguridad (principalmente en ingles)
 - [ProtAAPP](https://twitter.com/protaapp) Cuenta oficial de la Comunidad ProtAAPP
 
 ### Canales de Telegram
