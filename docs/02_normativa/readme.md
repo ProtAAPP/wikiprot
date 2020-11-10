@@ -29,19 +29,40 @@ de las infraestructuras críticas.
 - Reglamentos:
     - [Orden PRE/2740/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-16830) Reglamento de Evaluación y Certificación de la Seguridad TIC
 
-### Normativa sobre Protección de datos en España:
+### Normativa sobre Protección de datos en España
 - [Ley Orgánica 3/2018](https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673) Protección de Datos Personales y garantía de los derechos digitales
 
 ### Normativa europea
-- [2016/1148 Directiva NIS](https://www.boe.es/doue/2016/194/L00001-00030.pdf)
-- [2016/679 Reglamento Europeo de Protección de Datos](https://www.boe.es/doue/2016/119/L00001-00088.pdf)
-- [2016/680 Reglamento Europeo de Protección de Datos por parte de las autoridades competentes](https://www.boe.es/doue/2016/119/L00089-00131.pdf)
+- Privacidad
+    - [2016/679 Reglamento Europeo de Protección de Datos](https://www.boe.es/doue/2016/119/L00001-00088.pdf)
+    - [2016/680 Reglamento Europeo de Protección de Datos por parte de las autoridades competentes](https://www.boe.es/doue/2016/119/L00089-00131.pdf)
+- Ciberseguridad
+    - [2016/1148 Directiva NIS](https://www.boe.es/doue/2016/194/L00001-00030.pdf)
+- Sectoriales
+    - Servicios de pago: [PSD2](https://ec.europa.eu/info/law/payment-services-psd-2-directive-eu-2015-2366_en)
 
-### Normativa de otros países
+### Normas ISO
+* [Serie 27000](https://es.wikipedia.org/wiki/ISO/IEC_27000-series)
+
+### Normativa de otros paises
+Regulación sobre privacidad:
+* USA [CCPA](https://oag.ca.gov/privacy/ccpa)
+* Canada [PIPEDA](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/)
+* Brasil [LGPD](https://gdpr.eu/gdpr-vs-lgpd)
+* Australia [ADPR](https://www.oaic.gov.au/privacy-law/privacy-act/)
+* Sudáfrica [POPI](https://popia.co.za/)
+* USA (Salud) [HIPAA](https://aspe.hhs.gov/report/health-insurance-portability-and-accountability-act-1996)
+
+Estrategias nacionales de Ciberseguridad:
 - [Australia's Cyber Security Strategy 2020](https://www.homeaffairs.gov.au/cyber-security-subsite/files/cyber-security-strategy-2020.pdf)
 - [USA National Cyber Strategy. 2018](https://www.whitehouse.gov/wp-content/uploads/2018/09/National-Cyber-Strategy.pdf)
 - [UK National Cyber Security Strategy 2016-2021.](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/567242/national_cyber_security_strategy_2016.pdf)
 - [Francia. French National Digital Security Strategy](https://www.ssi.gouv.fr/uploads/2015/10/strategie_nationale_securite_numerique_en.pdf)
+
+
+### Normativa impulsada por el sector privado
+* Pago con tarjeta: [PCI-DSS](https://es.pcisecuritystandards.org/pci_security/) Payment Card Industry Data Security Standards
+
 
 ## Organismos Públicos con competencias en Ciberseguridad
 ### España
