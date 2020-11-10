@@ -74,8 +74,11 @@ Esta simulación imita aquellos ataques en los que los atacantes (ya sea interna
 Herramientas:
 - [Tools](https://hackr.io/blog/top-10-open-source-security-testing-tools-for-web-applications) 19 herramientas opensource para pentesting de aplicaciones web
 - [Usando ZAP](https://medium.com/volosoft/running-penetration-tests-for-your-website-as-a-simple-developer-with-owasp-zap-493d6a7e182b) para auditar la seguridad de una web
+
+Recursos interesantes:
 - [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is an evolving list of strings which have a high probability of causing issues when used as user-input data. This is intended for use in
   helping both automated and manual QA testing.
+- [XSS Payload list](https://github.com/payloadbox/xss-payload-list)  
 
 ### Auditorías de sistemas Cloud
 
@@ -165,6 +168,7 @@ Estos programas permiten a los desarrolladores descubrir y resolver errores ante
 Es destacable que organizaciones tradicionalmente conservadoras, como el Departamento de Defensa de los Estados Unidos, han comenzado a utilizar "Bug Bounties" (véase ["Hack the Pentagon"](https://www.hackerone.com/hack-the-pentagon) o [Hack the Air Force](https://www.hackerone.com/press-release/us-department-defense-concludes-third-hack-air-force-bug-bounty-challenge-hackerone)). Se trata de un cambio de posición importante ya que, históricamente, este tipo de organizaciones eran mas proclives a amenazar a los investigadores con demandas legales en lugar de incentivarles a participar en estos programas como parte de una política de divulgación de vulnerabilidades integral.
 
 - [Lista de Bug Bounties en HackerOne](https://hackerone.com/bug-bounty-programs)
+- [Bug Bounty cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xss.md)
 
 
 ## Concursos para "revelar" vulnerabilidades "owneando" productos
