@@ -178,7 +178,7 @@ Estos programas permiten a los desarrolladores descubrir y resolver errores ante
 
 Es destacable que organizaciones tradicionalmente conservadoras, como el Departamento de Defensa de los Estados Unidos, han comenzado a utilizar "Bug Bounties" (véase ["Hack the Pentagon"](https://www.hackerone.com/hack-the-pentagon) o [Hack the Air Force](https://www.hackerone.com/press-release/us-department-defense-concludes-third-hack-air-force-bug-bounty-challenge-hackerone)). Se trata de un cambio de posición importante ya que, históricamente, este tipo de organizaciones eran mas proclives a amenazar a los investigadores con demandas legales en lugar de incentivarles a participar en estos programas como parte de una política de divulgación de vulnerabilidades integral.
 
-[Cómo lleva a cabo un programa de "Bug Bounty"](https://medium.com/@berton.julian/part-5-a-guide-to-running-a-bug-bounty-program-71a829f90f94)
+[Cómo llevar a cabo un programa de "Bug Bounty"](https://medium.com/@berton.julian/part-5-a-guide-to-running-a-bug-bounty-program-71a829f90f94)
 
 
 
