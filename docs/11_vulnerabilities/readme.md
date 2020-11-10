@@ -10,10 +10,17 @@ Antes de empezar... si no tienes un inventario de equipos HW y de servicios/comp
 :::
 
 ## Herramientas para identificación de vulnerabilidades
-- [OpenVAS](https://www.openvas.org/) 
-- [Nessus](https://en.wikipedia.org/wiki/Nessus_(software))
+Soluciones opensource:
+- [OpenVAS](https://www.openvas.org/)
+    - [Usando OpenVAS](http://www.reydes.com/d/?q=Escaneo_de_Vulnerabilidades_Externo_utilizando_OpenVAS)
+    - [Cómo instalar OpenVAS en Kali Linux 2020](https://www.solvetic.com/tutoriales/article/8278-como-instalar-openvas-en-kali-linux/)
+    - [Actualizando OpenVAS](http://kinomakino.blogspot.com/2020/11/openvas-i-hate-you-and-i-love-you.html)
+- [Nessus](https://en.wikipedia.org/wiki/Nessus_(software)) 
+    - [Usando Nessus + Metasploit](https://blog.isecauditors.com/2019/12/como-combinar-nessus-con-metasploit.html)
 - [Nmap](https://nmap.org/)
+    - [Ejemplo de uso](https://www.redeszone.net/seguridad-informatica/nmap/)
 - [Nikto](https://cirt.net/Nikto2)
+    - [Ejemplo de uso](http://www.reydes.com/d/?q=Escanear_un_Servidor_Web_utilizando_Nikto)
 
 ## Herramientas para gestión de vulnerabilidades
 - Solución CCN [ANA](https://www.ccn-cert.cni.es/soluciones-seguridad/ana.html) 
