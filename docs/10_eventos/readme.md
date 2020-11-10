@@ -155,7 +155,7 @@
 - [Seguridad Informática](https://t.me/seginformatica)
 - [Hackers en español](https://t.me/Hackers_es)
 - [Kali Linux en español](https://t.me/Kalilinux_es)
-
+- [Palabra de Hacker](https://t.me/palabradehacker)
 
 #### Canales de Telegram en inglés
 - [The Hacker News](https://t.me/thehackernews)
