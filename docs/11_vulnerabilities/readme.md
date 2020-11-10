@@ -9,11 +9,14 @@ Antes de empezar... si no tienes un inventario de equipos HW y de servicios/comp
 ¿Tienes claro qué servicios/componentes tienes expuestos en Internet? ¿IP? ¿Puerto?
 :::
 
-## Herramientas para gestión de vulnerabilidades
-- [OpenVAS](https://www.openvas.org/) Escaner de vulnerabilidades opensource
+## Herramientas para identificación de vulnerabilidades
+- [OpenVAS](https://www.openvas.org/) 
 - [Nessus](https://en.wikipedia.org/wiki/Nessus_(software))
 - [Nmap](https://nmap.org/)
 - [Nikto](https://cirt.net/Nikto2)
+
+## Herramientas para gestión de vulnerabilidades
+- Solución CCN [ANA](https://www.ccn-cert.cni.es/soluciones-seguridad/ana.html) 
 
 
 ## Vulnerabilidades MEGAMUERTE
