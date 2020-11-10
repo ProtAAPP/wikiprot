@@ -140,12 +140,30 @@
 - [ProtAAPP](https://twitter.com/protaapp) Cuenta oficial de la Comunidad ProtAAPP
 
 ### Canales de Telegram
+#### Canales de Telegram en español
 - [CCN-CERT](https://t.me/CCNCERT)
 - [Criptored](https://t.me/criptored). Dr. Alfonso Muñoz - Dr. Jorge Ramio [@criptored](https://twitter.com/criptored) [@mindcrypt](https://twitter.com/mindcrypt)
 - [Derecho de la Red](https://t.me/DerechodelaRed)
 - [CyberSecurityPulse (ElevenPaths)](https://t.me/cybersecuritypulse)
 - [BugBounty ES](https://t.me/bugbountyes)
 - [C1b3rWallAcademy](https://t.me/C1b3rWallAcademy)
+- [Una al día](https://t.me/unaaldia)
+- [Security News for Everyone](https://t.me/SeguridadInformatica)
+- [Infosec - es](https://telegram.me/Infoseces)
+- [Informática Forense](https://t.me/forense)
+- [HackPlayers](https://t.me/hackplayers)
+- [Seguridad Informática](https://t.me/seginformatica)
+- [Hackers en español](https://t.me/Hackers_es)
+- [Kali Linux en español](https://t.me/Kalilinux_es)
+
+
+#### Canales de Telegram en inglés
+- [The Hacker News](https://t.me/thehackernews)
+- [Cloud and Cibersecurity](https://t.me/cloudandcybersecurity) Incluye preguntas y respuestas para mejorar tus conocimientos.
+- [Cybersecurity & Privacy News](https://t.me/cibsecurity)
+- [White Hat](https://t.me/whitehat)
+- [Android Security & Malware](https://t.me/androidmalware)
+
 
 ### Listas de correo
 - [RootedCON List](https://groups.io/g/rootedcon)
