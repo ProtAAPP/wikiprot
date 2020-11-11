@@ -63,7 +63,17 @@ Esta simulación imita aquellos ataques en los que los atacantes (ya sea interna
 - [Nmap](https://nmap.org/) [Cheatsheet](https://i.redd.it/xdd1vq43e3331.png)
 
 ### Escaneo de Vulnerabilidades
-- [Vulnerability Scanning Tools](https://owasp.org/www-community/Vulnerability_Scanning_Tools)
+- [Vulnerability Scanning Tools List](https://owasp.org/www-community/Vulnerability_Scanning_Tools)
+- [OpenVAS](https://www.openvas.org/)
+    - [Usando OpenVAS](http://www.reydes.com/d/?q=Escaneo_de_Vulnerabilidades_Externo_utilizando_OpenVAS)
+    - [Cómo instalar OpenVAS en Kali Linux 2020](https://www.solvetic.com/tutoriales/article/8278-como-instalar-openvas-en-kali-linux/)
+    - [Actualizando OpenVAS](http://kinomakino.blogspot.com/2020/11/openvas-i-hate-you-and-i-love-you.html)
+- [Nessus](https://en.wikipedia.org/wiki/Nessus_(software)) 
+    - [Usando Nessus + Metasploit](https://blog.isecauditors.com/2019/12/como-combinar-nessus-con-metasploit.html)
+- [Nmap](https://nmap.org/)
+    - [Ejemplo de uso](https://www.redeszone.net/seguridad-informatica/nmap/)
+- [Nikto](https://cirt.net/Nikto2)
+    - [Ejemplo de uso](http://www.reydes.com/d/?q=Escanear_un_Servidor_Web_utilizando_Nikto)
 - [Flan Scan](https://github.com/cloudflare/flan)
 
 ### Auditorías de aplicaciones web
