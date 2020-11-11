@@ -107,11 +107,11 @@
 
 ### Canales de vídeo
 
-#### Canales de vídeo en español
+#### Canales de Youtube en español
 - [Palabra de Hacker by Yolanda Corral](https://www.youtube.com/c/Palabradehacker-ciberseguridad?sub_confirmation=1)
 - NoCONnameTV [Vimeo](https://vimeo.com/noconname) [Twitch](vimeo.com/noconname)
 
-#### Canales de vídeo en inglés
+#### Canales de Youtube en inglés
 - [The PC Security Channel](https://www.youtube.com/user/ThePCSecurity/featured)
 - [SecurityNow](https://www.youtube.com/user/TWiTSecurityNow/featured)
 - [OWASP Global](https://www.youtube.com/c/OWASPGLOBAL/videos)
@@ -120,6 +120,10 @@
 - [Graham Cluley](https://www.youtube.com/c/GrahamCluleyCom/videos)
 - [MalwareTech](https://www.youtube.com/c/MalwareTechBlog/videos)
 - [Black Hills Information Security](https://www.youtube.com/channel/UCJ2U9Dq9NckqHMbcUupgF0A)
+
+#### Canales de Twitch
+- [CEOS3C](https://www.twitch.tv/ceos3c) Hacking, CTF por [Stefan Rows](https://twitter.com/ceos3c)
+- [Devploit](https://www.twitch.tv/devploit) Hacking, CTF por [Daniel Púa](https://twitter.com/devploit)
 
 
 ### Podcasts
