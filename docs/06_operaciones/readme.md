@@ -63,7 +63,8 @@ Además de elementos concretos, también se puede hablar de [indicadores de ataq
 - [MISP](https://www.misp-project.org/) Open Source Threat Intelligence Platform
 
 Lista de recursos:
-- [VirusTotal](https://www.virustotal.com/gui/home) Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community
+- [VirusTotal](https://www.virustotal.com/gui/home) Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community.
+    - [VirusTotal for Investigators](https://storage.googleapis.com/vt-gtm-wp-media/virustotal-for-investigators.pdf)
 - [YARA](https://yara.readthedocs.io/en/stable/) 
 - [How to write Yara Rules Guides](https://github.com/neo23x0/blueledger/blob/main/README.md#how-to-write-yara-rules-guides)
 - [IOC Scanners](https://github.com/neo23x0/blueledger/blob/main/README.md#scanners)
