@@ -10,6 +10,8 @@ Antes de empezar... si no tienes un inventario de equipos HW y de servicios/comp
 :::
 
 ## Herramientas para identificación de vulnerabilidades
+[Vulnerability Scanning Tools List](https://owasp.org/www-community/Vulnerability_Scanning_Tools)
+
 Soluciones opensource:
 - [OpenVAS](https://www.openvas.org/)
     - [Usando OpenVAS](http://www.reydes.com/d/?q=Escaneo_de_Vulnerabilidades_Externo_utilizando_OpenVAS)
