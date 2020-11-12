@@ -216,8 +216,8 @@
 ### Libros
 #### Libros en Español
 - [Editorial 0xword](https://0xword.com). Muchísimos libros sobre Ciberseguridad en Español.
-- [Manual de la Resiliencia](https://www.elladodelmal.com/2020/10/manual-de-la-resiliencia-una-guia.html?m=1)
-- [Historia del hacking en España](https://www.ra-ma.es/libro/historia-del-hacking-en-espana_112773/) por Mercé Molist Ferrer y Jacobo Feijoo 
+- [Manual de la Resiliencia](https://www.elladodelmal.com/2020/10/manual-de-la-resiliencia-una-guia.html?m=1) de Alejandro Corletti
+- [Historia del hacking en España](https://www.ra-ma.es/libro/historia-del-hacking-en-espana_112773/) de Mercé Molist Ferrer y Jacobo Feijoo 
 - [Cuentos de Ciberseguridad](https://www.amazon.es/Cuentos-Ciberseguridad-Plural-Francisco-Perez/dp/8418155051) de [Francisco Pérez Bes](https://twitter.com/pacoperezbes) (para niños).
 - [Nuestros hijos en la red: 50 cosas que debemos saber para una buena prevención digital](https://www.amazon.es/Nuestros-hijos-red-debemos-prevenci%C3%B3n/dp/8417886028/ref=sr_1_1) de [Silvia Barrera](https://twitter.com/sbarrera0)
 
