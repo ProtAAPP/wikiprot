@@ -158,6 +158,7 @@ Enlaces interesantes:
 - [Cómo montar un SOC en casa](https://www.youtube.com/watch?v=TOnlk1AHn1Q) Alejandro Aliaga. Navaja Negra. 2019.
 
 ## Threat Hunting
+- [2020. From threat intelligence to client scanning](https://www.vanimpe.eu/2020/11/13/from-threat-intelligence-to-client-scanning/) MISP -> Loki -> Logstash -> Kibana
 - [2020. ElevenPaths. "TheTHE: The Threat Hunting Environment"](https://empresas.blogthinkbig.com/thethe-threat-hunting-environment-nuestra-herramienta-para-investigadores/)
 - [2020. Blog de Menasec sobre threat hunting](https://blog.menasec.net/)
 - [2020. Sesión del CCN sobre Threat Hunting](https://vanesa.ccn-cert.cni.es/userportal/#/player/vod/Uec62bde1a8764b1983d7b871811afbf5)
