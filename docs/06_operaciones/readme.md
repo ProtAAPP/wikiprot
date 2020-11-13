@@ -156,6 +156,7 @@ Enlaces interesantes:
 - [2020. Expel. Behind the scenes in the Expel SOC: Alert-to-fix in AWS](https://expel.io/blog/behind-the-scenes-expel-soc-alert-aws/)
 - [Evaluar el nivel de madurez. SOC-CMM](https://www.soc-cmm.com/introduction/)
 - [Cómo montar un SOC en casa](https://www.youtube.com/watch?v=TOnlk1AHn1Q) Alejandro Aliaga. Navaja Negra. 2019.
+- [Código ético para equipos de respuesta a ciberincidentes](https://ethicsfirst.org/) FIRST.
 
 ## Threat Hunting
 - [2020. From threat intelligence to client scanning](https://www.vanimpe.eu/2020/11/13/from-threat-intelligence-to-client-scanning/) MISP -> Loki -> Logstash -> Kibana
@@ -240,6 +241,7 @@ Pendiente de desarrollar
 ### Análisis Forense
 - ["Chuleta" Digital Forensics and Incident Response](https://www.jaiminton.com/cheatsheet/DFIR/#)
 - [Windows Forensic Analysis](https://www.geeksforgeeks.org/windows-forensic-analysis/)
+- [Autopsy](https://www.autopsy.com/) Plataforma opensource para análisis forense en Windows.
 - [Linux Forensics — Some Useful Artifacts](https://medium.com/@tho.le/linux-forensics-some-useful-artifacts-74497dca1ab2)
 - [Android Forensic Acquisition Techniques](https://medium.com/@lucideus/android-forensic-acquisition-techniques-lucideus-forensics-e7671dbac984)
 - [DFRWS](https://www.youtube.com/c/DFRWS/videos) Canal de Youtube con vídeos sobre forensic en inglés.
