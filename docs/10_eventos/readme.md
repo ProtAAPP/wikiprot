@@ -177,7 +177,11 @@
 - [ProtAAPP](https://groups.google.com/d/forum/protaapp) Solo para empleados públicos de AAPP.
 
 ### Revistas
-- [Revista SIC](https://revistasic.es/). Durante la pandemia, se pueden consultar las ediciones online: [SIC 142](https://revistasic.es/sic142/revistasic142.pdf),[SIC 141](https://revistasic.es/sic141/revistasic141.pdf), [SIC 140](https://revistasic.es/sic140/revistasic140.pdf), [SIC 139](https://revistasic.es/sic139/revistasic139.pdf) 
+- [Revista SIC](https://revistasic.es/). De manera excepcional, se pueden consultar los últimos números de manera abierta en: [SIC 142](https://revistasic.es/sic142/revistasic142.pdf),[SIC 141](https://revistasic.es/sic141/revistasic141.pdf), [SIC 140](https://revistasic.es/sic140/revistasic140.pdf), [SIC 139](https://revistasic.es/sic139/revistasic139.pdf) 
+- [CIBERelcano](http://www.realinstitutoelcano.org/wps/portal/rielcano_es/publicaciones/ciber-elcano)
+- [RedSeguridad](https://www.redseguridad.com/)
+- [Cuadernos de Seguridad](https://cuadernosdeseguridad.com/)
+- [CyberseguridadPYME](https://www.ciberseguridadpyme.es/)
 
 ### Radio
 - [Capital Radio. Afterwork](https://www.monicavalle.es/ciberseguridad-en-capital-radio/) Ciberseguridad con Mónica Valle y Pablo San Emeterio.
