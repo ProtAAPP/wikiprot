@@ -5,6 +5,7 @@
 ## Eventos de Ciberseguridad
 
 ### Próximos eventos
+* [FIRST Conference](https://events.first.org/session_catalog/#/attendee/61AFF350-CF22-4FD0-9BE6-1FC361D0FFB7/catalog) organizada por [first.org](http://first.org) organización sin ánimo de lucro que agrupa a miembros de equpios de respuesta a incidentes. Virtual, 16, 17 y 18 de noviembre de 2020.
 * [BugCON](https://www.bugcon.org/) México. 26 y 27 de noviembre de 2020.
 * [Ekoparty University Talks](https://www.eventbrite.com.ar/e/ekoparty-university-talks-panama-guatemala-2020-tickets-127017872877?aff=TW). Panamá. 28 de noviembre de 2020.
 * [Jornadas CCN-CERT](https://www.ccn-cert.cni.es/xivjornadas.html) Madrid. Del 30 de noviembre al 4 de diciembre de 2020. [Abierto formulario de inscripción (hasta el 20 de noviembre)](https://www.ccn-cert.cni.es/xivjornadas-inscripcion/unirse/52-inscripcion-a-las-xiv-jornadas-stic-ccn-cert.html)
@@ -211,6 +212,7 @@
 - [It Security Guru](http://www.itsecurityguru.org/)
 - [Hacking Articles](http://www.hackingarticles.in/)
 - [Social Engineer](http://www.social-engineer.org/blog/)
+- [BlueTeamBlog](https://blueteamblog.com/)
 
 
 ### Libros
@@ -232,6 +234,7 @@
 - [The Code Book: The Secret History of Codes and Code-breaking](https://www.amazon.co.uk/Code-Book-Secret-History-Code-breaking/dp/1857028899/ref=sr_1_1?s=books&ie=UTF8&qid=1492525081&sr=1-1&keywords=%E2%80%A2%09%E2%80%A2%09The+Code+Book). Simon Singh. 2002.
 - [The Pentester BluePrint: Your Guide to Being a Pentester](https://www.amazon.com/Pentester-BluePrint-Your-Guide-Being/dp/1119684307)
 - [Security Engineering](https://www.cl.cam.ac.uk/~rja14/book.html)
+- [The Best of TaoSecurity Blog](https://www.amazon.com/dp/B08KXX1X5M/ref=as_li_ss_tl) de [Richard Bejtlich](https://twitter.com/taosecurity)
 
 
 ### Tiras cómicas
