@@ -26,11 +26,9 @@
 #### Material para preparar certificaciones
 - [CISSP Exam Study Guide. Netwrix](https://www.netwrix.com/cissp_study_guide_pdf.html)
 
-### Eventos de tipo competitivo
-- [NATIONAL CYBERLEAGUE](https://www.nationalcyberleague.es/) Promovido por la Guardia Civil.
-
-### Plataformas de tipo competitivo
-- [ATENEA](https://angeles.ccn-cert.cni.es/index.php/es/talento-es) Plataforma promovida por CCN que incluye retos sobre Criptografía y Esteganografía; Exploiting, Forense, Análisis de tráfico, Reversing, etc.
+### Eventos y plataformas de tipo competitivo
+- [NATIONAL CYBERLEAGUE](https://www.nationalcyberleague.es/) Evento anual promovido por la Guardia Civil, que consiste en una serie de retos de tipo multidisciplinar (técnico, jurídico y comunicativo) que tienen que ver con la ciberseguridad. 
+- [ATENEA](https://angeles.ccn-cert.cni.es/index.php/es/talento-es) Plataforma permanente promovida por CCN que incluye retos sobre Criptografía y Esteganografía; Exploiting, Forense, Análisis de tráfico, Reversing, etc.
 
 ### Charlas generales
 - [¿Qué hay en la mochila de un hacker?](https://cybercamp.es/videos/que-hay-en-la-mochila-de-un-hacker). Especial para jóvenes.
