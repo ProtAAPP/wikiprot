@@ -350,6 +350,10 @@ Guías CCN-STIC:
 Guías CIS:
 - [Guía CIS Kubernetes 1.6](https://www.cisecurity.org/benchmark/kubernetes/)
 
+Otros recursos interesantes:
+- [A Practical Introduction to Container Security](https://cloudberry.engineering/article/practical-introduction-container-security/)
+- [Kubernetes Security Is Not Container Security](https://blog.alcide.io/kubernetes-security-is-not-container-security?hs_amp=true&__twitter_impression=true)
+
 ## IOT
 
 A tener en cuenta el ["Servicio de Alerta Temprana para Sistemas de Control Industrial" SAT-ICS](https://www.ccn-cert.cni.es/gestion-de-incidentes/sistema-de-alerta-temprana-sat/sat-ics.html) del [CCN](https://www.ccn-cert.cni.es/).
@@ -359,6 +363,12 @@ Referencias:
 - [2020. Current State of IPV6 Security in IOT](https://static1.squarespace.com/static/5a01100f692ebe0459a1859f/t/5fa2ba52a81b683350465a2f/1604500058182/White_Paper__Current_State_of_IPv6_Security_in_IoT.pdf)
 - [2020. Guidelines for Securing the Internet of Things](https://www.enisa.europa.eu/publications/guidelines-for-securing-the-internet-of-things/at_download/fullReport) ENISA
 - [ENISA Good practices for IoT and Smart Infrastructures Tool](https://www.enisa.europa.eu/topics/iot-and-smart-infrastructures/iot/good-practices-for-iot-and-smart-infrastructures-tool) ENISA
+- [Buenas prácticas para la seguridad de vehículos inteligentes](https://www.enisa.europa.eu/publications/smart-cars) ENISA
+- [MDCG 2019-16 Guía de ciberseguridad para dispositivos médicos](https://ec.europa.eu/docsroom/documents/38941/attachments/1/translations/en/renditions/native)
+- [Buenas prácticas en ciberseguridad en el sector marítimo](https://www.enisa.europa.eu/publications/port-cybersecurity-good-practices-for-cybersecurity-in-the-maritime-sector/at_download/fullReport)
+- [Directrices de ciberseguridad en el transporte marítimo](https://www.ics-shipping.org/docs/default-source/resources/safety-security-and-operations/guidelines-on-cyber-security-onboard-ships.pdf?sfvrsn=16)
+
+
 
 
 ## Seguridad en Aplicaciones Web
