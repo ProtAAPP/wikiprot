@@ -243,6 +243,7 @@ Pendiente de desarrollar
 - [Android Forensic Acquisition Techniques](https://medium.com/@lucideus/android-forensic-acquisition-techniques-lucideus-forensics-e7671dbac984)
 - [DFRWS](https://www.youtube.com/c/DFRWS/videos) Canal de Youtube con vídeos sobre forensic en inglés.
 - [Recopilatorio de ficheros PCAP para análisis](https://www.netresec.com/?page=PcapFiles)
+- [Otro recopilatorio de ficheros PCAP para análisis](https://www.malware-traffic-analysis.net/)
 
 ## Otros recursos
 Lista de CTFs con orientación defensiva (blue):
