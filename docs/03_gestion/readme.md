@@ -173,7 +173,12 @@ En la adquisición de productos de seguridad de las TIC que vayan a ser empleado
 Ver [Catálogo CCN-STIC](../new_04_tecnologias/readme.md#catalogo-de-productos-de-seguridad-de-las-tecnologias-de-la-informacion-y-la-comunicacion)
 
 ### Clausulado de Seguridad en la contratación pública
-Pendiente de desarrollar
+Pendiente de desarrollar.
+
+Referencias interesantes:
+- [Obligaciones de los prestadores de servicios a las entidades
+públicas](https://www.ccn.cni.es/index.php/es/docman/documentos-publicos/abstract/257-abstract-obligaciones-de-los-prestadores-de-servicios-a-las-entidades-publicas/file)
+- [Guía para la contratación de productos y servicios de seguridad en entornos hospitalarios. ENISA](https://www.enisa.europa.eu/publications/good-practices-for-the-security-of-healthcare-services/at_download/fullReport)
 
 ### Auditorías de Cumplimiento
 
@@ -182,15 +187,23 @@ Pendiente de desarrollar
 
 ## ISO 27000
 [Serie 27000](https://es.wikipedia.org/wiki/ISO/IEC_27000-series)
-
 [ISO/IEC 27001](https://www.iso.org/isoiec-27001-information-security.html)
 ![ISO 27001](./img/27001.png)
+
+- [ISO/IEC 27018:2019 Protección de datos personales en la nube](https://www.iso.org/standard/76559.html)
+- [ISO/IEC 27701:2019 Gestión de la información de privacidad](https://www.iso.org/standard/71670.html)
+- [ISO/IEC 29184:2020 Aviso de privacidad online y consentimiento](https://www.iso.org/standard/70331.html)
+- [ISO/IEC 27102:2019 Gestión de seguridad de la información – Guía para ciberseguros](https://www.iso.org/standard/72436.html)
+- [ISO/IEC 19086-4:2019 SLA Cloud computing–Componentes de seguridad y protección de datos personales](https://www.iso.org/standard/68242.html)
+- [ISO 22301:2019 Continuidad del negocio](https://www.iso.org/standard/75106.html)
 
 
 ## NIST Cibersecurity Framework
 [Framework for Improving Critical Infrastructure Cybersecurity](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04162018.pdf)
 [Presentación](https://www.nist.gov/document/cybersecurityframeworkv1-1presentationpptx)
 ![NIST CSF](./img/nist01.png)
+
+[NIST SP 800-37 Risk Management Framework Rev 2](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-37r2.pdf)
 
 ## CIS (Critical Security Controls)
 Extraido de [Center For Internet Security](http://www.cisecurity.org/controls/), con licencia Creative Commons Attribution-Non-Commercial-No Derivatives 4.0 International Public License.
