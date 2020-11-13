@@ -218,6 +218,7 @@ Estos ejercicios ayudan a las organizaciones a:
 - [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team)
 - [Mordor](https://github.com/OTRF/mordor)
 - [Testing adversary technique variations with AtomicTestHarnesses](https://redcanary.com/blog/introducing-atomictestharnesses/?utm_source=twitter&utm_medium=social&utm_campaign=blog)  
+- [Leonidas](https://www.kitploit.com/2020/11/leonidas-automated-attack-simulation-in.html?m=1) Automated Attack Simulation In The Cloud, Complete With Detection Use Cases
 - [Run your Microsoft 365 Defender attack simulations](https://github.com/MicrosoftDocs/microsoft-365-docs/blob/public/microsoft-365/security/mtp/mtp-pilot-simulate.md)
 - [Cobalt Strike](https://www.cobaltstrike.com/)
 - [Empire](https://github.com/EmpireProject/Empire)
