@@ -229,10 +229,17 @@ Estos ejercicios ayudan a las organizaciones a:
 ## OSINT 
 - [Enlaces a Herramientas OSINT por Ciberpatrulla](https://ciberpatrulla.com/links/)
 
-## Otros recursos
+## Retos del tipo Capture the Flag (CTFs)
 Lista de CTFs con orientación ofensiva (red):
+- [HackTheBox](https://www.hackthebox.eu/)
 - [Practice CTF List](https://captf.com/practice-ctf/)
 - [Archive OOO](https://archive.ooo) 
+- [Pwnable.kr](http://pwnable.kr/)
+- [Pwnable.tw](https://pwnable.tw/)
+- [CTFLearn](https://ctflearn.com/)
+- [Root Me](https://www.root-me.org/)
+- [Hacking Lab](https://hacking-lab.com/index.html)
+- [Microcorruption](https://microcorruption.com/)
 
 Lista de "writeups" (soluciones) en CTFs ofensivos:
 - [CTF Challenges](https://www.hackingarticles.in/ctf-challenges-walkthrough/). Cientos de ellos...
