@@ -6,6 +6,7 @@
 
 ### Próximos eventos
 * [FIRST Conference](https://events.first.org/session_catalog/#/attendee/61AFF350-CF22-4FD0-9BE6-1FC361D0FFB7/catalog) organizada por [first.org](http://first.org) organización sin ánimo de lucro que agrupa a miembros de equpios de respuesta a incidentes. Virtual, 16, 17 y 18 de noviembre de 2020.
+* [Open Source Digital Forensics Conference (#OSDFCon)](https://www.osdfcon.org/) Virtual. 18 de noviembre de 2020.
 * [BugCON](https://www.bugcon.org/) México. 26 y 27 de noviembre de 2020.
 * [Ekoparty University Talks](https://www.eventbrite.com.ar/e/ekoparty-university-talks-panama-guatemala-2020-tickets-127017872877?aff=TW). Panamá. 28 de noviembre de 2020.
 * [Jornadas CCN-CERT](https://www.ccn-cert.cni.es/xivjornadas.html) Madrid. Del 30 de noviembre al 4 de diciembre de 2020. [Abierto formulario de inscripción (hasta el 20 de noviembre)](https://www.ccn-cert.cni.es/xivjornadas-inscripcion/unirse/52-inscripcion-a-las-xiv-jornadas-stic-ccn-cert.html)
