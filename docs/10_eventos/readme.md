@@ -216,6 +216,7 @@
 ### Libros
 #### Libros en Español
 - [Editorial 0xword](https://0xword.com). Muchísimos libros sobre Ciberseguridad en Español.
+- [Recopilatorio de libros sobre criptografía](https://twitter.com/mindcrypt/status/1326861595067166720) vía [@mindcrypt](https://twitter.com/mindcrypt/)
 - [Manual de la Resiliencia](https://www.elladodelmal.com/2020/10/manual-de-la-resiliencia-una-guia.html?m=1) de Alejandro Corletti
 - [Historia del hacking en España](https://www.ra-ma.es/libro/historia-del-hacking-en-espana_112773/) de Mercé Molist Ferrer y Jacobo Feijoo 
 - [Cuentos de Ciberseguridad](https://www.amazon.es/Cuentos-Ciberseguridad-Plural-Francisco-Perez/dp/8418155051) de [Francisco Pérez Bes](https://twitter.com/pacoperezbes) (para niños).
