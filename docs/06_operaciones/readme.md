@@ -63,15 +63,20 @@ Además de elementos concretos, también se puede hablar de [indicadores de ataq
 - [MISP](https://www.misp-project.org/) Open Source Threat Intelligence Platform
 
 Lista de recursos:
-- [VirusTotal](https://www.virustotal.com/gui/home) Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community.
-    - [VirusTotal for Investigators](https://storage.googleapis.com/vt-gtm-wp-media/virustotal-for-investigators.pdf)
+- [VirusTotal](https://www.virustotal.com/gui/home) Analiza ficheros y URLs sospechosas para detectar malware y compartirlo automáticamente con la comunidad.
+    - [VirusTotal for Investigators](https://storage.googleapis.com/vt-gtm-wp-media/virustotal-for-investigators.pdf) 150 páginas sobre cómo usar VirusTotal en tus investigaciones de malware.
 - [YARA](https://yara.readthedocs.io/en/stable/) 
 - [How to write Yara Rules Guides](https://github.com/neo23x0/blueledger/blob/main/README.md#how-to-write-yara-rules-guides)
 - [IOC Scanners](https://github.com/neo23x0/blueledger/blob/main/README.md#scanners)
 - [IOC Bucket (gratuito)](https://www.iocbucket.com/)
 - [Cisco Talos](https://talosintelligence.com/)
+- [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/)
 - [URLhaus](https://urlhaus.abuse.ch/) Sharing malicious URLs that are being used for malware distribution.
 - [Recopilatorio de Threat Inteligence sources](https://github.com/hslatman/awesome-threat-intelligence)
+- [Intezer](https://analyze.intezer.com/)
+- [urlscan.io](https://urlscan.io/)
+- [BinaryEdge](https://app.binaryedge.io/login)
+- [GreyNoise](https://viz.greynoise.io/)
 
 ## Análisis de malware
 El análisis de malware es la práctica de determinar la funcionalidad, la fuente y el posible impacto de un malware dado, como un virus, gusano, troyano, rootkit o puerta trasera. Este análisis implica dos técnicas fundamentales: análisis estático y análisis dinámico.
@@ -88,7 +93,7 @@ Recursos interesantes sobre reversing y análisis de malware:
 ### Análisis dinámico de malware
 A diferencia del análisis estático, el análisis dinámico ejecuta el malware para observar sus actividades, comprender su funcionalidad e identificar indicadores técnicos que se pueden utilizar para revelar firmas. El análisis dinámico puede revelar nombres de dominio, direcciones IP, ubicaciones de rutas de archivo, claves de registro, ubicaciones de archivos adicionales y también puede clasificar la comunicación con un servidor externo controlado por el atacante para propósitos de comando y control o para descargar otros archivos de malware.
 
-Lista de sandboxes y tutoriales, para análisis dinámico de malware:
+Lista de sandboxes y tutoriales para análisis dinámico de malware:
 - [Any.Run](https://app.any.run/) [EMOTET - Interactive Malware Analysis with ANY.RUN](https://www.youtube.com/watch?v=YLnBPNenH9k)
 - [Hybrid Analysis](hybrid-analysis.com) [Complete your first Hybrid-Analysis](https://www.youtube.com/watch?v=PQZ2w4XVyEI)
 - [Joe Sandbox](https://www.joesandbox.com/)
@@ -236,6 +241,8 @@ Pendiente de desarrollar
 - [Windows Forensic Analysis](https://www.geeksforgeeks.org/windows-forensic-analysis/)
 - [Linux Forensics — Some Useful Artifacts](https://medium.com/@tho.le/linux-forensics-some-useful-artifacts-74497dca1ab2)
 - [Android Forensic Acquisition Techniques](https://medium.com/@lucideus/android-forensic-acquisition-techniques-lucideus-forensics-e7671dbac984)
+- [DFRWS](https://www.youtube.com/c/DFRWS/videos) Canal de Youtube con vídeos sobre forensic en inglés.
+- [Recopilatorio de ficheros PCAP para análisis](https://www.netresec.com/?page=PcapFiles)
 
 ## Otros recursos
 Lista de CTFs con orientación defensiva (blue):
