@@ -130,6 +130,11 @@ yarn install                 # Instalar/actualizar librerías. Ejecutar siempre
 a través de las carpetas del repositorio
 [para editar, previsualizar y enviar contenidos.](https://docs.github.com/es/free-pro-team@latest/github/managing-files-in-a-repository/editing-files-in-your-repository))*
 
+Y por último, deberás instalar Vuepress usando yarn: 
+
+```bash
+yarn add -D vuepress
+```
 
 ### Modificar contenidos del repositorio
 
