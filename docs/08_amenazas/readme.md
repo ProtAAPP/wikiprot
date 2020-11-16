@@ -35,6 +35,7 @@ Lista de recursos:
 - [2019. Getting Started with ATT&CK: Assessments and Engineering](https://medium.com/mitre-attack/getting-started-with-attack-assessment-cc0b01769cb4)
 - [2019. USING ATT&CK TO ADVANCE CYBER THREAT INTELLIGENCE – PART 1](https://www.mitre.org/capabilities/cybersecurity/overview/cybersecurity-blog/using-attck-to-advance-cyber-threat)
 - [2019. Launching ATT&CK for ICS](https://medium.com/mitre-attack/launching-attack-for-ics-2be4d2fb9b8)
+- [Using ATT&CK for Cyber Threat Intelligence Training](https://attack.mitre.org/resources/training/cti/) Curso.
 
  ### Descripción de las técnicas:
  ATT&CK Initial Access. [Por dónde llegan los malos](https://attack.mitre.org/tactics/TA0001/)
