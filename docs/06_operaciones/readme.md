@@ -220,6 +220,7 @@ Ejemplos de alertas que se pueden configurar con honeytokens:
 ![IMG](./img/cicloincidentes.png)
 <!--![IMG](./img/clasificacioninc.png)-->
 ![IMG](./img/817peligrosidad.png)
+- [GESTIÓN DE CIBERCRISIS. BUENAS PRÁCTICAS EN LA GESTIÓN DE CRISIS DE CIBERSEGURIDAD](https://www.ccn-cert.cni.es/informes/informes-ccn-cert-publicos/5428-ccn-cert-bp-20-buenas-pra-cticas-en-la-gestio-n-de-cibercrisis-1/file.html) CCN-CERT.
 
 #### Por organismos internacionales
 - [Computer Security Incident Handling Guide. NIST](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf)
