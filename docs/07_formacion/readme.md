@@ -8,14 +8,25 @@
 [2019. Listado de másteres en ciberseguridad compilado por INCIBE](https://www.incibe.es/sites/default/files/paginas/talento/catalogos-formacion/catalogo-masteres-ciberseguridad-feb2019.pdf)
 
 ### Cursos Online
+#### Plataformas con recursos de formación sobre ciberseguridad
 - [Plataforma Angeles CCN](https://angeles.ccn-cert.cni.es/index.php/es/menu-formacion-es) Agrupa todos los recursos de formación en ciberseguridad del CCN.
 - [C1berWall Academy](https://www.ecteg.eu/c1b3rwall-academy-es/)
 - Cursos de ciberseguridad en Coursera, [English](https://www.coursera.org/courses?query=cybersecurity)
 - [Sesiones formativas del CCN](https://vanesa.ccn-cert.cni.es/userportal/#/home/main) VANESA.
-- [Curso sobre criptografía de criptored](https://www.youtube.com/watch?v=rm8W5XD3lUg)
 - [Material formativo ENISA](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material)
+- [Clark](https://clark.center/home) 
+
+Otros recursos ofrecidos por la comunidad:
+- [Bugcrowd](https://github.com/bugcrowd/bugcrowd_university) Muchos recursos gratuitos de formación enfocada a pentesting.
+
+#### Cursos específicos sobre ciberseguridad
+- [Curso sobre criptografía de criptored](https://www.youtube.com/watch?v=rm8W5XD3lUg)
+- [Introduction to Cibersecurity](https://www.mosse-institute.com/certifications/mics-introduction-to-cyber-security.html) Mossé Ciber Security Institute. 100 horas. Gratuito.
+- [CISO Workshop](https://docs.microsoft.com/en-us/security/ciso-workshop/ciso-workshop) Microsoft.
 - [Zero to Hero: A practical network penetration testing course](https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj)
 - [Hack Yourself First]() "How to go on The Cyber-Offense" por [Troy Hunt](www.troyhunt.com))
+- [WebSecurity Academy](https://portswigger.net/web-security) Formación online gratuita de los creadores de Burp Suite.
+- [Hacker101](https://www.hacker101.com/) Vídeos de formación sobre hacking web.
 
 
 ### Certificaciones
