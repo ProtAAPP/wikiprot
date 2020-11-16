@@ -59,6 +59,26 @@ Esta simulación imita aquellos ataques en los que los atacantes (ya sea interna
 - [NetblockTool: The Easy Way to Find IP Addresses Owned by a Company](https://blog.netspi.com/netblocktool/)
 - [Recursos y herramientas para el descubrimiento de subdominios](https://www.hackplayers.com/2017/02/recopilatorio-para-descubrimiento-subdominios.html)
 
+### Buscadores para hacking
+- [censys.io](http://censys.io)
+- [shodan.io](http://shodan.io)
+- [viz.greynoise.io](http://viz.greynoise.io)
+- [zoomeye.org](http://zoomeye.org)
+- [onyphe.io](http://onyphe.io)
+- [wigle.net](http://wigle.net)
+- [intelx.io](http://intelx.io)
+- [fofa.so](http://fofa.so)
+- [hunter.io](http://hunter.io)
+- [zorexeye.com](http://zorexeye.com)
+- [pulsedive.com](http://pulsedive.com)
+- [netograph.io](http://netograph.io)
+- [vigilante.pw](http://vigilante.pw)
+- [pipl.com](http://pipl.com)
+- [abuse.ch](http://abuse.ch)
+- [maltiverse.com/search](http://maltiverse.com/search)
+- [insecam.org](http://insecam.org)
+
+
 ### Escaneo general
 - [Nmap](https://nmap.org/) [Cheatsheet](https://i.redd.it/xdd1vq43e3331.png)
 
@@ -92,6 +112,8 @@ Recursos interesantes:
 - [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is an evolving list of strings which have a high probability of causing issues when used as user-input data. This is intended for use in
   helping both automated and manual QA testing.
 - [XSS Payload list](https://github.com/payloadbox/xss-payload-list)  
+- [WebSecurity Academy](https://portswigger.net/web-security) Formación online gratuita de los creadores de Burp Suite.
+- [Hacker101](https://www.hacker101.com/) CTFs + Vídeos de formación sobre hacking web.
 
 
 ### Auditorías de sistemas Cloud
@@ -224,6 +246,7 @@ Estos ejercicios ayudan a las organizaciones a:
 - [Cobalt Strike](https://www.cobaltstrike.com/)
 - [Empire](https://github.com/EmpireProject/Empire)
 - [Metasploit](https://github.com/rapid7/metasploit-framework) [Chuleta sobre Metasploit](https://www.comparitech.com/fr/net-admin/metasploit-cheat-sheet/)
+    - [Curso Metasploit](https://www.offensive-security.com/metasploit-unleashed/)
 - [Infection Monkey](https://www.guardicore.com/infectionmonkey/) Open source Breach and Attack Simulation (BAS) tool that assesses the resiliency of private and public cloud environments to post-breach attacks and lateral movement.
 
 
@@ -241,6 +264,14 @@ Lista de CTFs con orientación ofensiva (red):
 - [Root Me](https://www.root-me.org/)
 - [Hacking Lab](https://hacking-lab.com/index.html)
 - [Microcorruption](https://microcorruption.com/)
+- [Crackmes.one](https://crackmes.one/)
+- [Ringzer0ctf](https://ringzer0ctf.com/)
+- [Domgo](https://domgo.at/cxss/intro)
+- [Tryhackme](https://tryhackme.com/)
+- [CTFChallenge](https://ctfchallenge.co.uk/)
+- [Cryptohack](https://cryptohack.org/)
+- [Hack.me](https://hack.me/)
+
 
 Lista de "writeups" (soluciones) en CTFs ofensivos:
 - [CTF Challenges](https://www.hackingarticles.in/ctf-challenges-walkthrough/). Cientos de ellos...
