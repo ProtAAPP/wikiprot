@@ -339,8 +339,11 @@ Amazon AWS ha obtenido la certificación [ENS nivel Alto](https://aws.amazon.com
 - [AWS Auto Remediate](https://github.com/servian/aws-auto-remediate)
 - [Antivirus for S3 buckets](https://github.com/widdix/aws-s3-virusscan)
 
-### Seguridad enGoogle Cloud
+### Seguridad en Google Cloud
 Google Cloud ha obtenido la certificación [ENS nivel Alto](https://cloud.google.com/security/compliance/ens?hl=es-419)
+
+Recursos interesantes:
+- [Google Cloud Service Accounts Security Best Practices](https://cloudberry.engineering/article/google-cloud-service-accounts-security-best-practices/)
 
 ## Contenedores y Kubernetes
 
@@ -451,6 +454,18 @@ Charlas interesantes sobre DNS:
 
 ## Bases de Datos
 - [Actualizaciones Oracle](https://www.oracle.com/security-alerts/)
+
+## Soluciones de protección del puesto de trabajo
+### EPP
+[Taxonomía de productos STIC, Anexo B.1: Herramientas anti-virus/EPP](https://www.ccn-cert.cni.es/pdf/guias/series-ccn-stic/guias-de-acceso-publico-ccn-stic/3893-guia-140-anexo-b-1-anti-virus-epp-endpoint-protection-platform/file.html)
+
+### EDR
+[Taxonomía de productos STIC, Anexo B.2: EDR (Endpoint Detection Response)](https://www.ccn-cert.cni.es/pdf/guias/series-ccn-stic/guias-de-acceso-publico-ccn-stic/3896-guia-140-anexo-b-2-edr-endpoint-detection-and-response/file.html)
+
+Soluciones opensource EDR:
+- [OpenEDR](https://www.openedr.com/)
+- [Wazuh](https://wazuh.com/) Fork de [OSSEC](https://www.ossec.net/)
+
 
 
 ## Sistemas operativos
