@@ -141,7 +141,7 @@
 
 #### Podcasts en inglés
 - [TheCyberWire Daily](https://thecyberwire.com/podcasts/daily-podcast/)
-
+- [Security Now!](https://www.grc.com/securitynow.htm) Un clásico sobre seguridad y privacidad, con el gran Steve Gibson. (Hablan despacio y se sigue bien).
 
 ### Redes sociales
 
