@@ -137,6 +137,9 @@ Recursos interesantes::
 - [2020. 7 WAYS TO MONITOR YOUR ORACLE DATABASE USING SIEM](https://blueteamblog.com/7-ways-to-monitor-your-oracle-database-using-siem)
 - [2020. 7 WAYS TO MONITOR YOUR OFFICE 365 LOGS USING SIEM](https://blueteamblog.com/7-ways-to-monitor-your-office-365-logs-using-siem)
 - [2019. A Blue Team guide to Azure & Office 365 monitoring](https://0x00sec.org/t/a-blue-team-guide-to-azure-office-365-monitoring/14411)
+- [Using the ELK Stack for SIEM](https://logz.io/blog/elk-siem/)
+    - [How to Elastic SIEM](https://itnext.io/how-to-elastic-siem-part-1-a39167b8bd23)
+    - [Elastic Training](https://www.elastic.co/es/training/free)
 
 ## Centros de Operaciones de Seguridad (SOCs)
 
@@ -258,6 +261,8 @@ Lista de CTFs con orientación defensiva (blue):
 Recursos generales de "Blue Team":
 - [Megarepositorio BlueTeam](https://github.com/fabacab/awesome-cybersecurity-blueteam)
 - [30 Herramientas para BlueTeam](https://securitytrails.com/blog/blue-team-tools)
+- [Machine Learning for cibersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) Respositorio
+- [Lista de herramientas gratuitas creadas por instructores de SANS](https://www.sans.org/img/free-faculty-tools.pdf?msc=sans-free-lp) Hay blue+red.
 
 Herramientas para gestión ciberincidentes:
 
