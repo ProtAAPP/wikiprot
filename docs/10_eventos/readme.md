@@ -257,8 +257,7 @@
 - [The Best of TaoSecurity Blog](https://www.amazon.com/dp/B08KXX1X5M/ref=as_li_ss_tl) de [Richard Bejtlich](https://twitter.com/taosecurity)
 - [Building Secure & Reliable Systems](https://landing.google.com/sre/books/)
 - [The Cyber Skill Gap](https://payhip.com/b/PdkW)
-- [he Beginner’s Guide to Information Security](https://www.amazon.com/Beginners-Guide-Information-Security-Kickstart-ebook/dp/B01JTDDSAM)
-- []()
+- [The Beginner’s Guide to Information Security](https://www.amazon.com/Beginners-Guide-Information-Security-Kickstart-ebook/dp/B01JTDDSAM)
 
 
 
