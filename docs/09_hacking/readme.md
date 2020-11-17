@@ -255,6 +255,7 @@ Estos ejercicios ayudan a las organizaciones a:
 
 ## Retos del tipo Capture the Flag (CTFs)
 Lista de CTFs con orientación ofensiva (red):
+- [Recopilatorio de CTFs](https://github.com/michelbernardods/labs-pentest)
 - [HackTheBox](https://www.hackthebox.eu/)
 - [Practice CTF List](https://captf.com/practice-ctf/)
 - [Archive OOO](https://archive.ooo) 
