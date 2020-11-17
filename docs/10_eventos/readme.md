@@ -117,6 +117,7 @@
 - NoCONnameTV [Vimeo](https://vimeo.com/noconname) [Twitch](vimeo.com/noconname)
 
 #### Canales de Youtube en inglés
+- [Recopilatorio de canales de Youtube sobre ciberseguridad](https://wportal.xyz/collection/cybersec-yt1)
 - [The PC Security Channel](https://www.youtube.com/user/ThePCSecurity/featured)
 - [SecurityNow](https://www.youtube.com/user/TWiTSecurityNow/featured)
 - [OWASP Global](https://www.youtube.com/c/OWASPGLOBAL/videos)
@@ -140,8 +141,19 @@
 - [Securizando](https://securizando.com/category/podcast/)
 
 #### Podcasts en inglés
+- [Recopilatorio de podcasts sobre ciberseguridad](https://infosec-conferences.com/cybersecurity-podcasts/)
 - [TheCyberWire Daily](https://thecyberwire.com/podcasts/daily-podcast/)
 - [Security Now!](https://www.grc.com/securitynow.htm) Un clásico sobre seguridad y privacidad, con el gran Steve Gibson. (Hablan despacio y se sigue bien).
+- [Risky Business](https://risky.biz/)
+- [Pauls Security Weekly](https://securityweekly.com/category-shows/paul-security-weekly/)
+- [Daily Information Security Podcast ("StormCast”)](https://isc.sans.edu/podcast.html)
+- [ShadowTalk](https://resources.digitalshadows.com/threat-intelligence-podcast-shadowtalk)
+- [Don't Panic - The Unit 42 Podcast](https://unit42.libsyn.com/)
+- [Recorded Future](https://www.recordedfuture.com/resources/podcast/)
+- [The Cybrary Podcast](https://www.cybrary.it/info/cybrary-podcast/)
+- [Cyber Life](https://redcircle.com/shows/cyber-life)
+- [Career Notes](https://www.thecyberwire.com/podcasts/career-notes)
+
 
 ### Redes sociales
 
@@ -243,6 +255,11 @@
 - [The Pentester BluePrint: Your Guide to Being a Pentester](https://www.amazon.com/Pentester-BluePrint-Your-Guide-Being/dp/1119684307)
 - [Security Engineering](https://www.cl.cam.ac.uk/~rja14/book.html)
 - [The Best of TaoSecurity Blog](https://www.amazon.com/dp/B08KXX1X5M/ref=as_li_ss_tl) de [Richard Bejtlich](https://twitter.com/taosecurity)
+- [Building Secure & Reliable Systems](https://landing.google.com/sre/books/)
+- [The Cyber Skill Gap](https://payhip.com/b/PdkW)
+- [he Beginner’s Guide to Information Security](https://www.amazon.com/Beginners-Guide-Information-Security-Kickstart-ebook/dp/B01JTDDSAM)
+- []()
+
 
 
 ### Tiras cómicas
