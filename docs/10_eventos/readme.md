@@ -12,6 +12,7 @@
 * [BugCON](https://www.bugcon.org/) México. 26 y 27 de noviembre de 2020.
 * [Ekoparty University Talks](https://www.eventbrite.com.ar/e/ekoparty-university-talks-panama-guatemala-2020-tickets-127017872877?aff=TW). Panamá. 28 de noviembre de 2020.
 * [Jornadas CCN-CERT](https://www.ccn-cert.cni.es/xivjornadas.html) Madrid. Del 30 de noviembre al 4 de diciembre de 2020. [Abierto formulario de inscripción (hasta el 20 de noviembre)](https://www.ccn-cert.cni.es/xivjornadas-inscripcion/unirse/52-inscripcion-a-las-xiv-jornadas-stic-ccn-cert.html)
+* [Botconf](https://www.botconf.eu/botconf-2020/schedule/) Virtual. Del 1 al 4 de diciembre.
 * [PwnedCR](https://pwnedcr.rocks/) Costa Rica. 5 y 6 de diciembre de 2020.
 * [C0r0n4con Christmas Edition](c0r0n4con.com) 11, 12 y 13 de diciembre de 2020.
 * [NoCONname](https://www.noconname.org/) 18, 19 y 20 de diciembre de 2020.
@@ -85,6 +86,7 @@
 * [BruCON](https://www.brucon.org/) Bélgica.
 * [Les Assises de securité](https://www.lesassisesdelacybersecurite.com/) Mónaco.
 * [DeepSec](https://deepsec.net/) Austria.
+* [Botconf](https://www.botconf.eu/) Francia.
 
 ### Congresos de Ciberseguridad fuera de Europa
 * [BlackHat](https://blackhat.com/) EEUU y más. [Vídeos ponencias](https://www.youtube.com/c/BlackHatOfficialYT/videos)
@@ -110,6 +112,36 @@
 - [Hack & Beers](https://hackandbeers.es/). Ponencias gratuitas para interesados en la seguridad informática. Ambiente distendido y acompañando las charlas con unas Beers.
 
 ## Difusión de la ciberseguridad
+
+### Noticias sobre ciberseguridad
+#### Noticias sobre ciberseguridad en español
+- [CyberSecurityNews](https://cybersecuritynews.es/)
+- [Derecho de la Red](https://derechodelared.com/)
+- [CSO ComputerWorld](https://cso.computerworld.es/cibercrimen)
+- [Una al día](https://unaaldia.hispasec.com/)
+- [Europa Press](https://www.europapress.es/temas/ciberseguridad/)
+- [Redes Zone](https://www.redeszone.net/category/seguridad-informatica/)
+- [Muy Seguridad](https://www.muyseguridad.net/)
+- [Noticias Seguridad](https://noticiasseguridad.com/)
+- [Cuadernos de Seguridad](https://cuadernosdeseguridad.com/ciberseguridad/)
+
+#### Noticias sobre ciberseguridad en inglés
+- [TheRegister](https://theregister.com/security/)
+- [ZDNet](https://zdnet.com/topic/security/)
+- [Bleeping Computer](https://bleepingcomputer.com)
+- [ThreatPost](https://threatpost.com)
+- [Portswigger](https://portswigger.net/daily-swig)
+- [The Hacker News](https://thehackernews.com)
+- [Cyware](https://cyware.com/cyber-security-news-articles)
+- [SCMagazine](https://scmagazine.com/home/security-news/)
+- [Infosecurity Magazine](https://infosecurity-magazine.com/news/)
+- [DarkReading](https://darkreading.com)
+- [CISOMag](https://cisomag.eccouncil.org/category/news/)
+- [ISC SANS](https://isc.sans.edu/newssummary.html)
+- [BBC](https://bbc.co.uk/news/topics/cz4pr2gd85qt/cyber-security)
+- [BankInfo Security](https://bankinfosecurity.com/latest-news)
+- [HelpNetSecurity](https://helpnetsecurity.com)
+
 
 ### Canales de vídeo
 
@@ -259,6 +291,7 @@
 - [Building Secure & Reliable Systems](https://landing.google.com/sre/books/)
 - [The Cyber Skill Gap](https://payhip.com/b/PdkW)
 - [The Beginner’s Guide to Information Security](https://www.amazon.com/Beginners-Guide-Information-Security-Kickstart-ebook/dp/B01JTDDSAM)
+- [Cyber Warfare –Truth, Tactics and Strategies"](https://icdt.osu.edu/news/2020/11/cybersecurity-canon-candidate-book-review-cyber-warfare-truth-tactics-and-strategies) del Dr. Chase Cunningham
 
 
 
