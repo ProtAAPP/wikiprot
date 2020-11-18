@@ -357,6 +357,9 @@ Otros recursos interesantes:
 - [A Practical Introduction to Container Security](https://cloudberry.engineering/article/practical-introduction-container-security/)
 - [Kubernetes Security Is Not Container Security](https://blog.alcide.io/kubernetes-security-is-not-container-security?hs_amp=true&__twitter_impression=true)
 
+## Servicios de PKI
+- [Design and build a privately hosted Public Key Infrastructure](https://www.ncsc.gov.uk/collection/in-house-public-key-infrastructure)
+
 ## IOT
 
 A tener en cuenta el ["Servicio de Alerta Temprana para Sistemas de Control Industrial" SAT-ICS](https://www.ccn-cert.cni.es/gestion-de-incidentes/sistema-de-alerta-temprana-sat/sat-ics.html) del [CCN](https://www.ccn-cert.cni.es/).
@@ -465,7 +468,6 @@ Charlas interesantes sobre DNS:
 Soluciones opensource EDR:
 - [OpenEDR](https://www.openedr.com/)
 - [Wazuh](https://wazuh.com/) Fork de [OSSEC](https://www.ossec.net/)
-
 
 
 ## Sistemas operativos
