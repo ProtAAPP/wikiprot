@@ -157,6 +157,7 @@ Enlaces interesantes:
  ![IMG](./img/funnel.png)
 - [2019. 7 habits of highly effective SOCs](https://expel.io/blog/7-habits-highly-effective-socs/)
 - [2020. Expel. Behind the scenes in the Expel SOC: Alert-to-fix in AWS](https://expel.io/blog/behind-the-scenes-expel-soc-alert-aws/)
+- [2020. Introducing a mind map for AWS investigations](https://expel.io/blog/mind-map-for-aws-investigations/)
 - [Evaluar el nivel de madurez. SOC-CMM](https://www.soc-cmm.com/introduction/)
 - [Cómo montar un SOC en casa](https://www.youtube.com/watch?v=TOnlk1AHn1Q) Alejandro Aliaga. Navaja Negra. 2019.
 - [Código ético para equipos de respuesta a ciberincidentes](https://ethicsfirst.org/) FIRST.
@@ -238,6 +239,7 @@ Ejemplos de alertas que se pueden configurar con honeytokens:
 ### Respondiendo a incidentes en tecnologías concretas
 - [AWS Security Incident Response Guide](https://d1.awsstatic.com/whitepapers/aws_security_incident_response.pdf)
 - [AWS Incident Response template. Web Application Dos/DDoS Attack](https://github.com/aws-samples/aws-incident-response-runbooks/blob/master/runbooks/runbook%20sample%20-%20DoS%20or%20DDoS%20attack.md)
+- [2020. Introducing a mind map for AWS investigations](https://expel.io/blog/mind-map-for-aws-investigations/)
 
 ### SOAR / Playbooks
 Pendiente de desarrollar
