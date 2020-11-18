@@ -5,9 +5,6 @@
 ## Eventos de Ciberseguridad
 
 ### Próximos eventos
-* [FIRST Conference](https://events.first.org/session_catalog/#/attendee/61AFF350-CF22-4FD0-9BE6-1FC361D0FFB7/catalog) organizada por [first.org](http://first.org) organización sin ánimo de lucro que agrupa a miembros de equpios de respuesta a incidentes. Virtual, 16, 17 y 18 de noviembre de 2020.
-* [Open Source Digital Forensics Conference (#OSDFCon)](https://www.osdfcon.org/) Virtual. 18 de noviembre de 2020.
-* [Threat Hunting Summit](https://www.securitysummits.com/event/threat-hunting-summit/) Virtual. 18 de noviembre de 2020.
 * [World Party 2k20](https://worldparty.hackmadrid.org/) Virtual. Del 20 al 29 de noviembre de 2020.
 * [BugCON](https://www.bugcon.org/) México. 26 y 27 de noviembre de 2020.
 * [Ekoparty University Talks](https://www.eventbrite.com.ar/e/ekoparty-university-talks-panama-guatemala-2020-tickets-127017872877?aff=TW). Panamá. 28 de noviembre de 2020.
