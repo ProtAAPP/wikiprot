@@ -89,6 +89,7 @@ Recursos interesantes sobre reversing y análisis de malware:
 - [Reversing WannaCry Part 1 - Finding the killswitch and unpacking the malware in #Ghidra](https://www.youtube.com/watch?v=Sv8yu12y5zM)
 - [Curso sobre reversing](https://www.youtube.com/channel/UCPNPSP20z4FGfgMJ71VOJjw)
 - [The Art of Mac Malware](https://taomm.org/vol1/analysis.html)
+- Curso sobre Reverse Engineering [101](https://malwareunicorn.org/workshops/re101.html#0) [102](https://malwareunicorn.org/workshops/re102.html#0)
 
 ### Análisis dinámico de malware
 A diferencia del análisis estático, el análisis dinámico ejecuta el malware para observar sus actividades, comprender su funcionalidad e identificar indicadores técnicos que se pueden utilizar para revelar firmas. El análisis dinámico puede revelar nombres de dominio, direcciones IP, ubicaciones de rutas de archivo, claves de registro, ubicaciones de archivos adicionales y también puede clasificar la comunicación con un servidor externo controlado por el atacante para propósitos de comando y control o para descargar otros archivos de malware.
@@ -266,6 +267,8 @@ Recursos generales de "Blue Team":
 - [30 Herramientas para BlueTeam](https://securitytrails.com/blog/blue-team-tools)
 - [Machine Learning for cibersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) Respositorio
 - [Lista de herramientas gratuitas creadas por instructores de SANS](https://www.sans.org/img/free-faculty-tools.pdf?msc=sans-free-lp) Hay blue+red.
+- [Blue Team Training Toolkit](https://www.bt3.no/)
+- [Repositorio sobre Incident Response](https://github.com/meirwah/awesome-incident-response)
 
 Herramientas para gestión ciberincidentes:
 
