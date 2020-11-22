@@ -269,6 +269,7 @@ Recursos generales de "Blue Team":
 - [Lista de herramientas gratuitas creadas por instructores de SANS](https://www.sans.org/img/free-faculty-tools.pdf?msc=sans-free-lp) Hay blue+red.
 - [Blue Team Training Toolkit](https://www.bt3.no/)
 - [Repositorio sobre Incident Response](https://github.com/meirwah/awesome-incident-response)
+- [151 páginas con CheatSheets para BlueTeam](https://itblogr.com/wp-content/uploads/2020/04/The-Concise-Blue-Team-cheat-Sheets.pdf)
 
 Herramientas para gestión ciberincidentes:
 
