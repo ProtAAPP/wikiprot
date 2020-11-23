@@ -113,6 +113,7 @@ Recursos interesantes:
   helping both automated and manual QA testing.
 - [XSS Payload list](https://github.com/payloadbox/xss-payload-list)  
 - [WebSecurity Academy](https://portswigger.net/web-security) Formación online gratuita de los creadores de Burp Suite.
+- [Burp Suite vs OWASP ZAP](https://jaw33sh.wordpress.com/2020/11/22/burp-suite-vs-owasp-zap-a-comparison-series/)
 - [Hacker101](https://www.hacker101.com/) CTFs + Vídeos de formación sobre hacking web.
 
 
@@ -202,6 +203,8 @@ Recursos generales:
 - [Recopilatorio enlaces Penetration Testing](https://www.hackingarticles.in/penetration-testing/) Muchísimos enlaces.
 - [Recopilatorio enlaces Web Penetration Testing](https://www.hackingarticles.in/web-penetration-testing/) Muchísimos enlaces.
 - [Network Pivoting and Tunneling Guide](https://catharsis.net.au/blog/network-pivoting-and-tunneling-guide/)
+- [Router Penetrration Testing](https://www.hackingarticles.in/router-penetration-testing/)
+- [MEGA mapa mental sobre pentesting](https://raw.githubusercontent.com/dsopas/assessment-mindset/master/assessment-mindset.png)
 
 ## Bug Bounties
 Un "Bug Bounty" es un "trato" ofrecido por muchos sitios web, organizaciones y desarrolladores de software mediante el cual los investigadores pueden recibir reconocimiento y compensación por informar de errores, especialmente aquellos relacionados con vulnerabilidades de seguridad.
