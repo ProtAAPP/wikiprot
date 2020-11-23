@@ -203,7 +203,7 @@ Recursos generales:
 - [Recopilatorio enlaces Penetration Testing](https://www.hackingarticles.in/penetration-testing/) Muchísimos enlaces.
 - [Recopilatorio enlaces Web Penetration Testing](https://www.hackingarticles.in/web-penetration-testing/) Muchísimos enlaces.
 - [Network Pivoting and Tunneling Guide](https://catharsis.net.au/blog/network-pivoting-and-tunneling-guide/)
-- [Router Penetrration Testing](https://www.hackingarticles.in/router-penetration-testing/)
+- [Router Penetration Testing](https://www.hackingarticles.in/router-penetration-testing/)
 - [MEGA mapa mental sobre pentesting](https://raw.githubusercontent.com/dsopas/assessment-mindset/master/assessment-mindset.png)
 
 ## Bug Bounties
