@@ -492,6 +492,7 @@ Aspectos de seguridad del funcionamiento de la plataforma Windows:
 - [Credentials Processes in Windows Authentication](https://docs.microsoft.com/en-us/windows-server/security/windows-authentication/credentials-processes-in-windows-authentication)
 - [Tipos de Login en sistemas Microsoft.](http://kinomakino.blogspot.com/2020/10/tipos-de-login-en-sistemas-microsoft-101.html)
 - [Kerberos en Directorio Activo](https://en.hackndo.com/kerberos/)
+- [Todo sobre Windows Firewall](https://www.nodeprotect.com/blog/windows-firewall-default-rules-explained)
 
 
 Recursos generales:
