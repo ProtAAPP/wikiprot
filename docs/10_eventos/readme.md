@@ -289,14 +289,19 @@
 - [The Cyber Skill Gap](https://payhip.com/b/PdkW)
 - [The Beginner’s Guide to Information Security](https://www.amazon.com/Beginners-Guide-Information-Security-Kickstart-ebook/dp/B01JTDDSAM)
 - [Cyber Warfare –Truth, Tactics and Strategies"](https://icdt.osu.edu/news/2020/11/cybersecurity-canon-candidate-book-review-cyber-warfare-truth-tactics-and-strategies) del Dr. Chase Cunningham
+- [The Pentester BluePrint: Starting a Career as an Ethical Hacker 1st Edition](https://www.amazon.com/Pentester-BluePrint-Your-Guide-Being/dp/1119684307) de Phillip L. Wylie
 
 
 
 ### Tiras cómicas
 - [Cybersecurity Cartoons](https://cybersecurityventures.com/cybersecurity-cartoon-archives/)
 
-### Infografías
+### Posters e Infografías
 - [Infografías sobre ciberseguridad](https://twitter.com/securityguill)
+- [Posters e infografías sobre ciberseguridad](https://www.sans.org/security-resources/posters) SANS
+
+### Frases
+- [Recopilatorio de frases sobre ciberseguridad](https://johnopdenakker.com/my-favorite-security-quotes/)
 
 ### Otras iniciativas de difusión
 - [Mes europeo de la ciberseguridad](https://cybersecuritymonth.eu/) Promovido por [ENISA](https://www.enisa.europa.eu/)
