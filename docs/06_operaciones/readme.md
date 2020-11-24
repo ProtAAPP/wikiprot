@@ -230,6 +230,7 @@ Ejemplos de alertas que se pueden configurar con honeytokens:
 ### Respondiendo a Ransomware
 - [CCN-CERT BP/04 Ransomware (2018)](https://www.ccn-cert.cni.es/informes/informes-ccn-cert-buenas-practicas-bp/2088-ccn-cert-bp-04-ransomware/file.html)
  - [Ransomware Protection and Containment Strategies for Endpoints. FIREEYE](https://www.fireeye.com/content/dam/fireeye-www/current-threats/pdfs/wp-ransomware-protection-and-containment-strategies.pdf)
+ - [NoMoreRansom](https://www.nomoreransom.org/es/index.html) Iniciativa de Europol y fabricantes para proporcionar ayuda a afectados por ransomware.
 
 ### Respondiendo a DDoS
 - [CCN Abstract - Ataques DDoS. Recomendaciones y buenas prácticas (2020)](https://www.ccn-cert.cni.es/informes/abstracts/4925-ataques-ddos-recomendaciones-y-buenas-practicas/file.html)
