@@ -72,7 +72,7 @@ Recursos interesantes:
 - [Ciberconsejos (vídeo), Configuración segura de dispositivos iOS](https://www.youtube.com/watch?v=gSY_xGj89oc)
 - [Ciberconsejos (vídeo), Cryptojacking](https://www.youtube.com/watch?v=9Opq9Sn7azE)
 - [Ciberconsejos (vídeo), Redes Sociales](https://www.youtube.com/watch?v=R2ZUXlNth1U)
-- [Ciberconsejos (vídeo), Zero Trust](https://www.youtube.com/watch?v=R2ZUXlNth1U)
+- [Ciberconsejos (vídeo), Zero Trust](https://www.youtube.com/watch?v=BPaYKdvyT00)
 - [Ciberconsejos (vídeo), Desinformación en el Ciberespacio](https://www.youtube.com/watch?v=sKdb-iCyqLU)
 - [Ciberconsejos (infografía), Desinformación en el Ciberespacio](https://www.ccn.cni.es/index.php/es/docman/documentos-publicos/305-infografia-ccn-desinformacion2/file)
 - [Kit de concienciación de INCIBE](https://www.incibe.es/protege-tu-empresa/kit-concienciacion)
