@@ -184,6 +184,7 @@ Lista de recursos:
 - [iOS Pentesting Tools Part 3: Frida and Objection](https://www.allysonomalley.com/2018/12/20/ios-pentesting-tools-part-3-frida-and-objection/)
 - [iOS Pentesting Tools Part 4: Binary Analysis and Debugging](https://www.allysonomalley.com/2019/01/06/ios-pentesting-tools-part-4-binary-analysis-and-debugging/)
 - [iOS Bug Hunting – Web View XSS](https://www.allysonomalley.com/2018/12/03/ios-bug-hunting-web-view-xss/)
+- [Pentesting en aplicaciones IOS](https://www.youtube.com/watch?v=1zk6aC3xxhU) por [Miguel Angel Arroyo](https://twitter.com/miguel_arroyo76)
 
 
 ### Auditorías WIFI
