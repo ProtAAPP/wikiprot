@@ -114,7 +114,7 @@ Si fuera la primera vez que me descargo el repositorio:
 ```bash
 cd /proyectos
 git clone https://github.com/ProtAAPP/wikiprot.git
-cd wiki-prot
+cd wikiprot
 yarn install    # Instalar librerías, principalmente vuepress  
 ```
 
