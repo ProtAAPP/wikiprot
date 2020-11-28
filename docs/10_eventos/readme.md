@@ -299,6 +299,7 @@
 ### Posters e Infografías
 - [Infografías sobre ciberseguridad](https://twitter.com/securityguill)
 - [Posters e infografías sobre ciberseguridad](https://www.sans.org/security-resources/posters) SANS
+- [Varías infografías](https://medium.com/malware-buddy/security-infographics-9c4d3bd891ef) por [@fr0gger_](https://twitter.com/fr0gger_)
 
 ### Frases
 - [Recopilatorio de frases sobre ciberseguridad](https://johnopdenakker.com/my-favorite-security-quotes/)
