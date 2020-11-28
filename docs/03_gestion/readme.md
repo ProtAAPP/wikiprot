@@ -38,6 +38,7 @@ PSIs de **ministerios**:
 
 - [Ministerio de Agricultura, Alimentación y Medio Ambiente](http://www.boe.es/boe/dias/2015/05/29/pdfs/BOE-A-2015-5937.pdf)
 - [Ministerio de Asuntos Exteriores y de Cooperación](http://www.boe.es/buscar/doc.php?id=BOE-A-2013-9544)
+- [Ministerio de Cultura y Deporte](https://www.boe.es/eli/es/o/2019/12/27/cud1313)
 - [Ministerio de Defensa](http://www.belt.es/legislacion/vigente/Seg_inf/Seg_inf/estatal/290506_OM_Seg_Informacion.pdf)
 - [Ministerio de Empleo y Seguridad Social](http://sede.sepe.gob.es/es/portaltrabaja/resources/sede/pdf/OM_politica_seguridad.pdf)
 - [Ministerio de Fomento](http://www.boe.es/buscar/doc.php?id=BOE-A-2014-11118)
