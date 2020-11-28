@@ -53,7 +53,18 @@ Esta simulación imita aquellos ataques en los que los atacantes (ya sea interna
 ## Soluciones del CCN en materia de auditorías
 - [ANA](https://www.ccn-cert.cni.es/soluciones-seguridad/ana.html). Carga los resultados de auditorías realizadas con otras herramientas y permite "gestionar" el ciclo de vida de las vulnerabilidades.
 
-## Auditorías según tecnología
+## Recursos generales Pentesting
+Recursos generales:
+- [Pentesting cheatsheet](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE/blob/master/7-part-100-article/Pentesting%20Cheatsheet22.pdf)
+- [Red Teaming Toolkit Collection](https://0xsp.com/offensive/red-teaming-toolkit-collection)
+- [346 consejos para RedTeams](https://vincentyiu.com/red-team-tips)
+- [Compilación de recursos de todo tipo](https://github.com/scspcommunity/Cyber-Sec-Resources)
+- [10 formas de atacar el mecanismo de reseteo de contraseñas](https://www.anugrahsr.me/posts/10-Password-reset-flaws/)
+- [Recopilatorio enlaces Penetration Testing](https://www.hackingarticles.in/penetration-testing/) Muchísimos enlaces.
+- [Password Dumping Cheatsheet: Windows](https://www.hackingarticles.in/password-dumping-cheatsheet-windows/)
+- [MEGA mapa mental sobre pentesting](https://raw.githubusercontent.com/dsopas/assessment-mindset/master/assessment-mindset.png)
+
+## Auditorías/Pentesting según tecnología
 
 ### Descubrimiento
 - [NetblockTool: The Easy Way to Find IP Addresses Owned by a Company](https://blog.netspi.com/netblocktool/)
@@ -62,6 +73,7 @@ Esta simulación imita aquellos ataques en los que los atacantes (ya sea interna
 ### Buscadores para hacking
 - [censys.io](http://censys.io)
 - [shodan.io](http://shodan.io)
+    - [shodan.io for pentesters](https://www.defcon.org/images/defcon-18/dc-18-presentations/Schearer/DEFCON-18-Schearer-SHODAN.pdf)
 - [viz.greynoise.io](http://viz.greynoise.io)
 - [zoomeye.org](http://zoomeye.org)
 - [onyphe.io](http://onyphe.io)
@@ -79,9 +91,6 @@ Esta simulación imita aquellos ataques en los que los atacantes (ya sea interna
 - [insecam.org](http://insecam.org)
 
 
-### Escaneo general
-- [Nmap](https://nmap.org/) [Cheatsheet](https://i.redd.it/xdd1vq43e3331.png)
-
 ### Escaneo de Vulnerabilidades
 - [Vulnerability Scanning Tools List](https://owasp.org/www-community/Vulnerability_Scanning_Tools)
 - [OpenVAS](https://www.openvas.org/)
@@ -95,6 +104,12 @@ Esta simulación imita aquellos ataques en los que los atacantes (ya sea interna
 - [Nikto](https://cirt.net/Nikto2)
     - [Ejemplo de uso](http://www.reydes.com/d/?q=Escanear_un_Servidor_Web_utilizando_Nikto)
 - [Flan Scan](https://github.com/cloudflare/flan)
+
+### Network pentesting
+- [Network Pivoting and Tunneling Guide](https://catharsis.net.au/blog/network-pivoting-and-tunneling-guide/)
+- [Router Penetration Testing](https://www.hackingarticles.in/router-penetration-testing/)
+- [Recopilatorio network pentesting](https://guif.re/networkpentest) por [@guifreruiz](https://twitter.com/guifreruiz)
+
 
 ### Auditorías de aplicaciones web
 
@@ -115,6 +130,9 @@ Recursos interesantes:
 - [WebSecurity Academy](https://portswigger.net/web-security) Formación online gratuita de los creadores de Burp Suite.
 - [Burp Suite vs OWASP ZAP](https://jaw33sh.wordpress.com/2020/11/22/burp-suite-vs-owasp-zap-a-comparison-series/)
 - [Hacker101](https://www.hacker101.com/) CTFs + Vídeos de formación sobre hacking web.
+- [Recopilatorio web pentesting](https://guif.re/webpentest) por [@guifreruiz](https://twitter.com/guifreruiz)
+- [Recopilatorio enlaces Web Penetration Testing](https://www.hackingarticles.in/web-penetration-testing/) Muchísimos enlaces.
+
 
 
 ### Auditorías de sistemas Cloud
@@ -167,6 +185,8 @@ Recursos interesantesg:
 - [OWASP Mobile Security Testing Guide](https://owasp.org/www-project-mobile-security-testing-guide/)
 - [Where to find the OWASP Mobile Top 10 Vulnerabilities](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/Misc%20Content%20By%20SCSP/Where%20to%20find%20the%20OWASP%20Mobile%20Top%2010%20Vulnerabilities.pdf)
 - [The Top 5 Most Common Mobile App Security Flaws](https://www.allysonomalley.com/2020/06/23/the-top-5-most-common-mobile-app-security-flaws/)
+- [Recopilatorio mobile security](https://guif.re/mobilesec) por [@guifreruiz](https://twitter.com/guifreruiz)
+
 
 
 #### Android
@@ -191,21 +211,6 @@ Lista de recursos:
 - [WIFI Hacking Cheatsheets](https://github.com/koutto/pi-pwnbox-rogueap/wiki) Teoría sobre hacking WIFI, comandos
 - Mapa mental sobre WIFI Hacking [PNG](https://raw.githubusercontent.com/koutto/pi-pwnbox-rogueap/main/mindmap/WiFi-Hacking-MindMap-v1.png) [PDF](https://github.com/koutto/pi-pwnbox-rogueap/raw/main/mindmap/WiFi-Hacking-MindMap-v1.pdf)
 <!-- ![IMG](./img/wifi-hacking-mindmap.png) -->
-
-## Pentesting
-
-Recursos generales:
-- [Pentesting cheatsheet](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE/blob/master/7-part-100-article/Pentesting%20Cheatsheet22.pdf)
-- [Red Teaming Toolkit Collection](https://0xsp.com/offensive/red-teaming-toolkit-collection)
-- [346 consejos para RedTeams](https://vincentyiu.com/red-team-tips)
-- [Compilación de recursos de todo tipo](https://github.com/scspcommunity/Cyber-Sec-Resources)
-- [10 formas de atacar el mecanismo de reseteo de contraseñas](https://www.anugrahsr.me/posts/10-Password-reset-flaws/)
-- [shodan.io for pentesters](https://www.defcon.org/images/defcon-18/dc-18-presentations/Schearer/DEFCON-18-Schearer-SHODAN.pdf)
-- [Recopilatorio enlaces Penetration Testing](https://www.hackingarticles.in/penetration-testing/) Muchísimos enlaces.
-- [Recopilatorio enlaces Web Penetration Testing](https://www.hackingarticles.in/web-penetration-testing/) Muchísimos enlaces.
-- [Network Pivoting and Tunneling Guide](https://catharsis.net.au/blog/network-pivoting-and-tunneling-guide/)
-- [Router Penetration Testing](https://www.hackingarticles.in/router-penetration-testing/)
-- [MEGA mapa mental sobre pentesting](https://raw.githubusercontent.com/dsopas/assessment-mindset/master/assessment-mindset.png)
 
 ## Bug Bounties
 Un "Bug Bounty" es un "trato" ofrecido por muchos sitios web, organizaciones y desarrolladores de software mediante el cual los investigadores pueden recibir reconocimiento y compensación por informar de errores, especialmente aquellos relacionados con vulnerabilidades de seguridad.
