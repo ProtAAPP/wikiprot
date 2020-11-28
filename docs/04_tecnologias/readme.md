@@ -440,11 +440,14 @@ Productos:
 
 ## Seguridad del Correo Electrónico
 - [2020. Sesión CCN sobre seguridad en el correo electrónico](https://vanesa.ccn-cert.cni.es/userportal/#/player/vod/U65311506170b406388235bed29ffd82e) Basado en Exchange.
+- [2020. Configurar correo electrónico seguro con SPF, DMARC y DKIM](https://blog.elhacker.net/2020/11/configurar-correo-electronico-seguro-spf-dmarc-dkim.html?m=1)
 - [2016. Informe buenas prácticas en el correo electrónico](https://www.ccn-cert.cni.es/informes/informes-de-buenas-practicas-bp/1598-ccn-cert-bp-02-correo-electronico/file.html). Incluye SPF, DKIM y DMARC.
+
 
 ## Mensajería instantánea
 - [Matrix](https://matrix.org/) Solución de comunicación segura descentralizada, opensource.
 - [Riot/Element](https://element.io/get-started) Cliente de Matrix.
+- [Self Hosting your own Riot.im Front End and Matrix server using Docker (with Postgres)](https://tech.davidfield.co.uk/setting-up-your-own-riot-im-server/)
 
 
 ## DNS
@@ -459,6 +462,11 @@ Charlas interesantes sobre DNS:
 - [Actualizaciones Oracle](https://www.oracle.com/security-alerts/)
 
 ## Soluciones de protección del puesto de trabajo
+Comparativas de antivirus:
+- [av-comparatives](https://www.av-comparatives.org/)
+- [av-test](https://www.av-test.org/)
+
+
 ### EPP
 [Taxonomía de productos STIC, Anexo B.1: Herramientas anti-virus/EPP](https://www.ccn-cert.cni.es/pdf/guias/series-ccn-stic/guias-de-acceso-publico-ccn-stic/3893-guia-140-anexo-b-1-anti-virus-epp-endpoint-protection-platform/file.html)
 
@@ -560,6 +568,7 @@ Diferentes estrategias para securizar las macros de Office:
 
 
 ## Dispositivos móviles
+- [Recopilatorio mobile security](https://guif.re/mobilesec) por [@guifreruiz](https://twitter.com/guifreruiz). Tiene tanto parte defensiva como ofensiva.
 
 ### Android
 
