@@ -87,7 +87,7 @@
 
 ### Congresos de Ciberseguridad fuera de Europa
 * [BlackHat](https://blackhat.com/) EEUU y más. [Vídeos ponencias](https://www.youtube.com/c/BlackHatOfficialYT/videos)
-* [DEF CON](https://defcon.org/) EEUU. [Vídeos ponencias](https://www.youtube.com/user/DEFCONConference/videos)
+* [DEF CON](https://defcon.org/) EEUU. [Vídeos ponencias](https://www.youtube.com/user/DEFCONConference/videos) [Recursos](https://media.defcon.org/)
 * [RSA Conference](https://www.rsaconference.com/) EEUU y más.
 * [BSides](http://www.securitybsides.com/) EEUU y más.
 * [ShmooCON](https://www.shmoocon.org/) EEUU.
