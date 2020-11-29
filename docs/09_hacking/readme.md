@@ -286,6 +286,7 @@ Lista de CTFs con orientación ofensiva (red):
 Lista de "writeups" (soluciones) en CTFs ofensivos:
 - [CTF Challenges](https://www.hackingarticles.in/ctf-challenges-walkthrough/). Cientos de ellos...
 - [CTF Writeups](https://medium.com/ctf-writeups)
+- [HackTheBox writeups](https://hackso.me/)
 
 Lista de "writeups" (soluciones) en BugBounties:
 - [+1500 List of bug bounty writeups](https://pentester.land/list-of-bug-bounty-writeups.html)
