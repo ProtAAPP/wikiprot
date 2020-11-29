@@ -5,7 +5,6 @@
 ## Eventos de Ciberseguridad
 
 ### Próximos eventos
-* [World Party 2k20](https://worldparty.hackmadrid.org/) Virtual. Del 20 al 29 de noviembre de 2020.
 * [Jornadas CCN-CERT](https://www.ccn-cert.cni.es/xivjornadas.html) Madrid. Del 30 de noviembre al 4 de diciembre de 2020. [Abierto formulario de inscripción (hasta el 20 de noviembre)](https://www.ccn-cert.cni.es/xivjornadas-inscripcion/unirse/52-inscripcion-a-las-xiv-jornadas-stic-ccn-cert.html)
 * [Botconf](https://www.botconf.eu/botconf-2020/schedule/) Virtual. Del 1 al 4 de diciembre.
 * [PwnedCR](https://pwnedcr.rocks/) Costa Rica. 5 y 6 de diciembre de 2020.
