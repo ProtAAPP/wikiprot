@@ -152,8 +152,23 @@ Es un procedimiento de autenticación para habilitar a un usuario el acceso a lo
 - [OpenID](https://openid.net/): Mecanismo SSO descentralizado y distribuido que utiliza una URL para compilar una identidad que puede ser usada por los sistemas de información.
 - [OAuth](https://oauth.net/): Protocolo web basado en una API para autenticación en sistemas de información de escritorio, móviles y web.
 
-## Gestión de secretos
+## Gestión de contraseñas y/o secretos
+- [KeePass](https://keepass.info/) Solución opensource
+- [LastPass](https://www.lastpass.com/es/)
+- [DashLane](https://www.dashlane.com/)
+- [1Password](https://1password.com/)
+- [Roboform](https://www.roboform.com/)
 - [GuardedBox](https://guardedbox.es/) Solución online de código abierto que permite, desde cualquier dispositivo con un navegador web, el almacenamiento, la compartición y el intercambio de secretos de manera segura, gestionando en el lado cliente todas las tareas de protección y cifrado de los datos, sin confiar en el servidor, y haciendo uso de las mejores prácticas de la industria de ciberseguridad. Desarrollado por [Dino Security S.L.](https://www.dinosec.com/es/index.html)
+
+[Comparativa de gestores de contraseñas](https://www.howtogeek.com/240255/password-managers-compared-lastpass-vs-keepass-vs-dashlane-vs-1password/)
+
+## Gestión de accesos privilegiados (PAM)
+Las herramientas PAM ayudan a las organizaciones a proporcionar acceso privilegiado seguro a activos críticos y cumplir con los requisitos de cumplimiento al administrar y monitorizar cuentas y acceso privilegiados. Las herramientas PAM ofrecen características que permiten a los responsables de seguridad y riesgo:
+- Descubrir cuentas privilegiadas en sistemas, dispositivos y aplicaciones para su posterior administración.
+- Aleatorizar, administrar y almacenar automáticamente contraseñas y otras credenciales para cuentas administrativas, de servicio y de aplicaciones.
+- Controlar el acceso a las cuentas privilegiadas, incluidas las cuentas compartidas y de "llamada de emergencia" (acceso de emergencia).
+- Aislar, monitorizar, registrar y auditar sesiones, comandos y acciones de acceso privilegiado.
+
 
 ## Protección Perimetral
 
