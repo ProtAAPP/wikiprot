@@ -65,6 +65,7 @@ Además de elementos concretos, también se puede hablar de [indicadores de ataq
 Lista de recursos:
 - [VirusTotal](https://www.virustotal.com/gui/home) Analiza ficheros y URLs sospechosas para detectar malware y compartirlo automáticamente con la comunidad.
     - [VirusTotal for Investigators](https://storage.googleapis.com/vt-gtm-wp-media/virustotal-for-investigators.pdf) 150 páginas sobre cómo usar VirusTotal en tus investigaciones de malware.
+- [Metadefender](https://metadefender.opswat.com/?lang=en) Similar a VirusTotal
 - [YARA](https://yara.readthedocs.io/en/stable/) 
 - [How to write Yara Rules Guides](https://github.com/neo23x0/blueledger/blob/main/README.md#how-to-write-yara-rules-guides)
 - [IOC Scanners](https://github.com/neo23x0/blueledger/blob/main/README.md#scanners)
@@ -95,12 +96,14 @@ Recursos interesantes sobre reversing y análisis de malware:
 A diferencia del análisis estático, el análisis dinámico ejecuta el malware para observar sus actividades, comprender su funcionalidad e identificar indicadores técnicos que se pueden utilizar para revelar firmas. El análisis dinámico puede revelar nombres de dominio, direcciones IP, ubicaciones de rutas de archivo, claves de registro, ubicaciones de archivos adicionales y también puede clasificar la comunicación con un servidor externo controlado por el atacante para propósitos de comando y control o para descargar otros archivos de malware.
 
 Lista de sandboxes y tutoriales para análisis dinámico de malware:
-- [Any.Run](https://app.any.run/) [EMOTET - Interactive Malware Analysis with ANY.RUN](https://www.youtube.com/watch?v=YLnBPNenH9k)
+- [Any.Run](https://app.any.run/) Plataforma interactiva que permite controlar en tiempo real la aplicación o archivo a analizar.
+    - [EMOTET - Interactive Malware Analysis with ANY.RUN](https://www.youtube.com/watch?v=YLnBPNenH9k)
 - [Hybrid Analysis](hybrid-analysis.com) [Complete your first Hybrid-Analysis](https://www.youtube.com/watch?v=PQZ2w4XVyEI)
 - [Joe Sandbox](https://www.joesandbox.com/)
 - [Valkyrie Sandbox](https://verdict.valkyrie.comodo.com/)
 - [Cuckoo Sandbox](https://cuckoosandbox.org/) [Malware Analysis Using a Cuckoo Sandbox](https://www.youtube.com/watch?v=7Nm48OQWmA8)
 - [Blueliv Community](https://community.blueliv.com/#!/sandbox) [Analyzing a malware sample with Blueliv sandbox](https://roman-ramirez.medium.com/analyzing-a-malware-sample-with-blueliv-sandbox-7145a7e6620e) by [Román Ramírez](https://twitter.com/patowc)
+- [NoDistribute](https://nodistribute.com/) Análisis de malware sin compartir los resultados con terceros.
 
 ## Registros de actividad (gestión de logs)
 Es importante tener en cuenta que no todas las fuentes de logs tienen el mismo volumen generado, ni aportan lo mismo desde un punto de vista de detección de ataques. Por tanto, es conveniente realizar un análisis coste/beneficio para establecer prioridades. Se incluye aquí, una posible lista de fuentes priorizada, elaborada por [@cyb3rops](https://twitter.com/cyb3rops/status/1221580082667499522?s=20):
@@ -141,6 +144,7 @@ Recursos interesantes::
 - [Using the ELK Stack for SIEM](https://logz.io/blog/elk-siem/)
     - [How to Elastic SIEM](https://itnext.io/how-to-elastic-siem-part-1-a39167b8bd23)
     - [Elastic Training](https://www.elastic.co/es/training/free)
+    - [how I setup my ELK-SIEM + Wazuh workstations](https://github.com/watsoninfosec/ELK-SIEM)
 
 ## Centros de Operaciones de Seguridad (SOCs)
 
