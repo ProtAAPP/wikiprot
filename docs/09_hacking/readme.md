@@ -104,6 +104,8 @@ Recursos generales:
 - [Nikto](https://cirt.net/Nikto2)
     - [Ejemplo de uso](http://www.reydes.com/d/?q=Escanear_un_Servidor_Web_utilizando_Nikto)
 - [Flan Scan](https://github.com/cloudflare/flan)
+- [Escaners para CMS](https://www.infosecmatter.com/cms-vulnerability-scanners-for-wordpress-joomla-drupal-moodle-typo3/) 12 escaners para WordPress, Joomla, Drupal, Moodle, Typo3 y similares.
+
 
 ### Network pentesting
 - [Network Pivoting and Tunneling Guide](https://catharsis.net.au/blog/network-pivoting-and-tunneling-guide/)
