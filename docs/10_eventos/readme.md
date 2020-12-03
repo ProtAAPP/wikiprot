@@ -180,6 +180,7 @@
 - [The Cybrary Podcast](https://www.cybrary.it/info/cybrary-podcast/)
 - [Cyber Life](https://redcircle.com/shows/cyber-life)
 - [Career Notes](https://www.thecyberwire.com/podcasts/career-notes)
+- [Darknet Diaries](https://darknetdiaries.com/)
 
 
 ### Redes sociales
@@ -213,6 +214,8 @@
 - [White Hat](https://t.me/whitehat)
 - [Android Security & Malware](https://t.me/androidmalware)
 
+### Grupos de chat en Discord
+- [Digital Forensics](https://discord.com/invite/digitalforensics)
 
 ### Listas de correo
 - [RootedCON List](https://groups.io/g/rootedcon)
@@ -287,8 +290,6 @@
 - [The Beginner’s Guide to Information Security](https://www.amazon.com/Beginners-Guide-Information-Security-Kickstart-ebook/dp/B01JTDDSAM)
 - [Cyber Warfare –Truth, Tactics and Strategies"](https://icdt.osu.edu/news/2020/11/cybersecurity-canon-candidate-book-review-cyber-warfare-truth-tactics-and-strategies) del Dr. Chase Cunningham
 - [The Pentester BluePrint: Starting a Career as an Ethical Hacker 1st Edition](https://www.amazon.com/Pentester-BluePrint-Your-Guide-Being/dp/1119684307) de Phillip L. Wylie
-
-
 
 ### Tiras cómicas
 - [Cybersecurity Cartoons](https://cybersecurityventures.com/cybersecurity-cartoon-archives/)
