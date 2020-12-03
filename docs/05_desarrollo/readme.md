@@ -83,6 +83,12 @@ Herramientas open source para Compliance as Code:
 - [DevSec Hardenning Framework](https://dev-sec.io/)
 - [Kitchen CI](https://kitchen.ci/)
 
+## Seguridad en APIs
+- [OAuth 2.0, OpenID Connect y JSON Web Tokens (JWT). ¿Qué es qué?](https://www.returngis.net/2019/04/oauth-2-0-openid-connect-y-json-web-tokens-jwt-que-es-que/)
+- [The differences between SAML, OAuth and OpenID Connect](https://www.ubisecure.com/education/differences-between-saml-oauth-openid-connect/)
+- [Quick Guide to Sec: Basic Auth, SAML, Keys, OAuth, JWT, and Tokens](https://dzone.com/articles/my-security-notes)
+- [Microsoft Graph](https://www.returngis.net/2019/06/microsoft-graph-una-api-para-dominarlas-a-todas/)
+
 ## Recursos
 
 - [Awesome AppSec](https://github.com/paragonie/awesome-appsec) - curated list of resources for learning about application security. Contains books, websites, blog posts, and self-assessment quizzes.
