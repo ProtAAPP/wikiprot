@@ -81,6 +81,7 @@
 * [Les Assises de securité](https://www.lesassisesdelacybersecurite.com/) Mónaco.
 * [DeepSec](https://deepsec.net/) Austria.
 * [Botconf](https://www.botconf.eu/) Francia.
+* [X33conf](https://www.x33fcon.com/) Polonia. [Vídeos ponencias](https://www.youtube.com/c/x33fcon/videos)
 
 ### Congresos de Ciberseguridad fuera de Europa
 * [BlackHat](https://blackhat.com/) EEUU y más. [Vídeos ponencias](https://www.youtube.com/c/BlackHatOfficialYT/videos)
