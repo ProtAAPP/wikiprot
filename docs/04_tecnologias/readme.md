@@ -166,8 +166,9 @@ Es un procedimiento de autenticación para habilitar a un usuario el acceso a lo
 Las herramientas PAM ayudan a las organizaciones a proporcionar acceso privilegiado seguro a activos críticos y cumplir con los requisitos de cumplimiento al administrar y monitorizar cuentas y acceso privilegiados. Las herramientas PAM ofrecen características que permiten a los responsables de seguridad y riesgo:
 - Descubrir cuentas privilegiadas en sistemas, dispositivos y aplicaciones para su posterior administración.
 - Aleatorizar, administrar y almacenar automáticamente contraseñas y otras credenciales para cuentas administrativas, de servicio y de aplicaciones.
-- Controlar el acceso a las cuentas privilegiadas, incluidas las cuentas compartidas y de "llamada de emergencia" (acceso de emergencia).
+- Controlar el acceso a las cuentas privilegiadas, incluidas las cuentas compartidas y de "acceso de emergencia".
 - Aislar, monitorizar, registrar y auditar sesiones, comandos y acciones de acceso privilegiado.
+
 
 
 ## Protección Perimetral
