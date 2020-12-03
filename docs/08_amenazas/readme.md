@@ -105,6 +105,9 @@ funcionalidad al usuario.
 ### DOXING y SOCINT
 Pendiente de desarrollar.
 
+### Odays
+El equipo de Google ProjectZero recopila  los 0days que están siendo actualmente explotados "in the wild" en [este enlace](https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit#gid=1869060786)
+
 
 ## Otros recursos
 - [Explicando cada tipo de vulnerabilidad](https://www.hacksplaining.com/lessons)
