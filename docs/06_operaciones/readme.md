@@ -114,6 +114,18 @@ A modo de ejemplo, en este documento se analizan los diferentes tipos de logs qu
 
 Otros recursos interesantes:
 - [OSSEM](https://ossemproject.com/intro.html) Es un proyecto dirigido por la comunidad que se centra principalmente en la documentación y estandarización de los registros de eventos de seguridad de diversas fuentes de datos y sistemas operativos.
+- Como interpretar los logs de diferentes tecnologías o servicios:
+    - [Windows security logs](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx)
+    - [Azure AD logs](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/reference-azure-monitor-audit-log-schema)
+    - [Interpretando logs de inicio de sesión en Azure AD](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/reference-azure-monitor-sign-ins-log-schema)
+    - [Office 365 logs](https://docs.microsoft.com/en-us/microsoft-365/compliance/detailed-properties-in-the-office-365-audit-log?view=o365-worldwide)
+    - [Linux logs](https://www.plesk.com/blog/featured/linux-logs-explained/)
+    - [DHCP logs](https://www.serverbrain.org/network-planning-2003/understanding-dhcp-server-log-file-format.html)
+    - [DNS logs](https://nxlog.co/whitepapers/dns-logging)
+    - [Proxy logs](https://www.vanimpe.eu/2016/10/21/proxy-server-logs-incident-response/)
+
+
+
 
 
 ## Correlación eventos - SIEM
@@ -248,7 +260,19 @@ Ejemplos de alertas que se pueden configurar con honeytokens:
 - [2020. Introducing a mind map for AWS investigations](https://expel.io/blog/mind-map-for-aws-investigations/)
 
 ### SOAR / Playbooks
-Pendiente de desarrollar
+- [IncidentResponse.com](https://www.incidentresponse.com/playbooks/) Multitud de playbooks estructurados.
+    - [Malware](https://www.incidentresponse.com/playbooks/malware-outbreak) 
+    - [Phishing](https://www.incidentresponse.com/playbooks/phishing)
+    - [Robo de datos](https://www.incidentresponse.com/playbooks/data-theft)
+    - [Virus](https://www.incidentresponse.com/playbooks/virus-outbreak)
+    - [Denegación de Servicio (DoS)](https://www.incidentresponse.com/playbooks/ddos)
+    - [Acceso no autorizado](https://www.incidentresponse.com/playbooks/unauthorized-access)
+    - [Elevación de privilegios](https://www.incidentresponse.com/playbooks/elevation-of-privilege)
+    - [Acceso root](https://www.incidentresponse.com/playbooks/root-access)
+    - [Uso impropio](https://www.incidentresponse.com/playbooks/improper-computer-usage)
+
+
+
 
 ### Análisis Forense
 - ["Chuleta" Digital Forensics and Incident Response](https://www.jaiminton.com/cheatsheet/DFIR/#)
