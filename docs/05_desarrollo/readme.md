@@ -74,6 +74,12 @@ Herramientas open source para seguridad en Infrastruture as Code:
 - [Open-Scap](https://www.open-scap.org/getting-started/)
 - [Docksan](https://github.com/kost/dockscan)
 
+Análisis de scripts de aprovisionamiento en busca de malas prácticas de seguridad:
+- [Checkov](https://github.com/bridgecrewio/checkov/)
+- [Terrascan](https://github.com/accurics/terrascan)
+- [Tfsec](https://github.com/tfsec/tfsec)
+
+
 ### Compliance as Code
 
 Herramientas open source para Compliance as Code:
