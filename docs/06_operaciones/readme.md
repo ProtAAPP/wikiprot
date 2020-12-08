@@ -91,6 +91,7 @@ Recursos interesantes sobre reversing y análisis de malware:
 - [Curso sobre reversing](https://www.youtube.com/channel/UCPNPSP20z4FGfgMJ71VOJjw)
 - [The Art of Mac Malware](https://taomm.org/vol1/analysis.html)
 - Curso sobre Reverse Engineering [101](https://malwareunicorn.org/workshops/re101.html#0) [102](https://malwareunicorn.org/workshops/re102.html#0)
+- [Vídeos de formación sobre malware analysis](https://www.youtube.com/c/0xf0x)
 
 ### Análisis dinámico de malware
 A diferencia del análisis estático, el análisis dinámico ejecuta el malware para observar sus actividades, comprender su funcionalidad e identificar indicadores técnicos que se pueden utilizar para revelar firmas. El análisis dinámico puede revelar nombres de dominio, direcciones IP, ubicaciones de rutas de archivo, claves de registro, ubicaciones de archivos adicionales y también puede clasificar la comunicación con un servidor externo controlado por el atacante para propósitos de comando y control o para descargar otros archivos de malware.
