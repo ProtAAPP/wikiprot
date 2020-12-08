@@ -23,6 +23,9 @@
     - [IT Security: Defense against the digital dark arts](https://www.coursera.org/learn/it-security) Google.
 - [Cursos de ciberseguridad en Udemy](https://www.udemy.com/courses/search/?price=price-free&q=cyber+security&sort=relevance&src=ukw)
 - [Clark](https://clark.center/home) 
+- [Free Training DFIRDiva](https://freetraining.dfirdiva.com/)
+- [OpenSecurityTraining](https://opensecuritytraining.info/Training.html)
+- [SamsClass](https://www.samsclass.info/)
 
 Otros recursos formativos:
 - [Bugcrowd](https://github.com/bugcrowd/bugcrowd_university) Muchos recursos gratuitos de formación enfocada a pentesting.
@@ -40,6 +43,7 @@ Otros recursos formativos:
 - [Hack Yourself First]() "How to go on The Cyber-Offense" por [Troy Hunt](www.troyhunt.com))
 - [WebSecurity Academy](https://portswigger.net/web-security) Formación online gratuita de los creadores de Burp Suite.
 - [Hacker101](https://www.hacker101.com/) Vídeos de formación sobre hacking web.
+- [Breaking and Pwning Apps and Servers on AWS and Azure](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training)
 
 
 
