@@ -101,6 +101,7 @@ Recursos generales:
     - [Usando Nessus + Metasploit](https://blog.isecauditors.com/2019/12/como-combinar-nessus-con-metasploit.html)
 - [Nmap](https://nmap.org/)
     - [Ejemplo de uso](https://www.redeszone.net/seguridad-informatica/nmap/)
+    - [Mapa mental nmap](https://nmap.org/docs/nmap-mindmap.pdf)
 - [Nikto](https://cirt.net/Nikto2)
     - [Ejemplo de uso](http://www.reydes.com/d/?q=Escanear_un_Servidor_Web_utilizando_Nikto)
 - [Flan Scan](https://github.com/cloudflare/flan)
@@ -150,6 +151,8 @@ Recursos interesantes:
 - [Journey to Azure AD PRT: Getting access with pass-the-token and pass-the-cert](https://o365blog.com/post/prt/#creating-your-own-prt)
 - [Bypassing conditional access by faking device compliance](https://o365blog.com/post/mdm/)
 - [AADinternals](https://o365blog.com/aadinternals/#installation) Módulo powershell para pentesting contra Azure AD.
+- [MicroBurst: A PowerShell Toolkit for Attacking Azure](https://github.com/NetSPI/MicroBurst)
+- [PowerZure](https://github.com/hausec/PowerZure) PowerShell project created to assess and exploit resources within Microsoft’s cloud platform, Azure
 
 
 ### Auditorías Dockers
