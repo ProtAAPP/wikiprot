@@ -9,7 +9,7 @@ Si tienes conocimientos de cualquier ámbito de la ciberseguridad, te animamos a
 
 El repositorio de documentación está construido con la librería [Vuepress](https://vuepress.vuejs.org/).
 
-La licencia es [INSERTAR NOMBRE LICENCIAMIENTO]
+La licencia es CC BY-NC-SA 4.0.
 
 Si no tienes git en tu equipo, puedes encontrar instrucciones para instalarlo en [este enlace]( https://help.github.com/articles/set-up-git/ ).
 
