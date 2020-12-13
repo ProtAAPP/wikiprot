@@ -86,7 +86,7 @@ Los requisitos para poder colaborar en el desarrollo de esta guía son:
 7. Abrirte cuenta en Github ([crear cuenta en Github](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home))
 8. Ya estás listo para insertar tu primera aportación.
 
-| :warning: La siguiente sección es sólo para novatos, si ya eres un maestro Jedi en esto de git salta a [Instalación para preparar el entorno](./readme.md#instalacion-para-preparar-el-entorno).
+| :warning: La siguiente sección es sólo para novatos, si ya eres un maestro Jedi en esto de git salta a [Para avezados](./readme.md#para-avezados).
 | --- |
 
 ### Para novatos (como si estuvieras en primero)
