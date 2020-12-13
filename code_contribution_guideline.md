@@ -63,7 +63,7 @@ git checkout -b add-alonzo-church
 
 ## Haz los cambios necesarios y confirma (*Commit*) esos cambios
 
-Para ayudarte en los cambios puedes ayudarte con el tutorial [Pasos de instalación](https://github.com/ProtAAPP/wikiprot/tree/master/docs/01_introduccion##instalación-para-preparar-el-entorno-local)
+Para ayudarte en los cambios puedes ayudarte con el tutorial [Pasos de instalación](https://github.com/ProtAAPP/wikiprot/tree/master/docs/01_introduccion#instalación-para-preparar-el-entorno-local)
 
 Abre el archivo `contributors.md` en un editor de texto y añade tu nombre. No lo añadas ni al principio ni al final del archivo, hazlo en cualquier otro sitio. Guarda el archivo.
 
