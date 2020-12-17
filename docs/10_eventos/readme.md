@@ -5,8 +5,6 @@
 ## Eventos de Ciberseguridad
 
 ### Próximos eventos
-* [C0r0n4con Christmas Edition](c0r0n4con.com) 11, 12 y 13 de diciembre de 2020.
-* [NoCONname](https://www.noconname.org/) 18, 19 y 20 de diciembre de 2020.
 * [BSIDES Panamá](https://www.bsidespa.org/) 28, 29 y 30 de enero de 2021. [Abierto el CFP](https://www.papercall.io/bsidespanama2021) hasta el 7 de diciembre de 2020.
 
 
