@@ -9,7 +9,7 @@ Si tienes conocimientos de cualquier ámbito de la ciberseguridad, te animamos a
 
 El repositorio de documentación está construido con la librería [Vuepress](https://vuepress.vuejs.org/).
 
-La licencia es [INSERTAR NOMBRE LICENCIAMIENTO]
+La licencia es CC BY-NC-SA 4.0.
 
 Si no tienes git en tu equipo, puedes encontrar instrucciones para instalarlo en [este enlace]( https://help.github.com/articles/set-up-git/ ).
 
@@ -63,7 +63,7 @@ git checkout -b add-alonzo-church
 
 ## Haz los cambios necesarios y confirma (*Commit*) esos cambios
 
-Para ayudarte en los cambios puedes ayudarte con el tutorial [Pasos de instalación](https://github.com/ProtAAPP/wikiprot/tree/master/docs/01_introduccion#pasos-de-instalaci%C3%B3n)
+Para ayudarte en los cambios puedes ayudarte con el tutorial [Pasos de instalación](https://github.com/ProtAAPP/wikiprot/tree/master/docs/01_introduccion#instalación-para-preparar-el-entorno-local)
 
 Abre el archivo `contributors.md` en un editor de texto y añade tu nombre. No lo añadas ni al principio ni al final del archivo, hazlo en cualquier otro sitio. Guarda el archivo.
 

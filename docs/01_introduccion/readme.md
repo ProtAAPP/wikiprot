@@ -88,7 +88,7 @@ Los requisitos para poder colaborar en el desarrollo de esta guía son:
 7. Abrirte cuenta en Github ([crear cuenta en Github](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home))
 8. Ya estás listo para insertar tu primera aportación.
 
-| :warning: La siguiente sección es sólo para novatos, si ya eres un maestro Jedi en esto de git salta a [Instalación para preparar el entorno](./readme.md#instalacion-para-preparar-el-entorno).
+| :warning: La siguiente sección es sólo para novatos, si ya eres un maestro Jedi en esto de git salta a [Para avezados](./readme.md#para-avezados).
 | --- |
 
 ### Para novatos (como si estuvieras en primero)
@@ -99,16 +99,26 @@ En caso en que sea la primera vez que oyes esto de Git y Github, esta es la mane
 [![Como colaborar en la wikiprot como si estuvieras en primero](../../assets/screenshot-video.jpg)](https://youtu.be/Se7wAVhNBeQ "Como colaborar en la wikiprot como si estuvieras en primero")
 
 1. Abre en el navegador [Repositorio de WikiProt](https://github.com/ProtAAPP/wikiprot)
-2. Selecciona la rama "develop".
+2. Selecciona la rama "master".
 3. Navega por el código hasta que encuentres el fichero que quieres modificar.
 4. Editalo pulsando sobre el lápiz, si no tienes hecho login, te lo pedirá y una vez logueado ya puedes añadir o modificar.
 5. Una vez que hayas terminado, añade un comentario al final y haz un "Propose Changes".
 6. Comprobamos lo que se ha modificado y se hace un "Pull Request".
 7. Revisaremos el código y lo antes posible estará subido al servidor.
+8. Ya estaría todo hecho por tu parte.
 
-### Instalación para preparar el entorno
+### Para avezados
+Recuerda que también has de tener cuenta en Github (es gratis) para poder subir código. Aquí tienes el enlace para [crear cuenta en Github](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
 
-Una vez cumplidos los requisitos definidos en el apartado anterior, y una vez hecho el fork lo primero es descargarse 
+Si ya estás más experimentado con Git, puedes seguir está guía:
+
+[Guía para aportar](https://github.com/ProtAAPP/wikiprot/blob/master/code_contribution_guideline.md)
+
+Ahora ya estás en condiciones de poder modificarlo en tu entorno local, por lo que continua con el siguiente apartado.
+
+### Instalación para preparar el entorno local
+
+Una vez cumplidos los requisitos definidos anteriormente, y una vez hecho el fork lo primero es descargarse 
 la última versión del repositorio, antes de modificar ningún contenido. 
 
 Si fuera la primera vez que me descargo el repositorio:
