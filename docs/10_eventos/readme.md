@@ -101,6 +101,7 @@
 - [NATIONAL CYBERLEAGUE](https://www.nationalcyberleague.es/) Promovido por la Guardia Civil.
 
 ### Otros formatos de eventos
+- [#NochedeGuasAAPP](https://twitch.tv/protaapp) Evento online, abierto, que incluye concursos, retos y humor sobre ciberseguridad.
 - [Hack & Beers](https://hackandbeers.es/). Ponencias gratuitas para interesados en la seguridad informática. Ambiente distendido y acompañando las charlas con unas Beers.
 
 ## Difusión de la ciberseguridad
@@ -140,6 +141,7 @@
 #### Canales de Youtube en español
 - [Palabra de Hacker by Yolanda Corral](https://www.youtube.com/c/Palabradehacker-ciberseguridad?sub_confirmation=1)
 - NoCONnameTV [Vimeo](https://vimeo.com/noconname) [Twitch](vimeo.com/noconname)
+- [ProtAAPP](https://youtube.com/protaapp) Aquí se suben los videos de ProtAAPP y en offline los videos de #NochedeGuasAAPP
 
 #### Canales de Youtube en inglés
 - [Recopilatorio de canales de Youtube sobre ciberseguridad](https://wportal.xyz/collection/cybersec-yt1)
@@ -156,6 +158,7 @@
 - [CEOS3C](https://www.twitch.tv/ceos3c) Hacking, CTF por [Stefan Rows](https://twitter.com/ceos3c)
 - [Devploit](https://www.twitch.tv/devploit) Hacking, CTF por [Daniel Púa](https://twitter.com/devploit)
 - [Mttaggart](https://www.twitch.tv/mttaggart) Hacking, CTF
+- [ProtAAPP](https://twitch.tv/protaapp) Periódicamente se retransmite en directo el evento #NochedeGuasAAPP
 
 
 ### Podcasts
