@@ -52,17 +52,19 @@ Si no puedes ser miembro, también puedes contactar con nosotros para proponer l
 #### 2018
 - SocInfo [Elige tu propia aventura - La incidencia de seguridad](https://www.slideshare.net/GuillermoObispoSanRo/elige-tu-propia-aventura-la-incidencia-de-seguridad)
 #### 2019
-- El Diablu (la precuela) febrero
+- ElDiablu (la precuela) febrero: ganador del concurso Antonio Sanz
 - SocInfo [Accesos corporativos. Instrucciones de montaje (DIY)](https://www.slideshare.net/GuillermoObispoSanRo/accesos-corporativos)
 - RootedCon [Zarancon City: Ciudad bastionada](https://www.youtube.com/watch?v=VJIzFuTTRb4)
 - CyberCamp [Del rojo al azul](https://www.youtube.com/watch?v=WiQ1zknX-rU)
-- El DiaBlu (Viernes 13) diciembre
+- ElDiaBlu (Viernes 13 de diciembre): ganadora del concurso Pilar Payo
 #### 2020
 - Isaca [Menú saludable para Responsables de Seguridad. Como digerir el ENS](https://www.slideshare.net/GuillermoObispoSanRo/menu-saludable-para-responsables-de-seguridad-226454626)
 - RootedCon [Compliance as Code (Auditoría de infraestructura, rápida y eficiente)](https://www.youtube.com/watch?v=vODFljdavJw&t=1s)
 - RootedCon [La Metacharla de Seguridad](https://www.youtube.com/watch?v=laRfJ_zYJBI)
 - C1b3rWall Academy [Cimientos sólidos para Defensores](https://www.youtube.com/watch?v=hmaMOKSjw-U)
-- El Diablu (?)
+- "Noche de GuasAAPP", evento abierto y en directo:
+    - Edición del 18 de diciembre de 2020: [VIDEO](https://www.youtube.com/watch?v=Sh4Ujqs2n7Y&t=1). Ganador del concurso Carlos Portero
+
 
 ## Colabora con esta documentación
 
