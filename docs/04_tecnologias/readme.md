@@ -349,9 +349,16 @@ Otros recursos:
 ### Seguridad en Amazon AWS
 Amazon AWS ha obtenido la certificación [ENS nivel Alto](https://aws.amazon.com/es/compliance/esquema-nacional-de-seguridad/)
 
+Guías CCN-STIC:
+- [CCN-STIC-887](https://www.ccn-cert.cni.es/pdf/guias/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/5446-ccn-stic-887-perfil-de-cumplimiento-especifico-para-aws-servicio-de-cloud-corporativo/file.html) Perfil de Cumplimiento Especifico para AWS
+Servicio de Cloud Corporativo
+- [CCN-STIC-887A](https://www.ccn-cert.cni.es/pdf/guias/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/5449-ccn-stic-887a-guia-de-configuracion-segura-aws/file.html) Guía de configuración segura para AWS 
+- [CCN-STIC-887B](https://www.ccn-cert.cni.es/pdf/guias/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/5452-ccn-stic-887b-guia-rapida-de-prowler/file.html) Guía rápida de Prowler, herramienta de software libre que permite analizar múltiples servicios y recursos desplegados en AWS de forma manual o automática.
+
+
+Otros recursos interesantes:
 - [Modelo de responsabilidad compartida en Amazon AWS](https://aws.amazon.com/es/compliance/shared-responsibility-model/)
 ![IMG](./img/awsresponsabilities.jpg)
-
 - [AWS Auto Remediate](https://github.com/servian/aws-auto-remediate)
 - [Antivirus for S3 buckets](https://github.com/widdix/aws-s3-virusscan)
 
