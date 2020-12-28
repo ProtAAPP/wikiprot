@@ -104,13 +104,19 @@ A través de juegos interactivos:
     - [Phishing: el fraude que intenta robar nuestros datos personales y bancarios](https://www.osi.es/sites/default/files/docs/phishing.pdf)
     - [No esperes a tener un problema para realizar copias de seguridad](https://www.osi.es/sites/default/files/docs/copiaseguridad.pdf)
     - [¿Cómo puedo eliminar datos personales que aparecen en los resultados de un buscador?](https://www.osi.es/sites/default/files/docs/eliminardatos.pdf)
+    - [Descarga de herramientas gratuitas para protección como antivirus, cortafuegos, gestores de contraseñas, etc.](https://www.osi.es/es/herramientas)
     - [No tengo claro para qué está utilizando mi hijo Internet, ¿qué puedo hacer?](https://www.osi.es/sites/default/files/docs/menores.pdf)
     - [Criptópolis. El juego de gestión y ciberseguridad](https://www.osi.es/es/criptopolis)
     - [Consejos de ciberseguridad con Leo Harlem](https://www.youtube.com/watch?v=nhDBD6UTDtM)
 - [IS4K - Internet Segura For Kids](https://www.is4k.es/) INCIBE.
+    - [Preguntas Frecuentes IS4K](https://www.is4k.es/preguntas-frecuentes) 
+    - [Lo que necesitas saber](https://www.is4k.es/necesitas-saber)
+    - [Reporte de contenidos peligrosos para menores en Internet](https://www.is4k.es/reporte-contenidos)
+    - [Denuncia ante las Fuerzas y Cuerpos de Seguridad del Estado el contenido de abuso sexual infantil (CASI) que encuentres en Internet](https://www.is4k.es/denuncia-casi)
 - [Teléfono gratuito de ayuda en Ciberseguridad (017)](https://www.is4k.es/ayuda). Para niños, adolescentes, padres, madres y educadores.
-- [Nuestros hijos en la red: 50 cosas que debemos saber para una buena prevención digital](https://www.amazon.es/Nuestros-hijos-red-debemos-prevenci%C3%B3n/dp/8417886028/ref=sr_1_1) de [Silvia Barrera](https://twitter.com/sbarrera0)
-- [Cuentos de Ciberseguridad](https://www.amazon.es/Cuentos-Ciberseguridad-Plural-Francisco-Perez/dp/8418155051)Libro para concienciar a niños/adolescentes.
+- Libros:
+    - [Nuestros hijos en la red: 50 cosas que debemos saber para una buena prevención digital](https://www.amazon.es/Nuestros-hijos-red-debemos-prevenci%C3%B3n/dp/8417886028/ref=sr_1_1) de [Silvia Barrera](https://twitter.com/sbarrera0)
+    - [Cuentos de Ciberseguridad](https://www.amazon.es/Cuentos-Ciberseguridad-Plural-Francisco-Perez/dp/8418155051)Libro para concienciar a niños/adolescentes.
 
 ### Herramientas para hacer concienciación
 - [Gophish](https://getgophish.com/) Herramienta opensource para crear tus propias campañas de phishing simulado y concienciar a los empleados.
