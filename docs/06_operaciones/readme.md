@@ -185,6 +185,7 @@ Enlaces interesantes:
 - [2020. ElevenPaths. "TheTHE: The Threat Hunting Environment"](https://empresas.blogthinkbig.com/thethe-threat-hunting-environment-nuestra-herramienta-para-investigadores/)
 - [2020. Blog de Menasec sobre threat hunting](https://blog.menasec.net/)
 - [2020. Sesión del CCN sobre Threat Hunting](https://vanesa.ccn-cert.cni.es/userportal/#/player/vod/Uec62bde1a8764b1983d7b871811afbf5)
+- [2019. Detecting the Unknown: A Guide to Threat Hunting](https://hodigital.blog.gov.uk/wp-content/uploads/sites/161/2020/03/Detecting-the-Unknown-A-Guide-to-Threat-Hunting-v2.0.pdf?utm_content=146241199&utm_medium=social&utm_source=twitter&hss_channel=tw-2462899111)
 - [Guía de referencia sobre Movimiento Lateral](https://secureservercdn.net/160.153.138.53/x27.24e.myftpupload.com/download/Lateral-Movement-Analyst-Reference.pdf?time=1599801482)
 - [Lateral Movement Detection GPO Settings Cheat Sheet](https://compass-security.com/fileadmin/Datein/Research/White_Papers/lateral_movement_detection_basic_gpo_settings_v1.0.pdf)
 - [Guía de referencia sobre Windows Event Log](https://secureservercdn.net/160.153.138.53/x27.24e.myftpupload.com/download/Windows-Event-Log-Analyst-Reference.pdf?time=1599801482)
@@ -196,6 +197,8 @@ Enlaces interesantes:
 - [LogonTracer](https://github.com/JPCERTCC/LogonTracer) Herramienta del JPCERT para investigar logons en directorio activo presentándolos de forma gráfica.
 - [What’s Lateral Movement?](https://hencinski.medium.com/whats-lateral-movement-71c54201140a)
 
+[Modelo de madurez en Threat Hunting](https://hodigital.blog.gov.uk/wp-content/uploads/sites/161/2020/03/Detecting-the-Unknown-A-Guide-to-Threat-Hunting-v2.0.pdf?utm_content=146241199&utm_medium=social&utm_source=twitter&hss_channel=tw-2462899111)
+![IMG](./img/th1.jpg) 
 
 ## Vulnerability Disclosure y Bug Bounties
 - [Security.txt](https://securitytxt.org/). Propuesta de estándar para que los investigadores puedan contactar con los responsable de seguridad de los sitios y aplicaciones web a través del fichero https://xxxx.org/.well-known/security.txt
@@ -255,6 +258,9 @@ Ejemplos de alertas que se pueden configurar con honeytokens:
 ### Respondiendo a brechas de seguridad
 - [AEPD - Guía para la gestión y notificación de brechas de seguridad](https://www.aepd.es/sites/default/files/2019-09/guia-brechas-seguridad.pdf)
 
+### Respondiendo a incidentes con el correo electrónico - Business Email Compromise (BEC)
+- [Consejos y recomendaciones para responder a un BEC](https://iheartmalware.medium.com/bec-response-guide-tips-for-responding-to-business-email-compromise-incidents-fbb6744e056a)
+
 ### Respondiendo a incidentes en tecnologías concretas
 - [AWS Security Incident Response Guide](https://d1.awsstatic.com/whitepapers/aws_security_incident_response.pdf)
 - [AWS Incident Response template. Web Application Dos/DDoS Attack](https://github.com/aws-samples/aws-incident-response-runbooks/blob/master/runbooks/runbook%20sample%20-%20DoS%20or%20DDoS%20attack.md)
@@ -280,6 +286,7 @@ Ejemplos de alertas que se pueden configurar con honeytokens:
 - [Windows Forensic Analysis](https://www.geeksforgeeks.org/windows-forensic-analysis/)
 - [Autopsy](https://www.autopsy.com/) Plataforma opensource para análisis forense en Windows.
 - [Linux Forensics — Some Useful Artifacts](https://medium.com/@tho.le/linux-forensics-some-useful-artifacts-74497dca1ab2)
+- [Análsis Forense en OSX](https://www.kitploit.com/2019/07/osxcollector-forensic-evidence.html?m=1)
 - [Android Forensic Acquisition Techniques](https://medium.com/@lucideus/android-forensic-acquisition-techniques-lucideus-forensics-e7671dbac984)
 - [DFRWS](https://www.youtube.com/c/DFRWS/videos) Canal de Youtube con vídeos sobre forensic en inglés.
 - [Recopilatorio de ficheros PCAP para análisis](https://www.netresec.com/?page=PcapFiles)
