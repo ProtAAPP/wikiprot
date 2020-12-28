@@ -233,7 +233,7 @@
 - [CyberseguridadPYME](https://www.ciberseguridadpyme.es/)
 
 ### Radio
-- [Capital Radio. Afterwork](https://www.monicavalle.es/ciberseguridad-en-capital-radio/) Ciberseguridad con Mónica Valle y Pablo San Emeterio.
+- [Capital Radio. Afterwork](https://podcasts.apple.com/es/podcast/ciberafterwork-ciberseguridad-en-capital-radio/id1519559817) Ciberseguridad con Mónica Valle y Pablo San Emeterio.
 
 ### Blogs
 #### Blogs en español
