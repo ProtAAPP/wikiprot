@@ -180,6 +180,9 @@
 - [Cyber Life](https://redcircle.com/shows/cyber-life)
 - [Career Notes](https://www.thecyberwire.com/podcasts/career-notes)
 - [Darknet Diaries](https://darknetdiaries.com/)
+- [Malicous Life](https://malicious.life/) The unknown stories of the history of cybersecurity, with comments and reflections by real hackers, security experts, journalists, and politicians.
+- [Detections](https://www.detections.org/) BlueTeam.
+- [Azure Security](https://azsecuritypodcast.azurewebsites.net/)
 
 
 ### Redes sociales
@@ -289,6 +292,7 @@
 - [The Beginner’s Guide to Information Security](https://www.amazon.com/Beginners-Guide-Information-Security-Kickstart-ebook/dp/B01JTDDSAM)
 - [Cyber Warfare –Truth, Tactics and Strategies"](https://icdt.osu.edu/news/2020/11/cybersecurity-canon-candidate-book-review-cyber-warfare-truth-tactics-and-strategies) del Dr. Chase Cunningham
 - [The Pentester BluePrint: Starting a Career as an Ethical Hacker 1st Edition](https://www.amazon.com/Pentester-BluePrint-Your-Guide-Being/dp/1119684307) de Phillip L. Wylie
+- [Mitre ATT&CK for Dummies](https://attackiq.com/lp/mitre-attack-for-dummies/)
 
 ### Tiras cómicas
 - [Cybersecurity Cartoons](https://cybersecurityventures.com/cybersecurity-cartoon-archives/)
