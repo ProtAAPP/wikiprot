@@ -63,6 +63,7 @@ Recursos generales:
 - [Recopilatorio enlaces Penetration Testing](https://www.hackingarticles.in/penetration-testing/) Muchísimos enlaces.
 - [Password Dumping Cheatsheet: Windows](https://www.hackingarticles.in/password-dumping-cheatsheet-windows/)
 - [MEGA mapa mental sobre pentesting](https://raw.githubusercontent.com/dsopas/assessment-mindset/master/assessment-mindset.png)
+- [Chuleta interactiva sobre herramientas ofensivas](https://wadcoms.github.io/) 
 
 ## Auditorías/Pentesting según tecnología
 
@@ -102,10 +103,12 @@ Recursos generales:
 - [Nmap](https://nmap.org/)
     - [Ejemplo de uso](https://www.redeszone.net/seguridad-informatica/nmap/)
     - [Mapa mental nmap](https://nmap.org/docs/nmap-mindmap.pdf)
+    - [Nmap cheatsheet](https://www.dropbox.com/s/t853ac9c9s41mqx/nmap_cheet_sheet_v7.pdf)
 - [Nikto](https://cirt.net/Nikto2)
     - [Ejemplo de uso](http://www.reydes.com/d/?q=Escanear_un_Servidor_Web_utilizando_Nikto)
 - [Flan Scan](https://github.com/cloudflare/flan)
 - [Escaners para CMS](https://www.infosecmatter.com/cms-vulnerability-scanners-for-wordpress-joomla-drupal-moodle-typo3/) 12 escaners para WordPress, Joomla, Drupal, Moodle, Typo3 y similares.
+- [Vulmap - Web Vulnerability Scanning And Verification Tools](https://www.kitploit.com/2020/12/vulmap-web-vulnerability-scanning-and.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+PentestTools+(PenTest+Tools)&m=1)
 
 
 ### Network pentesting
@@ -135,6 +138,7 @@ Recursos interesantes:
 - [Hacker101](https://www.hacker101.com/) CTFs + Vídeos de formación sobre hacking web.
 - [Recopilatorio web pentesting](https://guif.re/webpentest) por [@guifreruiz](https://twitter.com/guifreruiz)
 - [Recopilatorio enlaces Web Penetration Testing](https://www.hackingarticles.in/web-penetration-testing/) Muchísimos enlaces.
+- [Mapa mental ataques SSRF](https://raw.githubusercontent.com/hackerscrolls/SecurityTips/master/MindMaps/SSRF.png)
 
 
 
@@ -153,6 +157,7 @@ Recursos interesantes:
 - [AADinternals](https://o365blog.com/aadinternals/#installation) Módulo powershell para pentesting contra Azure AD.
 - [MicroBurst: A PowerShell Toolkit for Attacking Azure](https://github.com/NetSPI/MicroBurst)
 - [PowerZure](https://github.com/hausec/PowerZure) PowerShell project created to assess and exploit resources within Microsoft’s cloud platform, Azure
+- [Recopilatorio enlaces Azure Security](https://github.com/kmcquade/awesome-azure-security)
 
 
 ### Auditorías Dockers
@@ -258,14 +263,18 @@ Estos ejercicios ayudan a las organizaciones a:
 - [Leonidas](https://www.kitploit.com/2020/11/leonidas-automated-attack-simulation-in.html?m=1) Automated Attack Simulation In The Cloud, Complete With Detection Use Cases
 - [Run your Microsoft 365 Defender attack simulations](https://github.com/MicrosoftDocs/microsoft-365-docs/blob/public/microsoft-365/security/mtp/mtp-pilot-simulate.md)
 - [Cobalt Strike](https://www.cobaltstrike.com/)
+    - [Varios cursos sobre operaciones con CobalStrike](https://www.cobaltstrike.com/training)
 - [Empire](https://github.com/EmpireProject/Empire)
-- [Metasploit](https://github.com/rapid7/metasploit-framework) [Chuleta sobre Metasploit](https://www.comparitech.com/fr/net-admin/metasploit-cheat-sheet/)
+- [Metasploit](https://github.com/rapid7/metasploit-framework) 
+    - [Chuleta sobre Metasploit](https://www.comparitech.com/fr/net-admin/metasploit-cheat-sheet/)
+    - [Otra chuleta sobre Metasploit](https://blog.underc0de.org/cheat-sheet-metasploit-framework/)
     - [Curso Metasploit](https://www.offensive-security.com/metasploit-unleashed/)
 - [Infection Monkey](https://www.guardicore.com/infectionmonkey/) Open source Breach and Attack Simulation (BAS) tool that assesses the resiliency of private and public cloud environments to post-breach attacks and lateral movement.
 
 
 ## OSINT 
 - [Enlaces a Herramientas OSINT por Ciberpatrulla](https://ciberpatrulla.com/links/)
+- [Recopilatorio enlaces OSINT](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
 
 ## Retos del tipo Capture the Flag (CTFs)
 Lista de CTFs con orientación ofensiva (red):
@@ -286,6 +295,7 @@ Lista de CTFs con orientación ofensiva (red):
 - [CTFChallenge](https://ctfchallenge.co.uk/)
 - [Cryptohack](https://cryptohack.org/)
 - [Hack.me](https://hack.me/)
+- [CTFSites](https://ctfsites.github.io/)
 
 
 Lista de "writeups" (soluciones) en CTFs ofensivos:
