@@ -345,6 +345,7 @@ Guías CCN-STIC para configuración y bastionado:
 Otros recursos:
 - [Shared Responsibilities for Azure Cloud Computing](https://gallery.technet.microsoft.com/Shared-Responsibilities-81d0ff91)
 - [Securing Microsoft Azure AD Connect](https://www.hub.trimarcsecurity.com/amp/securing-microsoft-azure-ad-connect)
+- [Esquemas de licenciamiento soluciones O365](https://github.com/AaronDinnage/Licensing/blob/master/README.md)
 
 ### Seguridad en Amazon AWS
 Amazon AWS ha obtenido la certificación [ENS nivel Alto](https://aws.amazon.com/es/compliance/esquema-nacional-de-seguridad/)
