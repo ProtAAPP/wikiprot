@@ -5,8 +5,6 @@
 ## Eventos de Ciberseguridad
 
 ### Próximos eventos
-* Remote CCC del 27 al 30 de diciembre de 2020. [Agenda](https://rc3.world/rc3/public_fahrplan) [Streaming](https://streaming.media.ccc.de/rc3)
-* [BSIDES Panamá](https://www.bsidespa.org/) 28, 29 y 30 de enero de 2021. [Abierto el CFP](https://www.papercall.io/bsidespanama2021) hasta el 7 de diciembre de 2020.
 
 
 ### Congresos de Ciberseguridad en España
