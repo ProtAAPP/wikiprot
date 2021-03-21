@@ -26,6 +26,7 @@
 - [Free Training DFIRDiva](https://freetraining.dfirdiva.com/)
 - [OpenSecurityTraining](https://opensecuritytraining.info/Training.html)
 - [SamsClass](https://www.samsclass.info/)
+- [LetsDefend Academy. Online practicing and training platform for blue team members](https://app.letsdefend.io/academy/)
 
 Otros recursos formativos:
 - [Bugcrowd](https://github.com/bugcrowd/bugcrowd_university) Muchos recursos gratuitos de formación enfocada a pentesting.
@@ -44,6 +45,7 @@ Otros recursos formativos:
 - [WebSecurity Academy](https://portswigger.net/web-security) Formación online gratuita de los creadores de Burp Suite.
 - [Hacker101](https://www.hacker101.com/) Vídeos de formación sobre hacking web.
 - [Breaking and Pwning Apps and Servers on AWS and Azure](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training)
+- [Free Short Course: Information Security Incident Handling](https://itmasters.edu.au/free-short-course-information-security-incident-handling/)
 
 
 
