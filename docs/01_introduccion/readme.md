@@ -52,16 +52,17 @@ Si no puedes ser miembro, también puedes contactar con nosotros para proponer l
 #### 2018
 - SocInfo [Elige tu propia aventura - La incidencia de seguridad](https://www.slideshare.net/GuillermoObispoSanRo/elige-tu-propia-aventura-la-incidencia-de-seguridad)
 #### 2019
-- ElDiablu (la precuela) febrero: ganador del concurso Antonio Sanz
+- ElDiablu (la precuela) febrero.
 - SocInfo [Accesos corporativos. Instrucciones de montaje (DIY)](https://www.slideshare.net/GuillermoObispoSanRo/accesos-corporativos)
 - RootedCon [Zarancon City: Ciudad bastionada](https://www.youtube.com/watch?v=VJIzFuTTRb4)
 - CyberCamp [Del rojo al azul](https://www.youtube.com/watch?v=WiQ1zknX-rU)
-- ElDiaBlu (Viernes 13 de diciembre): ganadora del concurso Pilar Payo
+- ElDiaBlu I (Viernes 13 de diciembre): ganador del concurso Antonio Sanz.
 #### 2020
 - Isaca [Menú saludable para Responsables de Seguridad. Como digerir el ENS](https://www.slideshare.net/GuillermoObispoSanRo/menu-saludable-para-responsables-de-seguridad-226454626)
 - RootedCon [Compliance as Code (Auditoría de infraestructura, rápida y eficiente)](https://www.youtube.com/watch?v=vODFljdavJw&t=1s)
 - RootedCon [La Metacharla de Seguridad](https://www.youtube.com/watch?v=laRfJ_zYJBI)
 - C1b3rWall Academy [Cimientos sólidos para Defensores](https://www.youtube.com/watch?v=hmaMOKSjw-U)
+- ElDiaBlu II (Viernes 27 de noviembre): ganadora del concurso Pilar Payo
 - "Noche de GuasAAPP", evento abierto y en directo:
     - Edición del 18 de diciembre de 2020: [VIDEO](https://www.youtube.com/watch?v=Sh4Ujqs2n7Y&t=1). Ganador del concurso Carlos Portero
 
@@ -270,4 +271,25 @@ Podéis contribuir al repositorio con cualquier contenido que consideréis inter
 - [Seguridad en Bases de Datos](http://wikiprot.protaapp.com/04_tecnologias/#bases-de-datos)
 - ...
 
-
+### Enlaces pendientes de ser incluidos en el repositorio
+Los siguientes enlaces están pendientes de ser incluidos en el repositorio en el lugar que les corresponda:
+* [https://t.co/tn4GBPGaGj](https://t.co/tn4GBPGaGj)
+* [https://t.co/aM0RK2FQlt](https://t.co/aM0RK2FQlt)
+* [https://iheartmalware.medium.com/bec-response-guide-tips-for-responding-to-business-email-compromise-incidents-fbb6744e056a](https://iheartmalware.medium.com/bec-response-guide-tips-for-responding-to-business-email-compromise-incidents-fbb6744e056a)
+* [https://blog.raw.pm/en/state-of-the-art-of-network-pivoting-in-2019/](https://blog.raw.pm/en/state-of-the-art-of-network-pivoting-in-2019/)
+* [https://zdresearch.com/finding-the-origin-ip-behind-cdns/](https://zdresearch.com/finding-the-origin-ip-behind-cdns/)
+* [https://cybersecurity.att.com/blogs/security-essentials/building-a-home-lab-to-become-a-malware-hunter-a-beginners-guide](https://cybersecurity.att.com/blogs/security-essentials/building-a-home-lab-to-become-a-malware-hunter-a-beginners-guide)
+* [https://derechodelared.com/los-mapas-de-las-ciberleyes/](https://derechodelared.com/los-mapas-de-las-ciberleyes/)
+* [https://github.com/ihebski/DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet)
+* [https://www.ra-ma.es/libro/privacidad-y-ocultacion-de-informacion-digital-esteganografia_47926/](https://www.ra-ma.es/libro/privacidad-y-ocultacion-de-informacion-digital-esteganografia_47926/)
+* [https://tldrsec.com/blog/lesser-known-aws-attacks/](https://tldrsec.com/blog/lesser-known-aws-attacks/)
+* [https://zeltser.com/start-learning-malware-analysis/](https://zeltser.com/start-learning-malware-analysis/)
+* [https://tryhackme.com/room/yara](https://tryhackme.com/room/yara)
+* [https://twitter.com/superruserr/status/1347938706875887616?s=19](https://twitter.com/superruserr/status/1347938706875887616?s=19)
+* [https://blog.assetnote.io/2021/01/13/blind-ssrf-chains/](https://blog.assetnote.io/2021/01/13/blind-ssrf-chains/)
+* [https://thehackernews.com/2021/01/nsa-suggests-enterprises-use-designated.html?m=1#click=https://t.co/l9SnXVoq7U](https://thehackernews.com/2021/01/nsa-suggests-enterprises-use-designated.html?m=1#click=https://t.co/l9SnXVoq7U)
+* [https://0xn3va.gitbook.io/cheat-sheets/web-application/oauth](https://0xn3va.gitbook.io/cheat-sheets/web-application/oauth)
+* [http://www.bugbountyhunter.net/twitter.php](http://www.bugbountyhunter.net/twitter.php)
+* [https://msendpointmgr.com/2018/06/23/implementing-modern-security-tools-part-1/](https://msendpointmgr.com/2018/06/23/implementing-modern-security-tools-part-1/)
+* [https://www.levelupinfosec.com/freestuff](https://www.levelupinfosec.com/freestuff)
+* [https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html)
