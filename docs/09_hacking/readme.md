@@ -104,6 +104,7 @@ Recursos generales:
     - [Ejemplo de uso](https://www.redeszone.net/seguridad-informatica/nmap/)
     - [Mapa mental nmap](https://nmap.org/docs/nmap-mindmap.pdf)
     - [Nmap cheatsheet](https://www.dropbox.com/s/t853ac9c9s41mqx/nmap_cheet_sheet_v7.pdf)
+    - [Nmap for pentester](https://github.com/Ignitetechnologies/Nmap-For-Pentester)
 - [Nikto](https://cirt.net/Nikto2)
     - [Ejemplo de uso](http://www.reydes.com/d/?q=Escanear_un_Servidor_Web_utilizando_Nikto)
 - [Flan Scan](https://github.com/cloudflare/flan)
@@ -135,6 +136,7 @@ Recursos interesantes:
 - [XSS Payload list](https://github.com/payloadbox/xss-payload-list)  
 - [WebSecurity Academy](https://portswigger.net/web-security) Formación online gratuita de los creadores de Burp Suite.
 - [Burp Suite vs OWASP ZAP](https://jaw33sh.wordpress.com/2020/11/22/burp-suite-vs-owasp-zap-a-comparison-series/)
+- [Burp Suite for Pentester](https://github.com/Ignitetechnologies/BurpSuite-For-Pentester)
 - [Hacker101](https://www.hacker101.com/) CTFs + Vídeos de formación sobre hacking web.
 - [Recopilatorio web pentesting](https://guif.re/webpentest) por [@guifreruiz](https://twitter.com/guifreruiz)
 - [Recopilatorio enlaces Web Penetration Testing](https://www.hackingarticles.in/web-penetration-testing/) Muchísimos enlaces.
@@ -142,15 +144,16 @@ Recursos interesantes:
 
 
 
-### Auditorías de sistemas Cloud
+### Auditorías de servicios Cloud
+Recursos generales:
+- [Penetration Tester's Guide to Evaluating OAuth 2.0](https://maxfieldchen.com/posts/2020-05-17-penetration-testers-guide-oauth-2.html)
 
-Recursos interesantes:
+#### Auditorías AZURE
 - [2020. AZURE AD INTRODUCTION FOR RED TEAMERS](https://www.synacktiv.com/en/publications/azure-ad-introduction-for-red-teamers.html)
 - [2020. Lateral Movement in Azure App Services](https://blog.netspi.com/lateral-movement-azure-app-services/)
 - [2020. Azure File Shares for Pentesters](https://blog.netspi.com/azure-file-shares-for-pentesters/)
 - [Attacking Azure, Azure AD, and Introducing PowerZure](https://posts.specterops.io/attacking-azure-azure-ad-and-introducing-powerzure-ca70b330511a)
 - [Abusing Azure AD SSO with the Primary Refresh Token](https://dirkjanm.io/abusing-azure-ad-sso-with-the-primary-refresh-token/)
-- [Penetration Tester's Guide to Evaluating OAuth 2.0](https://maxfieldchen.com/posts/2020-05-17-penetration-testers-guide-oauth-2.html)
 - [Azure Cloud Penetration Testing](https://dl.packetstormsecurity.net/papers/general/azure-pentest.pdf)
 - [Journey to Azure AD PRT: Getting access with pass-the-token and pass-the-cert](https://o365blog.com/post/prt/#creating-your-own-prt)
 - [Bypassing conditional access by faking device compliance](https://o365blog.com/post/mdm/)
@@ -158,10 +161,16 @@ Recursos interesantes:
 - [MicroBurst: A PowerShell Toolkit for Attacking Azure](https://github.com/NetSPI/MicroBurst)
 - [PowerZure](https://github.com/hausec/PowerZure) PowerShell project created to assess and exploit resources within Microsoft’s cloud platform, Azure
 - [Recopilatorio enlaces Azure Security](https://github.com/kmcquade/awesome-azure-security)
+- [Atacando Azure: qué herramientas utilizar en función de qué rol tengas en Azure](https://o365blog.com/aadkillchain/)
+
+#### Auditorías AWS
+- [Hacking the Cloud. AWS](https://hackingthe.cloud/aws/)
+- [AWS pentesting essential guide](https://www.virtuesecurity.com/aws-penetration-testing-essential-guidance/)
 
 
 ### Auditorías Dockers
 - [Docker for pentesters](https://blog.ropnop.com/docker-for-pentesters/)
+- [Herramientas para escanear y auditar seguridad contenedores Docker](https://blog.elhacker.net/2021/03/herramientas-para-escanear-y-auditar-seguridad-vulnerabilidades-contenedores-docker.html?m=1)
 
 ### Auditorías Kubernetes
 
@@ -171,6 +180,7 @@ Recursos interesantes:
 ### Auditorías de Directorio Activo
 Recursos interesantes:
 - [2020. Securing Active Directory: Performing an Active Directory Security Review](https://www.hub.trimarcsecurity.com/post/securing-active-directory-performing-an-active-directory-security-review)
+- [2020 - Atacando el Directorio Activo](https://rmusser.net/docs/Active_Directory.html#adattack)
 - [Active Directory Exploitation Cheat Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet/blob/master/README.md)
 - [Active Directory Exploitation](https://twitter.com/CyberWarship/status/1309127376283013120?s=20)
 - [An Offensive Kerberos Overview](https://posts.specterops.io/kerberosity-killed-the-domain-an-offensive-kerberos-overview-eb04b1402c61)
@@ -204,6 +214,7 @@ Lista de recursos:
 - [Recopilatorio enlaces Android Security](https://github.com/saeidshirazi/awesome-android-security)
 - [Intercepting HTTPS on Android](https://httptoolkit.tech/blog/intercepting-android-https/)
 - [App Android vulnerable](https://github.com/rewanth1997/Damn-Vulnerable-Bank)
+- [Android Penetration Testing](https://github.com/Ignitetechnologies/Android-Penetration-Testing)
 
 #### IOS
 
