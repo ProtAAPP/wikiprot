@@ -41,7 +41,8 @@ module.exports =
                { text: 'Amenazas, Ataques y Vulnerabilidades', link: '/08_amenazas/' },
                { text: 'Auditorías de Vulnerabilidades y Hacking Ético', link: '/09_hacking/' },
                { text: 'Formación, Concienciación y Difusión', link: '/07_formacion/' },               
-               { text: 'Eventos de Ciberseguridad', link: '/10_eventos/' }               
+               { text: 'Eventos de Ciberseguridad', link: '/10_eventos/' },
+               { text: 'Otros Respositorios Ciber', link: '/12_metarepos/' }
             ]
          }
       ],
@@ -63,7 +64,8 @@ module.exports =
          '08_amenazas/',
          '09_hacking/',
          '07_formacion/',         
-         '10_eventos/'
+         '10_eventos/',
+         '12_metarepos/'
       ]
    }
    
