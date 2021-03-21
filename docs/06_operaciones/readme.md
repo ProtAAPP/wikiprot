@@ -122,9 +122,16 @@ Otros recursos interesantes:
     - [Office 365 logs](https://docs.microsoft.com/en-us/microsoft-365/compliance/detailed-properties-in-the-office-365-audit-log?view=o365-worldwide)
     - [Linux logs](https://www.plesk.com/blog/featured/linux-logs-explained/)
     - [DHCP logs](https://www.serverbrain.org/network-planning-2003/understanding-dhcp-server-log-file-format.html)
-    - [DNS logs](https://nxlog.co/whitepapers/dns-logging)
+    - DNS logs
+        - [DNS Logs](https://nxlog.co/whitepapers/dns-logging)
+        - [DNS Logging parte 1](https://www.domaintools.com/resources/blog/dns-and-domain-logging-a-birds-eye-view)
+        - [DNS Logging parte 2](https://www.domaintools.com/resources/blog/how-targeted-log-collection-strengthens-your-client-and-network-defenses)
+        - [DNS Logging parte 3](https://www.domaintools.com/resources/blog/maximizing-your-defense-with-windows-dns-logging)
+        - [DNS Logging parte 4](https://www.domaintools.com/resources/blog/increase-the-visibility-of-your-linux-dns-servers-with-log-collection)
+        - [DNS Logging parte 5](https://www.domaintools.com/resources/blog/maximizing-your-defense-with-windows-dns-logging)
     - [Proxy logs](https://www.vanimpe.eu/2016/10/21/proxy-server-logs-incident-response/)
 - [Security Logs en entornos Cloud](https://www.marcolancini.it/2021/blog-security-logging-cloud-environments-gcp/)
+- [Logs de Sistema Operativo: Windows y Ubuntu](https://what2log.com/)
 
 
 ## Correlación eventos - SIEM
