@@ -23,6 +23,7 @@
 * [BitUp Alicante](https://bitupalicante.com/)
 ##### ÁVILA
 * [C1b3rWall](https://www.c1b3rwall.es/). [Vídeos](https://www.youtube.com/c/C1b3rWall/videos)
+    * [Ideas principales de las ponencias de C1b3rwall 2020](https://blog.iurlek.com/2021/01/c1b3rwall-2020/)
 ##### BARCELONA
 * [NoConName](https://www.noconname.org/)
 * [R2Con](https://rada.re/con/2020/). Todo Reversing.
@@ -223,7 +224,7 @@
 - [ProtAAPP](https://groups.google.com/d/forum/protaapp) Solo para empleados públicos de AAPP.
 
 ### Revistas
-- [Revista SIC](https://revistasic.es/). De manera excepcional, se pueden consultar los últimos números de manera abierta en: [SIC 142](https://revistasic.es/sic142/revistasic142.pdf),[SIC 141](https://revistasic.es/sic141/revistasic141.pdf), [SIC 140](https://revistasic.es/sic140/revistasic140.pdf), [SIC 139](https://revistasic.es/sic139/revistasic139.pdf) 
+- [Revista SIC](https://revistasic.es/). De manera excepcional, se pueden consultar los últimos números de manera abierta en: [SIC 143](https://revistasic.es/sic143/revistasic143.pdf), [SIC 142](https://revistasic.es/sic142/revistasic142.pdf),[SIC 141](https://revistasic.es/sic141/revistasic141.pdf), [SIC 140](https://revistasic.es/sic140/revistasic140.pdf), [SIC 139](https://revistasic.es/sic139/revistasic139.pdf) 
 - [Thiber](https://www.thiber.org/thiber-digest/)
 - [CIBERelcano](http://www.realinstitutoelcano.org/wps/portal/rielcano_es/publicaciones/ciber-elcano)
 - [RedSeguridad](https://www.redseguridad.com/)
@@ -292,6 +293,23 @@
 - [Cyber Warfare –Truth, Tactics and Strategies"](https://icdt.osu.edu/news/2020/11/cybersecurity-canon-candidate-book-review-cyber-warfare-truth-tactics-and-strategies) del Dr. Chase Cunningham
 - [The Pentester BluePrint: Starting a Career as an Ethical Hacker 1st Edition](https://www.amazon.com/Pentester-BluePrint-Your-Guide-Being/dp/1119684307) de Phillip L. Wylie
 - [Mitre ATT&CK for Dummies](https://attackiq.com/lp/mitre-attack-for-dummies/)
+- [Netmux Operator Handbook](https://www.amazon.es/dp/B085RR67H5)
+- [Blue Team Handbook: Incident Response Edition](https://www.amazon.es/Blue-Team-Handbook-condensed-Responder/dp/1500734756)
+- [Blue Team Field Manual](https://www.amazon.es/Blue-Team-Field-Manual-English-ebook/dp/B077WF4WYV/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1616351698&sr=8-1)
+- [Blue Team Handbook: SOC, SIEM, and Threat Hunting Use Cases](https://www.amazon.es/Blue-Team-Handbook-condensed-Operations/dp/1726273989)
+- [The Practice of Network Security Monitoring](https://www.amazon.es/Practice-Network-Security-Monitoring-Understanding/dp/1593275099)
+- [Practical Packet Analysis](https://www.amazon.es/Practical-Packet-Analysis-Wireshark-Real-World/dp/1593272669)
+- [Practical Malware Analysis](https://www.amazon.es/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901)
+- [Hands-On Network Forensics](https://www.amazon.es/Hands-Network-Forensics-Investigate-evidences-ebook/dp/B07FDBJ52L)
+- [Applied Incident Response](https://www.amazon.es/Applied-Incident-Response-Steve-Anson/dp/1119560268)
+- [Incident Response & Computer Forensics](https://www.amazon.es/Incident-Response-Computer-Forensics-Third/dp/0071798684)
+- [Practical Forensic Imaging - Securing Digital Evidence with Linux Tools](https://www.amazon.es/Practical-Forensic-Imaging-Securing-Evidence/dp/1593277938)
+- [The Tao of Network Security Monitoring](https://www.amazon.es/Tao-Network-Security-Monitoring-Intrusion/dp/0321246772)
+- [Defensive Security Handbook](https://www.oreilly.com/library/view/defensive-security-handbook/9781491960370/)
+- [Intrusion Detection Honeypots](https://www.amazon.es/Intrusion-Detection-Honeypots-through-Deception/dp/1735188301/)
+- [Security Engineering: A Guide to Building Dependable Distributed Systems](https://www.amazon.es/Security-Engineering-Building-Dependable-Distributed/dp/0470068523)
+- [Open Source Intelligence Techniques](https://www.amazon.es/Open-Source-Intelligence-Techniques-Information/dp/B08RRDTFF9/)
+
 
 ### Tiras cómicas
 - [Cybersecurity Cartoons](https://cybersecurityventures.com/cybersecurity-cartoon-archives/)
@@ -303,6 +321,9 @@
 
 ### Frases
 - [Recopilatorio de frases sobre ciberseguridad](https://johnopdenakker.com/my-favorite-security-quotes/)
+
+### Películas
+- [Recopilatorio de películas sobre hacking y cibersecurity ](https://cybersecurityventures.com/movies-about-cybersecurity-and-hacking/)
 
 ### Otras iniciativas de difusión
 - [Mes europeo de la ciberseguridad](https://cybersecuritymonth.eu/) Promovido por [ENISA](https://www.enisa.europa.eu/)
