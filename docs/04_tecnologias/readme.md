@@ -87,6 +87,7 @@ Los tipos de cifrado para datos en movimiento incluyen (pero no se limitan a) lo
 
 #### Conceptos y recursos
 Recursos interesante:
+- OWASP Cheatsheet para [Cryptographic Storage](https://cheatsheetseries.owasp.org/cheatsheets/Cryptographic_Storage_Cheat_Sheet.html)
 - Certificación en criptografía: [CryptoCert](https://www.criptocert.com/)
 - [Curso sobre criptografía de criptored](https://www.youtube.com/watch?v=rm8W5XD3lUg)
 - [Hashing vs. Encryption vs. Encoding vs. Obfuscation](https://danielmiessler.com/study/encoding-encryption-hashing-obfuscation/)
@@ -346,6 +347,8 @@ Otros recursos:
 - [Shared Responsibilities for Azure Cloud Computing](https://gallery.technet.microsoft.com/Shared-Responsibilities-81d0ff91)
 - [Securing Microsoft Azure AD Connect](https://www.hub.trimarcsecurity.com/amp/securing-microsoft-azure-ad-connect)
 - [Esquemas de licenciamiento soluciones O365](https://github.com/AaronDinnage/Licensing/blob/master/README.md)
+- [20 errores típicos en la configuración de Azure](https://www.infosecmatter.com/top-20-microsoft-azure-vulnerabilities-and-misconfigurations/)
+- [Securing Office 365 and AzureAD. Defend your tenant](https://www.hub.trimarcsecurity.com/amp/webcast-securing-office-365-and-azure-ad-defend-your-tenant)
 
 ### Seguridad en Amazon AWS
 Amazon AWS ha obtenido la certificación [ENS nivel Alto](https://aws.amazon.com/es/compliance/esquema-nacional-de-seguridad/)
@@ -552,6 +555,7 @@ Guías CCN-STIC:
 
 Recursos interesantes:
 - [2020. 118 páginas sobre seguridad en el Directorio Activo](https://github.com/incredibleindishell/Windows-AD-environment-related/blob/master/ad-security-fundamentals-1.pdf)
+- [2020 - Securizando el Directorio Activo](https://rmusser.net/docs/Active_Directory.html#secureAD)
 - [2020. 18 WAYS TO DETECT MALCIOUS ACTIONS IN YOUR ACTIVE DIRECTORY LOGS USING SIEM](https://blueteamblog.com/18-ways-to-detect-malcious-actions-in-your-active-directory-logs-using-siem)
 - [2020. Securing Active Directory: Performing an Active Directory Security Review](https://www.hub.trimarcsecurity.com/post/securing-active-directory-performing-an-active-directory-security-review)
 - [2019. Presentaciones de Sean Metcalf sobre seguridad del directorio activo](https://adsecurity.org/?page_id=1352)
@@ -578,6 +582,7 @@ Guías CCN-STIC:
 Recursos interesantes:
 - [2019- Microsoft. Introducing the security configuration framework: A prioritized guide to hardening Windows 10](https://www.microsoft.com/security/blog/2019/04/11/introducing-the-security-configuration-framework-a-prioritized-guide-to-hardening-windows-10/)
  ![IMG](./img/seccon-framework.png)
+ - [2020 - Cuatro cosas que dificultan la tarea del redteam](https://www.trustedsec.com/blog/4-free-easy-wins-that-make-red-teams-harder/)
 
 - [Ransomware Protection and Containment Strategies for Endpoints. FIREEYE](https://www.fireeye.com/content/dam/fireeye-www/current-threats/pdfs/wp-ransomware-protection-and-containment-strategies.pdf)
 
