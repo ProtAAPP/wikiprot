@@ -290,6 +290,9 @@ Poner a prueba la solidez general de la defensa de una organización (la tecnolo
 - [AuditScripts Critical Security Controls Master Mapping](https://www.auditscripts.com/download/2742/)
 - [2011. A Small Business No Budget Implementation of the SANS 20 Security Controls](https://www.sans.org/reading-room/whitepapers/hsoffice/small-business-budget-implementation-20-security-controls-33744)
 
+## Secure Controls Framework
+https://www.securecontrolsframework.com/
+
 ## Cuestiones generales sobre organización de la Ciberseguridad
 CISO Mind Map by [RAFEEQ REHMAN](https://rafeeqrehman.com/2020/06/12/ciso-mindmap-2020-what-do-infosec-professionals-really-do/)[PDF](http://rafeeqrehman.com/wp-content/uploads/2020/06/CISO_Job_MindMap_Rafeeq_Rehman_v_2020.pdf) 
 
