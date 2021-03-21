@@ -124,9 +124,7 @@ Otros recursos interesantes:
     - [DHCP logs](https://www.serverbrain.org/network-planning-2003/understanding-dhcp-server-log-file-format.html)
     - [DNS logs](https://nxlog.co/whitepapers/dns-logging)
     - [Proxy logs](https://www.vanimpe.eu/2016/10/21/proxy-server-logs-incident-response/)
-
-
-
+- [Security Logs en entornos Cloud](https://www.marcolancini.it/2021/blog-security-logging-cloud-environments-gcp/)
 
 
 ## Correlación eventos - SIEM
@@ -185,6 +183,7 @@ Enlaces interesantes:
 - [2020. ElevenPaths. "TheTHE: The Threat Hunting Environment"](https://empresas.blogthinkbig.com/thethe-threat-hunting-environment-nuestra-herramienta-para-investigadores/)
 - [2020. Blog de Menasec sobre threat hunting](https://blog.menasec.net/)
 - [2020. Sesión del CCN sobre Threat Hunting](https://vanesa.ccn-cert.cni.es/userportal/#/player/vod/Uec62bde1a8764b1983d7b871811afbf5)
+- [2020 - TODO sobre cómo defenderse de Cobalt Strike](https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence)
 - [2019. Detecting the Unknown: A Guide to Threat Hunting](https://hodigital.blog.gov.uk/wp-content/uploads/sites/161/2020/03/Detecting-the-Unknown-A-Guide-to-Threat-Hunting-v2.0.pdf?utm_content=146241199&utm_medium=social&utm_source=twitter&hss_channel=tw-2462899111)
 - [Guía de referencia sobre Movimiento Lateral](https://secureservercdn.net/160.153.138.53/x27.24e.myftpupload.com/download/Lateral-Movement-Analyst-Reference.pdf?time=1599801482)
 - [Lateral Movement Detection GPO Settings Cheat Sheet](https://compass-security.com/fileadmin/Datein/Research/White_Papers/lateral_movement_detection_basic_gpo_settings_v1.0.pdf)
@@ -247,6 +246,12 @@ Ejemplos de alertas que se pueden configurar con honeytokens:
 #### Por organismos internacionales
 - [Computer Security Incident Handling Guide. NIST](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf)
 
+### Reflexiones generales sobre Incident Response
+- [NIST SP 800-61. Computer Security Incident Handling Guide](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf)
+- [Cyber Security Incident Management Guide by Cyber Security Coalition](https://www.cybersecuritycoalition.be/content/uploads/cybersecurity-incident-management-guide-EN.pdf)
+- [Incident Response Plan 101: How to Build One, Templates and Examples](https://www.exabeam.com/incident-response/incident-response-plan/)
+
+
 ### Respondiendo a Ransomware
 - [CCN-CERT BP/04 Ransomware (2018)](https://www.ccn-cert.cni.es/informes/informes-ccn-cert-buenas-practicas-bp/2088-ccn-cert-bp-04-ransomware/file.html)
  - [Ransomware Protection and Containment Strategies for Endpoints. FIREEYE](https://www.fireeye.com/content/dam/fireeye-www/current-threats/pdfs/wp-ransomware-protection-and-containment-strategies.pdf)
@@ -277,6 +282,7 @@ Ejemplos de alertas que se pueden configurar con honeytokens:
     - [Elevación de privilegios](https://www.incidentresponse.com/playbooks/elevation-of-privilege)
     - [Acceso root](https://www.incidentresponse.com/playbooks/root-access)
     - [Uso impropio](https://www.incidentresponse.com/playbooks/improper-computer-usage)
+- [Top 5 Cyber Security Incident Response Playbooks](https://ayehu.com/cyber-security-incident-response-automation/top-5-cyber-security-incident-response-playbooks/)
 
 
 
@@ -291,6 +297,7 @@ Ejemplos de alertas que se pueden configurar con honeytokens:
 - [DFRWS](https://www.youtube.com/c/DFRWS/videos) Canal de Youtube con vídeos sobre forensic en inglés.
 - [Recopilatorio de ficheros PCAP para análisis](https://www.netresec.com/?page=PcapFiles)
 - [Otro recopilatorio de ficheros PCAP para análisis](https://www.malware-traffic-analysis.net/)
+- [Módulo powershell para recuperar logs O365](https://github.com/ANSSI-FR/DFIR-O365RC)
 
 ## Otros recursos
 Lista de CTFs con orientación defensiva (blue):
