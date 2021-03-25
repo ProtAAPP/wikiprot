@@ -454,7 +454,7 @@ se incluye como una **cabecera HTTP**. Hemos desarrollado este tema en la
 :::
 
 
-### Windows Application Firewall (WAF)
+### Web Application Firewall (WAF)
 
 Un WAF (Web Application Firewall) es un dispositivo hardware o software que permite proteger los servidores de aplicaciones web de
 determinados ataques específicos en Internet. Principalmente filtra y monitoriza el tráfico HTTP. 
