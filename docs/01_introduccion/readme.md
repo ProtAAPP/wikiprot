@@ -293,3 +293,4 @@ Los siguientes enlaces están pendientes de ser incluidos en el repositorio en e
 * [https://msendpointmgr.com/2018/06/23/implementing-modern-security-tools-part-1/](https://msendpointmgr.com/2018/06/23/implementing-modern-security-tools-part-1/)
 * [https://www.levelupinfosec.com/freestuff](https://www.levelupinfosec.com/freestuff)
 * [https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html)
+* [https://twitter.com/CCNCERT/status/1375090809314410501?s=19](https://twitter.com/CCNCERT/status/1375090809314410501?s=19)
