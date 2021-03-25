@@ -294,3 +294,4 @@ Los siguientes enlaces están pendientes de ser incluidos en el repositorio en e
 * [https://www.levelupinfosec.com/freestuff](https://www.levelupinfosec.com/freestuff)
 * [https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html)
 * [https://twitter.com/CCNCERT/status/1375090809314410501?s=19](https://twitter.com/CCNCERT/status/1375090809314410501?s=19)
+* [https://www.nextron-systems.com/2021/03/25/antivirus-event-analysis-cheat-sheet-v1-8/](https://www.nextron-systems.com/2021/03/25/antivirus-event-analysis-cheat-sheet-v1-8/)
