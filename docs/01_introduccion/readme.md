@@ -301,3 +301,6 @@ Los siguientes enlaces están pendientes de ser incluidos en el repositorio en e
 * [https://thedarksource.com/shodan-cheat-sheet/](https://thedarksource.com/shodan-cheat-sheet/)
 * [https://github.com/1ndianl33t/Bug-Bounty-Roadmaps](https://github.com/1ndianl33t/Bug-Bounty-Roadmaps)
 * [https://class.malware.re/](https://class.malware.re/)
+* [Cybersecurity Domain Map ver 3.0
+https://www.linkedin.com/pulse/cybersecurity-domain-map-ver-30-henry-jiang](Cybersecurity Domain Map ver 3.0
+https://www.linkedin.com/pulse/cybersecurity-domain-map-ver-30-henry-jiang)
