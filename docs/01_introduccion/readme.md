@@ -299,3 +299,4 @@ Los siguientes enlaces están pendientes de ser incluidos en el repositorio en e
 * [https://channel9.msdn.com/Events/Ignite/New-Zealand-2016/M377](https://channel9.msdn.com/Events/Ignite/New-Zealand-2016/M377)
 * [https://twitter.com/blueteamblog/status/1375724947331543042?s=19](https://twitter.com/blueteamblog/status/1375724947331543042?s=19)
 * [https://thedarksource.com/shodan-cheat-sheet/](https://thedarksource.com/shodan-cheat-sheet/)
+* [https://github.com/1ndianl33t/Bug-Bounty-Roadmaps](https://github.com/1ndianl33t/Bug-Bounty-Roadmaps)
