@@ -305,3 +305,4 @@ Los siguientes enlaces están pendientes de ser incluidos en el repositorio en e
 https://www.linkedin.com/pulse/cybersecurity-domain-map-ver-30-henry-jiang](Cybersecurity Domain Map ver 3.0
 https://www.linkedin.com/pulse/cybersecurity-domain-map-ver-30-henry-jiang)
 * [https://github.com/larryboettger/Cybersecurity-Mindmaps](https://github.com/larryboettger/Cybersecurity-Mindmaps)
+* [https://cloudsecuritypodcast.libsyn.com/website](https://cloudsecuritypodcast.libsyn.com/website)
