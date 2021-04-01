@@ -306,3 +306,4 @@ https://www.linkedin.com/pulse/cybersecurity-domain-map-ver-30-henry-jiang](Cybe
 https://www.linkedin.com/pulse/cybersecurity-domain-map-ver-30-henry-jiang)
 * [https://github.com/larryboettger/Cybersecurity-Mindmaps](https://github.com/larryboettger/Cybersecurity-Mindmaps)
 * [https://cloudsecuritypodcast.libsyn.com/website](https://cloudsecuritypodcast.libsyn.com/website)
+* [https://tdm.socprime.com/education/webinars](https://tdm.socprime.com/education/webinars)
