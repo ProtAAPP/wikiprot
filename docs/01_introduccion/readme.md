@@ -310,3 +310,6 @@ https://www.linkedin.com/pulse/cybersecurity-domain-map-ver-30-henry-jiang)
 * [https://t.co/NqKYhueajw?amp=1](https://t.co/NqKYhueajw?amp=1)
 * [https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml#](https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml#)
 * [https://the-record.captivate.fm/episode/its-been-a-strange-year-for-cybersecurity](https://the-record.captivate.fm/episode/its-been-a-strange-year-for-cybersecurity)
+* [Cybersecurity Domain Map ver 3.0
+https://www.linkedin.com/pulse/cybersecurity-domain-map-ver-30-henry-jiang](Cybersecurity Domain Map ver 3.0
+https://www.linkedin.com/pulse/cybersecurity-domain-map-ver-30-henry-jiang)
