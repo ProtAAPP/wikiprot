@@ -51,7 +51,7 @@
 ##### SAN SEBASTIÁN
 * [Euskalhack](https://securitycongress.euskalhack.org/)
 ##### TENERIFE
-* [Hackr0n](https://www.hackron.com/)
+* [Hackr0n](https://www.hackron.com/) [Videos 2021](https://youtu.be/PomgoIl6y4o)
 ##### VALENCIA
 * [TomatinaCON](http://tomatinacon.com/)
 * [RootedCon Valencia](https://www.rootedcon.com/)
