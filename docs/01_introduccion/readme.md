@@ -301,16 +301,11 @@ Los siguientes enlaces están pendientes de ser incluidos en el repositorio en e
 * [https://thedarksource.com/shodan-cheat-sheet/](https://thedarksource.com/shodan-cheat-sheet/)
 * [https://github.com/1ndianl33t/Bug-Bounty-Roadmaps](https://github.com/1ndianl33t/Bug-Bounty-Roadmaps)
 * [https://class.malware.re/](https://class.malware.re/)
-* [Cybersecurity Domain Map ver 3.0
-https://www.linkedin.com/pulse/cybersecurity-domain-map-ver-30-henry-jiang](Cybersecurity Domain Map ver 3.0
-https://www.linkedin.com/pulse/cybersecurity-domain-map-ver-30-henry-jiang)
+* Cybersecurity Domain Map ver 3.0 [https://www.linkedin.com/pulse/cybersecurity-domain-map-ver-30-henry-jiang](https://www.linkedin.com/pulse/cybersecurity-domain-map-ver-30-henry-jiang)
 * [https://github.com/larryboettger/Cybersecurity-Mindmaps](https://github.com/larryboettger/Cybersecurity-Mindmaps)
 * [https://cloudsecuritypodcast.libsyn.com/website](https://cloudsecuritypodcast.libsyn.com/website)
 * [https://tdm.socprime.com/education/webinars](https://tdm.socprime.com/education/webinars)
 * [https://t.co/NqKYhueajw?amp=1](https://t.co/NqKYhueajw?amp=1)
 * [https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml#](https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml#)
 * [https://the-record.captivate.fm/episode/its-been-a-strange-year-for-cybersecurity](https://the-record.captivate.fm/episode/its-been-a-strange-year-for-cybersecurity)
-* [Cybersecurity Domain Map ver 3.0
-https://www.linkedin.com/pulse/cybersecurity-domain-map-ver-30-henry-jiang](Cybersecurity Domain Map ver 3.0
-https://www.linkedin.com/pulse/cybersecurity-domain-map-ver-30-henry-jiang)
 * [https://www.blueteamsacademy.com/](https://www.blueteamsacademy.com/)
