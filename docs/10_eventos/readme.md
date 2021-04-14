@@ -151,6 +151,7 @@
 - [Graham Cluley](https://www.youtube.com/c/GrahamCluleyCom/videos)
 - [MalwareTech](https://www.youtube.com/c/MalwareTechBlog/videos)
 - [Black Hills Information Security](https://www.youtube.com/channel/UCJ2U9Dq9NckqHMbcUupgF0A)
+- Recomendaciones de (@Sar_Ramirez)[https://twitter.com/Sar_Ramirez/status/1382264910139203589] sobre canales de Youtube en inglés sobre Hacking Ético.
 
 #### Canales de Twitch
 - [CEOS3C](https://www.twitch.tv/ceos3c) Hacking, CTF por [Stefan Rows](https://twitter.com/ceos3c)
@@ -183,7 +184,6 @@
 - [Malicous Life](https://malicious.life/) The unknown stories of the history of cybersecurity, with comments and reflections by real hackers, security experts, journalists, and politicians.
 - [Detections](https://www.detections.org/) BlueTeam.
 - [Azure Security](https://azsecuritypodcast.azurewebsites.net/)
-
 
 ### Redes sociales
 
