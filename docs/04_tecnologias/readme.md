@@ -358,6 +358,8 @@ Guías CCN-STIC:
 Servicio de Cloud Corporativo
 - [CCN-STIC-887A](https://www.ccn-cert.cni.es/pdf/guias/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/5449-ccn-stic-887a-guia-de-configuracion-segura-aws/file.html) Guía de configuración segura para AWS 
 - [CCN-STIC-887B](https://www.ccn-cert.cni.es/pdf/guias/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/5452-ccn-stic-887b-guia-rapida-de-prowler/file.html) Guía rápida de Prowler, herramienta de software libre que permite analizar múltiples servicios y recursos desplegados en AWS de forma manual o automática.
+- [CCN-STIC-887D](https://www.ccn-cert.cni.es/pdf/guias/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/5876-ccn-stic-887d-guia-de-configuracion-segura-multi-cuenta-aws/file.html?idU=1) Guía de configuración segura para entornos multi-cuenta en AWS
+- [CCN-STIC-887E](https://www.ccn-cert.cni.es/pdf/guias/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/5879-ccn-stic-887e-guia-de-configuracion-segura-amazon-workspaces/file.html?idU=1) Guía de configuración segura para Amazon WorkSpaces
 
 
 Otros recursos interesantes:
