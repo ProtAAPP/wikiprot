@@ -268,6 +268,8 @@
 
 
 ### Libros
+- [Recopilación de @Securityartwork](https://www.securityartwork.es/2016/02/12/recopilacion-de-algunos-libros-imprescindibles-para-aprender-seguridad-informatica-secbook/)
+
 #### Libros en Español
 - [Editorial 0xword](https://0xword.com). Muchísimos libros sobre Ciberseguridad en Español.
 - [Recopilatorio de libros sobre criptografía](https://twitter.com/mindcrypt/status/1326861595067166720) vía [@mindcrypt](https://twitter.com/mindcrypt/)
