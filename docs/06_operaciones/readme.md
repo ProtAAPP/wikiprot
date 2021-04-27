@@ -288,6 +288,7 @@ Ejemplos de alertas que se pueden configurar con honeytokens:
 - [Consejos y recomendaciones para responder a un BEC](https://iheartmalware.medium.com/bec-response-guide-tips-for-responding-to-business-email-compromise-incidents-fbb6744e056a)
 
 ### Respondiendo a incidentes en tecnologías concretas
+- [Respuesta a un compromiso del Directorio Activo](https://m365internals.com/2021/04/27/practical-compromise-recovery-guidance-for-active-directory/)
 - [AWS Security Incident Response Guide](https://d1.awsstatic.com/whitepapers/aws_security_incident_response.pdf)
 - [AWS Incident Response template. Web Application Dos/DDoS Attack](https://github.com/aws-samples/aws-incident-response-runbooks/blob/master/runbooks/runbook%20sample%20-%20DoS%20or%20DDoS%20attack.md)
 - [2020. Introducing a mind map for AWS investigations](https://expel.io/blog/mind-map-for-aws-investigations/)
