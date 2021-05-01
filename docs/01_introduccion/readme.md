@@ -66,7 +66,7 @@ Si no puedes ser miembro, también puedes contactar con nosotros para proponer l
 - "Noche de GuasAAPP", evento abierto y en directo:
     - Edición del 18 de diciembre de 2020: [VIDEO](https://www.youtube.com/watch?v=Sh4Ujqs2n7Y&t=1). Ganador del concurso Carlos Portero
 #### 2021
--"Noche de GuasAAPP", evento abierto y en directo:
+- "Noche de GuasAAPP", evento abierto y en directo:
     - Edición del 23 de abril de 2021: [VIDEO](https://youtu.be/lUwAQTu1Dyw) Ganador del concurso (de nuevo) Carlos Portero.
 
 
