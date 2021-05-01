@@ -185,6 +185,7 @@
 - [Detections](https://www.detections.org/) BlueTeam.
 - [Azure Security](https://azsecuritypodcast.azurewebsites.net/)
 - [Cloud Security Podcast](https://cloudsecuritypodcast.libsyn.com/website)
+- [Off the record](https://the-record.captivate.fm/)
 
 ### Redes sociales
 
