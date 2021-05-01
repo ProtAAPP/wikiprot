@@ -123,3 +123,4 @@ A través de juegos interactivos:
 ### Herramientas para hacer concienciación
 - [Gophish](https://getgophish.com/) Herramienta opensource para crear tus propias campañas de phishing simulado y concienciar a los empleados.
 - [King Phisher](https://github.com/rsmusllp/king-phisher). Similar a Gophish.
+- [SniperPhish](https://www.sniperphish.com/)
