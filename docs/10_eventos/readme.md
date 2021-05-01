@@ -184,6 +184,7 @@
 - [Malicous Life](https://malicious.life/) The unknown stories of the history of cybersecurity, with comments and reflections by real hackers, security experts, journalists, and politicians.
 - [Detections](https://www.detections.org/) BlueTeam.
 - [Azure Security](https://azsecuritypodcast.azurewebsites.net/)
+- [Cloud Security Podcast](https://cloudsecuritypodcast.libsyn.com/website)
 
 ### Redes sociales
 
