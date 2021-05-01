@@ -309,5 +309,4 @@ Los siguientes enlaces están pendientes de ser incluidos en el repositorio en e
 * [https://tdm.socprime.com/education/webinars](https://tdm.socprime.com/education/webinars)
 * [https://t.co/NqKYhueajw?amp=1](https://t.co/NqKYhueajw?amp=1)
 * [https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml#](https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml#)
-* [https://the-record.captivate.fm/episode/its-been-a-strange-year-for-cybersecurity](https://the-record.captivate.fm/episode/its-been-a-strange-year-for-cybersecurity)
 * [https://www.blueteamsacademy.com/](https://www.blueteamsacademy.com/)
