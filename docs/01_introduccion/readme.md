@@ -63,11 +63,11 @@ Si no puedes ser miembro, también puedes contactar con nosotros para proponer l
 - RootedCon [La Metacharla de Seguridad](https://www.youtube.com/watch?v=laRfJ_zYJBI)
 - C1b3rWall Academy [Cimientos sólidos para Defensores](https://www.youtube.com/watch?v=hmaMOKSjw-U)
 - ElDiaBlu II (Viernes 27 de noviembre): ganadora del concurso Pilar Payo
-- "Noche de GuasAAPP", evento abierto y en directo:
-    - Edición del 18 de diciembre de 2020: [VIDEO](https://www.youtube.com/watch?v=Sh4Ujqs2n7Y&t=1). Ganador del concurso Carlos Portero
+- #NochedeGuasAAPP v1, evento abierto y en directo:
+    - Edición del 18 de diciembre de 2020: [VIDEO](https://www.youtube.com/watch?v=Sh4Ujqs2n7Y&t=1). Ganador del concurso [Carlos Portero](https://twitter.com/carlosp1984)
 #### 2021
-- "Noche de GuasAAPP", evento abierto y en directo:
-    - Edición del 23 de abril de 2021: [VIDEO](https://youtu.be/lUwAQTu1Dyw) Ganador del concurso (de nuevo) Carlos Portero.
+- #NochedeGuasAAPP v2, evento abierto y en directo:
+    - Edición del 23 de abril de 2021: [VIDEO](https://youtu.be/lUwAQTu1Dyw). Ganador del concurso (de nuevo) [Carlos Portero](https://twitter.com/carlosp1984)
 
 
 ## Colabora con esta documentación
