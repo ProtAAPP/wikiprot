@@ -279,6 +279,7 @@
 - [Historia del hacking en España](https://www.ra-ma.es/libro/historia-del-hacking-en-espana_112773/) de Mercé Molist Ferrer y Jacobo Feijoo 
 - [Cuentos de Ciberseguridad](https://www.amazon.es/Cuentos-Ciberseguridad-Plural-Francisco-Perez/dp/8418155051) de [Francisco Pérez Bes](https://twitter.com/pacoperezbes) (para niños).
 - [Nuestros hijos en la red: 50 cosas que debemos saber para una buena prevención digital](https://www.amazon.es/Nuestros-hijos-red-debemos-prevenci%C3%B3n/dp/8417886028/ref=sr_1_1) de [Silvia Barrera](https://twitter.com/sbarrera0)
+- [Ciberseguridad Industrial e Infraestructuras Críticas, Fernando Sevillano y varios autores ](https://www.ra-ma.es/libro/ciberseguridad-industrial-e-infraestructuras-criticas_119432/)
 
 #### Libros en Inglés
 - [We Have Root](https://www.schneier.com/books/root/) Bruce Schneier. 2019.
