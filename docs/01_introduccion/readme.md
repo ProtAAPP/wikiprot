@@ -282,7 +282,6 @@ Los siguientes enlaces están pendientes de ser incluidos en el repositorio en e
 * [https://blog.raw.pm/en/state-of-the-art-of-network-pivoting-in-2019/](https://blog.raw.pm/en/state-of-the-art-of-network-pivoting-in-2019/)
 * [https://zdresearch.com/finding-the-origin-ip-behind-cdns/](https://zdresearch.com/finding-the-origin-ip-behind-cdns/)
 * [https://cybersecurity.att.com/blogs/security-essentials/building-a-home-lab-to-become-a-malware-hunter-a-beginners-guide](https://cybersecurity.att.com/blogs/security-essentials/building-a-home-lab-to-become-a-malware-hunter-a-beginners-guide)
-* [https://derechodelared.com/los-mapas-de-las-ciberleyes/](https://derechodelared.com/los-mapas-de-las-ciberleyes/)
 * [https://github.com/ihebski/DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet)
 * [https://www.ra-ma.es/libro/privacidad-y-ocultacion-de-informacion-digital-esteganografia_47926/](https://www.ra-ma.es/libro/privacidad-y-ocultacion-de-informacion-digital-esteganografia_47926/)
 * [https://tldrsec.com/blog/lesser-known-aws-attacks/](https://tldrsec.com/blog/lesser-known-aws-attacks/)
