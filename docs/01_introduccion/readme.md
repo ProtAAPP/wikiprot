@@ -276,7 +276,6 @@ Podéis contribuir al repositorio con cualquier contenido que consideréis inter
 
 ### Enlaces pendientes de ser incluidos en el repositorio
 Los siguientes enlaces están pendientes de ser incluidos en el repositorio en el lugar que les corresponda:
-* [https://iheartmalware.medium.com/bec-response-guide-tips-for-responding-to-business-email-compromise-incidents-fbb6744e056a](https://iheartmalware.medium.com/bec-response-guide-tips-for-responding-to-business-email-compromise-incidents-fbb6744e056a)
 * [https://blog.raw.pm/en/state-of-the-art-of-network-pivoting-in-2019/](https://blog.raw.pm/en/state-of-the-art-of-network-pivoting-in-2019/)
 * [https://zdresearch.com/finding-the-origin-ip-behind-cdns/](https://zdresearch.com/finding-the-origin-ip-behind-cdns/)
 * [https://cybersecurity.att.com/blogs/security-essentials/building-a-home-lab-to-become-a-malware-hunter-a-beginners-guide](https://cybersecurity.att.com/blogs/security-essentials/building-a-home-lab-to-become-a-malware-hunter-a-beginners-guide)
