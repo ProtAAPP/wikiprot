@@ -5,3 +5,4 @@ En esta sección enumeramos otros repositorios sobre ciberseguridad, con caracte
 - [RMUSSER](https://rmusser.net/docs/Active_Directory.html)
 - [Trimstray](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [Pentesting-Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE/blob/master/README.md)
+- [Level up Infosec](https://www.levelupinfosec.com/freestuff)
