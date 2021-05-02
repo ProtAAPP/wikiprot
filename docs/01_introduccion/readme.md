@@ -288,7 +288,6 @@ Los siguientes enlaces están pendientes de ser incluidos en el repositorio en e
 * [https://zeltser.com/start-learning-malware-analysis/](https://zeltser.com/start-learning-malware-analysis/)
 * [https://tryhackme.com/room/yara](https://tryhackme.com/room/yara)
 * [https://twitter.com/superruserr/status/1347938706875887616?s=19](https://twitter.com/superruserr/status/1347938706875887616?s=19)
-* [https://blog.assetnote.io/2021/01/13/blind-ssrf-chains/](https://blog.assetnote.io/2021/01/13/blind-ssrf-chains/)
 * [https://thehackernews.com/2021/01/nsa-suggests-enterprises-use-designated.html?m=1#click=https://t.co/l9SnXVoq7U](https://thehackernews.com/2021/01/nsa-suggests-enterprises-use-designated.html?m=1#click=https://t.co/l9SnXVoq7U)
 * [https://0xn3va.gitbook.io/cheat-sheets/web-application/oauth](https://0xn3va.gitbook.io/cheat-sheets/web-application/oauth)
 * [http://www.bugbountyhunter.net/twitter.php](http://www.bugbountyhunter.net/twitter.php)
