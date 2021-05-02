@@ -56,8 +56,9 @@ de las infraestructuras críticas.
 - [Privacy Shield](https://www.privacyshield.gov/welcome) EU, Suiza y USA. [Invalidado](https://curia.europa.eu/jcms/upload/docs/application/pdf/2020-07/cp200091es.pdf) por el Tribunal de Justicia de la Unión Europea.
 
 ### Normativa de otros paises
-Leyes sobre Ciberseguridad:
-* Alemania [Ley BSI](https://www.bsi.bund.de/EN/TheBSI/BSIAct/bsiact_node.html)
+- [Legislación que hay actualmente sobre cibercrimen, protección de datos, e-transactions y protección del consumidor digital](https://derechodelared.com/los-mapas-de-las-ciberleyes/)
+- Leyes sobre Ciberseguridad:
+    - Alemania [Ley BSI](https://www.bsi.bund.de/EN/TheBSI/BSIAct/bsiact_node.html)
 
 Marcos de controles sobre ciberseguridad
 * USA [NIST](https://www.nist.gov/) [SP800-53](https://nvd.nist.gov/800-53) [FedRAMP](https://www.fedramp.gov/)
