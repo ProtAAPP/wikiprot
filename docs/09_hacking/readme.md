@@ -114,6 +114,7 @@ Recursos generales:
 
 ### Network pentesting
 - [Network Pivoting and Tunneling Guide](https://catharsis.net.au/blog/network-pivoting-and-tunneling-guide/)
+- [State of the art of network pivoting in 2019](https://blog.raw.pm/en/state-of-the-art-of-network-pivoting-in-2019/)
 - [Router Penetration Testing](https://www.hackingarticles.in/router-penetration-testing/)
 - [Recopilatorio network pentesting](https://guif.re/networkpentest) por [@guifreruiz](https://twitter.com/guifreruiz)
 
