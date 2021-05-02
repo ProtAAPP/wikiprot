@@ -141,7 +141,7 @@ Recursos interesantes:
 - [Recopilatorio web pentesting](https://guif.re/webpentest) por [@guifreruiz](https://twitter.com/guifreruiz)
 - [Recopilatorio enlaces Web Penetration Testing](https://www.hackingarticles.in/web-penetration-testing/) Muchísimos enlaces.
 - [Mapa mental ataques SSRF](https://raw.githubusercontent.com/hackerscrolls/SecurityTips/master/MindMaps/SSRF.png)
-
+- [Blind SSRF](https://blog.assetnote.io/2021/01/13/blind-ssrf-chains/)
 
 
 ### Auditorías de servicios Cloud
