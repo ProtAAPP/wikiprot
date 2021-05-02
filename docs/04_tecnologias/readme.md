@@ -93,6 +93,7 @@ Recursos interesante:
 - [Hashing vs. Encryption vs. Encoding vs. Obfuscation](https://danielmiessler.com/study/encoding-encryption-hashing-obfuscation/)
 - [Criptografía en el mundo real](https://cmr.e-paths.com/) Libro de Gonzalo Álvarez Marañón, Área de Innovación y Laboratorio. Eleven Paths.
 - [Crypto Go Game](https://www.cryptogogame.com/ES/juego) - Juego de cartas educativo sobre criptografía simétrica actual. El principal objetivo de _Crypto Go_ es   familiarizar a los jugadores de una manera lúdica y social con las principales herramientas criptográficas actuales,  su nivel de seguridad, y la forma correcta de combinarlas.
+- [ENISA POST-QUANTUM CRYPTOGRAPHY](https://t.co/NqKYhueajw?amp=1)
 
 ### Copias de Seguridad
 Todos los responsables de sistemas y/o usuarios deben respaldar los datos críticos que tienen en sus equipos de escritorio, portátiles, servidores e incluso dispositivos móviles para protegerlos de pérdidas o corrupción. Guardar solo un archivo de respaldo puede no ser suficiente para salvaguardar
