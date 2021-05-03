@@ -64,6 +64,7 @@ Recursos generales:
 - [Password Dumping Cheatsheet: Windows](https://www.hackingarticles.in/password-dumping-cheatsheet-windows/)
 - [MEGA mapa mental sobre pentesting](https://raw.githubusercontent.com/dsopas/assessment-mindset/master/assessment-mindset.png)
 - [Chuleta interactiva sobre herramientas ofensivas](https://wadcoms.github.io/) 
+- [Lista de payloads para Metasploit](https://www.infosecmatter.com/list-of-metasploit-payloads-detailed-spreadsheet/)
 
 ## Auditorías/Pentesting según tecnología
 
