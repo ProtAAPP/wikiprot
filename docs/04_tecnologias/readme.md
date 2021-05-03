@@ -583,6 +583,7 @@ Guías CCN-STIC:
 - [CCN-STIC-585 Implementación de seguridad en Microsoft Office 2016 sobre Microsoft Windows 10](https://www.ccn-cert.cni.es/pdf/guias/series-ccn-stic/guias-de-acceso-publico-ccn-stic/3531-ccn-stic-585-implementacion-de-seguridad-en-microsoft-office-2016-sobre-microsoft-windows-10/file.html)
 
 Recursos interesantes:
+- [2021 - BSI. Configuration Recommendations for Hardening of Windows 10 Using Built-in Functionalities ](https://t.co/y6DKMqc5GV)
 - [2019- Microsoft. Introducing the security configuration framework: A prioritized guide to hardening Windows 10](https://www.microsoft.com/security/blog/2019/04/11/introducing-the-security-configuration-framework-a-prioritized-guide-to-hardening-windows-10/)
  ![IMG](./img/seccon-framework.png)
  - [2020 - Cuatro cosas que dificultan la tarea del redteam](https://www.trustedsec.com/blog/4-free-easy-wins-that-make-red-teams-harder/)
