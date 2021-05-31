@@ -182,7 +182,7 @@ Recursos generales:
 ### Auditorías de Directorio Activo
 Recursos interesantes:
 - [2021. Windows & Active Directory Exploitation Cheat Sheet and Command Reference](https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/)
-- [2021. Stacking Active Directory](https://zer1t0.gitlab.io/posts/attacking_ad/)
+- [2021. Attacking Active Directory](https://zer1t0.gitlab.io/posts/attacking_ad/)
 - [2020. Securing Active Directory: Performing an Active Directory Security Review](https://www.hub.trimarcsecurity.com/post/securing-active-directory-performing-an-active-directory-security-review)
 - [2020 - Atacando el Directorio Activo](https://rmusser.net/docs/Active_Directory.html#adattack)
 - [Active Directory Exploitation Cheat Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet/blob/master/README.md)
