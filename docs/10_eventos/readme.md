@@ -226,7 +226,7 @@
 - [ProtAAPP](https://groups.google.com/d/forum/protaapp) Solo para empleados públicos de AAPP.
 
 ### Revistas
-- [Revista SIC](https://revistasic.es/). De manera excepcional, se pueden consultar los últimos números de manera abierta en: [SIC 143](https://revistasic.es/sic143/revistasic143.pdf), [SIC 142](https://revistasic.es/sic142/revistasic142.pdf),[SIC 141](https://revistasic.es/sic141/revistasic141.pdf), [SIC 140](https://revistasic.es/sic140/revistasic140.pdf), [SIC 139](https://revistasic.es/sic139/revistasic139.pdf) 
+- [Revista SIC](https://revistasic.es/). De manera excepcional, se pueden consultar los últimos números de manera abierta en: [SIC 145](https://revistasic.es/sic145/revistasic145.pdf), [SIC 144](https://revistasic.es/sic144/revistasic144.pdf), [SIC 143](https://revistasic.es/sic143/revistasic143.pdf), [SIC 142](https://revistasic.es/sic142/revistasic142.pdf),[SIC 141](https://revistasic.es/sic141/revistasic141.pdf), [SIC 140](https://revistasic.es/sic140/revistasic140.pdf), [SIC 139](https://revistasic.es/sic139/revistasic139.pdf) 
 - [Thiber](https://www.thiber.org/thiber-digest/)
 - [CIBERelcano](http://www.realinstitutoelcano.org/wps/portal/rielcano_es/publicaciones/ciber-elcano)
 - [RedSeguridad](https://www.redseguridad.com/)
