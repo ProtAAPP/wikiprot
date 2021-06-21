@@ -46,7 +46,6 @@
 ##### SANTANDER
 * [Sh3llcon](https://www.sh3llcon.es/)
 ##### SEVILLA
-* [OSINT City](https://www.osintcity.com/)
 * [SecAdm1n](https://www.secadmin.es/)
 ##### SAN SEBASTIÁN
 * [Euskalhack](https://securitycongress.euskalhack.org/)
