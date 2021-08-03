@@ -386,6 +386,7 @@ Guías CIS:
 Otros recursos interesantes:
 - [A Practical Introduction to Container Security](https://cloudberry.engineering/article/practical-introduction-container-security/)
 - [Kubernetes Security Is Not Container Security](https://blog.alcide.io/kubernetes-security-is-not-container-security?hs_amp=true&__twitter_impression=true)
+- [Guía de Kubernetes de la NSA/CISA](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF)
 
 ## Servicios de PKI
 - [Design and build a privately hosted Public Key Infrastructure](https://www.ncsc.gov.uk/collection/in-house-public-key-infrastructure)
