@@ -132,6 +132,7 @@ Herramientas:
 - [Web Application Security Recon Automation Framework](https://www.kitploit.com/2020/11/reconnote-web-application-security.html?m=1)
 
 Recursos interesantes:
+- [OWASP Top Ten explicado de forma interactiva](https://www.hacksplaining.com/lessons)
 - [Recopilatorio de ataques web](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is an evolving list of strings which have a high probability of causing issues when used as user-input data. This is intended for use in
   helping both automated and manual QA testing.
