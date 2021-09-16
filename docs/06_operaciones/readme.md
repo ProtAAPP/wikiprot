@@ -113,6 +113,9 @@ Es importante tener en cuenta que no todas las fuentes de logs tienen el mismo v
 
 A modo de ejemplo, en este documento se analizan los diferentes tipos de logs que genera un antivirus, y se destacan aquellos que pueden ser mas relevantes para la detección de amenazas: [Antivirus Event Analysis Cheat Sheet](https://www.nextron-systems.com/wp-content/uploads/2019/10/Antivirus_Event_Analysis_CheatSheet_1.7.2.pdf) elaborado por [@cyb3rops](https://twitter.com/cyb3rops/status/1221580082667499522?s=20)
 
+Otro ejemplo sobre qué buscar en los logs del proxy de navegación para detectar actividad maliciosa, elaborado por [@Cyb3rmonk](https://twitter.com/cyb3rmonk)
+![IMG](./img/browse-hunting.png)
+
 Otros recursos interesantes:
 - [OSSEM](https://ossemproject.com/intro.html) Es un proyecto dirigido por la comunidad que se centra principalmente en la documentación y estandarización de los registros de eventos de seguridad de diversas fuentes de datos y sistemas operativos.
 - Como interpretar los logs de diferentes tecnologías o servicios:
