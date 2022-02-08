@@ -55,21 +55,25 @@ Si no puedes ser miembro, también puedes contactar con nosotros para proponer l
 - ElDiablu (la precuela) febrero.
 - SocInfo [Accesos corporativos. Instrucciones de montaje (DIY)](https://www.slideshare.net/GuillermoObispoSanRo/accesos-corporativos)
 - RootedCon [Zarancon City: Ciudad bastionada](https://www.youtube.com/watch?v=VJIzFuTTRb4)
+- Un hacker al día - Programa #Include/Fundación GoodJob - Marzo
 - CyberCamp [Del rojo al azul](https://www.youtube.com/watch?v=WiQ1zknX-rU)
 - ElDiaBlu I (Viernes 13 de diciembre): ganador del concurso Antonio Sanz.
 #### 2020
 - Isaca [Menú saludable para Responsables de Seguridad. Como digerir el ENS](https://www.slideshare.net/GuillermoObispoSanRo/menu-saludable-para-responsables-de-seguridad-226454626)
 - RootedCon [Compliance as Code (Auditoría de infraestructura, rápida y eficiente)](https://www.youtube.com/watch?v=vODFljdavJw&t=1s)
 - RootedCon [La Metacharla de Seguridad](https://www.youtube.com/watch?v=laRfJ_zYJBI)
-- C1b3rWall Academy [Cimientos sólidos para Defensores](https://www.youtube.com/watch?v=hmaMOKSjw-U)
+- Un hacker al día - Programa #Include_2/Fundación GoodJob - Mayo
+- C1b3rWall Academy [Cimientos sólidos para Defensores](https://www.youtube.com/- Un hacker al día - Programa #Include2/Fundación GoodJob - Mayo
+watch?v=hmaMOKSjw-U)
+- Un hacker al día - Programa #Include_3/Fundación GoodJob - Octubre
 - ElDiaBlu II (Viernes 27 de noviembre): ganadora del concurso Pilar Payo
-- #NochedeGuasAAPP v1, evento abierto y en directo:
+- #NochedeGuasAAPP v1, evento3abierto y en directoOctubre
     - Edición del 18 de diciembre de 2020: [VIDEO](https://www.youtube.com/watch?v=Sh4Ujqs2n7Y&t=1). Ganador del concurso [Carlos Portero](https://twitter.com/carlosp1984)
 #### 2021
 - #NochedeGuasAAPP v2, evento abierto y en directo:
-    - Edición del 23 de abril de 2021: [VIDEO](https://youtu.be/lUwAQTu1Dyw). Ganador del concurso (de nuevo) [Carlos Portero](https://twitter.com/carlosp1984)
-
-
+- Edición del 23 de abril de 2021: [VIDEO](https://youtu.be/lUwAQTu1Dyw). Ganador del concurso (de nuevo) [Carlos Portero](https://twitter.com/carlosp1984)
+- Un hacker al día - Programa #Include_4/Fundación GoodJob - Marzo
+- Nuevas tendencias y plataformas: Youtube, Twitch y Ciberseguridad - Universidad Europea de Madrid (Jueves 22 de julio)
 ## Colabora con esta documentación
 
 Este repositorio está (y estará siempre) **"en construcción"**, ya que el conocimiento en esta materia está en continua evolución.
