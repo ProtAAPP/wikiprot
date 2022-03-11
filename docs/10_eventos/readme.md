@@ -100,6 +100,7 @@
 ### Otros formatos de eventos
 - [#NochedeGuasAAPP](https://twitch.tv/protaapp) Evento online, abierto, que incluye concursos, retos y humor sobre ciberseguridad.
 - [Hack & Beers](https://hackandbeers.es/). Ponencias gratuitas para interesados en la seguridad informática. Ambiente distendido y acompañando las charlas con unas Beers.
+- [#desafioProtAAPP rootedCON2022] Tercer y último reto de ProtAAPP dentro de la rootedCON 2022, como sabemos que te gusta aprender, conocer y compartir tienes que escribir un tweet que nos menciones @protaapp y que contenga el hash con tu solución (la clave es tu nick de Twitter). Indica también el hashtag #desafioProtAAPP.
 
 ## Difusión de la ciberseguridad
 
