@@ -284,8 +284,13 @@ Ejemplos de alertas que se pueden configurar con honeytokens:
 ### Respondiendo a DDoS
 - [CCN Abstract - Ataques DDoS. Recomendaciones y buenas prácticas (2020)](https://www.ccn-cert.cni.es/informes/abstracts/4925-ataques-ddos-recomendaciones-y-buenas-practicas/file.html)
 
-### Respondiendo a brechas de seguridad
-- [AEPD - Guía para la gestión y notificación de brechas de seguridad](https://www.aepd.es/sites/default/files/2019-09/guia-brechas-seguridad.pdf)
+### Respondiendo a brechas de datos personales
+- [AEPD - Guía para la notificación de brechas de datos personales](https://www.aepd.es/sites/default/files/2019-09/guia-brechas-seguridad.pdf)
+- [AEPD - Notificación de brechas de datos personales a la Autoridad de Control](https://www.aepd.es/es/derechos-y-deberes/cumple-tus-deberes/medidas-de-cumplimiento/brechas-de-datos-personales-notificacion)
+- [AEPD - Comunicación de brechas de datos personales a las personas afectadas](https://www.aepd.es/es/derechos-y-deberes/cumple-tus-deberes/medidas-de-cumplimiento/comunicacion-de-brechas-de-datos)
+- [AEPD - Herramienta Comunica-Brecha RGPD](https://www.aepd.es/es/guias-y-herramientas/herramientas/comunica-brecha-rgpd)
+- [AEPD - Formulario de notificación de brechas de datos personales a la AEPD](https://sedeagpd.gob.es/sede-electronica-web/vistas/formBrechaSeguridad/procedimientoBrechaSeguridad.jsf)
+- [EDPB - Guidelines 01/2021 on Examples regarding Data Breach Notification](https://edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-012021-examples-regarding-personal-data-breach_en)
 
 ### Respondiendo a incidentes con el correo electrónico - Business Email Compromise (BEC)
 - [Consejos y recomendaciones para responder a un BEC](https://iheartmalware.medium.com/bec-response-guide-tips-for-responding-to-business-email-compromise-incidents-fbb6744e056a)
