@@ -62,18 +62,26 @@ Si no puedes ser miembro, también puedes contactar con nosotros para proponer l
 - Isaca [Menú saludable para Responsables de Seguridad. Como digerir el ENS](https://www.slideshare.net/GuillermoObispoSanRo/menu-saludable-para-responsables-de-seguridad-226454626)
 - RootedCon [Compliance as Code (Auditoría de infraestructura, rápida y eficiente)](https://www.youtube.com/watch?v=vODFljdavJw&t=1s)
 - RootedCon [La Metacharla de Seguridad](https://www.youtube.com/watch?v=laRfJ_zYJBI)
-- Un hacker al día - Programa #Include_2/Fundación GoodJob - Mayo
+- Un hacker al día - Programa #Include/Fundación GoodJob - Mayo
 - C1b3rWall Academy [Cimientos sólidos para Defensores](https://www.youtube.com/- Un hacker al día - Programa #Include2/Fundación GoodJob - Mayo
 watch?v=hmaMOKSjw-U)
-- Un hacker al día - Programa #Include_3/Fundación GoodJob - Octubre
+- Un hacker al día - Programa #Include/Fundación GoodJob -(7 de octubre)
 - ElDiaBlu II (Viernes 27 de noviembre): ganadora del concurso Pilar Payo
 - #NochedeGuasAAPP v1, evento3abierto y en directoOctubre
     - Edición del 18 de diciembre de 2020: [VIDEO](https://www.youtube.com/watch?v=Sh4Ujqs2n7Y&t=1). Ganador del concurso [Carlos Portero](https://twitter.com/carlosp1984)
 #### 2021
 - #NochedeGuasAAPP v2, evento abierto y en directo:
+- Un hacker al día - Programa #Include/Fundacion GoodJob - (18 de marzo)
 - Edición del 23 de abril de 2021: [VIDEO](https://youtu.be/lUwAQTu1Dyw). Ganador del concurso (de nuevo) [Carlos Portero](https://twitter.com/carlosp1984)
-- Un hacker al día - Programa #Include_4/Fundación GoodJob - Marzo
 - Nuevas tendencias y plataformas: Youtube, Twitch y Ciberseguridad - Universidad Europea de Madrid (Jueves 22 de julio)
+#### 2022
+- RootedCON Track propio en la sala 19 - Marzo
+- Un hacker al día - Programa #Include/Fundacion GoodJob - (17 de octubre)
+- II Congreso Nacional RECI - [Zaracón, ciudad bastionada Parte II] (11 de octubre, Palma de Mallorca)
+- TizonaConf [Zaracón, ciudad bastionada Parte II] (15 de octubre, Burgos)
+- MICE Forum - Noviembre (23 de noviembre, Sevilla)
+#### 2023
+- RootedCON Track propio en la sala 19 - Marzo
 ## Colabora con esta documentación
 
 Este repositorio está (y estará siempre) **"en construcción"**, ya que el conocimiento en esta materia está en continua evolución.
