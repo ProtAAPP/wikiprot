@@ -73,6 +73,7 @@ watch?v=hmaMOKSjw-U)
 - #NochedeGuasAAPP v2, evento abierto y en directo:
 - Un hacker al día - Programa #Include/Fundacion GoodJob - (18 de marzo)
 - Edición del 23 de abril de 2021: [VIDEO](https://youtu.be/lUwAQTu1Dyw). Ganador del concurso (de nuevo) [Carlos Portero](https://twitter.com/carlosp1984)
+- SocInfo [In the navy. Hasta la DMZ y más allá](https://www.slideshare.net/GuillermoObispoSanRo/in-the-navy-hasta-la-dmz-y-ms-all)(25 de mayo)
 - Nuevas tendencias y plataformas: Youtube, Twitch y Ciberseguridad - Universidad Europea de Madrid (Jueves 22 de julio)
 #### 2022
 - RootedCON Track propio en la sala 19 - Marzo
@@ -81,6 +82,7 @@ watch?v=hmaMOKSjw-U)
 - TizonaConf [Zaracón, ciudad bastionada Parte II] (15 de octubre, Burgos)
 - MICE Forum - Noviembre (23 de noviembre, Sevilla)
 #### 2023
+- Securiters Twitch (13 de febrero)
 - RootedCON Track propio en la sala 19 - Marzo
 ## Colabora con esta documentación
 
