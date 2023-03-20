@@ -70,8 +70,8 @@ watch?v=hmaMOKSjw-U)
     - Edición del 18 de diciembre de 2020: [VIDEO](https://www.youtube.com/watch?v=Sh4Ujqs2n7Y&t=1). Ganador del concurso [Carlos Portero](https://twitter.com/carlosp1984)
 #### 2021
 - #NochedeGuasAAPP v2, evento abierto y en directo:
+    - Edición del 23 de abril de 2021: [VIDEO](https://youtu.be/lUwAQTu1Dyw). Ganador del concurso (de nuevo) [Carlos Portero](https://twitter.com/carlosp1984)
 - Un hacker al día - Programa #Include/Fundacion GoodJob - (18 de marzo)
-- Edición del 23 de abril de 2021: [VIDEO](https://youtu.be/lUwAQTu1Dyw). Ganador del concurso (de nuevo) [Carlos Portero](https://twitter.com/carlosp1984)
 - SocInfo [In the navy. Hasta la DMZ y más allá](https://www.slideshare.net/GuillermoObispoSanRo/in-the-navy-hasta-la-dmz-y-ms-all)(25 de mayo)
 - Nuevas tendencias y plataformas: Youtube, Twitch y Ciberseguridad - Universidad Europea de Madrid (Jueves 22 de julio)
 #### 2022
@@ -88,6 +88,7 @@ watch?v=hmaMOKSjw-U)
     * Presentación de Ángel del Peso: [¿Montar un ministerio? Sujet me the cubat](https://github.com/ProtAAPP/ProtAAPP-RootedCON/blob/05a5b8b3f7a8798107be5b8723631c80e893f89b/2023/2023-ProtAAPP-RootedCON-AngeldelPeso.pdf)
     * Presentación de Emilio Rico: [¡Ven a la escuela de calor! (#mitreando)](https://github.com/ProtAAPP/ProtAAPP-RootedCON/blob/05a5b8b3f7a8798107be5b8723631c80e893f89b/2023/2023-ProtAAPP-RootedCON-EmilioRico.pdf)
     * Presentación de Lorena González [¿Y si conozco lo que tecleas? Un estudio de viabilidad](https://github.com/ProtAAPP/ProtAAPP-RootedCON/blob/05a5b8b3f7a8798107be5b8723631c80e893f89b/2023/2023-ProtAAPP-RootedCON-LorenaGonzalezManzano.pdf)
+- Congreso [TryitUPM](https://congresotryit.es/) - ["Del rojo al azul v2"](https://www.twitch.tv/videos/1765715380?t=3h30m25s)
    
 
 ## Colabora con esta documentación
