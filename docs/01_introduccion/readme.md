@@ -66,7 +66,7 @@ Si no puedes ser miembro, también puedes contactar con nosotros para proponer l
 watch?v=hmaMOKSjw-U)
 - Un hacker al día - Programa #Include/Fundación GoodJob -(7 de octubre)
 - ElDiaBlu II (Viernes 27 de noviembre): ganadora del concurso Pilar Payo
-- #NochedeGuasAAPP v1, evento3abierto y en directoOctubre
+- #NochedeGuasAAPP v1, evento abierto y en directo
     - Edición del 18 de diciembre de 2020: [VIDEO](https://www.youtube.com/watch?v=Sh4Ujqs2n7Y&t=1). Ganador del concurso [Carlos Portero](https://twitter.com/carlosp1984)
 #### 2021
 - #NochedeGuasAAPP v2, evento abierto y en directo:
