@@ -14,8 +14,7 @@ ProtAAPP persigue un triple objetivo:
 
 - Ofrecer un foro de conocimiento a través del que continuar aprendiendo en múltiples sectores relacionados con la ciberseguridad: normativo, técnico, organizativo, etc.
 
-Para hacer todo esto posible, la comunidad dispone, entre otras herramientas, de la [web](https://www.protaapp.com), a través de la que se da a conocer la comunidad y se divulga 
-conocimiento de forma pública para todos los interesados, así como de una lista de distribución privada con múltiples temáticas, a través de la que los 
+Para hacer todo esto posible, la comunidad dispone, entre otras herramientas, de la [web](https://www.protaapp.com), a través de la que se da a conocer la comunidad y se divulga conocimiento de forma pública para todos los interesados, así como de una lista de distribución privada con múltiples temáticas, a través de la que los 
 miembros de la comunidad realizan propuestas, debaten, consultan por experiencias similares en otros organismos, estrechan lazos, organizan quedadas y 
 ejercitan a diario sus conocimientos sobre ciberseguridad.
 
@@ -76,14 +75,14 @@ watch?v=hmaMOKSjw-U)
 - SocInfo [In the navy. Hasta la DMZ y más allá](https://www.slideshare.net/GuillermoObispoSanRo/in-the-navy-hasta-la-dmz-y-ms-all)(25 de mayo)
 - Nuevas tendencias y plataformas: Youtube, Twitch y Ciberseguridad - Universidad Europea de Madrid (Jueves 22 de julio)
 #### 2022
-- RootedCON Track propio en la sala 19 - Marzo
+- Track de ProtAAPP en RootedCON, el día 11 de marzo
 - Un hacker al día - Programa #Include/Fundacion GoodJob - (17 de octubre)
 - II Congreso Nacional RECI - [Zaracón, ciudad bastionada Parte II] (11 de octubre, Palma de Mallorca)
 - TizonaConf [Zaracón, ciudad bastionada Parte II] (15 de octubre, Burgos)
 - MICE Forum - Noviembre (23 de noviembre, Sevilla)
 #### 2023
 - Securiters Twitch (13 de febrero)
-- RootedCON Track propio en la sala 19 - Marzo
+- Track de ProtAAPP en RootedCON, el día 10 de marzo
 ## Colabora con esta documentación
 
 Este repositorio está (y estará siempre) **"en construcción"**, ya que el conocimiento en esta materia está en continua evolución.
