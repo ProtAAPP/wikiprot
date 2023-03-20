@@ -83,6 +83,13 @@ watch?v=hmaMOKSjw-U)
 #### 2023
 - Securiters Twitch (13 de febrero)
 - Track de ProtAAPP en RootedCON, el día 10 de marzo
+    * Presentación de Julia Cortés: [¿Realmente somos las personas el eslabón mas débil de la cadena?](https://github.com/ProtAAPP/ProtAAPP-RootedCON/blob/07348586ee5307f2d8550fda57f2332274c606a7/2023/2023-ProtAAPP-RootedCON-JuliaCortesDelgado.pdf)
+    * Presentación de Maribel González: [Criptografía Post-Cuántica (para muggles)](https://github.com/ProtAAPP/ProtAAPP-RootedCON/blob/e7cde26109eaa05433c786cace92f75ae69283d3/2023/2023-ProtAAPP-RootedCON-MaribelGonzalezVasco.pdf)
+    * Presentación de Ángel del Peso: [¿Montar un ministerio? Sujet me the cubat](https://github.com/ProtAAPP/ProtAAPP-RootedCON/blob/05a5b8b3f7a8798107be5b8723631c80e893f89b/2023/2023-ProtAAPP-RootedCON-AngeldelPeso.pdf)
+    * Presentación de Emilio Rico: [¡Ven a la escuela de calor! (#mitreando)](https://github.com/ProtAAPP/ProtAAPP-RootedCON/blob/05a5b8b3f7a8798107be5b8723631c80e893f89b/2023/2023-ProtAAPP-RootedCON-EmilioRico.pdf)
+    * Presentación de Lorena González [¿Y si conozco lo que tecleas? Un estudio de viabilidad](https://github.com/ProtAAPP/ProtAAPP-RootedCON/blob/05a5b8b3f7a8798107be5b8723631c80e893f89b/2023/2023-ProtAAPP-RootedCON-LorenaGonzalezManzano.pdf)
+   
+
 ## Colabora con esta documentación
 
 Este repositorio está (y estará siempre) **"en construcción"**, ya que el conocimiento en esta materia está en continua evolución.
