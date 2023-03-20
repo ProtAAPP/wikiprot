@@ -75,14 +75,14 @@ watch?v=hmaMOKSjw-U)
 - SocInfo [In the navy. Hasta la DMZ y más allá](https://www.slideshare.net/GuillermoObispoSanRo/in-the-navy-hasta-la-dmz-y-ms-all)(25 de mayo)
 - Nuevas tendencias y plataformas: Youtube, Twitch y Ciberseguridad - Universidad Europea de Madrid (Jueves 22 de julio)
 #### 2022
-- Track de ProtAAPP en RootedCON, el día 11 de marzo
+- Track de ProtAAPP en [RootedCON](https://rootedcon.com), el día 11 de marzo
 - Un hacker al día - Programa #Include/Fundacion GoodJob - (17 de octubre)
 - II Congreso Nacional RECI - [Zaracón, ciudad bastionada Parte II] (11 de octubre, Palma de Mallorca)
-- TizonaConf [Zaracón, ciudad bastionada Parte II] (15 de octubre, Burgos)
+- [TizonaConf](https://www.tizonaconf.com/) [Zaracón, ciudad bastionada Parte II] (15 de octubre, Burgos)
 - MICE Forum - Noviembre (23 de noviembre, Sevilla)
 #### 2023
-- Securiters Twitch (13 de febrero)
-- Track de ProtAAPP en RootedCON, el día 10 de marzo
+- Participación en el [Twitch de Securiters](https://www.twitch.tv/videos/1737232268) de Miguel Angel Rodriguez (13 de febrero)
+- Track de ProtAAPP en el congreso RootedCON, el día 10 de marzo:
     * Presentación de Julia Cortés: [¿Realmente somos las personas el eslabón mas débil de la cadena?](https://github.com/ProtAAPP/ProtAAPP-RootedCON/blob/07348586ee5307f2d8550fda57f2332274c606a7/2023/2023-ProtAAPP-RootedCON-JuliaCortesDelgado.pdf)
     * Presentación de Maribel González: [Criptografía Post-Cuántica (para muggles)](https://github.com/ProtAAPP/ProtAAPP-RootedCON/blob/e7cde26109eaa05433c786cace92f75ae69283d3/2023/2023-ProtAAPP-RootedCON-MaribelGonzalezVasco.pdf)
     * Presentación de Ángel del Peso: [¿Montar un ministerio? Sujet me the cubat](https://github.com/ProtAAPP/ProtAAPP-RootedCON/blob/05a5b8b3f7a8798107be5b8723631c80e893f89b/2023/2023-ProtAAPP-RootedCON-AngeldelPeso.pdf)
