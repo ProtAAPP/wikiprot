@@ -82,14 +82,14 @@ watch?v=hmaMOKSjw-U)
 - MICE Forum - Noviembre (23 de noviembre, Sevilla)
 #### 2023
 - Participación en el [Twitch de Securiters](https://www.twitch.tv/videos/1737232268) de Miguel Angel Rodriguez (13 de febrero)
-- Track de ProtAAPP en el congreso RootedCON, el día 10 de marzo:
+- Track de ProtAAPP en el congreso [RootedCON](https://rootedcon.com) (10 de marzo)
     * Presentación de Marta Beltrán: [Nuevos (y viejos) enfoques para la gestión de identidades y accesos](https://mbelpar.github.io/files/talks/mbeltran%20Rooted%202023%20publica.pdf)
     * Presentación de Julia Cortés: [¿Realmente somos las personas el eslabón mas débil de la cadena?](https://github.com/ProtAAPP/ProtAAPP-RootedCON/blob/07348586ee5307f2d8550fda57f2332274c606a7/2023/2023-ProtAAPP-RootedCON-JuliaCortesDelgado.pdf)
     * Presentación de Maribel González: [Criptografía Post-Cuántica (para muggles)](https://github.com/ProtAAPP/ProtAAPP-RootedCON/blob/e7cde26109eaa05433c786cace92f75ae69283d3/2023/2023-ProtAAPP-RootedCON-MaribelGonzalezVasco.pdf)
     * Presentación de Ángel del Peso: [¿Montar un ministerio? Sujet me the cubat](https://github.com/ProtAAPP/ProtAAPP-RootedCON/blob/05a5b8b3f7a8798107be5b8723631c80e893f89b/2023/2023-ProtAAPP-RootedCON-AngeldelPeso.pdf)
     * Presentación de Emilio Rico: [¡Ven a la escuela de calor! (#mitreando)](https://github.com/ProtAAPP/ProtAAPP-RootedCON/blob/05a5b8b3f7a8798107be5b8723631c80e893f89b/2023/2023-ProtAAPP-RootedCON-EmilioRico.pdf)
     * Presentación de Lorena González [¿Y si conozco lo que tecleas? Un estudio de viabilidad](https://github.com/ProtAAPP/ProtAAPP-RootedCON/blob/05a5b8b3f7a8798107be5b8723631c80e893f89b/2023/2023-ProtAAPP-RootedCON-LorenaGonzalezManzano.pdf)
-- Congreso [TryitUPM](https://congresotryit.es/) - ["Del rojo al azul v2"](https://www.twitch.tv/videos/1765715380?t=3h30m25s)
+- Congreso [TryitUPM](https://congresotryit.es/) - ["Del rojo al azul v2"](https://www.twitch.tv/videos/1765715380?t=3h30m25s) (15 de marzo)
    
 
 ## Colabora con esta documentación
