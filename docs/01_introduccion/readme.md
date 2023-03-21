@@ -89,6 +89,7 @@ watch?v=hmaMOKSjw-U)
     * Presentación de Ángel del Peso: [¿Montar un ministerio? Sujet me the cubat](https://github.com/ProtAAPP/ProtAAPP-RootedCON/blob/05a5b8b3f7a8798107be5b8723631c80e893f89b/2023/2023-ProtAAPP-RootedCON-AngeldelPeso.pdf)
     * Presentación de Emilio Rico: [¡Ven a la escuela de calor! (#mitreando)](https://github.com/ProtAAPP/ProtAAPP-RootedCON/blob/05a5b8b3f7a8798107be5b8723631c80e893f89b/2023/2023-ProtAAPP-RootedCON-EmilioRico.pdf)
     * Presentación de Lorena González [¿Y si conozco lo que tecleas? Un estudio de viabilidad](https://github.com/ProtAAPP/ProtAAPP-RootedCON/blob/05a5b8b3f7a8798107be5b8723631c80e893f89b/2023/2023-ProtAAPP-RootedCON-LorenaGonzalezManzano.pdf)
+    * Presentación de Francisco Hernández Cuchí [Robin de los PINTXOS](https://github.com/ProtAAPP/ProtAAPP-RootedCON/blob/bb94ade533a794a2cdda9d1bf7331294efdb5258/2023/2023-ProtAAPP-RootedCON-FranciscoHernandezCuchi.pdf)
 - Congreso [TryitUPM](https://congresotryit.es/) - ["Del rojo al azul v2"](https://www.twitch.tv/videos/1765715380?t=3h30m25s) (15 de marzo)
    
 
