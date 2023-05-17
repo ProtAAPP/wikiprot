@@ -73,7 +73,7 @@ watch?v=hmaMOKSjw-U)
     - Edición del 23 de abril de 2021: [VIDEO](https://youtu.be/lUwAQTu1Dyw). Ganador del concurso (de nuevo) [Carlos Portero](https://twitter.com/carlosp1984)
 - Un hacker al día - Programa #Include/Fundacion GoodJob - (18 de marzo)
 - SocInfo [In the navy. Hasta la DMZ y más allá](https://www.slideshare.net/GuillermoObispoSanRo/in-the-navy-hasta-la-dmz-y-ms-all)(25 de mayo)
-- Nuevas tendencias y plataformas: Youtube, Twitch y Ciberseguridad - Universidad Europea de Madrid (Jueves 22 de julio)
+- [Nuevas tendencias y plataformas: Youtube, Twitch y Ciberseguridad](https://www.youtube.com/watch?v=fFtCZy6iUlA) - Universidad Europea de Madrid (Jueves 22 de julio)
 #### 2022
 - Track de ProtAAPP en [RootedCON](https://rootedcon.com), el día 11 de marzo
 - Un hacker al día - Programa #Include/Fundacion GoodJob - (17 de octubre)
