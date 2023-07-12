@@ -49,40 +49,37 @@ Si no puedes ser miembro, también puedes contactar con nosotros para proponer l
 
 ### Participaciones  y actividades de la comunidad
 #### 2018
-- SocInfo [Elige tu propia aventura - La incidencia de seguridad](https://www.slideshare.net/GuillermoObispoSanRo/elige-tu-propia-aventura-la-incidencia-de-seguridad)
+- (24/05) SocInfo [Elige tu propia aventura - La incidencia de seguridad](https://www.slideshare.net/GuillermoObispoSanRo/elige-tu-propia-aventura-la-incidencia-de-seguridad)
 #### 2019
-- ElDiablu (la precuela) febrero.
-- SocInfo [Accesos corporativos. Instrucciones de montaje (DIY)](https://www.slideshare.net/GuillermoObispoSanRo/accesos-corporativos)
-- RootedCon [Zarancon City: Ciudad bastionada](https://www.youtube.com/watch?v=VJIzFuTTRb4)
-- Un hacker al día - Programa #Include/Fundación GoodJob - Marzo
-- CyberCamp [Del rojo al azul](https://www.youtube.com/watch?v=WiQ1zknX-rU)
-- ElDiaBlu I (Viernes 13 de diciembre): ganador del concurso Antonio Sanz.
+- (29/01) CyberCamp [Del rojo al azul](https://www.youtube.com/watch?v=WiQ1zknX-rU)
+- (06/02) SocInfo [Accesos corporativos. Instrucciones de montaje (DIY)](https://www.slideshare.net/GuillermoObispoSanRo/accesos-corporativos)
+- (22/02) ElDiablu (la precuela)
+- (13/03) Un hacker al día - Programa #Include/Fundación GoodJob
+- (29/03) RootedCon [Zarancon City: Ciudad bastionada](https://www.youtube.com/watch?v=VJIzFuTTRb4)
+- (13/12) ElDiaBlu I
 #### 2020
-- Isaca [Menú saludable para Responsables de Seguridad. Como digerir el ENS](https://www.slideshare.net/GuillermoObispoSanRo/menu-saludable-para-responsables-de-seguridad-226454626)
-- RootedCon [Compliance as Code (Auditoría de infraestructura, rápida y eficiente)](https://www.youtube.com/watch?v=vODFljdavJw&t=1s)
-- RootedCon [La Metacharla de Seguridad](https://www.youtube.com/watch?v=laRfJ_zYJBI)
-- Un hacker al día - Programa #Include/Fundación GoodJob - Mayo
-- C1b3rWall Academy [Cimientos sólidos para Defensores](https://www.youtube.com/- Un hacker al día - Programa #Include2/Fundación GoodJob - Mayo
-watch?v=hmaMOKSjw-U)
-- Un hacker al día - Programa #Include/Fundación GoodJob -(7 de octubre)
-- ElDiaBlu II (Viernes 27 de noviembre): ganadora del concurso Pilar Payo
-- #NochedeGuasAAPP v1, evento abierto y en directo
-    - Edición del 18 de diciembre de 2020: [VIDEO](https://www.youtube.com/watch?v=Sh4Ujqs2n7Y&t=1). Ganador del concurso [Carlos Portero](https://twitter.com/carlosp1984)
+- (30/01) Isaca [Menú saludable para Responsables de Seguridad. Como digerir el ENS](https://www.slideshare.net/GuillermoObispoSanRo/menu-saludable-para-responsables-de-seguridad-226454626)
+- (05/03) RootedCon [La Metacharla de Seguridad](https://www.youtube.com/watch?v=laRfJ_zYJBI)
+- (07/03) RootedCon [Compliance as Code (Auditoría de infraestructura, rápida y eficiente)](https://www.youtube.com/watch?v=vODFljdavJw&t=1s)
+- (19/05) Un hacker al día - Programa #Include2/Fundación GoodJob - Mayo
+- (07/10) Un hacker al día - Programa #Include/Fundación GoodJob
+- (31/10) C1b3rWall Academy [Cimientos sólidos para Defensores](https://www.youtube.com/watch?v=hmaMOKSjw-U)
+- (27/11) ElDiaBlu II
+- (18/12) #NochedeGuasAAPP v1, [VIDEO](https://www.youtube.com/watch?v=Sh4Ujqs2n7Y&t=1)
 #### 2021
-- #NochedeGuasAAPP v2, evento abierto y en directo:
-    - Edición del 23 de abril de 2021: [VIDEO](https://youtu.be/lUwAQTu1Dyw). Ganador del concurso (de nuevo) [Carlos Portero](https://twitter.com/carlosp1984)
-- Un hacker al día - Programa #Include/Fundacion GoodJob - (18 de marzo)
-- SocInfo [In the navy. Hasta la DMZ y más allá](https://www.slideshare.net/GuillermoObispoSanRo/in-the-navy-hasta-la-dmz-y-ms-all)(25 de mayo)
-- [Nuevas tendencias y plataformas: Youtube, Twitch y Ciberseguridad](https://www.youtube.com/watch?v=fFtCZy6iUlA) - Universidad Europea de Madrid (Jueves 22 de julio)
+- (23/04) #NochedeGuasAAPP v2 [VIDEO](https://youtu.be/lUwAQTu1Dyw)
+- (18/03) Un hacker al día - Programa #Include/Fundacion GoodJob
+- (25/05) SocInfo [In the navy. Hasta la DMZ y más allá](https://www.slideshare.net/GuillermoObispoSanRo/in-the-navy-hasta-la-dmz-y-ms-all)
+- (22/07) [Nuevas tendencias y plataformas: Youtube, Twitch y Ciberseguridad](https://www.youtube.com/watch?v=fFtCZy6iUlA) - Universidad Europea de Madrid
 #### 2022
-- Track de ProtAAPP en [RootedCON](https://rootedcon.com), el día 11 de marzo
-- Un hacker al día - Programa #Include/Fundacion GoodJob - (17 de octubre)
-- II Congreso Nacional RECI - [Zaracón, ciudad bastionada Parte II] (11 de octubre, Palma de Mallorca)
-- [TizonaConf](https://www.tizonaconf.com/) [Zaracón, ciudad bastionada Parte II] (15 de octubre, Burgos)
-- MICE Forum - Noviembre (23 de noviembre, Sevilla)
+- (11/03) Track de ProtAAPP en [RootedCON](https://rootedcon.com)
+- (17/03) Un hacker al día - Programa #Include/Fundacion GoodJob
+- (11/10) II Congreso Nacional RECI - [Zaracón, ciudad bastionada Parte II] (Palma de Mallorca)
+- (15/10) [TizonaConf](https://www.tizonaconf.com/) [Zaracón, ciudad bastionada Parte II] (Burgos)
+- (23/11) MICE Forum (Sevilla)
 #### 2023
-- Participación en el [Twitch de Securiters](https://www.twitch.tv/videos/1737232268) de Miguel Angel Rodriguez (13 de febrero)
-- Track de ProtAAPP en el congreso [RootedCON](https://rootedcon.com) (10 de marzo)
+- (13/02) Participación en el [Twitch de Securiters](https://www.twitch.tv/videos/1737232268) de Miguel Angel Rodriguez
+- (10/03) Track de ProtAAPP en el congreso [RootedCON](https://rootedcon.com)
     * Presentación de Marta Beltrán: [Nuevos (y viejos) enfoques para la gestión de identidades y accesos](https://mbelpar.github.io/files/talks/mbeltran%20Rooted%202023%20publica.pdf)
     * Presentación de Julia Cortés: [¿Realmente somos las personas el eslabón mas débil de la cadena?](https://github.com/ProtAAPP/ProtAAPP-RootedCON/blob/07348586ee5307f2d8550fda57f2332274c606a7/2023/2023-ProtAAPP-RootedCON-JuliaCortesDelgado.pdf)
     * Presentación de Maribel González: [Criptografía Post-Cuántica (para muggles)](https://github.com/ProtAAPP/ProtAAPP-RootedCON/blob/e7cde26109eaa05433c786cace92f75ae69283d3/2023/2023-ProtAAPP-RootedCON-MaribelGonzalezVasco.pdf)
@@ -91,8 +88,11 @@ watch?v=hmaMOKSjw-U)
     * Presentación de Lorena González [¿Y si conozco lo que tecleas? Un estudio de viabilidad](https://github.com/ProtAAPP/ProtAAPP-RootedCON/blob/05a5b8b3f7a8798107be5b8723631c80e893f89b/2023/2023-ProtAAPP-RootedCON-LorenaGonzalezManzano.pdf)
     * Presentación de Francisco Hernández Cuchí [Robin de los PINTXOS](https://github.com/ProtAAPP/ProtAAPP-RootedCON/blob/bb94ade533a794a2cdda9d1bf7331294efdb5258/2023/2023-ProtAAPP-RootedCON-FranciscoHernandezCuchi.pdf)
     * Presentación de Blanca Muñoz [Una aproximación técnica a la privacidad: la k-anonimización](https://github.com/ProtAAPP/ProtAAPP-RootedCON/blob/a7449331522acc6474f79a63331c5be49fa8ccbb/2023/2023-ProtAAPP-RootedCON-BlancaMunoz.pdf)
-- Congreso [TryitUPM](https://congresotryit.es/) - ["Del rojo al azul v2"](https://www.twitch.tv/videos/1765715380?t=3h30m25s) (15 de marzo)
-   
+- (15/03) Congreso [TryitUPM](https://congresotryit.es/) ["Del rojo al azul v2"](https://www.twitch.tv/videos/1765715380?t=3h30m25s)
+- (18/05) Finalistas OpenAwards 2023 en la categoría [Comunidad Tecnológica]
+- (19/06) Cybercamp UC3M [Lo primero de todo... ¿cómo están los máquinas?](https://www.youtube.com/watch?v=mYxRqKlQMZI)
+- (22/06) XVI Premio Red Seguridad a la [Capacitación, Divulgación, Concienciación o Formación en Seguridad TIC](https://www.redseguridad.com/actualidad/ciberseguridad/los-xvi-trofeos-de-la-seguridad-tic-ya-tienen-ganadores-conoce-todos-ellos_20230606.html)
+- (29/06) Lo de los Hackers |3x10| [Entrevista a Willy](https://www.youtube.com/watch?v=-qrB-XHJnWo&t=4s)  
 
 ## Colabora con esta documentación
 
