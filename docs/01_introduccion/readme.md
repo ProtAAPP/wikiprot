@@ -92,7 +92,8 @@ Si no puedes ser miembro, también puedes contactar con nosotros para proponer l
 - (18/05) Finalistas OpenAwards 2023 en la categoría [Comunidad Tecnológica]
 - (19/06) Cybercamp UC3M [Lo primero de todo... ¿cómo están los máquinas?](https://www.youtube.com/watch?v=mYxRqKlQMZI)
 - (22/06) XVI Premio Red Seguridad a la [Capacitación, Divulgación, Concienciación o Formación en Seguridad TIC](https://www.redseguridad.com/actualidad/ciberseguridad/los-xvi-trofeos-de-la-seguridad-tic-ya-tienen-ganadores-conoce-todos-ellos_20230606.html)
-- (29/06) Lo de los Hackers |3x10| [Entrevista a Willy](https://www.youtube.com/watch?v=-qrB-XHJnWo&t=4s)  
+- (29/06) Lo de los Hackers |3x10| [Entrevista a Willy](https://www.youtube.com/watch?v=-qrB-XHJnWo&t=4s)
+- (29/08) Cursos de verano Santander. Miguel Ángel Rodriguez en "Salud digital basada en el valor: hacia el factor humano y la medicina de precisión"
 
 ## Colabora con esta documentación
 
