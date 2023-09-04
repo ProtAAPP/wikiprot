@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "vue-cookie-law": "^1.13.3",
-    "vuepress": "^1.9.9"
+    "vuepress": "^1.9.10"
   },
   "devDependencies": {
     "@vuepress/plugin-google-analytics": "^1.9.7"
