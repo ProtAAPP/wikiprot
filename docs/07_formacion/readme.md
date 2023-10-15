@@ -60,7 +60,7 @@ Otros recursos formativos:
 
 ### Eventos y plataformas de tipo competitivo
 - [NATIONAL CYBERLEAGUE](https://www.nationalcyberleague.es/) Evento anual promovido por la Guardia Civil, que consiste en una serie de retos de tipo multidisciplinar (técnico, jurídico y comunicativo) que tienen que ver con la ciberseguridad. 
-- [ATENEA](https://angeles.ccn-cert.cni.es/index.php/es/talento-es) Plataforma permanente promovida por CCN que incluye retos sobre Criptografía y Esteganografía; Exploiting, Forense, Análisis de tráfico, Reversing, etc.
+- [ATENEA](https://angeles.ccn-cert.cni.es/es/talento/atenea) Plataforma permanente promovida por CCN que incluye retos sobre Criptografía y Esteganografía; Exploiting, Forense, Análisis de tráfico, Reversing, etc.
 
 ### Charlas generales
 - [¿Qué hay en la mochila de un hacker?](https://cybercamp.es/videos/que-hay-en-la-mochila-de-un-hacker). Especial para jóvenes.
