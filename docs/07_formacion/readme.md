@@ -9,9 +9,9 @@
 
 ### Cursos Online
 #### Plataformas con recursos de formación sobre ciberseguridad
-- [Plataforma Angeles CCN](https://angeles.ccn-cert.cni.es/index.php/es/menu-formacion-es) Agrupa todos los recursos de formación en ciberseguridad del CCN.
-- [C1berWall Academy](https://www.ecteg.eu/c1b3rwall-academy-es/)
-- [Sesiones formativas del CCN](https://vanesa.ccn-cert.cni.es/userportal/#/home/main) VANESA.
+- [Plataforma Angeles CCN](https://angeles.ccn-cert.cni.es/es/) Agrupa todos los recursos de formación en ciberseguridad del CCN.
+- [C1berWall Academy](https://c1b3rwall.policia.es/ciberwall_academy)
+- [Sesiones formativas del CCN](https://vimeo.com/ccnvanesa) VANESA.
 - [Material formativo ENISA](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material)
 - [Cursos de ciberseguridad en Coursera](https://www.coursera.org/courses?query=cybersecurity). 
     - [IT Fundamentals for Cybersecurity](https://www.coursera.org/specializations/it-fundamentals-cybersecurity)   Principiante. IBM.
@@ -70,8 +70,8 @@ Otros recursos formativos:
 ### Para empleados
 
 Recursos interesantes:
-- [Plataforma Angeles CCN](https://angeles.ccn-cert.cni.es/index.php/es/ciberconsejos) Agrupa todo el contenido de concienciación en ciberseguridad.
-- [Concienciación del CCN-CERT - Página inicial sobre Ciberconsejos](https://www.ccn.cni.es/index.php/es/ciberconsejos)
+- [Plataforma Angeles CCN](https://angeles.ccn-cert.cni.es/es/) Agrupa todo el contenido de concienciación en ciberseguridad.
+- [Concienciación del CCN-CERT - Ciberconsejos](https://www.ccn-cert.cni.es/component/tags/tag/ciberconsejos.html)
 - [Ciberconsejos (vídeo), Buenas prácticas en el empleo de tecnología](https://www.youtube.com/watch?v=uKNcqM0ZBEw)
 - [Ciberconsejos (vídeo), Recomendaciones de Ciberseguridad](https://www.youtube.com/watch?v=VfZVGFgRl4g)
 - [Ciberconsejos (vídeo), Configuración segura de dispositivos Android](https://www.youtube.com/watch?v=t6S7j6hKNPI)
@@ -80,7 +80,6 @@ Recursos interesantes:
 - [Ciberconsejos (vídeo), Redes Sociales](https://www.youtube.com/watch?v=R2ZUXlNth1U)
 - [Ciberconsejos (vídeo), Zero Trust](https://www.youtube.com/watch?v=BPaYKdvyT00)
 - [Ciberconsejos (vídeo), Desinformación en el Ciberespacio](https://www.youtube.com/watch?v=sKdb-iCyqLU)
-- [Ciberconsejos (infografía), Desinformación en el Ciberespacio](https://www.ccn.cni.es/index.php/es/docman/documentos-publicos/305-infografia-ccn-desinformacion2/file)
 - [Kit de concienciación de INCIBE](https://www.incibe.es/protege-tu-empresa/kit-concienciacion)
 - [Kit ENISA mes europeo de la ciberseguridad](https://cybersecuritymonth.eu/press-campaign-toolbox)
 - [Infografías Europol](https://www.europol.europa.eu/activities-services/public-awareness-and-prevention-guides)   
@@ -89,7 +88,7 @@ Recursos interesantes:
 
 A través de juegos interactivos:
 - [Cyber breach game experience](https://www.ibm.com/security/digital-assets/cybersecurity-ops/terminal/) by IBM
-- [Hackers Vs CyberCrook. Juega y aprende ciberseguridad](https://www.osi.es/es/actualidad/blog/2016/12/01/hackers-vs-cybercrook-juega-y-aprende-ciberseguridad)
+- [Hackers Vs CyberCrook. Juega y aprende ciberseguridad](https://www.incibe.es/ciudadania/blog/hackers-vs-cybercrook-un-divertido-juego-que-pondra-prueba-tus)
 
 
 ### Para el hogar y la familia
