@@ -8,7 +8,8 @@
 
 
 ### Congresos de Ciberseguridad en España
-
+* [Mapa con todos los eventos de ciberseguridad y hacking en España](https://www.google.com/maps/d/edit?mid=1eDUrpB8zlGJPifXa7hddG493sNk623I&usp=sharing) Gracias a @Emilio_RR
+  
 #### Congresos de Ciberseguridad organizados por Organismos Públicos
 * [Jornadas CCN-CERT (CCN)](https://www.ccn-cert.cni.es/comunicacion-eventos/jornadas-stic-ccn-cert.html). [Vídeos ponencias](https://www.youtube.com/channel/UCTaGHPQGajDK4274S1e0bDA/videos)
 * [ENISE (INCIBE)](https://www.incibe.es/enise). [Vídeos](https://www.youtube.com/playlist?list=PLr5GsywSn9d9hA7JTsAWwYlgFYHtHDZd0)
