@@ -4,9 +4,6 @@
 
 ## Eventos de Ciberseguridad
 
-### Próximos eventos
-
-
 ### Congresos de Ciberseguridad en España
 * [Mapa con todos los eventos de ciberseguridad y hacking en España](https://www.google.com/maps/d/edit?mid=1eDUrpB8zlGJPifXa7hddG493sNk623I&usp=sharing) Gracias a @Emilio_RR
   
