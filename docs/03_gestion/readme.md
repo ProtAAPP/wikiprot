@@ -175,7 +175,7 @@ Ver [Catálogo CCN-STIC](../new_04_tecnologias/readme.md#catalogo-de-productos-d
 
 ### Listado de expedientes de AAPP relacionados con ciberseguridad
 - GISS 2023: [Servicios de ciberseguridad](https://contrataciondelestado.es/wps/portal/!ut/p/b0/04_Sj9CPykssy0xPLMnMz0vMAfIjU1JTC3Iy87KtUlJLEnNyUuNzMpMzSxKTgQr0w_Wj9KMyU1zLcvQjfZJKkyojPH19w3IjAsMMwl3NcyIDym1t9Qtycx0BKOGFLQ!!/)
-- GISS 2023: [CASB/proxy nube]()
+- GISS 2023: [CASB/proxy nube](https://contrataciondelestado.es/wps/portal/!ut/p/b0/DcoxCoAwDADABzkExElwUFHoVJy0WSS0UYKxdqh9v44HBwgbYKQiJ2V5IulvF5iTSrzawJlUeVfxksn_AVZAQAlTUXCVYVubB8fZvUdDg63KokvXQbrv_gMl7p7Y/)
 - GISS 2023: [SIEM](https://contrataciondelestado.es/wps/portal/!ut/p/b0/04_Sj9CPykssy0xPLMnMz0vMAfIjU1JTC3Iy87KtUlJLEnNyUuNzMpMzSxKTgQr0w_Wj9KMyU1zLcvQjiwrcPd0cy5J8Pf3MMyxMVQ0KcnOL08ptbfWBDEcAVgXhmA!!/)
 - Andalucia CERT 2023: [Servicios de SOC](https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=595121)
 - Andalucia CERT 2023: [EDR y servicios asociados](https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=455736)
