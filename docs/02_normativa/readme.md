@@ -9,8 +9,8 @@
 En el [Código de Derecho de la Ciberseguridad](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=173&modo=1&nota=0&tab=2) publicado en el BOE puede encontrarse un amplio índice a todas las normas relacionadas con la ciberseguridad.
 
 - Estrategias:
-    - [2017. Estrategia de Seguridad Nacional](https://www.dsn.gob.es/estrategias-publicaciones/estrategias/estrategia-seguridad-nacional-2017)
     - [2019. Estrategia Nacional de Ciberseguridad](https://www.dsn.gob.es/documento/estrategia-nacional-ciberseguridad-2019)
+    - [2021. Estrategia de Seguridad Nacional](https://www.boe.es/buscar/act.php?id=BOE-A-2021-21884)
 
 - Normativa de alto nivel:
     - [RD 311/2022](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-7191) Esquema Nacional de Seguridad en el ámbito de la Administración Electrónica.
