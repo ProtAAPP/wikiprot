@@ -37,11 +37,15 @@ de las infraestructuras críticas.
 - Privacidad
     - [2016/679 Reglamento Europeo de Protección de Datos](https://www.boe.es/doue/2016/119/L00001-00088.pdf)
     - [2016/680 Reglamento Europeo de Protección de Datos por parte de las autoridades competentes](https://www.boe.es/doue/2016/119/L00089-00131.pdf)
+    - [2018/1807 Reglamento Europeo de datos no personales](https://www.boe.es/buscar/doc.php?id=DOUE-L-2018-81888)
+    - [2002/58 ePrivacy ... hay una propuesta COM(2017)](https://www.boe.es/doue/2002/201/L00037-00047.pdf)
 - Ciberseguridad
     - [2019/881 relativo a ENISA y a la certificación de la ciberseguridad](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A32019R0881)
     - [2016/1148 Directiva NIS](https://www.boe.es/doue/2016/194/L00001-00030.pdf)
 - Sectoriales
-    - Servicios de pago: [PSD2](https://ec.europa.eu/info/law/payment-services-psd-2-directive-eu-2015-2366_en)
+    - [2015/2366 Servicios de pago (PSD2)](https://www.boe.es/doue/2015/337/L00035-00127.pdf)
+    - [2014/910 Identidad electrónica (eIDAS)](https://www.boe.es/buscar/doc.php?id=DOUE-L-2014-81822)
+    - [2008/114 Infraestructuras Críticas (CIP)](https://www.boe.es/buscar/doc.php?id=DOUE-L-2008-82589)
 
 ### Normas ISO
 - [Serie 27000](https://es.wikipedia.org/wiki/ISO/IEC_27000-series)
@@ -59,9 +63,17 @@ de las infraestructuras críticas.
 - [Legislación que hay actualmente sobre cibercrimen, protección de datos, e-transactions y protección del consumidor digital](https://derechodelared.com/los-mapas-de-las-ciberleyes/)
 - Leyes sobre Ciberseguridad:
     - Alemania [Ley BSI](https://www.bsi.bund.de/EN/TheBSI/BSIAct/bsiact_node.html)
+    - Reino Unido [Cyber Essentials NSCS](https://www.ncsc.gov.uk/cyberessentials)
+    - Australia [Essential Eight ASCS](https://www.cyber.gov.au/resources-business-and-government/essential-cyber-security/essential-eight)
 
-Marcos de controles sobre ciberseguridad
+Marcos de control sobre ciberseguridad
 * USA [NIST](https://www.nist.gov/) [SP800-53](https://nvd.nist.gov/800-53) [FedRAMP](https://www.fedramp.gov/)
+* DoD [CMMC](https://dodcio.defense.gov/CMMC/about/)
+* CIS [CIS Controls](https://www.cisecurity.org/controls/cis-controls-list)
+* CISA [CPG](https://www.cisa.gov/sites/default/files/2023-03/CISA_CPG_REPORT_v1.0.1_FINAL.pdf)
+* HITRUST [CSF](https://hitrustalliance.net/product-tool/hitrust-csf/)
+* Francia [ANSSI](https://www.ssi.gouv.fr/uploads/2019/11/anssi_amrae-guide-controlling_digital_risk-trust_advantage.pdf)
+* Italia [Framework Nazionale](https://www.cybersecurityframework.it/sites/default/files/framework2/Framework_nazionale_cybersecurity_data_protection.pdf)
 
 Regulación sobre privacidad:
 * USA [CCPA](https://oag.ca.gov/privacy/ccpa)
@@ -84,7 +96,6 @@ Proyectos normativos en otros paises:
 
 ### Normativa impulsada por el sector privado
 Pagos electrónicos [PCI-DSS](https://es.pcisecuritystandards.org/pci_security/) Payment Card Industry Data Security Standards
-
 
 ## Organismos Públicos con competencias en Ciberseguridad
 ### España
