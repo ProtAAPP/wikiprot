@@ -179,6 +179,7 @@ Ver [Catálogo CCN-STIC](../new_04_tecnologias/readme.md#catalogo-de-productos-d
 - GISS 2023: [SIEM](https://contrataciondelestado.es/wps/portal/!ut/p/b0/04_Sj9CPykssy0xPLMnMz0vMAfIjU1JTC3Iy87KtUlJLEnNyUuNzMpMzSxKTgQr0w_Wj9KMyU1zLcvQjiwrcPd0cy5J8Pf3MMyxMVQ0KcnOL08ptbfWBDEcAVgXhmA!!/)
 - Andalucia CERT 2023: [Servicios de SOC](https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=595121)
 - Andalucia CERT 2023: [EDR y servicios asociados](https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=455736)
+  Andalucia CERT 2023: [Acuderdo marco servicios ciber](https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=626420)
 - JCCM 2023: [Servicios de SOC](https://contrataciondelestado.es/wps/portal/!ut/p/b0/04_Sj9CPykssy0xPLMnMz0vMAfIjU1JTC3Iy87KtUlJLEnNyUuNzMpMzSxKTgQr0w_Wj9KMyU1zLcvQjfb3zXEKNfN3yXcw8nD2Ls8q8jIsyAm1t9Qtycx0Bsr_Axg!!/)
 - CCMAD 2023: [Servicios de ciberseguridad](https://contrataciondelestado.es/wps/portal/!ut/p/b0/DcoxCoAwDADAJ4U6Ch1EfICLrVkk2qDBtCrUor_X8eAAwQMmKrJSliOR_h4D86mS9jpwJlWeVBbJtPwBHCCghK4ojL56jRtK30gbr8rczzbT0FsLZ4zNB2vB0rA!/)
 
