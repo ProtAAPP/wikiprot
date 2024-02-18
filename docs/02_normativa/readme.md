@@ -18,7 +18,7 @@ En el [Código de Derecho de la Ciberseguridad](https://www.boe.es/biblioteca_ju
     - [RD 14/2019](https://www.boe.es/buscar/act.php?id=BOE-A-2019-15790) Medidas urgentes por razones de seguridad pública en materia de administración digital, contratación del sector público y telecomunicaciones.
     - [RD 4/2010](https://www.boe.es/buscar/act.php?id=BOE-A-2010-1331) Esquema Nacional de Interoperabilidad
     - [Ley 8/2011](https://www.ccn-cert.cni.es/publico/InfraestructurasCriticaspublico/Ley82011-de28deabril-PIC.pdf) Protección
-de las infraestructuras críticas. [Monográfico sobre Infraestructuras Críticas]()
+de las infraestructuras críticas. [Monográfico sobre Infraestructuras Críticas](./lpic.md)
     - [Ley 36/2015](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10389) Seguridad Nacional
 
 - [Instrucciones Técnicas de Seguridad (ITS)](https://administracionelectronica.gob.es/pae_Home/pae_Estrategias/pae_Seguridad_Inicio/Instrucciones-Tecnicas.html):
