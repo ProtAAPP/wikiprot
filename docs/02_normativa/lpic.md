@@ -1,6 +1,6 @@
-Protección de infraestructuras críticas y proveedores de servicios esenciales
+# Protección de infraestructuras críticas y proveedores de servicios esenciales
 
-Introducción
+## Introducción
 
 Las Administraciones Públicas desempeñan un papel fundamental en el correcto funcionamiento de los servicios públicos y, por extensión, de la sociedad. Esto es así hasta el punto en que, si determinados servicios o funciones que desempeñan las Administraciones Públicas dejasen de funcionar, se pondría en serio riesgo la seguridad de las personas, la gobernabilidad del país, el funcionamiento de la economía, etc.
 
@@ -8,7 +8,7 @@ Por este motivo, [en 2021 la Comisión Nacional para la Protección de Infraestr
 
 Adicionalmente, dado que las Administraciones Públicas prestan en gran parte sus servicios a través de medios digitales, muchas de las Administraciones Públicas que han sido designadas como operadores críticos, también han sido asignadas como proveedores de servicios esenciales.
 
-Dualidad de infraestructuras críticas y servicios esenciales. 
+## Dualidad de infraestructuras críticas y servicios esenciales. 
 
 Existe, por tanto, una dualidad de conceptos distintos, pero claramente complementarios, entre el plano de las infraestructuras críticas y el de los servicios esenciales. Como primera aproximación, podría decirse que las infraestructuras críticas se centran en infraestructuras físicas que sirven para prestar un servicio a la sociedad (como una carretera, una central nuclear o un CPD), mientras que los servicios esenciales se focalizan en servicios digitales que se prestan a través de redes de comunicaciones.
 
@@ -18,7 +18,7 @@ En ambos casos, en diciembre de 2022 el Parlamento Europeo y el Consejo aprobaro
 
 Con esta primera idea en mente se va a proceder a analizar las normativas que rigen a cada una de estas realidades. Primero se abordará la parte de infraestructuras críticas y posteriormente la de servicios esenciales.
 
-Normativa de protección de infraestructuras críticas.
+## Normativa de protección de infraestructuras críticas.
 
 Nota importante: a fecha de redacción de este artículo, se encuentra aprobada y pendiente de trasposición la [Directiva (UE) 2022/2557 del Parlamento Europeo y del Consejo de 14 de diciembre de 2022 relativa a la resiliencia de las entidades críticas y por la que se deroga la Directiva 2008/114/CE del Consejo](https://eur-lex.europa.eu/legal-content/es/TXT/?uri=CELEX%3A32022L2557) (Directiva CER). La trasposición de esta directiva supondrá un cambio de calado en la normativa actual de protección de infraestructuras críticas.
 
@@ -30,7 +30,7 @@ Nota importante: a fecha de redacción de este artículo, se encuentra aprobada 
 
 [Resolución de 8 de septiembre de 2015, de la Secretaría de Estado de Seguridad, por la que se aprueban los nuevos contenidos mínimos de los Planes de Seguridad del Operador y de los Planes de Protección Específicos.](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10060) (en adelante, la Resolución)
 
-Definiciones y conceptos:
+## Definiciones y conceptos:
 
 Para introducir esta sección vamos a basarnos en la siguiente frase en que se recogen los principales conceptos:
 
@@ -43,7 +43,7 @@ Por tanto:
 - Sector estratégico: Son los siguientes: administración, espacio, industria nuclear, industria química, instalaciones de investigación, agua, energía, salud, tecnologías de la información y las comunicaciones, transporte, alimentación, sistema financiero y tributario. Siguiendo el ejemplo, sería el sector energía.
 - Infraestructuras críticas: las infraestructuras estratégicas cuyo funcionamiento es indispensable y no permite soluciones alternativas, por lo que su perturbación o destrucción tendría un grave impacto sobre los servicios esenciales. Por ejemplo, una central nuclear. Nótese que un operador crítico puede tener varias infraestructuras críticas.
 
-Roles/actores fundamentales: 
+## Roles/actores fundamentales: 
 
 Según determinan la LPIC y el Reglamento los actores principales son:
 
@@ -55,7 +55,7 @@ La Comisión Nacional para la Protección de las Infraestructuras Críticas (Com
 
 Asimismo, los Ministerios y organismos integrados en el Sistema de Protección de Infraestructuras Críticas, las Delegaciones del Gobierno y las Comunidades Autónomas y Ciudades con Estatuto de Autonomía desempeñan también roles en función de sus respectivas competencias.
 
-Instrumentos de planificación
+## Instrumentos de planificación
 
 - El Plan Nacional de Protección de las Infraestructuras Críticas: Instrumento general de planificación, aprobado por la SES, revisado cada 5 años.
 - Los Planes Estratégicos Sectoriales: Instrumentos de planificación sectorial aprobados por la Comisión y revisados cada 2 años.
@@ -63,7 +63,7 @@ Instrumentos de planificación
 - Planes de Protección Específicos (PPE): Definen las medidas concretas ya adoptadas para garantizar la seguridad integral (física y lógica). Ver sección específica.
 - Planes de Apoyo Operativo: Elaborados por el Cuerpo Policial estatal o autonómico, según corresponda, para cada una de las infraestructuras críticas dotadas de PPE, son documentos operativos donde se deben plasmar las medidas concretas a poner en marcha por las Administraciones Públicas (fundamentalmente Fuerzas y Cuerpos de Seguridad del Estado y autonómicos y Fuerzas Armadas), en apoyo de los operadores críticos para la mejor protección de las infraestructuras críticas.
 
-Designación como operador crítico.
+## Designación como operador crítico.
 
 Para la designación de una empresa u organismo como operador crítico, bastará con que al menos una de las infraestructuras por él gestionadas reúna la consideración de infraestructura crítica.
 
@@ -71,20 +71,20 @@ El interesado dispondrá de un plazo de quince días a contar desde el día sigu
 
 Una lista no exhaustiva de pasos a realizar tras recibir la designación como operador crítico podría ser la siguiente:
 
-1. Designación de Responsable de Seguridad y Enlace y su(s) sustituto(s). En el plazo de tres meses desde su designación como operadores críticos, los mismos nombrarán y comunicarán a la SES, a través del CNPIC, el nombre del Responsable de seguridad y enlace. 
+1. Designación de Responsable de Seguridad y Enlace y su(s) sustituto(s). En el plazo de tres meses desde su designación como operadores críticos, los mismos nombrarán y comunicarán a la SES, a través del CNPIC, el nombre del Responsable de seguridad y enlace.
 - El Responsable de Seguridad y Enlace deberá contar con la habilitación de Director de Seguridad expedida por el Ministerio del Interior según lo previsto en la normativa de seguridad privada o con la habilitación equivalente.
 - Debe tener “nivel jerárquico suficiente”.
-- Representará al operador crítico ante la SES.
-1. Designación de Delegado de Seguridad de la infraestructura crítica para cada infraestructura crítica y su(s) sustituto(s). En el plazo de tres meses desde la identificación como crítica los operadores críticos comunicarán a las Delegaciones del Gobierno en las Comunidades Autónomas y en las Ciudades con Estatuto de Autonomía o, en su caso, al órgano competente de la Comunidad Autónoma con competencias estatutariamente reconocidas para la protección de personas y bienes y para el mantenimiento del orden público la existencia e identidad de un Delegado de Seguridad para dicha infraestructura.
-- Aconsejable titulación relativa a la rama de seguridad y pertenecer al departamento de seguridad de la entidad en cuestión.
-- Debe tener “nivel jerárquico suficiente”.
-- Constituirá el enlace operativo con las autoridades competentes en lo referente a la seguridad concreta de la infraestructura crítica.
-1. Elaborar un Plan de Seguridad del Operador (PSO) en el plazo de seis meses desde la notificación de la designación y revisarlo cada dos años. Ver sección específica.
-1. Elaborar un Plan de Protección Específico (PPE) para cada infraestructura crítica en el plazo de cuatro meses desde la aprobación del PSO y revisarlo cada dos años. Ver sección específica.
-1. Colaborar con la SES, el CNPIC y, en su caso, el Grupo de Trabajo para la elaboración de Planes Sectoriales.
-1. Facilitar las inspecciones que las autoridades competentes lleven a cabo.
+ - Representará al operador crítico ante la SES.
+2. Designación de Delegado de Seguridad de la infraestructura crítica para cada infraestructura crítica y su(s) sustituto(s). En el plazo de tres meses desde la identificación como crítica los operadores críticos comunicarán a las Delegaciones del Gobierno en las Comunidades Autónomas y en las Ciudades con Estatuto de Autonomía o, en su caso, al órgano competente de la Comunidad Autónoma con competencias estatutariamente reconocidas para la protección de personas y bienes y para el mantenimiento del orden público la existencia e identidad de un Delegado de Seguridad para dicha infraestructura.
+  - Aconsejable titulación relativa a la rama de seguridad y pertenecer al departamento de seguridad de la entidad en cuestión.
+  - Debe tener “nivel jerárquico suficiente”.
+  - Constituirá el enlace operativo con las autoridades competentes en lo referente a la seguridad concreta de la infraestructura crítica.
+3. Elaborar un Plan de Seguridad del Operador (PSO) en el plazo de seis meses desde la notificación de la designación y revisarlo cada dos años. Ver sección específica.
+4. Elaborar un Plan de Protección Específico (PPE) para cada infraestructura crítica en el plazo de cuatro meses desde la aprobación del PSO y revisarlo cada dos años. Ver sección específica.
+5. Colaborar con la SES, el CNPIC y, en su caso, el Grupo de Trabajo para la elaboración de Planes Sectoriales.
+6. Facilitar las inspecciones que las autoridades competentes lleven a cabo.
 
-El Plan de Seguridad del Operador (PSO)
+## El Plan de Seguridad del Operador (PSO)
 
 Los Planes de Seguridad del Operador son los documentos estratégicos definidores de las políticas generales de los operadores críticos para garantizar la seguridad del conjunto de instalaciones o sistemas de su propiedad o gestión.
 
@@ -94,7 +94,7 @@ Junto a la resolución de aprobación o modificación, el CNPIC efectuará al op
 
 Los PSO deberán ser revisados cada dos años por los operadores críticos y aprobados por el CNPIC. Éste podrá requerir en cualquier momento información concreta sobre el estado de implantación del Plan de Seguridad del Operador.
 
-Contenidos mínimos del PSO
+## Contenidos mínimos del PSO
 
 Los contenidos mínimos del PSO se detallan de forma extensa en la Resolución. De modo muy resumido, el PSO debe contener los siguientes aspectos.
 
@@ -140,7 +140,7 @@ Los contenidos mínimos del PSO se detallan de forma extensa en la Resolución. 
   - Normativa, buenas prácticas y regulatoria.
   - Coordinación con otros Planes.
 
-Los Planes de Protección Específica (PPE)
+## Los Planes de Protección Específica (PPE)
 
 Los Planes de Protección Específica son los documentos operativos definidores de las medidas concretas a poner en marcha por los operadores críticos para garantizar la seguridad integral (seguridad física y ciberseguridad) de sus infraestructuras críticas.
 
@@ -150,11 +150,11 @@ Junto a la resolución de aprobación o modificación, el CNPIC efectuará al op
 
 Los PPE deberán ser revisados cada dos años por los operadores críticos y aprobados por las Delegaciones del Gobierno en las Comunidades Autónomas y en las Ciudades con Estatuto de Autonomía o, en su caso, por el órgano competente de las Comunidades Autónomas con competencias estatutariamente reconocidas para la protección de personas y bienes y para el mantenimiento del orden público, y por el CNPIC. Éste podrá requerir en cualquier momento información concreta sobre el estado de implantación del Plan de Seguridad del Operador.
 
-Contenidos mínimos del PPE
+### Contenidos mínimos del PPE
 
 Los contenidos mínimos del PPE se detallan de forma extensa en la Resolución. De modo esquemático, el PPE debe contener los siguientes aspectos.
 
-Organización de la seguridad.
+### Organización de la seguridad.
 
 - Descripción de la infraestructura.
 - Resultado del análisis de riesgos: Medidas de seguridad integral.
@@ -175,7 +175,7 @@ Organización de la seguridad.
   - Valoración de riesgos.
 - Plan de acción propuesto (por activo).
 
-Clasificación del PSO y los PPE como Difusión Limitada
+## Clasificación del PSO y los PPE como Difusión Limitada
 
 Tal y como establece la disposición adicional segunda de la LPIC y detalla el apartado 1.5 del Anexo I de la Resolución, la clasificación del PSO y PPE constará de forma expresa en el instrumento de su aprobación y el tratamiento de los PSO y PPE deberá estar regido conforme a las orientaciones publicadas por la Autoridad Nacional para la Protección de la Información Clasificada del Centro Nacional de Inteligencia en lo que se refiere al manejo y custodia de información clasificada con grado de Difusión Limitada. 
 
@@ -207,7 +207,7 @@ Las personas con acceso a información con grado “DIFUSION LIMITADA o equivale
 
 NOTA: Los empleados públicos ya están obligados a guardar secreto, a través del EBEP (artículo 53.12): *Guardarán secreto de las materias clasificadas u otras cuya difusión esté prohibida legalmente, y mantendrán la debida discreción sobre aquellos asuntos que conozcan por razón de su cargo, sin que puedan hacer uso de la información obtenida para beneficio propio o de terceros, o en perjuicio del interés público.*
 
-Normativa de protección de servicios esenciales.
+## Normativa de protección de servicios esenciales.
 
 Nota importante: a fecha de redacción de este artículo, se encuentra aprobada y pendiente de trasposición la [Directiva (UE) 2022/2555 del Parlamento Europeo y del Consejo de 14 de diciembre de 2022 relativa a las medidas destinadas a garantizar un elevado nivel común de ciberseguridad en toda la Unión, por la que se modifican el Reglamento (UE) n.o 910/2014 y la Directiva (UE) 2018/1972 y por la que se deroga la Directiva (UE) 2016/1148 ](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A32022L2555) (Directiva NIS2). La trasposición de esta directiva supondrá un cambio de calado en la normativa actual de protección de infraestructuras críticas.
 
@@ -217,7 +217,7 @@ Nota importante: a fecha de redacción de este artículo, se encuentra aprobada 
 
 [Real Decreto 43/2021, de 26 de enero, por el que se desarrolla el Real Decreto-ley 12/2018, de 7 de septiembre, de seguridad de las redes y sistemas de información.](https://www.boe.es/buscar/act.php?id=BOE-A-2021-1192) (Reglamento).
 
-Ámbito de aplicación y definiciones
+## Ámbito de aplicación y definiciones
 
 Se aplica a la prestación de:
 
@@ -229,11 +229,11 @@ Respecto a las definiciones más importantes:
 - Servicio esencial. Misma definición que en la LPIC, añadiendo la dependencia de redes y sistemas de información. Servicio necesario para el mantenimiento de las funciones sociales básicas, la salud, la seguridad, el bienestar social y económico de los ciudadanos, o el eficaz funcionamiento de las Instituciones del Estado y las Administraciones Públicas, que dependa para su provisión de redes y sistemas de información.
 - Operador de servicios esenciales: entidad pública o privada que preste dichos servicios en alguno de los sectores estratégicos definidos en el anexo de la Ley 8/2011.
 
-Identificación de servicios esenciales y de operadores de servicios esenciales.
+## Identificación de servicios esenciales y de operadores de servicios esenciales.
 
 La identificación de los servicios esenciales y de los operadores que los presten se efectuará por los órganos y procedimientos previstos por la LPIC. En el caso de tratarse de un operador crítico designado bastará con que se constate su dependencia de las redes y sistemas de información para la provisión del servicio esencial de que se trate.
 
-Autoridades competentes
+### Autoridades competentes
 
 - Para los operadores de servicios esenciales:
   - Que sean operador crítico: El Centro Nacional de Protección de las Infraestructuras Críticas (CNPIC).
@@ -243,7 +243,7 @@ Autoridades competentes
 
 Las autoridades competentes tienen funciones de supervisión, coordinación con los CSIRT de referencia, cooperación, establecer obligaciones específicas o potestad sancionadora entre otras.
 
-CSIRT de referencia
+### CSIRT de referencia
 
 Los equipos de respuesta a incidentes de seguridad informática (CSIRT) de referencia son:
 
@@ -257,7 +257,7 @@ Los operadores de servicios esenciales notificarán a la autoridad competente, a
 
 Cuando las actividades que desarrollen los CSIRT de referencia puedan afectar de alguna manera a un operador crítico, se coordinarán con la Oficina de Coordinación Cibernética del CNPIC.
 
-Obligaciones de seguridad de los operadores de servicios esenciales:
+### Obligaciones de seguridad de los operadores de servicios esenciales:
 
 Un listado, no exhaustivo, de obligaciones de un operador de servicios esenciales sería el siguiente:
 
@@ -280,7 +280,7 @@ Un listado, no exhaustivo, de obligaciones de un operador de servicios esenciale
   - Notificar a la autoridad competente, a través del CSIRT de referencia, los incidentes que puedan tener “efectos perturbadores significativos”.
 - El citado responsable de seguridad debe contar con una posición en la organización que le facilite el desarrollo de sus funciones y mantener la debida independencia respecto de los responsables de las redes y los sistemas de información. Asimismo, debe contar con los recursos necesarios y con personal con conocimientos especializados y experiencia.
 
-Gestión de incidentes:
+### Gestión de incidentes:
 
 - Los operadores de servicios esenciales deberán gestionar y resolver los incidentes de seguridad que afecten a las redes y sistemas.
 - Podrán solicitar voluntariamente ayuda especializada del CSIRT de referencia.
