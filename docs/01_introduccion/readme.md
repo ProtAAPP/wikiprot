@@ -47,7 +47,7 @@ Quizá tienes una idea pero no te atreves a ponerla en práctica de forma indivi
 
 Si no puedes ser miembro, también puedes contactar con nosotros para proponer la participación en alguna de las anteriores o cualquier otra iniciativa interesante. No dudes en contactar con nosotros y si se ajusta a los objetivos de la comunidad, intentaremos ponerte en contacto con miembros que puedan estar interesados.
 
-### Participaciones  y actividades de la comunidad
+### Premios, participaciones y actividades de la comunidad
 #### 2018
 - (24/05) SocInfo [Elige tu propia aventura - La incidencia de seguridad](https://www.slideshare.net/GuillermoObispoSanRo/elige-tu-propia-aventura-la-incidencia-de-seguridad)
 #### 2019
@@ -94,7 +94,20 @@ Si no puedes ser miembro, también puedes contactar con nosotros para proponer l
 - (22/06) XVI Premio Red Seguridad a la [Capacitación, Divulgación, Concienciación o Formación en Seguridad TIC](https://www.redseguridad.com/actualidad/ciberseguridad/los-xvi-trofeos-de-la-seguridad-tic-ya-tienen-ganadores-conoce-todos-ellos_20230606.html)
 - (29/06) Lo de los Hackers |3x10| [Entrevista a Willy](https://www.youtube.com/watch?v=-qrB-XHJnWo&t=4s)
 - (29/08) Cursos de verano Santander. Miguel Ángel Rodriguez en "Salud digital basada en el valor: hacia el factor humano y la medicina de precisión"
-
+- (05/12) Programa de radio Las Mañanas en [Onda aragonesa](https://www.linkedin.com/feed/update/urn:li:activity:7137701010168238080/)
+#### 2024
+- (01/02) Premio CIBERSERGURIDAD AAPP de SOCINFO DIGITAL en la categoría [Capacitación, Divulgación y Concienciación en la Ciberseguridad](https://socinfodigital.es/2024/02/01/candidaturas-presentadas-a-los-premios-socinfo-digital-ciberseguridad-aapp/)
+- (08/03) Track de ProtAAPP en el congreso [RootedCON](https://rootedcon.com)
+    * Antonio Sanz [Piñatas, palos y joputas: cómo investigar incidentes de ciberseguridad]
+    * Emilio Rico [Somos agentes de la T.I.A.]
+    * Marta Beltrán [Por la cara: retos y oportunidades asociados al reconocimiento]
+    * Manuel Guerra [FlipperZero, del ataque a la mesa de autopsias]
+    * Pablo González y Fran Ramirez [Garfunkel: Tu co-piloto para auditar inteligencia artificial]
+    * Miguel de la Cal y Félix Paniagua [External Attack Surface Management: DIY for free!]
+    * Diego Balboa [HIGHWAY TO RHEL (AC/BC). Auditoría, fortificación y remediación perpetua automatizada de sistemas mediante Infrastructure as Code (IaC). Security as Code (SaC)]
+    * Jesús Cuadrado y Daniel "Cr0hn" González [Apificando y securizando, que es gerundio. Seguridad en APIs del Ayuntamiento de Madrid]
+    * Nuria Prieto [El secreto está en las Cookies]
+    * Ángel del Peso, María Oliva y Olga Mata [Un estreno de ciencia]
 ## Colabora con esta documentación
 
 Este repositorio está (y estará siempre) **"en construcción"**, ya que el conocimiento en esta materia está en continua evolución.
