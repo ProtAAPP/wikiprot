@@ -101,7 +101,7 @@ Si no puedes ser miembro, también puedes contactar con nosotros para proponer l
     * Antonio Sanz [Piñatas, palos y joputas: cómo investigar incidentes de ciberseguridad]
     * Emilio Rico [Somos agentes de la T.I.A.]
     * Marta Beltrán [Por la cara: retos y oportunidades asociados al reconocimiento]
-    * Manuel Guerra [FlipperZero, del ataque a la mesa de autopsias]
+    * Manuel Guerra [FlipperZero, del ataque a la mesa de autopsias](https://github.com/ProtAAPP/wikiprot/blob/master/docs/01_introduccion/ponencias/rootedcon24/Flipper%20Zero%20Forensic%20MANUEL%20GUERRA.pdf)
     * Pablo González y Fran Ramirez [Garfunkel: Tu co-piloto para auditar inteligencia artificial]
     * Miguel de la Cal y Félix Paniagua [External Attack Surface Management: DIY for free!]
     * Diego Balboa [HIGHWAY TO RHEL (AC/BC). Auditoría, fortificación y remediación perpetua automatizada de sistemas mediante Infrastructure as Code (IaC). Security as Code (SaC)]
