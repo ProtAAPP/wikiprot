@@ -106,7 +106,7 @@ Si no puedes ser miembro, también puedes contactar con nosotros para proponer l
     * Miguel de la Cal y Félix Paniagua [External Attack Surface Management: DIY for free!]
     * Diego Balboa [HIGHWAY TO RHEL (AC/BC). Auditoría, fortificación y remediación perpetua automatizada de sistemas mediante Infrastructure as Code (IaC). Security as Code (SaC)]
     * Jesús Cuadrado y Daniel "Cr0hn" González [Apificando y securizando, que es gerundio. Seguridad en APIs del Ayuntamiento de Madrid]
-    * Nuria Prieto [El secreto está en las Cookies]
+    * Nuria Prieto [El secreto está en las Cookies](https://github.com/ProtAAPP/wikiprot/blob/master/docs/01_introduccion/ponencias/rootedcon24/NuriaPrietoElsecretoestaenlasCookies.pdf)
     * Ángel del Peso, María Oliva y Olga Mata [Un estreno de ciencia]
 ## Colabora con esta documentación
 
