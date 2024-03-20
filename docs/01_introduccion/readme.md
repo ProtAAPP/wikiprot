@@ -98,7 +98,7 @@ Si no puedes ser miembro, también puedes contactar con nosotros para proponer l
 #### 2024
 - (01/02) Premio CIBERSERGURIDAD AAPP de SOCINFO DIGITAL en la categoría [Capacitación, Divulgación y Concienciación en la Ciberseguridad](https://socinfodigital.es/2024/02/01/candidaturas-presentadas-a-los-premios-socinfo-digital-ciberseguridad-aapp/)
 - (08/03) Track de ProtAAPP en el congreso [RootedCON](https://rootedcon.com)
-    * Antonio Sanz [Piñatas, palos y joputas: cómo investigar incidentes de ciberseguridad]
+    * Antonio Sanz [Piñatas, palos y joputas: cómo investigar incidentes de ciberseguridad](https://github.com/ProtAAPP/wikiprot/blob/master/docs/01_introduccion/ponencias/rootedcon24/Pi%C3%B1atas%2C%20palos%20y%20joputas%20-%20C%C3%B3mo%20investigar%20incidentes%20de%20seguridad_DEF3.pdf)
     * Emilio Rico [Somos agentes de la T.I.A.]
     * Marta Beltrán [Por la cara: retos y oportunidades asociados al reconocimiento]
     * Manuel Guerra [FlipperZero, del ataque a la mesa de autopsias](https://github.com/ProtAAPP/wikiprot/blob/master/docs/01_introduccion/ponencias/rootedcon24/Flipper%20Zero%20Forensic%20MANUEL%20GUERRA.pdf)
