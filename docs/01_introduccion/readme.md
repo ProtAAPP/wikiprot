@@ -18,8 +18,8 @@ Para hacer todo esto posible, la comunidad dispone, entre otras herramientas, de
 miembros de la comunidad realizan propuestas, debaten, consultan por experiencias similares en otros organismos, estrechan lazos, organizan quedadas y 
 ejercitan a diario sus conocimientos sobre ciberseguridad.
 
-**¿Te interesa formar parte de nuestra comunidad?** ¿Quieres ayudarnos a conseguir que nuestras Administraciones Públicas dispongan de un gran equipo de profesionales
-cualificados, comunicados y cohesionados?, ¿y que podamos ofrecer un servicio público más seguro para los ciudadanos?, ¿y, por supuesto, disfrutar de toda esta experiencia?
+**¿Te interesa formar parte de nuestra comunidad?** ¿Quieres ayudarnos a conseguir que nuestras Administraciones Públicas dispongan de un gran equipo de profesionales cualificados, comunicados y cohesionados?, ¿y que podamos ofrecer un servicio público más seguro para los ciudadanos?, ¿y, por supuesto, disfrutar de toda esta experiencia?
+[Revisa los criterios de acceso](https://github.com/ProtAAPP/wikiprot/blob/master/docs/01_introduccion/CriteriosDeAcceso.md)
 
 ::: tip Entra en la comunidad
 No lo dudes, escríbenos a [info@protaapp.com](info@protaapp.com), ¡te esperamos!
