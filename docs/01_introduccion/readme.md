@@ -105,7 +105,7 @@ Si no puedes ser miembro, también puedes contactar con nosotros para proponer l
     * Pablo González y Fran Ramirez [Garfunkel: Tu co-piloto para auditar inteligencia artificial]
     * Miguel de la Cal y Félix Paniagua [External Attack Surface Management: DIY for free!](https://raw.githubusercontent.com/ProtAAPP/wikiprot/master/docs/01_introduccion/ponencias/rootedcon24/ASM_DIY-Miguel-Felix.pdf)
     * Diego Balboa [HIGHWAY TO RHEL (AC/BC). Auditoría, fortificación y remediación perpetua automatizada de sistemas mediante Infrastructure as Code (IaC). Security as Code (SaC)]
-    * Jesús Cuadrado y Daniel "Cr0hn" González [Apificando y securizando, que es gerundio. Seguridad en APIs del Ayuntamiento de Madrid]
+    * Jesús Cuadrado y Daniel "Cr0hn" González [Apificando y securizando, que es gerundio. Seguridad en APIs del Ayuntamiento de Madrid](https://raw.githubusercontent.com/ProtAAPP/wikiprot/master/docs/01_introduccion/ponencias/rootedcon24/Apificandoqueesgerundio.pdf)
     * Nuria Prieto [El secreto está en las Cookies](https://raw.githubusercontent.com/ProtAAPP/wikiprot/master/docs/01_introduccion/ponencias/rootedcon24/NuriaPrietoElsecretoestaenlasCookies.pdf)
     * Ángel del Peso, María Oliva y Olga Mata [Un estreno de ciencia]
 ## Colabora con esta documentación
