@@ -99,7 +99,7 @@ Si no puedes ser miembro, también puedes contactar con nosotros para proponer l
 - (01/02) Premio CIBERSERGURIDAD AAPP de SOCINFO DIGITAL en la categoría [Capacitación, Divulgación y Concienciación en la Ciberseguridad](https://socinfodigital.es/2024/02/01/candidaturas-presentadas-a-los-premios-socinfo-digital-ciberseguridad-aapp/)
 - (08/03) Track de ProtAAPP en el congreso [RootedCON](https://rootedcon.com)
     * Antonio Sanz [Piñatas, palos y joputas: cómo investigar incidentes de ciberseguridad](https://raw.githubusercontent.com/ProtAAPP/wikiprot/master/docs/01_introduccion/ponencias/rootedcon24/Pi%C3%B1atas%2C%20palos%20y%20joputas%20-%20C%C3%B3mo%20investigar%20incidentes%20de%20seguridad_DEF3.pdf)
-    * Emilio Rico [Somos agentes de la T.I.A.]
+    * Emilio Rico [Somos agentes de la T.I.A.](https://raw.githubusercontent.com/3MilioRR/conferences/main/Somos%20los%20agentes%20de%20la%20TIA%20%5BRootedCON%202024%5D.pdf)
     * Marta Beltrán [Por la cara: retos y oportunidades asociados al reconocimiento]
     * Manuel Guerra [FlipperZero, del ataque a la mesa de autopsias](https://raw.githubusercontent.com/ProtAAPP/wikiprot/master/docs/01_introduccion/ponencias/rootedcon24/Flipper%20Zero%20Forensic%20MANUEL%20GUERRA.pdf)
     * Pablo González y Fran Ramirez [Garfunkel: Tu co-piloto para auditar inteligencia artificial]
