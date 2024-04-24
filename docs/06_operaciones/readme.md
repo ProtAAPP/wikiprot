@@ -292,6 +292,9 @@ Ejemplos de alertas que se pueden configurar con honeytokens:
 - [AEPD - Formulario de notificación de brechas de datos personales a la AEPD](https://sedeagpd.gob.es/sede-electronica-web/vistas/formBrechaSeguridad/procedimientoBrechaSeguridad.jsf)
 - [EDPB - Guidelines 01/2021 on Examples regarding Data Breach Notification](https://edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-012021-examples-regarding-personal-data-breach_en)
 
+### Respondiendo a incidentes en proveedores de servicios
+- [Protocolo de actuación frente a incidente en proveedor. ISMS Forum](https://www.ismsforum.es/ficheros/descargas/protocolo-de-actuacion-frente-a-incidente-en.pdf)
+  
 ### Respondiendo a incidentes con el correo electrónico - Business Email Compromise (BEC)
 - [Consejos y recomendaciones para responder a un BEC](https://iheartmalware.medium.com/bec-response-guide-tips-for-responding-to-business-email-compromise-incidents-fbb6744e056a)
 
