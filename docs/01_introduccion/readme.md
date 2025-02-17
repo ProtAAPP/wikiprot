@@ -19,7 +19,7 @@ miembros de la comunidad realizan propuestas, debaten, consultan por experiencia
 ejercitan a diario sus conocimientos sobre ciberseguridad.
 
 **¿Te interesa formar parte de nuestra comunidad?** ¿Quieres ayudarnos a conseguir que nuestras Administraciones Públicas dispongan de un gran equipo de profesionales cualificados, comunicados y cohesionados?, ¿y que podamos ofrecer un servicio público más seguro para los ciudadanos?, ¿y, por supuesto, disfrutar de toda esta experiencia?
-[Revisa los criterios de acceso](CriteriosDeAcceso.md)
+[Revisa los criterios de acceso](CriteriosDeAcceso.md). [También puedes revisar nuestra Política de Privacidad](PoliticaPrivacidad.md).
 
 ::: tip Entra en la comunidad
 No lo dudes, escríbenos a [info@protaapp.com](info@protaapp.com), ¡te esperamos!
