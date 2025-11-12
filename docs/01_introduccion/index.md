@@ -113,7 +113,7 @@ Si no puedes ser miembro, también puedes contactar con nosotros para proponer l
 Este repositorio está (y estará siempre) **"en construcción"**, ya que el conocimiento en esta materia está en continua evolución.
 Por esta razón, si tienes conocimientos de cualquier ámbito de la ciberseguridad, te animamos a participar en el desarrollo de este repositorio de documentación. Está construido a base de ficheros de texto plano en formato [markdown](https://markdown.es/) y las contribuciones se controlan mediante el repositorio git, en [GitHub](https://github.com/).
 
-Este repositorio de documentación está construido con la librería [Vuepress](https://vuepress.vuejs.org/). 
+Este repositorio de documentación está construido con la librería [VitePress](https://vitepress.dev/). 
 El código fuente de este repositorio se encuentra en github: [ProtAAPP/wikiprot](https://github.com/ProtAAPP/wikiprot).
 Consulta el [código de conducta](https://github.com/ProtAAPP/wikiprot/blob/master/code_of_conduct.md) y la [guía para contribuir](https://github.com/ProtAAPP/wikiprot/blob/master/code_contribution_guideline.md)
 
@@ -130,7 +130,7 @@ Los requisitos para poder colaborar en el desarrollo de esta guía son:
 7. Abrirte cuenta en Github ([crear cuenta en Github](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home))
 8. Ya estás listo para insertar tu primera aportación.
 
-| :warning: La siguiente sección es sólo para novatos, si ya eres un maestro Jedi en esto de git salta a [Para avezados](./readme.md#para-avezados).
+| :warning: La siguiente sección es sólo para novatos, si ya eres un maestro Jedi en esto de git salta a [Para avezados](./#para-avezados).
 | --- |
 
 ### Para novatos (como si estuvieras en primero)
@@ -169,7 +169,7 @@ Si fuera la primera vez que me descargo el repositorio:
 cd /proyectos
 git clone https://github.com/ProtAAPP/wikiprot.git
 cd wiki-prot
-yarn install    # Instalar librerías, principalmente vuepress  
+yarn install    # Instalar librerías del proyecto (incluye VitePress) 
 ```
 
 Si por el contrario ya lo tuviera descargado, sólo hay que actualizarlo con los últimos cambios:
@@ -184,19 +184,13 @@ yarn install                 # Instalar/actualizar librerías. Ejecutar siempre
 a través de las carpetas del repositorio
 [para editar, previsualizar y enviar contenidos.](https://docs.github.com/es/free-pro-team@latest/github/managing-files-in-a-repository/editing-files-in-your-repository))*
 
-Y por último, deberás instalar Vuepress usando yarn: 
-
-```bash
-yarn add -D vuepress
-```
-
 ### Modificar contenidos del repositorio
 
 Ahora toca **modificar los ficheros markdown** para introducir o modificar los contenidos de la guía. Gracias por aportar
 tus conocimientos a la causa. Se puede utilizar cualquier editor de texto 
 (notepad, [notepad++](https://notepad-plus-plus.org/downloads/), [Atom](https://atom.io/), [VSCode](https://code.visualstudio.com/), etc).   
 
-Aunque no es estrictamente necesario, sí es muy recomendable lanzar el servidor de desarrollo de _Vuepress_, de forma que
+Aunque no es estrictamente necesario, sí es muy recomendable lanzar el servidor de desarrollo de _VitePress_, de forma que
 según modificas cualquier contenido, en el momento veas cómo va quedando. Para ello:
 
 ```bash
@@ -204,9 +198,8 @@ cd /proyectos/wikiprot
 yarn dev
 ```
 
-Ahora abre un navegador (firefox, chrome, edge...) y entra en [http://localhost:8080](http://localhost:8080), donde podrás 
-ver este repositorio. Cada vez que cambies una palabra de la documentación y guardes el fichero, el cambio se reflejará
-automáticamente en el navegador.
+Ahora abre un navegador (firefox, chrome, edge...) y entra en la URL que indica la consola (por defecto [http://localhost:5173](http://localhost:5173)), donde podrás 
+ver este repositorio. Cada vez que cambies una palabra de la documentación y guardes el fichero, el cambio se reflejará automáticamente en el navegador.
 
 :::warning Cuidado: El menú lateral no se actualiza automáticamente
 Si introduces nuevas secciones en los ficheros markdown, para que el menú lateral "se entere" habrás de 

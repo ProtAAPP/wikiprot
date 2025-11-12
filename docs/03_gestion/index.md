@@ -171,7 +171,7 @@ Referencias:
 ### Adquisición de productos de seguridad y contratación de servicios de seguridad
 
 En la adquisición de productos de seguridad de las TIC que vayan a ser empleados por las AAPP se utilizarán, de forma proporcionada a la categoría del sistema y nivel de seguridad determinados, aquellos que tengan **certificada la funcionalidad de seguridad** relacionada con el objeto de su adquisición, salvo en aquellos casos en que las exigencias de proporcionalidad en cuanto a los riesgos asumidos no lo justifiquen a juicio del responsable de Seguridad.
-Ver [Catálogo CCN-STIC](../new_04_tecnologias/readme.md#catalogo-de-productos-de-seguridad-de-las-tecnologias-de-la-informacion-y-la-comunicacion)
+Ver [Catálogo CCN-STIC](../new_04_tecnologias/index.md#catalogo-de-productos-de-seguridad-de-las-tecnologias-de-la-informacion-y-la-comunicacion)
 
 ### Listado de expedientes de AAPP relacionados con ciberseguridad
 - GISS 2023: [Servicios de ciberseguridad](https://contrataciondelestado.es/wps/portal/!ut/p/b0/04_Sj9CPykssy0xPLMnMz0vMAfIjU1JTC3Iy87KtUlJLEnNyUuNzMpMzSxKTgQr0w_Wj9KMyU1zLcvQjfZJKkyojPH19w3IjAsMMwl3NcyIDym1t9Qtycx0BKOGFLQ!!/)
@@ -308,7 +308,6 @@ Poner a prueba la solidez general de la defensa de una organización (la tecnolo
 CISO Mind Map by [RAFEEQ REHMAN](https://rafeeqrehman.com/2020/06/12/ciso-mindmap-2020-what-do-infosec-professionals-really-do/)[PDF](http://rafeeqrehman.com/wp-content/uploads/2020/06/CISO_Job_MindMap_Rafeeq_Rehman_v_2020.pdf) 
 
 ![IMG](./img/cisomindmap.png) 
-
 
 
 

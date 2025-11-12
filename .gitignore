@@ -6,7 +6,8 @@
 npm-debug.log
 yarn-error.log
 .env
-docs/.vuepress/dist
+docs/.vitepress/dist
+docs/.vitepress/cache
 .yarnrc
 .yarn/releases
 
