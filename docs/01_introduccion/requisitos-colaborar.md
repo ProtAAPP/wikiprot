@@ -86,7 +86,7 @@ Para trabajar en desarrollo, desde la **raíz del proyecto**, ejecutar:
 yarn dev
 ```
 
-Para construir la web estática del proyecto en la carpeta **docs\.vuepress\dist**, ejecutar:
+Para construir la web estática del proyecto en la carpeta **docs/.vitepress/dist**, ejecutar:
 
 ```bash
 yarn build
@@ -174,16 +174,16 @@ Referencia a la sintaxis completa:
 
 Algunas referencias rápidas:
 
-- [Tips, warnings, danger](https://vuepress.vuejs.org/guide/markdown.html#custom-containers)
-- [Insertar Código fuente](https://vuepress.vuejs.org/guide/markdown.html#line-highlighting-in-code-blocks)
-- [Emojis](https://vuepress.vuejs.org/guide/markdown.html#emoji)
+- [Tips, warnings, danger](https://vitepress.dev/guide/markdown#custom-containers)
+- [Insertar Código fuente](https://vitepress.dev/guide/markdown#syntax-highlighting)
+- [Emojis](https://vitepress.dev/guide/markdown#emoji)
 
 
-## Configurar este repositorio con Vuepress
+## Configurar este repositorio con VitePress
 
-El fichero de configuración principal se encuentra en el fichero ```docs/.vuepress.config.js```.
+El fichero de configuración principal se encuentra en ```docs/.vitepress/config.mjs```.
 
 Referencias:
 
-- [Configuración del tema principal](https://vuepress.vuejs.org/theme/default-theme-config.html) (theme)
-
+- [Configuración del sitio y tema](https://vitepress.dev/reference/site-config)
+- [Opciones del tema por defecto](https://vitepress.dev/reference/default-theme-config)

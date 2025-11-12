@@ -5,14 +5,11 @@
   "author": "ProtAAPP",
   "license": "MIT",
   "scripts": {
-    "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
-  },
-  "dependencies": {
-    "vue-cookie-law": "^1.13.3",
-    "vuepress": "^1.9.9"
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress preview docs"
   },
   "devDependencies": {
-    "@vuepress/plugin-google-analytics": "^1.9.7"
+    "vitepress": "^1.2.2"
   }
 }

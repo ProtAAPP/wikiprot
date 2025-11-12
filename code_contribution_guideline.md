@@ -7,7 +7,7 @@
 
 Si tienes conocimientos de cualquier ámbito de la ciberseguridad, te animamos a participar en el desarrollo de este repositorio de documentación. Está construido a base de ficheros de texto plano en formato [markdown](https://markdown.es/) y las contribuciones se controlan mediante el repositorio git, en [GitHub](https://github.com/). Seguimos la filosofía del código abierto para que contribuyas: http://opensource.guide/es/how-to-contribute/
 
-El repositorio de documentación está construido con la librería [Vuepress](https://vuepress.vuejs.org/).
+El repositorio de documentación está construido con la librería [VitePress](https://vitepress.dev/).
 
 La licencia es CC BY-NC-SA 4.0.
 
