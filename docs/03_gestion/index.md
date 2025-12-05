@@ -2,6 +2,11 @@
 
 [[TOC]]
 
+## Enfoque PRO-TG (Tecnología y Gobernanza)
+En diferentes grupos de trabajo con participación de organismos públicos y privados, se realizó durante los últimos meses de 2025 una tarea de identificación de controles mínimos que reduzcan al máximo la probabilidad de sufrir un ciberincidente crítico en la organización. A continuación, se presenta una infografía que recoge los pasos a seguir para encontrarse en esa posición.
+
+![IMG](./img/PRO-TG.png)
+
 ## Esquema Nacional de Seguridad (para organizaciones públicas en España)
 El [Real Decreto 3/2010](https://www.boe.es/buscar/act.php?id=BOE-A-2010-1330), de 8 de enero, por el que se regula el Esquema Nacional de Seguridad en el ámbito de la Administración Electrónica da cumplimiento a lo previsto en el artículo 42 de la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos. Su objeto es establecer la política de seguridad en la utilización de medios electrónicos y está constituido por principios básicos y requisitos mínimos que permitan una protección adecuada de la información.
 Por tanto, la finalidad del Esquema Nacional de Seguridad es la creación de las condiciones necesarias de confianza en el uso de los medios electrónicos, a través de medidas para garantizar la seguridad de los sistemas, los datos, las comunicaciones y los servicios electrónicos, que permita a los ciudadanos y a las Administraciones públicas, el ejercicio de derechos y el cumplimiento de deberes a través de estos medios.
