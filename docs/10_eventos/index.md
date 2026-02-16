@@ -12,6 +12,7 @@
 * [ENISE (INCIBE)](https://www.incibe.es/enise). [Vídeos](https://www.youtube.com/playlist?list=PLr5GsywSn9d9hA7JTsAWwYlgFYHtHDZd0)
 * [Cybercamp (INCIBE)](https://cybercamp.es/). [Vídeos](https://www.youtube.com/c/INCIBE/videos)
 * [C1berWall (Escuela Nacional de Policía de España)](https://www.c1b3rwall.es/). [Vídeos](https://www.youtube.com/c/C1b3rWall/videos)
+* [Congreso de Ciberseguridad de Andalucía (Agencia Digital de Andalucía)](https://www.juntadeandalucia.es/congresociberseguridadandalucia).
 
 #### Congresos de Ciberseguridad organizados por otras entidades
 
