@@ -46,8 +46,13 @@ Quizá tienes una idea pero no te atreves a ponerla en práctica de forma indivi
 Si no puedes ser integrante, también puedes contactarnos para proponer la participación en alguna de las anteriores o cualquier otra iniciativa interesante. No dudes en contactar con ProtAAPP y si se ajusta a los objetivos de la comunidad, intentaremos ponerte en contacto con integrantes que puedan tener interés.
 
 ### Premios, participaciones y actividades de la comunidad
+#### 2026
+- (06/03) Track de ProtAAPP en la SALA 19 del congreso [RootedCON](https://rootedcon.com/agenda/madrid-2026/)
+- (15/05) Raspberry Robin: Anatomía de una infección [Hackron Tenerife](https://www.eventbrite.es/e/entradas-hackron-2026-1984927736292)
+- (28/05) CyberTech Summit [Amenazas emergentes](https://www.cybertechsummit.com/es/cldt26/inicio/)
 #### 2025
 - (07/03) Track de ProtAAPP en la SALA 19 del congreso [RootedCON]([https://rooted.com](https://rootedcon.com/agenda/madrid-2025/))
+- (18/09) Premio conjunto proyecto de colaboración público-privada de Ayuda en Recuperación de Datos para Empresas Afectadas por la Dana
 - (02/10) El día del ransomware serendipitoso - [COMTIC](https://www.comtic.cat/COMTIC2025)
 - (21/11) Un viaje por los TIERs de tu Directorio Activo - [RootedCON Málaga](https://rootedcon.com/agenda/malaga-2025/)
 #### 2024
@@ -93,7 +98,8 @@ Si no puedes ser integrante, también puedes contactarnos para proponer la parti
 - (17/03) Un hacker al día - Programa #Include/Fundacion GoodJob
 - (11/10) II Congreso Nacional RECI - [Zaracón, ciudad bastionada Parte II] (Palma de Mallorca)
 - (15/10) [TizonaConf](https://www.tizonaconf.com/) [Zaracón, ciudad bastionada Parte II] (Burgos)
-- (23/11) MICE Forum (Sevilla)#### 2020
+- (23/11) MICE Forum (Sevilla)
+#### 2020
 - (30/01) Isaca [Menú saludable para Responsables de Seguridad. Como digerir el ENS](https://www.slideshare.net/GuillermoObispoSanRo/menu-saludable-para-responsables-de-seguridad-226454626)
 - (05/03) RootedCon [La Metacharla de Seguridad](https://www.youtube.com/watch?v=laRfJ_zYJBI)
 - (07/03) RootedCon [Compliance as Code (Auditoría de infraestructura, rápida y eficiente)](https://www.youtube.com/watch?v=vODFljdavJw&t=1s)
