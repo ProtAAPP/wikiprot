@@ -50,6 +50,7 @@ Si no puedes ser integrante, también puedes contactarnos para proponer la parti
 - (06/03) Track de ProtAAPP en la SALA 19 del congreso [RootedCON](https://rootedcon.com/agenda/madrid-2026/)
 - (15/05) Raspberry Robin: Anatomía de una infección [Hackron Tenerife](https://www.eventbrite.es/e/entradas-hackron-2026-1984927736292)
 - (28/05) CyberTech Summit [Amenazas emergentes](https://www.cybertechsummit.com/es/cldt26/inicio/)
+- (16/06) Cybersecurity Bank & Goverment [Mesa redonda](https://www.mticsproducciones.com/cybersecurity-bank-and-government-espana-2026/)
 #### 2025
 - (07/03) Track de ProtAAPP en la SALA 19 del congreso [RootedCON]([https://rooted.com](https://rootedcon.com/agenda/madrid-2025/))
 - (18/09) Premio conjunto proyecto de colaboración público-privada de Ayuda en Recuperación de Datos para Empresas Afectadas por la Dana
