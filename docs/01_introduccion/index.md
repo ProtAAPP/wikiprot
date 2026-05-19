@@ -49,8 +49,9 @@ Si no puedes ser integrante, también puedes contactarnos para proponer la parti
 #### 2026
 - (06/03) Track de ProtAAPP en la SALA 19 del congreso [RootedCON](https://rootedcon.com/agenda/madrid-2026/)
 - (15/05) Raspberry Robin: Anatomía de una infección [Hackron Tenerife](https://www.eventbrite.es/e/entradas-hackron-2026-1984927736292)
-- (28/05) CyberTech Summit [Amenazas emergentes](https://www.cybertechsummit.com/es/cldt26/inicio/)
-- (16/06) Cybersecurity Bank & Goverment [Mesa redonda](https://www.mticsproducciones.com/cybersecurity-bank-and-government-espana-2026/)
+- (26/05) Tu dato ya es mayor [Urban Data Day - EDINT](https://edint.es/urban-data-day/)
+- (28/05) Amenazas emergentes [CyberTech Summit](https://www.cybertechsummit.com/es/cldt26/inicio/)
+- (16/06) El arte de sobrevivir [Cybersecurity Bank & Goverment](https://www.mticsproducciones.com/cybersecurity-bank-and-government-espana-2026/)
 #### 2025
 - (07/03) Track de ProtAAPP en la SALA 19 del congreso [RootedCON]([https://rooted.com](https://rootedcon.com/agenda/madrid-2025/))
 - (18/09) Premio conjunto proyecto de colaboración público-privada de Ayuda en Recuperación de Datos para Empresas Afectadas por la Dana
@@ -58,29 +59,11 @@ Si no puedes ser integrante, también puedes contactarnos para proponer la parti
 - (21/11) Un viaje por los TIERs de tu Directorio Activo - [RootedCON Málaga](https://rootedcon.com/agenda/malaga-2025/)
 #### 2024
 - (01/02) Premio CIBERSERGURIDAD AAPP de SOCINFO DIGITAL en la categoría [Capacitación, Divulgación y Concienciación en la Ciberseguridad](https://socinfodigital.es/2024/02/01/candidaturas-presentadas-a-los-premios-socinfo-digital-ciberseguridad-aapp/)
-- (08/03) Track de ProtAAPP en el congreso [RootedCON](https://rootedcon.com)
-    * Antonio Sanz [Piñatas, palos y joputas: cómo investigar incidentes de ciberseguridad](https://raw.githubusercontent.com/ProtAAPP/wikiprot/master/docs/01_introduccion/ponencias/rootedcon24/Pi%C3%B1atas%2C%20palos%20y%20joputas%20-%20C%C3%B3mo%20investigar%20incidentes%20de%20seguridad_DEF3.pdf)
-    * Emilio Rico [Somos agentes de la T.I.A.](https://raw.githubusercontent.com/3MilioRR/conferences/main/Somos%20los%20agentes%20de%20la%20TIA%20%5BRootedCON%202024%5D.pdf)
-    * Marta Beltrán [Por la cara: retos y oportunidades asociados al reconocimiento]
-    * Manuel Guerra [FlipperZero, del ataque a la mesa de autopsias](https://raw.githubusercontent.com/ProtAAPP/wikiprot/master/docs/01_introduccion/ponencias/rootedcon24/Flipper%20Zero%20Forensic%20MANUEL%20GUERRA.pdf)
-    * Pablo González y Fran Ramirez [Garfunkel: Tu co-piloto para auditar inteligencia artificial]
-    * Miguel de la Cal y Félix Paniagua [External Attack Surface Management: DIY for free!](https://raw.githubusercontent.com/ProtAAPP/wikiprot/master/docs/01_introduccion/ponencias/rootedcon24/ASM_DIY-Miguel-Felix.pdf)
-    * Diego Balboa [HIGHWAY TO RHEL (AC/BC). Auditoría, fortificación y remediación perpetua automatizada de sistemas mediante Infrastructure as Code (IaC). Security as Code (SaC)](https://raw.githubusercontent.com/ProtAAPP/wikiprot/master/docs/01_introduccion/ponencias/rootedcon24/2024-ProtAAPP-RootedCON-dbr.pdf)
-    * Jesús Cuadrado y Daniel "Cr0hn" González [Apificando y securizando, que es gerundio. Seguridad en APIs del Ayuntamiento de Madrid](https://raw.githubusercontent.com/ProtAAPP/wikiprot/master/docs/01_introduccion/ponencias/rootedcon24/Apificandoqueesgerundio.pdf)
-    * Nuria Prieto [El secreto está en las Cookies](https://raw.githubusercontent.com/ProtAAPP/wikiprot/master/docs/01_introduccion/ponencias/rootedcon24/NuriaPrietoElsecretoestaenlasCookies.pdf)
-    * Ángel del Peso, María Oliva y Olga Mata [Un estreno de ciencia]#### 2018
+- (08/03) Track de ProtAAPP en la sala 19 del congreso [RootedCON 2024](rootedcon24.md)
 - (24/05) SocInfo [Elige tu propia aventura - La incidencia de seguridad](https://www.slideshare.net/GuillermoObispoSanRo/elige-tu-propia-aventura-la-incidencia-de-seguridad)
 #### 2023
 - (13/02) Participación en el [Twitch de Securiters](https://www.twitch.tv/videos/1737232268) de Miguel Angel Rodriguez
-- (10/03) Track de ProtAAPP en el congreso [RootedCON](https://rootedcon.com)
-    * Presentación de Marta Beltrán: [Nuevos (y viejos) enfoques para la gestión de identidades y accesos](https://mbelpar.github.io/files/talks/mbeltran%20Rooted%202023%20publica.pdf)
-    * Presentación de Julia Cortés: [¿Realmente somos las personas el eslabón mas débil de la cadena?](https://github.com/ProtAAPP/ProtAAPP-RootedCON/blob/07348586ee5307f2d8550fda57f2332274c606a7/2023/2023-ProtAAPP-RootedCON-JuliaCortesDelgado.pdf)
-    * Presentación de Maribel González: [Criptografía Post-Cuántica (para muggles)](https://github.com/ProtAAPP/ProtAAPP-RootedCON/blob/e7cde26109eaa05433c786cace92f75ae69283d3/2023/2023-ProtAAPP-RootedCON-MaribelGonzalezVasco.pdf)
-    * Presentación de Ángel del Peso: [¿Montar un ministerio? Sujet me the cubat](https://github.com/ProtAAPP/ProtAAPP-RootedCON/blob/05a5b8b3f7a8798107be5b8723631c80e893f89b/2023/2023-ProtAAPP-RootedCON-AngeldelPeso.pdf)
-    * Presentación de Emilio Rico: [¡Ven a la escuela de calor! (#mitreando)](https://github.com/ProtAAPP/ProtAAPP-RootedCON/blob/05a5b8b3f7a8798107be5b8723631c80e893f89b/2023/2023-ProtAAPP-RootedCON-EmilioRico.pdf)
-    * Presentación de Lorena González [¿Y si conozco lo que tecleas? Un estudio de viabilidad](https://github.com/ProtAAPP/ProtAAPP-RootedCON/blob/05a5b8b3f7a8798107be5b8723631c80e893f89b/2023/2023-ProtAAPP-RootedCON-LorenaGonzalezManzano.pdf)
-    * Presentación de Francisco Hernández Cuchí [Robin de los PINTXOS](https://github.com/ProtAAPP/ProtAAPP-RootedCON/blob/bb94ade533a794a2cdda9d1bf7331294efdb5258/2023/2023-ProtAAPP-RootedCON-FranciscoHernandezCuchi.pdf)
-    * Presentación de Blanca Muñoz [Una aproximación técnica a la privacidad: la k-anonimización](https://github.com/ProtAAPP/ProtAAPP-RootedCON/blob/a7449331522acc6474f79a63331c5be49fa8ccbb/2023/2023-ProtAAPP-RootedCON-BlancaMunoz.pdf)
+- (10/03) Track de ProtAAPP en la SALA 19 del congreso [RootedCON](rootedcon23.md)
 - (15/03) Congreso [TryitUPM](https://congresotryit.es/) ["Del rojo al azul v2"](https://www.twitch.tv/videos/1765715380?t=3h30m25s)
 - (18/05) Finalistas OpenAwards 2023 en la categoría [Comunidad Tecnológica]
 - (19/06) Cybercamp UC3M [Lo primero de todo... ¿cómo están los máquinas?](https://www.youtube.com/watch?v=mYxRqKlQMZI)
