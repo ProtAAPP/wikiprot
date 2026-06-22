@@ -51,7 +51,7 @@ Si no puedes ser integrante, también puedes contactarnos para proponer la parti
 - (15/05) Raspberry Robin: Anatomía de una infección [Hackron Tenerife](https://www.eventbrite.es/e/entradas-hackron-2026-1984927736292)
 - (26/05) Tu dato ya es mayor [Urban Data Day - EDINT](https://edint.es/urban-data-day/)
 - (28/05) Amenazas emergentes [CyberTech Summit](https://www.cybertechsummit.com/es/cldt26/inicio/)
-- (16/06) El arte de sobrevivir [Cybersecurity Bank & Goverment](https://www.mticsproducciones.com/cybersecurity-bank-and-government-espana-2026/) [Enlace a Ponencia](https://raw.githubusercontent.com/ProtAAPP/wikiprot/master/docs/01_introduccion/ponencias/2026-06-16%20Cybersecurity%20Bank%20%26%20Government%20El%20arte%20de%20sobrevivir.pdf)
+- (16/06) El arte de sobrevivir [Cybersecurity Bank & Goverment](https://www.mticsproducciones.com/cybersecurity-bank-and-government-espana-2026/) [Enlace a Ponencia](https://raw.githubusercontent.com/ProtAAPP/wikiprot/master/docs/01_introduccion/ponencias/2026-06-16%20Cybersecurity%20Bank%20%26%20Government%20-%20El%20arte%20de%20sobrevivir.pdf)
 #### 2025
 - (07/03) Track de ProtAAPP en la SALA 19 del congreso [RootedCON]([https://rooted.com](https://rootedcon.com/agenda/madrid-2025/))
 - (18/09) Premio conjunto proyecto de colaboración público-privada de Ayuda en Recuperación de Datos para Empresas Afectadas por la Dana
